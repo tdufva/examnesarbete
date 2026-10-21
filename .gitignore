@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+data/fulltext/
+data/source_records.json
+data/source_batch_*.json
+data/extraction.log
+*.pdf
+node_modules/
+tmp/

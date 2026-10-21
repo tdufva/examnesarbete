@@ -1,0 +1,29 @@
+name: Korrigering av ett examensarbete
+description: Föreslå en rättelse av titel, översättning, nyckelord eller metodkodning.
+title: "Korrigering: "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Arbete eller arkivlänk
+      description: Ange arbetets titel, författare eller länk till posten.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Vad gäller rättelsen?
+      options:
+        - Översättning
+        - Metodklassificering
+        - Temakodning
+        - Bibliografisk uppgift
+        - Tillgång till PDF
+        - Annat
+  - type: textarea
+    id: correction
+    attributes:
+      label: Föreslagen ändring och källstöd
+      description: Beskriv ändringen. Hänvisa gärna till abstraktet eller en sida i arbetet. Lägg inte in känsliga personuppgifter.
+    validations:
+      required: true

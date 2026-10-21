@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Utforska 98 examensarbeten i bildkonstpedagogik från Aalto-universitetet och Lapplands universitet, 2024–2025. Original, svenska översättningar och källbelagda metoder.">
+  <meta name="theme-color" content="#203e36"><title>Examensarbeten · Bildkonstpedagogik 2024–2025</title>
+  <link rel="stylesheet" href="assets/style.css"><script type="module" src="assets/app.js"></script>
+</head>
+<body data-page="catalogue">
+  <a class="skip" href="#main">Hoppa till innehållet</a>
+  <header class="site-header"><div class="header-inner"><a class="brand" href="./" aria-label="Examensarbeten, startsida"><span class="brand-mark" aria-hidden="true">e.</span><span>Examensarbeten<small>Bildkonstpedagogik · 2024–2025</small></span></a><nav aria-label="Huvudnavigation"><a href="./" aria-current="page">Utforska</a><a href="analys.html">Datafeministisk analys <span aria-hidden="true">↗</span></a></nav></div></header>
+  <main id="main">
+    <section class="hero wrap"><div><p class="eyebrow">Aalto-universitetet & Lapplands universitet</p><h1>Många sätt<br>att skapa kunskap.</h1><p class="lead">En samling examensarbeten i bildkonstpedagogik. Läs originalen och svenska översättningar, följ metoderna och upptäck vad som förenar och skiljer arbetena åt.</p><a class="text-link" href="analys.html">Vad berättar materialet? <span aria-hidden="true">→</span></a></div><aside class="hero-note" aria-label="Om samlingen"><div class="line-art" aria-hidden="true"><svg viewBox="0 0 300 125"><path d="M0 110h300M25 110V35h70v75M115 110V15h70v95M205 110V60h70v50"/><circle cx="60" cy="65" r="22"/><path d="M115 65h70M150 15v95M205 60l70 50M275 60l-70 50"/></svg></div><div class="stat-grid" id="hero-stats"><p>Materialet laddas…</p></div><p class="fine">Samlat 21 oktober 2026. Arkivens publiceringsår används. NoVA-programmet ingår inte.</p></aside></section>
+    <section class="catalogue-section"><div class="wrap">
+      <div class="section-heading"><div><p class="eyebrow">Läs, sortera, jämför</p><h2>Arbetena</h2></div><a class="download-link" href="data/theses.json" download>Ladda ner öppna data <span aria-hidden="true">↓</span></a></div>
+      <form class="filters" id="filters" role="search" aria-label="Sök och filtrera examensarbeten">
+        <div class="search-field"><label for="search">Sök i samlingen</label><input type="search" id="search" placeholder="Titel, författare, abstrakt eller nyckelord…" autocomplete="off"></div>
+        <div><label for="university">Universitet</label><select id="university"><option value="">Alla universitet</option><option value="Aalto">Aalto-universitetet</option><option value="Lappland">Lapplands universitet</option></select></div>
+        <div><label for="year">År</label><select id="year"><option value="">Båda åren</option><option>2024</option><option>2025</option></select></div>
+        <div><label for="method">Huvudmetod</label><select id="method"><option value="">Alla metoder</option></select></div>
+        <div><label for="theme">Tema</label><select id="theme"><option value="">Alla teman</option></select></div>
+        <div><label for="availability">PDF-tillgång</label><select id="availability"><option value="">Alla arbeten</option><option value="open">Öppen PDF</option><option value="closed">Ingen öppen PDF</option></select></div>
+      </form>
+      <div class="results-toolbar"><p id="result-count" role="status" aria-live="polite">Laddar arbeten…</p><div class="sort-control"><label for="sort">Sortera</label><select id="sort"><option value="year-desc">År: nyast först</option><option value="year-asc">År: äldst först</option><option value="university">Universitet, sedan år</option><option value="title">Titel: A–Ö</option><option value="author">Författare: A–Ö</option></select><button id="reset" class="quiet-button" type="button">Rensa filter</button></div></div>
+      <div class="catalogue-grid" id="results" aria-label="Examensarbeten"></div>
+      <noscript><p class="notice">Katalogen behöver JavaScript för sökning och sortering. Du kan också <a href="data/theses.json">läsa hela datamaterialet som JSON</a>.</p></noscript>
+      <p class="catalogue-footnote">Originalet visas före översättningen. AI-översättningar och analytiska kategorier är märkta. Läs alltid arkivposten och arbetets egen metodbeskrivning vid fördjupad användning.</p>
+    </div></section>
+    <section class="wrap closing"><p class="eyebrow">En samling är också ett urval</p><h2>Vad syns – och vad saknas?</h2><p>Öppen tillgång, arkivens metadata och våra klassificeringar påverkar bilden. Analysen visar både mönster och de begränsningar som följer med att göra en samling räkningsbar.</p><a class="pill-link" href="analys.html">Utforska analysen <span aria-hidden="true">→</span></a></section>
+  </main>
+  <footer class="site-footer wrap"><p>Examensarbeten <span>·</span> Ett källnära, kritiskt läsarkiv</p><div><a href="https://github.com/tdufva/examnesarbete">Källkod & metod</a><a href="https://github.com/tdufva/examnesarbete/issues/new?template=korrigering.yml">Föreslå en korrigering</a></div></footer>
+  <dialog id="work-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><span>Examensarbete · Källor & läsning</span><button class="close-dialog" type="button" aria-label="Stäng arbetet">Stäng <span aria-hidden="true">×</span></button></div><div id="dialog-body"></div></dialog>
+</body></html>
