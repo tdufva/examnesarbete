@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {aggregate,selectRecords} from '../docs/assets/aggregate.mjs';
+import {aggregate,selectRecords,methodComparison} from '../docs/assets/aggregate.mjs';
 const {records,metadata}=JSON.parse(fs.readFileSync(new URL('../docs/data/theses.json',import.meta.url),'utf8'));
 const published=JSON.parse(fs.readFileSync(new URL('../docs/data/analysis.json',import.meta.url),'utf8'));
 const summary=aggregate(records);
@@ -23,3 +23,16 @@ assert.equal(selectRecords(records,{verification:'confirmed'}).length,117);
 assert.equal(aggregate([]).total,0);
 assert.equal(selectRecords(records,{year:'1900'}).length,0);
 console.log('Browser aggregation matches Python; year/university/open-PDF selections, historical baseline and empty cohorts passed.');
+
+// Unequal cohort sizes distinguish an equal-university mean from a pooled share.
+const fixture=(university,primary_method,withInterview)=>({university,primary_method,year:2025,open_pdf:true,themes:[],keywords_sv:[],methods:withInterview?[{kind:'insamling',label:'Intervju',basis:'abstract'}]:[]});
+const unequal=[fixture('Aalto','X',true),fixture('Lappland','X',true),fixture('Lappland','Y',false),fixture('Lappland','Y',false)];
+const mean=methodComparison(unequal,'average');
+assert.ok(Math.abs(mean.primary_methods.find(r=>r.label==='X').average-200/3)<1e-10);
+assert.ok(Math.abs(mean.techniques.find(r=>r.label==='Intervjuer').average-200/3)<1e-10);
+assert.equal(methodComparison(unequal,'Aalto').primary_methods[0].values[0].percent,100);
+assert.equal(methodComparison(unequal,'Lappland').primary_methods[0].values[0].count,2);
+assert.deepEqual(methodComparison(unequal,'both').groups.map(g=>g.total),[1,3]);
+assert.equal(methodComparison(unequal.filter(r=>r.university==='Aalto'),'average').primary_methods[0].average,null);
+assert.deepEqual(methodComparison([],'average').primary_methods,[]);
+console.log('Method views: single university, paired series, equal-weight means and missing cohorts passed.');

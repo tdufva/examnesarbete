@@ -27,3 +27,18 @@ export function aggregate(records){
 export function selectRecords(records,{year='',university='both',availability='',verification='all',commonYears=[]}={}){
  return records.filter(r=>(!year||(year==='common'?commonYears.includes(r.year):r.year===Number(year)))&&(university==='both'||r.university===university)&&(!availability||r.open_pdf)&&(verification!=='confirmed'||r.programme_status!=='inferred_from_metadata'));
 }
+
+// Equal university weights: missing cohorts are unknown, never a zero share.
+export function methodComparison(records,view='both'){
+ const universities=['Aalto','Lappland'].includes(view)?[view]:['Aalto','Lappland'];
+ const groups=universities.map(university=>({university,...aggregate(records.filter(r=>r.university===university))}));
+ const rows=field=>{
+  const labels=[...new Set(groups.flatMap(g=>g[field].map(r=>r.label)))];
+  return labels.map(label=>{
+   const values=groups.map(g=>{const count=g[field].find(r=>r.label===label)?.count||0;return {university:g.university,count,total:g.total,percent:g.total?count/g.total*100:null};});
+   const average=values.length===2&&values.every(v=>v.percent!==null)?values.reduce((sum,v)=>sum+v.percent,0)/2:null;
+   return {label,values,average};
+  }).sort((a,b)=>(view==='average'?(b.average??-1)-(a.average??-1):b.values.reduce((n,v)=>n+v.count,0)-a.values.reduce((n,v)=>n+v.count,0))||(a.label<b.label?-1:a.label>b.label?1:0));
+ };
+ return {groups:groups.map(g=>({university:g.university,total:g.total})),primary_methods:rows('primary_methods'),techniques:rows('techniques')};
+}

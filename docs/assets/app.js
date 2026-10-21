@@ -1,4 +1,4 @@
-import {aggregate, selectRecords} from './aggregate.mjs';
+import {aggregate, selectRecords, methodComparison} from './aggregate.mjs?v=2026-2';
 const $ = (s, root=document) => root.querySelector(s);
 const $$ = (s, root=document) => [...root.querySelectorAll(s)];
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -97,6 +97,25 @@ function coverageMessage(year,selection='both'){
   for(const notice of metadata.coverage?.notices||[])if((!notice.years||notice.years.some(y=>years.includes(y)))&&(!notice.university||universities.includes(notice.university)))messages.push(esc(notice.text_sv));
   return messages.map(m=>`<p>${m}</p>`).join('');
 }
+
+function renderMethodSection(selected,view,context,period){
+  const comparison=methodComparison(selected,view),averageOnly=view==='average',showAverage=averageOnly||view==='both-average';
+  const denominators=comparison.groups.map(g=>`${university(g.university)} n = ${g.total}`).join(' · ');
+  const available=comparison.groups.every(g=>g.total>0);
+  $('#method-selection-summary').textContent=`${period} · ${denominators}. `+(showAverage?(available?'Medelvärde = (Aaltos andel + Lapplands andel) / 2. Universiteten väger lika oavsett antal arbeten.':'Medelvärdet kan inte beräknas: ett eller båda universiteten saknar poster i urvalet. Ett saknat underlag räknas inte som 0 %.'):'Andel av arbetena inom respektive universitet. Varje stapel visar även antal och nämnare.');
+  const key=(averageOnly?'':comparison.groups.map(g=>`<span><i class="swatch ${g.university==='Lappland'?'lappland':''}"></i>${university(g.university)} (n = ${g.total})</span>`).join(''))+(showAverage?'<span><i class="swatch average"></i>Gemensamt medelvärde · lika vikt</span>':'');
+  $('#method-key').innerHTML=key;
+  const valueText=v=>v.percent===null?'—':`${num(v.percent)} % <span class="muted">(${v.count}/${v.total})</span>`;
+  const averageBar=row=>`<div class="bar-line" aria-label="Gemensamt medelvärde: ${row.average===null?'kan inte beräknas':num(row.average)+' procent'}"><div class="bar-track" aria-hidden="true"><div class="bar-fill average" style="width:${row.average??0}%"></div></div><span class="bar-value">${row.average===null?'—':num(row.average)+' %'}</span></div>`;
+  const universityBars=row=>row.values.map(v=>`<div class="bar-line" aria-label="${esc(university(v.university))}: ${v.percent===null?'inget underlag':`${v.count} av ${v.total}, ${num(v.percent)} procent`}"><div class="bar-track" aria-hidden="true"><div class="bar-fill ${v.university==='Lappland'?'lappland':''}" style="width:${v.percent??0}%"></div></div><span class="bar-value">${valueText(v)}</span></div>`).join('');
+  const charts=(rows,linkKey,limit=Infinity)=>rows.length?rows.slice(0,limit).map(row=>`<div class="comparison-row"><span class="comparison-label">${linkKey?`<a href="${esc(qp({...context,[linkKey]:row.label}))}">${esc(row.label)}</a>`:esc(row.label)}</span><div class="bar-pair">${averageOnly?'':universityBars(row)}${showAverage?averageBar(row):''}</div></div>`).join(''):'<p class="scope-empty">Inga metoduppgifter i det valda urvalet.</p>';
+  const table=(rows,caption)=>'<table><caption>'+caption+'</caption><thead><tr><th scope="col">Metod</th>'+comparison.groups.map(g=>`<th scope="col">${g.university} (n = ${g.total})</th>`).join('')+(showAverage?'<th scope="col">Medelvärde · lika vikt</th>':'')+'</tr></thead><tbody>'+rows.map(row=>`<tr><th scope="row">${esc(row.label)}</th>${row.values.map(v=>`<td>${valueText(v)}</td>`).join('')}${showAverage?`<td>${row.average===null?'—':num(row.average)+' %'}</td>`:''}</tr>`).join('')+'</tbody></table>';
+  $('#method-chart').innerHTML=charts(comparison.primary_methods,'method');
+  $('#technique-chart').innerHTML=charts(comparison.techniques,null,10)+(comparison.techniques.length>10?'<p class="chart-note">De tio vanligaste visas i diagrammet. Tabellen nedan innehåller alla metoder i urvalet.</p>':'');
+  $('#method-university-table').innerHTML=table(comparison.primary_methods,'En huvuddesign per arbete; andelar inom universitetets valda urval');
+  $('#technique-university-table').innerHTML=table(comparison.techniques,'Insamling och analys; varje metod räknas högst en gång per arbete. Flera metoder kan förekomma.');
+}
+
 function analysis(){
   const params=new URLSearchParams(location.search);
   $('#analysis-year').insertAdjacentHTML('beforeend',metadata.years.map(y=>`<option value="${y}">${y}${metadata.partial_years.includes(y)?' (pågående)':''}</option>`).join(''));
@@ -105,6 +124,7 @@ function analysis(){
   if(!$('#comparison-kind').value)$('#comparison-kind').value='themes';
   if(!$('#analysis-verification').value)$('#analysis-verification').value='confirmed';
   let metric=params.get('metric')==='count'?'count':'percent';
+  $('#method-view').value=['average','both-average'].includes(params.get('methodView'))&&$('#analysis-university').value==='both'?params.get('methodView'):$('#analysis-university').value;
   function render(){
     const year=$('#analysis-year').value,uni=$('#analysis-university').value,access=$('#analysis-access').value,kind=$('#comparison-kind').value,verification=$('#analysis-verification').value;
     const selected=selectRecords(records,{year,university:uni,availability:access,verification,commonYears:commonYears()});
@@ -132,18 +152,17 @@ function analysis(){
     $('#comparison-chart').innerHTML='<div class="compare-key">'+universities.map(u=>`<span><i class="swatch ${u==='Lappland'?'lappland':''}"></i>${university(u)} (n = ${a.universities[u].total})</span>`).join('')+'</div>'+rows.map(t=>`<div class="comparison-row"><a class="comparison-label" href="${esc(qp({...context,[kind==='methods'?'method':'theme']:t.label}))}">${esc(t.label)}</a><div class="bar-pair">${universities.map(u=>{const g=a.universities[u],n=countFor(g,t.label),percent=g.total?n/g.total*100:0,value=metric==='percent'?percent:n;return `<div class="bar-line" aria-label="${esc(university(u))}: ${g.total?`${n} av ${g.total}, ${num(percent)} procent`:'inga verifierade poster'}"><div class="bar-track" aria-hidden="true"><div class="bar-fill ${u==='Lappland'?'lappland':''}" style="width:${value/max*100}%"></div></div><span class="bar-value">${g.total?(metric==='percent'?num(percent)+' %':n+' st.'):'—'} <span class="muted">(${n}/${g.total})</span></span></div>`;}).join('')}</div></div>`).join('');
     $('#comparison-denominators').textContent=`Andelar beräknas inom varje universitet i urvalet: ${universities.map(u=>`${university(u)} n = ${a.universities[u].total}`).join(', ')}. ${kind==='methods'?'En huvuddesign räknas per arbete.':'Temakoderna överlappar; summan kan överstiga 100 %.'} En grupp utan verifierade poster visas med ett streck, inte med 0 %.`;
     $('#year-table').innerHTML='<table><caption>Arkivposter och öppen tillgång i det valda urvalet</caption><thead><tr><th scope="col">Universitet</th><th scope="col">År</th><th scope="col">Arbeten</th><th scope="col">Öppen PDF</th><th scope="col">Ingen verifierad öppen PDF</th></tr></thead><tbody>'+a.by_year.filter(g=>universities.includes(g.university)).map(g=>`<tr><th scope="row">${university(g.university)}</th><td>${g.year}${metadata.partial_years.includes(g.year)?' *':''}</td><td>${g.total}</td><td>${g.open}</td><td>${g.total-g.open}</td></tr>`).join('')+'</tbody></table>';
-    $('#method-university-table').innerHTML='<table><caption>En huvuddesign per arbete; andelar inom universitetets valda urval</caption><thead><tr><th scope="col">Huvuddesign</th>'+universities.map(u=>`<th scope="col">${u} (n = ${a.universities[u].total})</th>`).join('')+'</tr></thead><tbody>'+a.primary_methods.map(m=>'<tr><th scope="row">'+esc(m.label)+'</th>'+universities.map(u=>{const g=a.universities[u],n=g.primary_methods.find(x=>x.label===m.label)?.count||0;return '<td>'+(g.total?n+' ('+num(n/g.total*100)+' %)':'—')+'</td>';}).join('')+'</tr>').join('')+'</tbody></table>';
-    $('#method-chart').innerHTML=rankRows(a.primary_methods,a.total,'method',99,context);
-    $('#technique-chart').innerHTML=rankRows(a.techniques,a.total,null,10);
+    renderMethodSection(selected,$('#method-view').value,context,period);
     $('#theme-chart').innerHTML=rankRows(a.themes,a.total,'theme',99,context);
     $('#keyword-list').innerHTML=a.keywords.slice(0,24).map(k=>`<a href="${esc(qp({...context,search:k.label}))}">${esc(k.label)}<span>${k.count}</span></a>`).join('');
     $('#method-coverage').innerHTML=`<strong>Källunderlaget är olika stort.</strong> ${a.method_coverage.with_pdf_evidence} arbeten har metodbelägg från ett utvalt PDF-avsnitt; ${a.method_coverage.abstract_only} har belägg enbart från abstrakt. För ${a.method_coverage.no_methods} saknas tillräckligt metodbelägg. Källorna är inte en systematisk fulltextgranskning.`;
     $('#access-chart').innerHTML=universities.map(u=>{const g=a.universities[u];return `<div class="access-row ${u==='Lappland'?'lappland':''}"><p class="access-name"><strong>${university(u)}</strong><span>${g.total?`${g.open}/${g.total} öppna · ${num(g.open/g.total*100)} %`:'Inget verifierat urval'}</span></p><div class="access-track" role="img" aria-label="${g.open} av ${g.total} har verifierad eller arkivmarkerad öppen PDF"><span style="width:${g.total?g.open/g.total*100:0}%"></span></div></div>`;}).join('')+'<p class="access-legend">Färgad yta = verifierad eller arkivmarkerad öppen PDF · sandfärgad yta = ingen verifierad öppen PDF. Tillfälliga servicefel redovisas i täckningsinformationen.</p>';
-    const url=new URL(location.href);url.search='';for(const [key,value] of Object.entries({year,university:uni==='both'?'':uni,availability:access,compare:kind==='themes'?'':kind,metric:metric==='percent'?'':metric,verification:verification==='confirmed'?'':verification}))if(value)url.searchParams.set(key,value);history.replaceState(null,'',url);
+    const url=new URL(location.href);url.search='';for(const [key,value] of Object.entries({year,university:uni==='both'?'':uni,availability:access,compare:kind==='themes'?'':kind,metric:metric==='percent'?'':metric,verification:verification==='confirmed'?'':verification,methodView:['average','both-average'].includes($('#method-view').value)?$('#method-view').value:''}))if(value)url.searchParams.set(key,value);history.replaceState(null,'',url);
   }
   $('#analysis-filters').addEventListener('submit',e=>e.preventDefault());
-  $('#analysis-filters').addEventListener('change',render);
-  $('#analysis-reset').addEventListener('click',()=>{$('#analysis-filters').reset();metric='percent';render();});
+  $('#analysis-filters').addEventListener('change',e=>{if(e.target.id==='analysis-university')$('#method-view').value=e.target.value;render();});
+  $('#method-view').addEventListener('change',()=>{$('#analysis-university').value=['average','both-average'].includes($('#method-view').value)?'both':$('#method-view').value;render();$('#analysis-status').textContent='Metoddiagram och tabeller har uppdaterats.';});
+  $('#analysis-reset').addEventListener('click',()=>{$('#analysis-filters').reset();$('#method-view').value='both';metric='percent';render();});
   $$('[data-metric]').forEach(b=>b.addEventListener('click',()=>{metric=b.dataset.metric;render();$('#analysis-status').textContent=metric==='percent'?'Diagrammen visar andelar i det valda urvalet.':'Diagrammen visar antal i det valda urvalet.';}));
   render();
 }
