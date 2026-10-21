@@ -7,3 +7,5 @@ data/extraction.log
 *.pdf
 node_modules/
 tmp/
+data/harvest_2026/
+data/source_2026_full.json

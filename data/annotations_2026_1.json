@@ -1,0 +1,519 @@
+[
+  {
+    "id": "67028",
+    "title_sv": "Avstånd och detalj: Konstnärlig forskning om att teckna djupverkan utan en traditionell perspektivmodell",
+    "abstract_sv": "I denna pro gradu-avhandling undersöker jag hur avstånd påverkar detaljrikedomen i en teckning och därigenom de uttrycksmässiga och tekniska valen i min teckningsprocess. Syftet med undersökningen är att skapa förståelse för hur djupverkan byggs upp i teckning utan den traditionella perspektivteckningens hjälplinjer och att reflektera över hur denna förståelse kan stödja utvecklingen av bildkonstundervisningen.\n\nUndersökningen hör till fältet för konstnärlig och praktikledd forskning. Som metod använder jag min egen teckningsprocess som forskningsmaterial. Materialet består av teckningar gjorda i stads- och naturmiljöer, där samma motiv har betraktats och tecknats från flera olika avstånd. Tecknandet kompletteras av reflekterande skrivande, genom vilket jag strukturerar iakttagelserna och deras betydelser.\n\nUndersökningens resultat visar att avståndets inverkan på den visuella informationen inte är linjär, utan exponentiell och kan förstås genom tröskelpunkter. Detaljernas antal och precision minskar skiktvis när avståndet ökar, och landskapets djup tycks pressas samman mot de avlägsna avstånden. I teckningarna framträder detta genom att texturer, silhuetter och antydda former får en framträdande roll.\n\nSom slutsats föreslår jag att tecknarens medvetenhet om förhållandet mellan avstånd och detaljrikedom kan göra det snabbare och tydligare att bygga upp djupverkan. Den konstnärliga forskningsprocessen stödjer samtidigt bildkonstpedagogens utveckling av en konstnärlig identitet och erbjuder pedagogiska utgångspunkter för teckningsundervisning.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "teckning (konst)",
+      "konstnärlig forskning",
+      "bildkonstpedagogik",
+      "konst",
+      "bildkonst",
+      "konstpedagogik",
+      "teknisk ritning",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstnärlig/konstbaserad forskning",
+    "methods": [
+      {
+        "label": "Konstnärlig och praktikledd forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien placerar sig inom konstnärlig och praktikledd forskning, med den egna teckningsprocessen som material."
+      },
+      {
+        "label": "Tecknande och reflekterande skrivande",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet består av egna teckningar från olika avstånd och reflekterande texter."
+      },
+      {
+        "label": "Systematisk observation",
+        "kind": "insamling",
+        "basis": "pdf",
+        "pdf_page": 11,
+        "evidence_sv": "Forskaren beskriver systematisk observation av motiv och deras förändringar vid olika avstånd."
+      },
+      {
+        "label": "Jämförande och självreflekterande analys av teckningsprocessen",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 11,
+        "evidence_sv": "Forskaren dokumenterar och analyserar den egna processen visuellt och skriftligt samt jämför teckningar från olika avstånd."
+      }
+    ],
+    "method_note_sv": "Upplägget anges uttryckligen som konstnärligt och praktiklett. Metodbeskrivningen har kompletterats med utvalda PDF-utdrag; ingen separat standardiserad analysmetod namnges.",
+    "themes": [
+      "Konstnärlig praktik",
+      "Estetik och visuell kultur",
+      "Identitet och profession"
+    ],
+    "topic_sv": "Avstånd, detaljrikedom och djupverkan i teckning samt bildkonstpedagogens konstnärliga utveckling"
+  },
+  {
+    "id": "67050",
+    "title_sv": "Utrymme att välja, utrymme att tveka: Konstbaserad aktionsforskning om en deltagarorienterad kurs i bildkonst på gymnasiet",
+    "abstract_sv": "Denna pro gradu-avhandling undersöker hur delaktighet byggs upp i gymnasiets bildkonstundervisning inom ramen för en deltagarorienterad undervisningshelhet. Undersökningen gäller en valfri kurs i grafik och teckning, vars syfte var att stödja de studerandes motivation, engagemang och möjligheter att påverka sitt eget arbete.\n\nUndersökningen genomfördes som konstbaserad aktionsforskning, där jag samtidigt verkade som lärare och forskare. Materialet bestod av de studerandes processportföljer, skriftliga enkätsvar och lärarens forskningsdagbok, och analyserades genom kvalitativ, materialbaserad analys.\n\nResultaten visar att en deltagarorienterad undervisningshelhet i bildkonst kan stödja de studerandes motivation och engagemang särskilt när undervisningens strukturer är tydliga men flexibla och valmöjligheterna byggs upp stegvis. Delaktighet framträdde som en process som också innefattade osäkerhet och utmaningar, vilka dock var betydelsefulla för lärandet och utvecklingen av aktörskap. Undersökningen synliggör den deltagarorienterade pedagogikens möjligheter och utmaningar i gymnasiets bildkonstundervisning samt den centrala betydelsen av lärarens pedagogiska omdöme för att stödja delaktighet.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "undervisning",
+      "bildkonst",
+      "konstpedagogik",
+      "delaktighet",
+      "deltagande",
+      "involvering",
+      "studerande",
+      "motivation",
+      "lärande",
+      "aktörskap",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstbaserad aktionsforskning",
+    "methods": [
+      {
+        "label": "Konstbaserad aktionsforskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Undersökningen genomfördes uttryckligen som konstbaserad aktionsforskning med läraren som forskare."
+      },
+      {
+        "label": "Processportföljer, skriftlig enkät och forskningsdagbok",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet bestod av de studerandes processportföljer, skriftliga enkätsvar och lärarens forskningsdagbok."
+      },
+      {
+        "label": "Kvalitativ materialbaserad analys",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Det finska abstraktet anger kvalitativ, materialbaserad analys."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 3,
+        "evidence_sv": "Det engelska abstraktet i PDF-utdraget preciserar analysen som kvalitativ, materialbaserad tematisk analys."
+      }
+    ],
+    "method_note_sv": "Den konstbaserade aktionsforskningen är explicit. Det engelska abstraktet i ett utvalt PDF-utdrag preciserar analysen som tematisk; det finska abstraktet anger mer allmänt materialbaserad analys.",
+    "themes": [
+      "Makt, delaktighet och rättvisa",
+      "Undervisning och lärande"
+    ],
+    "topic_sv": "Delaktighet, valmöjligheter och motivation i en gymnasiekurs i grafik och teckning"
+  },
+  {
+    "id": "67156",
+    "title_sv": "Det som ännu inte syns: Hur problemlösningsförmåga kommer till uttryck i bildkonstundervisningen i Rovaniemis skolor",
+    "abstract_sv": "Syftet med denna pro gradu-avhandling är att undersöka hur uttrycken för problemlösningsförmåga byggs upp i elevers och studerandes arbete inom bildkonstpedagogiken. Undersökningen fokuserar på hur problemlösning blir synlig som en del av den konstnärliga processen och hur den framträder som både medveten och omedveten verksamhet. Undersökningen strävar inte efter att utveckla färdiga pedagogiska modeller, utan efter att beskriva och strukturera problemlösning sådan den framträder i bildkonstundervisningens vardag. Särskilt uppmärksammas de val, beslut, utmaningar samt metakognitiva och reflekterande stunder som uppstår under arbetsprocessen och som hör samman med arbetet med material, former och idéer.\n\nUndersökningen bygger på Finlands del i det internationella projektet Comparative Research on Creative Thinking and Complex Problem-Solving Skills, som koordineras av Lapplands universitet i samarbete med Corvinus University Budapest, Kyushu University och PACO. Materialet har samlats in med en etnografiskt orienterad forskningsansats vid Rovaniemi bildkonstskola, Rantavitikka grundskola och Lyseonpuisto gymnasium. De centrala metoderna har varit deltagande observation, granskning av undervisningssituationer samt analys av elevernas och de studerandes arbetsprocesser.\n\nUndersökningen granskar hur problemlösning framträder i olika skeden av arbetet och på vilka sätt explicit och implicit kunskap vävs samman i dessa processer. Dessutom analyseras hur undervisningssituationens strukturer, uppgifter och handledning påverkar hur uttrycken för problemlösningsförmåga blir synliga. Undersökningen riktas också mot hur metakognition och reflektion påverkar arbetets fortskridande och elevernas förmåga att möta utmaningar.\n\nResultaten visar att uttrycken för problemlösningsförmåga inom bildkonstpedagogik är starkt processuella, iterativa och situationsbundna. Problemlösningen byggs upp genom experimenterande, misslyckanden och omarbetning, och en betydande del av den sker på den implicita kunskapens nivå under verksamhetens gång. Samtidigt framträder metakognition och reflektion som centrala faktorer för hur medveten problemlösningen blir och hur flexibelt eleverna kan fortsätta sitt arbete när de möter utmaningar.\n\nUndersökningen lyfter fram lärarens centrala roll i att synliggöra problemlösning. Handledning som stödjer reflektion kan hjälpa eleverna att identifiera sitt eget tänkande, sätta ord på sina lösningar och förstå misslyckanden som en del av lärprocessen. Samtidigt visar undersökningen att uttrycken för problemlösningsförmåga inte begränsas till enbart verbaliserat tänkande, utan också byggs upp som kroppslig verksamhet i samspel med material.\n\nGenomförandet av undersökningen var också förenat med begränsningar. Uppgifterna som genomfördes inom det internationella forskningsprojektet varierade mellan de olika skolkontexterna, vilket försvårade en direkt jämförelse av materialet. Dessutom begränsade forskarens roll som studentforskare möjligheterna att påverka undersökningens struktur och genomförande. Utifrån dessa förutsättningar är undersökningens resultat delvis öppna för tolkning, och forskarens eget perspektiv kan ha påverkat tolkningen av materialet.\n\nUndersökningen stärker uppfattningen att bildkonstpedagogik erbjuder en meningsfull kontext för att undersöka problemlösningsförmåga. Den lyfter fram behovet av att uppmärksamma lärprocessen och göra den synlig så att eleverna kan utveckla sina metakognitiva färdigheter och bygga upp ett mer flexibelt förhållande till lärande, misslyckanden och sitt eget kunnande.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "problemlösning",
+      "konstpedagogik",
+      "elever",
+      "tänkande",
+      "reflektion",
+      "metakognition",
+      "undervisning",
+      "kreativitet",
+      "bildkonstpedagogik",
+      "lärande",
+      "etnografi",
+      "kritiskt tänkande",
+      "explicit kunskap"
+    ],
+    "primary_method": "Etnografi",
+    "methods": [
+      {
+        "label": "Etnografiskt orienterad forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet har samlats in med en uttryckligen etnografiskt orienterad ansats i tre skolkontexter."
+      },
+      {
+        "label": "Deltagande observation",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Deltagande observation anges som en central metod."
+      },
+      {
+        "label": "Analys av arbetsprocesser och undervisningssituationer",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien analyserar elevernas och de studerandes arbetsprocesser samt hur undervisningens strukturer påverkar problemlösningen."
+      },
+      {
+        "label": "Processdokumentation, samtal och självvärderingar",
+        "kind": "insamling",
+        "basis": "pdf",
+        "pdf_page": 7,
+        "evidence_sv": "PDF-utdraget anger processdokumentation, samtal och elevernas självvärderingar som materialinsamling."
+      }
+    ],
+    "method_note_sv": "Studien identifierar sig som etnografiskt orienterad, inte som en fullständigt specificerad etnografisk modell. Ingen namngiven separat analysmetod framgår av abstraktet eller de utvalda PDF-utdragen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Kropp, sinnen och materialitet"
+    ],
+    "topic_sv": "Problemlösning, metakognition och reflektion i elevers konstnärliga arbetsprocesser"
+  },
+  {
+    "id": "67264",
+    "title_sv": "Från uttryck till imitation: Konstrelation och undervisningspraktiker som uttryck för småbarnspedagogers konstuppfattningar",
+    "abstract_sv": "Utgångspunkten för min pro gradu-avhandling har varit mitt intresse för att utveckla kvaliteten på konstpedagogiken inom småbarnspedagogiken och småbarnspedagogernas konstkunnande. I min undersökning granskade jag mångfalden av småbarnspedagogers konstuppfattningar med utgångspunkt i både deras egen relation till konst och de konstpedagogiska praktiker de använde inom småbarnspedagogiken. Min forskningsfråga är: Vilka konstuppfattningar kan identifieras i småbarnspedagogers konstpedagogiska praktiker och konstrelation? I en kvalitativ fenomenografisk undersökning utredde jag småbarnspedagogers syn på att definiera, uppleva, skapa och möta konst. Dessutom kartlade jag pedagogernas egna handlingssätt och verksamhetskultur i anslutning till konstpedagogik. Målgruppen för min undersökning var lärare och barnskötare som arbetade inom småbarnspedagogik i varierande småbarnspedagogiska miljöer runtom i Finland. Jag samlade in undersökningsmaterialet genom en webbenkät bestående av öppna frågor (n=8).\n\nMångsidigheten i småbarnspedagogernas konstuppfattningar återspeglades i konstpedagogiken som varierande praktiker och handlingssätt. Liksom tidigare undersökningar bekräftade resultaten uppfattningen att pedagogernas personliga konstuppfattningar påverkar den konstpedagogik de bedriver och dess praktiker. I resultaten presenterar jag fyra olika konstuppfattningar som jag identifierade i småbarnspedagogernas berättelser. I den första konstuppfattningen sågs konst som självuttryck och känsloupplevelse. I den andra upplevdes konst som något antingen motsägelsefullt eller avlägset. Enligt den tredje uppfattningen såg småbarnspedagogerna konst som traditionellt kunnande och kännedom om tekniker. Den fjärde konstuppfattningen betonade konst som något som bygger gemenskap och välbefinnande.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "småbarnspedagogik",
+      "konstpedagogik",
+      "konst",
+      "undervisning",
+      "daghem",
+      "bildkonst",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Fenomenografisk forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien identifieras uttryckligen som kvalitativ och fenomenografisk."
+      },
+      {
+        "label": "Webbenkät med öppna frågor",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet samlades genom en webbenkät med öppna frågor, med åtta svarande."
+      },
+      {
+        "label": "Fenomenografisk analys",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 22,
+        "evidence_sv": "Forskaren beskriver att läsa svaren och urskilja formuleringar och tankar som uttrycker konstuppfattningar inom en stegvis fenomenografisk analys."
+      }
+    ],
+    "method_note_sv": "Fenomenografi saknas som egen kategori i katalogens huvudmetodlista och redovisas därför under annan kvalitativ studie. Fenomenografisk analys stöds av ett utvalt PDF-utdrag; den ska inte förväxlas med fenomenologi.",
+    "themes": [
+      "Undervisning och lärande",
+      "Identitet och profession",
+      "Estetik och visuell kultur"
+    ],
+    "topic_sv": "Småbarnspedagogers konstuppfattningar, konstrelation och konstpedagogiska praktiker"
+  },
+  {
+    "id": "67293",
+    "title_sv": "Min ofullbordade dröm om Jorden – En processutställning om perspektiv på konstens ofullbordade tillstånd",
+    "abstract_sv": "I min pro gradu-avhandling undersöker jag uppfattningar om konstens ofullbordade tillstånd ur både konstnärens och konstbetraktarens perspektiv. Syftet med avhandlingen är att utreda hur konstnärens och publikens upplevelser av ofullbordad konst skiljer sig åt i en konstutställnings kontext. Avhandlingen har genomförts som konstnärlig forskning med min konstutställning om mitt ofullbordade bilderboksprojekt och dess konstnärliga process i centrum. Utöver uppfattningar om det ofullbordade granskar jag konstnärens kreativa processer med konstruktivistiska pedagogiska teorier som verktyg för och jämförelsegrund i min analys. Jag granskar också bilderbokslitteratur som kommunikativt och konstnärligt format. Avhandlingens samlade ämnesområden bildar en skärningspunkt mellan bildkonst, pedagogik och grafisk formgivning.\n\nAvhandlingen hämtar sin teoretiska referensram från forskning om kreativitet och den konstnärliga processen, det ofullbordades historia i konsten och dess betydelser, konstruktivistiska pedagogiska teorier samt mediestudier av bilderbokslitteratur. Vid sidan av den konstnärliga forskningens fenomenbaserade metodologi använder jag närläsning som ett verktyg för att tolka konstutställningens besökarrespons och min konstnärliga process.\n\nAvhandlingen visar hur ofullbordad konst gör det möjligt att synliggöra konstnärens kreativa process, skapar nya perspektiv på att uppfatta konst och bryter ned uppfattningar om färdig och ofullbordad konst. Konstnärens och publikens syn på konstens ofullbordade tillstånd skilde sig åt, vilket påverkades av deras olika förhållanden till den konst som visades på utställningen. Responsen från konstutställningens besökare visade hur konstens ofullbordade egenskaper ansågs öka intresset, erbjuda möjlighet till igenkänning och öppna nya betydelser i utställningens verkhelhet. I granskningen av bilderboksprojektets kreativa process upptäcktes likheter med konstruktivistiska pedagogiska teorier. Resultaten pekar på positiva möjligheter att i fortsatta tillämpningar inom det pedagogiska forskningsfältet och i pedagogiska kontexter undersöka det ofullbordade och den kreativa processen.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "ofullbordat tillstånd",
+      "illustration",
+      "konstutställning",
+      "konst",
+      "bildkonst",
+      "kreativitet",
+      "konstnärlig forskning",
+      "konstnärligt arbete",
+      "processer",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstnärlig/konstbaserad forskning",
+    "methods": [
+      {
+        "label": "Konstnärlig forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien genomförs som konstnärlig forskning med en utställning om det egna bilderboksprojektet i centrum."
+      },
+      {
+        "label": "Konstnärlig process och utställningsrespons",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Undersökningen använder den egna konstnärliga processen samt respons från utställningsbesökare."
+      },
+      {
+        "label": "Närläsning",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Närläsning används för att tolka besökarresponsen och den egna konstnärliga processen."
+      },
+      {
+        "label": "Konstruktivistiska pedagogiska teorier",
+        "kind": "perspektiv",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Teorierna används som analysverktyg och jämförelsegrund för den kreativa processen."
+      }
+    ],
+    "method_note_sv": "Det konstnärliga upplägget och närläsningen anges uttryckligen i abstraktet. Hur besökarresponsen samlats in är inte fullständigt specificerat där; ett utvalt PDF-utdrag nämner utställningens gästbok.",
+    "themes": [
+      "Konstnärlig praktik",
+      "Estetik och visuell kultur"
+    ],
+    "topic_sv": "Ofullbordad konst och konstnärens respektive publikens upplevelser av en bilderboksutställning"
+  },
+  {
+    "id": "67328",
+    "title_sv": "Berättat av en mor- eller farmor, illustrerat av ett barnbarn – En konstnärlig fläta av evakueringsresor från Karelen",
+    "abstract_sv": "Utgångspunkten för min pro gradu-avhandling är ett behov av att tillbringa tid med Esse Perämäki, min mor- eller farmor, och höra hennes berättelser. Kriget kom närmare när Ryssland anföll Ukraina, och under min undersökning har de världspolitiska kriserna skärpts. Hon har tidigare strött intressanta berättelser omkring sig om sin barndom som evakuerad från Karelen, så det kändes aktuellt att tillsammans med henne fokusera på de tidigaste barndomsminnena mitt under kriget och dokumentera dem som en helhet.\n\nSom forskningsmetod använder jag narrativ konstnärlig forskning, och mitt forskningsmaterial består av en konstnärlig del och en skriftlig del som jag utformat utifrån den. Videoverket Berättat av en mor- eller farmor, illustrerat av ett barnbarn – En konstnärlig fläta av evakueringsresor från Karelen är ett självständigt videoverk, undersökningens material och föremålet för analysen. Videoverket innehåller en berättelse som jag sammanställt utifrån intervjuer med henne, till vilken jag har filmat och redigerat mitt måleri. Videoverket finns tillgängligt på min konstnärswebbplats: https://www.mirjamiperamaki.fi/portfolio?pgid=kui8teph-29d2a4ce-f610-4471-a103-90feda9c6c3e\n\nMålet med min undersökning är tvådelat: Först jämför jag min egen konstnärliga process med Hannulas, Suorantas och Vadéns (2014) ryggrad för konstnärlig forskning och formulerar utifrån den mina egna iakttagelser och visuella diagram över min konstnärliga forskning. För det andra reflekterar jag över betydelserna av en verbal och visuell dialog mellan två generationer och över de teman som framträtt ur den konstnärliga produktionen.\n\nArbetet är en personlig process som iakttar utmaningarna i långvarig konstnärlig forskning och den växande sakkunskapen som bildkonstpedagog, och som erbjuder en speglingsyta för verkets betraktare och för läsaren. Visuellt uttryck är för mig ett naturligt sätt att bearbeta upplevelser och de tankar som uppstår ur dem, vilka det skrivna språket inte alltid når. Den åldrande generationens personliga erfarenheter förblir lätt ohörda om man inte stannar upp för att fråga och tar sig tid att lyssna. Undersökningen lyfter fram behovet av att förstå individuella erfarenheter och ge utrymme åt personliga karelska berättelser som en del av det gemensamma historiska minnet.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "konstnärlig forskning",
+      "erfarenheter",
+      "konst",
+      "narrativitet",
+      "bildkonst",
+      "konstpedagogik",
+      "bildkonstpedagogik",
+      "konstnärligt arbete",
+      "identitet",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstnärlig/konstbaserad forskning",
+    "methods": [
+      {
+        "label": "Narrativ konstnärlig forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Forskaren anger narrativ konstnärlig forskning som sin metod och videoverket som både material och analysobjekt."
+      },
+      {
+        "label": "Intervjuer",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Videoverkets berättelse har sammanställts utifrån intervjuer med forskarens mor- eller farmor."
+      },
+      {
+        "label": "Måleri och videoproduktion",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Forskaren filmar och redigerar sitt måleri som en del av videoverket."
+      },
+      {
+        "label": "Reflekterande jämförelse av den konstnärliga processen",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Den egna processen jämförs med Hannulas, Suorantas och Vadéns modell och gestaltas i iakttagelser och visuella diagram."
+      }
+    ],
+    "method_note_sv": "Den uttalade metoden kombinerar narrativitet och konstnärlig forskning; huvudkoden följer den konstnärliga forskningen. Abstraktet anger inte en separat formaliserad narrativ analysprocedur. Finskans ”isoäiti” anger inte om släktledet är på mors eller fars sida, vilket återges som ”mor- eller farmor”.",
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Konstnärlig praktik",
+      "Samarbete och gemenskap"
+    ],
+    "topic_sv": "Karelska evakueringsminnen och konstnärlig dialog mellan två generationer"
+  },
+  {
+    "id": "67374",
+    "title_sv": "Berättande, självuttryck och kreativitet",
+    "abstract_sv": "Utgångspunkten för denna pro gradu-avhandling var mitt intresse för tecknade serier och deras ställning i dagens bildkonstundervisning. Tecknade serier är en aktuell och mångsidig konstform inom bildkonst och visuell kultur. Jag undersöker vilka uppfattningar bildkonstlärare har om tecknade serier i bildkonstundervisningen och hur bildkonstlärare upplever att undervisa om tecknade serier. Min forskningsfråga är: vilka uppfattningar har bildkonstlärare om tecknade serier och deras användning i bildkonstundervisningen? Undersökningen är kvalitativ och fenomenografisk, och dess målgrupp är bildkonstlärare runtom i Finland. Jag samlade in materialet genom en webbenkät som bestod av både flervalsfrågor och öppna frågor. Som teoretiska perspektiv i min undersökning fungerade serieforskning, konstpedagogisk forskning, begreppet multilitteracitet, grunderna för läroplanen för den grundläggande utbildningen samt lärandeteorier inom pedagogisk psykologi och positiv psykologi.\n\nForskningsresultaten visar fyra olika uppfattningar om tecknade serier i bildkonstundervisningen. Mitt första resultat är att tecknade serier är inspirerande ur både elevens och lärarens perspektiv. I det andra forskningsresultatet ses tecknade serier som ett verktyg för att öva självuttryck, berättande och kreativitet. I den tredje uppfattningen upplevs tecknade serier som en mångsidig metod till vilken man i stor utsträckning kan knyta olika ämnen och mål för lärandet. Enligt den fjärde uppfattningen upplevs tecknade serier som utmanande av olika skäl, från bristande kunnande till försämrad läsförmåga. Bildkonstlärarna anser alltså att tecknade serier är en inspirerande, mångsidig och utmanande metod och ett verktyg för självuttryck i bildkonstundervisningen.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "tecknade serier",
+      "bildkonstpedagogik",
+      "konstpedagogik",
+      "fenomenografi",
+      "multilitteracitet",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Fenomenografisk forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien identifierar sig som kvalitativ och fenomenografisk och undersöker lärares uppfattningar."
+      },
+      {
+        "label": "Webbenkät",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet samlades genom en webbenkät med flervalsfrågor och öppna frågor."
+      },
+      {
+        "label": "Fenomenografisk analys",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 16,
+        "evidence_sv": "Forskaren anger att fenomenografisk analys används för att undersöka uppfattningar och deras inbördes relationer."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys och tematisering",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 16,
+        "evidence_sv": "Utöver fenomenografisk analys används kvalitativ innehållsanalys och tematisering."
+      }
+    ],
+    "method_note_sv": "Fenomenografi saknas som egen kategori i huvudmetodlistan och kodas som annan kvalitativ studie. Flervalsfrågor gör inte i sig studien till blandad metod; de utvalda PDF-utdragen identifierar kvalitativa analyser.",
+    "themes": [
+      "Undervisning och lärande",
+      "Estetik och visuell kultur"
+    ],
+    "topic_sv": "Bildkonstlärares uppfattningar om tecknade serier som undervisningsmetod och uttrycksform"
+  },
+  {
+    "id": "67391",
+    "title_sv": "Gruppfenomen: Konstbaserade metoder som bygger gruppanda",
+    "abstract_sv": "Konstbaserade metoder är en uppsättning arbetssätt inom kvalitativ forskning som kan synliggöra etablerade roller och handlingsmönster och i skolmiljö ge värdefull kunskap om relationer mellan elever och hierarkier inom gruppen.\n\nMin pro gradu-avhandling undersöker en högstadiegrupps dynamik och sociala relationer med hjälp av konstbaserad aktionsforskning. Mitt material består av sociogram gjorda i gruppen, verbala och visuella uttryck som uppstått i konstinterventioner och samtal med dem som deltagit i undersökningen samt information från ostrukturerad observation. Jag tolkar materialet genom den hermeneutiska forskningstraditionen och narrativ analys. Deltagarnas egna tolkningar och uttryck är betydelsefulla för min avhandling.\n\nJag ville förstå de sociala fenomen som framträdde i gruppen på djupet och gjorde eleverna delaktiga i analysfasen genom att fråga vad de tänkte om mina tolkningar. Under arbetet med avhandlingen upptäckte jag att de vuxnas arbetssätt har betydelse för gruppens gemenskap och gruppbildning. Jag reflekterar över de konstbaserade metodernas möjligheter att skapa gemenskap, stärka gruppandan och stödja utvecklingen till sig själv och till en del av den egna gemenskapen.\n\nMin avhandling visade att konstbaserade metoder fungerar för att kartlägga gruppdynamik. Vid de gemensamma verken berättade eleverna mer öppet för varandra och för de vuxna som ledde verksamheten om sina upplevelser, tankar och tolkningar än i andra vardagliga möten. Min avhandling visade också att projektarbete måste vara tydligt strukturerat och ha ett tydligt mål för alla, även om verksamheten tillåts växa fram organiskt med lyhördhet för gruppens behov.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "gemenskap",
+      "aktionsforskning",
+      "unga",
+      "gruppdynamik",
+      "konstbaserade metoder",
+      "delaktighet",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstbaserad aktionsforskning",
+    "methods": [
+      {
+        "label": "Konstbaserad aktionsforskning",
+        "kind": "design",
+        "basis": "pdf",
+        "pdf_page": 7,
+        "evidence_sv": "Abstraktet beskriver konstbaserad aktionsforskning och PDF-utdraget identifierar uttryckligen studien på samma sätt."
+      },
+      {
+        "label": "Sociogram och konstinterventioner",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet omfattar gruppens sociogram och verbala och visuella uttryck från konstinterventioner."
+      },
+      {
+        "label": "Samtal och ostrukturerad observation",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Samtal med deltagarna och ostrukturerad observation ingår i materialet."
+      },
+      {
+        "label": "Narrativ analys",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Forskaren anger att materialet tolkas genom narrativ analys."
+      },
+      {
+        "label": "Hermeneutisk forskningstradition",
+        "kind": "perspektiv",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Den hermeneutiska forskningstraditionen anges som grund för tolkningen."
+      },
+      {
+        "label": "Deltagarnas återkoppling på tolkningar",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Eleverna involverades i analysfasen genom att tillfrågas om forskarens tolkningar."
+      }
+    ],
+    "method_note_sv": "Konstbaserad aktionsforskning är uttryckligen identifierad i ett utvalt PDF-utdrag och har företräde som huvudmetod. Hermeneutik redovisas som tolkningsperspektiv och narrativ analys som analysmetod.",
+    "themes": [
+      "Samarbete och gemenskap",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "topic_sv": "Konstinterventioner, sociala hierarkier och gruppgemenskap i högstadiet"
+  },
+  {
+    "id": "67410",
+    "title_sv": "Hur misslyckande framträder i bildkonstverk: Universitetsstuderandes erfarenheter av att gestalta misslyckande",
+    "abstract_sv": "I denna pro gradu-avhandling undersöker jag erfarenheter av misslyckande och deras visuella uttryck i bildkonstverk skapade av studerande vid Lapplands universitet. Syftet med undersökningen är att utreda hur upplevt misslyckande syns i verken samt vilka motiv och visuella uttrycksmedel de studerande använder när de gestaltar misslyckande. Dessutom undersöker jag de studerandes egna erfarenheter och uppfattningar om misslyckande.\n\nUndersökningen är kvalitativ, materialbaserad och konstbaserad och vägleds av fenomenologisk-hermeneutiska utgångspunkter. Materialet samlades in under våren och hösten 2025 på en kvällskurs i teckning och i en konstverkstad på distans. Det består av 26 bildkonstverk, 11 anonyma enkätsvar, observation av deltagarnas arbete samt forskarens egna verk. Bilderna analyserades genom semiotisk bildanalys på denotativ och konnotativ nivå, och enkätmaterialet genom innehållsanalys.\n\nResultaten visar att misslyckande gestaltades särskilt genom ofullbordat tillstånd, otillräcklighet, osäkerhet och emotionell belastning. Verken använde symbolik, färger, gestalter och rumsliga lösningar för att uttrycka inre upplevelser. Misslyckande framträdde som indirekta visuella antydningar som återspeglade både kroppsliga och processuella erfarenheter samt sociala och affektiva spänningar.\n\nUndersökningen lyfter fram betydelsen av att bearbeta misslyckande som en del av bildkonstpedagogiken och den kreativa processen. Resultaten stödjer undervisningspraktiker som stärker acceptansen av det ofullbordade och förmågan att tåla ofullkomlighet i det konstnärliga arbetet.",
+    "translation_kind": "ai_translation",
+    "keywords_sv": [
+      "bildkonst",
+      "erfarenheter",
+      "konst",
+      "studerande",
+      "konstpedagogik",
+      "kreativitet",
+      "visuellt uttryck",
+      "konstnärligt arbete",
+      "färger",
+      "misslyckande",
+      "semiotik",
+      "misslyckande",
+      "konstpedagogik",
+      "semiotik",
+      "Bildkonstpedagogik"
+    ],
+    "primary_method": "Konstnärlig/konstbaserad forskning",
+    "methods": [
+      {
+        "label": "Konstbaserad kvalitativ forskning",
+        "kind": "design",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien identifieras som kvalitativ, materialbaserad och konstbaserad."
+      },
+      {
+        "label": "Fenomenologisk-hermeneutiska utgångspunkter",
+        "kind": "perspektiv",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Studien vägleds av fenomenologisk-hermeneutiska utgångspunkter."
+      },
+      {
+        "label": "Konstverk, enkät och observation",
+        "kind": "insamling",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Materialet består av 26 bildkonstverk, 11 anonyma enkätsvar, observationer och forskarens egna verk."
+      },
+      {
+        "label": "Semiotisk bildanalys",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Bilderna analyseras på denotativ och konnotativ nivå."
+      },
+      {
+        "label": "Innehållsanalys",
+        "kind": "analys",
+        "basis": "abstract",
+        "pdf_page": null,
+        "evidence_sv": "Enkätmaterialet analyseras genom innehållsanalys."
+      },
+      {
+        "label": "Konstnärlig syntes av resultat",
+        "kind": "analys",
+        "basis": "pdf",
+        "pdf_page": 6,
+        "evidence_sv": "Forskarens sex akrylmålningar tolkar teman ur deltagarnas verk och enkätsvar samt presenterar resultaten visuellt."
+      }
+    ],
+    "method_note_sv": "Huvudkoden följer studiens uttryckliga konstbaserade ansats. Fenomenologisk hermeneutik anges som utgångspunkt snarare än som separat analysprocedur. Ett utvalt PDF-utdrag kompletterar bilden med den egna konstproduktionens syntetiserande roll.",
+    "themes": [
+      "Konstnärlig praktik",
+      "Välbefinnande och omsorg",
+      "Estetik och visuell kultur"
+    ],
+    "topic_sv": "Visuella gestaltningar av misslyckande och studerandes erfarenheter av ofullkomlighet"
+  }
+]

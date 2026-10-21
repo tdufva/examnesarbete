@@ -1,0 +1,169 @@
+{
+  "checked_at": "2026-10-21",
+  "partial_calendar_year": true,
+  "lapland": {
+    "records": 17,
+    "open_pdf_files": 14,
+    "restricted": 3,
+    "query": "dc.date.issued:2026 AND (kuvataidekasv* OR \"art education\" OR bildkonstpedagog*)",
+    "collections": [
+      "10024/59344",
+      "10024/64254"
+    ],
+    "candidate_count": 29,
+    "excluded_other_programmes": 12,
+    "missing_programme_verified_from_pdf": [
+      "67368"
+    ]
+  },
+  "aalto": {
+    "checked_date": "2026-10-21",
+    "university": "Aalto",
+    "scope": "Master’s theses; Kuvataidekasvatus / Art Education; dc.date.issued starts with 2026; exclude NoVA",
+    "status": "metadata_recovered_via_primo; repository_and_pdf_checks_unavailable",
+    "completeness": "12 candidate Art Education master’s theses identified through public Primo metadata. These are not a confirmed exhaustive Aalto major harvest, because direct repository programme fields and PDFs could not be verified.",
+    "source_checks": [
+      {
+        "url": "https://aaltodoc.aalto.fi/",
+        "result": "Native in-app browser reports net::ERR_CONNECTION_REFUSED; web retrieval times out"
+      },
+      {
+        "url": "https://aaltodoc.aalto.fi/server/api",
+        "result": "Web retrieval returns HTTP 403; parent previously confirmed connection refused for REST on local network"
+      },
+      {
+        "url": "https://aaltodoc4.aalto.fi/",
+        "result": "Official-domain alternate found in search index; public HTTPS connection refuses (curl exit 7)"
+      },
+      {
+        "url": "https://aalto.finna.fi/Search/Results?lookfor=kuvataidekasvatus%202026&type=AllFields",
+        "result": "Native browser reaches Cloudflare security verification; did not interact with challenge"
+      },
+      {
+        "url": "https://kuvataidekasvatus.fi/maisterien-opinnaytteet/",
+        "result": "Department blog search index lists three 2026 posts, each about a previously catalogued 2025 thesis; no additional verified thesis issued in 2026"
+      },
+      {
+        "type": "web_search",
+        "queries": [
+          "site:aaltodoc.aalto.fi 2026 Kuvataidekasvatus",
+          "site:aaltodoc.aalto.fi 2026 Art Education thesis -NoVA",
+          "site:aaltodoc.aalto.fi \"2026\" \"Pusa, Tiina\"",
+          "site:aaltodoc.aalto.fi \"2026\" \"Tuovinen, Taneli\""
+        ],
+        "result": "No verified in-scope 2026 publication; broad result filename master_Alanen_Anni_2026.pdf is NoVA and Date 2025-12-22"
+      },
+      {
+        "url": "https://primo.aalto.fi/nde/search?query=kuvataidekasvatus&tab=Everything&search_scope=MyInst_and_CI&classify=true&mfacet=creationdate,include,%5B2026%20TO%202026%5D&offset=0&lang=en&vid=358AALTO_INST:MAIN",
+        "result": "Browser public search works; 14 records, six master’s theses. Five full records plus source records publicly displayable. Korhonen full record says cannot display and may require sign-in/on-campus; brief metadata remains publicly displayed. No access restriction bypassed."
+      }
+    ],
+    "excluded_blog_leads": [
+      {
+        "id": "5ddc04c5-f572-4753-a173-72b01a6ee442",
+        "title": "Visuaalisen ajattelun punoksessa: Ajattelun suunnan ja muotoutumisen kysymykset kuvataidekasvatuksen visuaalisen ajattelun teorioissa",
+        "date_issued": "2025-11-23",
+        "source_url": "https://aaltodoc.aalto.fi/handle/123456789/141286",
+        "provenance": "existing verified source metadata in luettelo.json and source_metadata.json",
+        "reason": "2026 department blog post date is not thesis issue date"
+      },
+      {
+        "id": "9d826e7a-4d1d-4c6b-be10-04695eb758c7",
+        "title": "Kalliokiipeily Ihmisen jälkeen: Erään ympäristösuhteen työstöä",
+        "date_issued": "2025-12-30",
+        "source_url": "https://aaltodoc.aalto.fi/handle/123456789/142594",
+        "provenance": "existing verified source metadata in luettelo.json and source_metadata.json",
+        "reason": "2026 department blog post date is not thesis issue date"
+      },
+      {
+        "id": "097c520d-e552-4449-b082-5ea0a8c04e4d",
+        "title": "”Mä lupaan, mä vannon” taiteellinen tutkimus valkoisesta instituutionaalisesta tilasta performanssin ja videoteoksen keinoin",
+        "date_issued": "2025-12-31",
+        "source_url": "https://aaltodoc.aalto.fi/handle/123456789/142587",
+        "provenance": "existing verified source metadata in luettelo.json and source_metadata.json",
+        "reason": "2026 department blog post date is not thesis issue date"
+      }
+    ],
+    "recommendation": "Re-run the Aaltodoc REST candidate harvest when its public service is reachable to verify exact major/programme, direct dc.date.issued and PDF openness. Until then label Primo-derived candidates and unverified PDF availability explicitly; never count connection refusal as closed access.",
+    "date_provenance": "date_issued is the date displayed by Primo as Creation Date / Published on; source simple DC has unqualified dc:date values. Direct dc.date.issued field unavailable while Aaltodoc refuses connections. All these display dates are in 2026. Accession timestamps are separately kept when visible.",
+    "primo_searches": [
+      {
+        "scope": "Everything / MyInst_and_CI",
+        "query": "kuvataidekasvatus",
+        "creation_date": [
+          2026,
+          2026
+        ],
+        "total": 14,
+        "masters": 6,
+        "results": "All 6 retained as candidates, 5 full metadata records and Korhonen public brief record"
+      },
+      {
+        "scope": "Aaltodoc",
+        "query": "\"Art Education\"",
+        "creation_date": [
+          2026,
+          2026
+        ],
+        "total": 19,
+        "masters": 12,
+        "results": "Adds Vainio, Männikkö, Hakala, Lautamatti, Ruusuneva; flags Byrne and Tokaj as possible NoVA awaiting programme verification"
+      },
+      {
+        "scope": "Aaltodoc",
+        "query": "\"Pusa, Tiina\"",
+        "creation_date": [
+          2026,
+          2026
+        ],
+        "total": 3,
+        "results": "Krage, Vainio, Korhonen already recovered"
+      },
+      {
+        "scope": "Aaltodoc",
+        "query": "\"Tuovinen, Taneli\"",
+        "creation_date": [
+          2026,
+          2026
+        ],
+        "total": 0,
+        "results": "No results; not evidence of no supervised theses outside index"
+      },
+      {
+        "scope": "Aaltodoc",
+        "query": "kuvataidekasvat*",
+        "creation_date": [
+          2026,
+          2026
+        ],
+        "total": 23,
+        "masters": 11,
+        "results": "All 11 master results inspected across pages 1 and 2 (7+4); adds Aronen. Other 12 records are bachelor’s theses."
+      }
+    ],
+    "pending_programme_candidates": [
+      {
+        "primo_id": "alma9910058397506526",
+        "author": "Byrne, Ciara",
+        "title": "Epistemic Splits: The Sticky Process of Knowledge Acquisition for Working-Class Academics in Art Education Research",
+        "date": "2026-05-24",
+        "contributors": [
+          "Buhl, Mie",
+          "Tervo, Juuso"
+        ],
+        "status": "possible_NoVA; programme unverified; not included among the 12 candidates passed for catalog"
+      },
+      {
+        "primo_id": "alma9910070301606526",
+        "author": "Tokaj, Hanna",
+        "title": "Hands, Sticks and Kinship: Plant-Human Relations Explored through Sensorial Workshops in Regenerative Curation and Art Education",
+        "date": "2026-07-31",
+        "contributors": [
+          "Buhl, Mie",
+          "Huopalainen, Astrid"
+        ],
+        "status": "possible_NoVA; programme unverified; not included among the 12 candidates passed for catalog"
+      }
+    ]
+  }
+}

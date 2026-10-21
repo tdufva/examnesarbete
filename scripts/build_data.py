@@ -23,7 +23,7 @@ def technique(label):
 def main():
     sources=json.loads((ROOT/'data/source_metadata.json').read_text())
     annotations=[]
-    for n in range(1,4):annotations+=json.loads((ROOT/f'data/annotations_{n}.json').read_text())
+    for path in sorted((ROOT/'data').glob('annotations_*.json')):annotations+=json.loads(path.read_text())
     ann={a['id']:a for a in annotations}
     assert len(ann)==len(sources)==len(annotations)
     records=[]
@@ -31,7 +31,7 @@ def main():
         a=ann[s['id']]
         for field in ('title_sv','abstract_sv','keywords_sv','primary_method','methods','themes','topic_sv','method_note_sv','translation_kind'):assert field in a,(s['id'],field)
         assert len(a['keywords_sv'])==len(s['keywords']),(s['id'],'keywords')
-        assert len(a['abstract_sv'])>len(s['original_abstract'])*.45,(s['id'],'possible truncation')
+        assert not s['original_abstract'] or len(a['abstract_sv'])>len(s['original_abstract'])*.45,(s['id'],'possible truncation')
         assert 1<=len(a['themes'])<=3
         for m in a['methods']:
             assert m['basis'] in ('abstract','pdf')
@@ -52,12 +52,13 @@ def main():
         universities[u]={'total':len(rs),'open':sum(r['open_pdf'] for r in rs),'themes':ranking(tc),'theme_counts':dict(tc),'primary_methods':ranking(Counter(r['primary_method'] for r in rs))}
     by_year=[]
     for u in ('Aalto','Lappland'):
-        for y in (2024,2025):
+        for y in sorted({r['year'] for r in records}):
             rs=[r for r in records if r['university']==u and r['year']==y]
             by_year.append(dict(university=u,year=y,total=len(rs),open=sum(r['open_pdf'] for r in rs)))
     coverage={'with_pdf_evidence':sum(any(m['basis']=='pdf' for m in r['methods']) for r in records),'abstract_only':sum(bool(r['methods']) and not any(m['basis']=='pdf' for m in r['methods']) for r in records),'no_methods':sum(not r['methods'] for r in records)}
     analysis={'total':total,'open':sum(r['open_pdf'] for r in records),'primary_methods':ranking(primary),'themes':ranking(themes),'keywords':ranking(keywords),'techniques':ranking(techniques),'universities':universities,'by_year':by_year,'method_coverage':coverage}
-    meta={'collected':'2026-10-21','scope':'Kuvataidekasvatus / Art Education; NoVA excluded','translation':'AI-assisted; original-language text retained; existing Swedish abstracts reused','classification':'AI-assisted interpretive coding; no independent double coding','pdfs':'Linked to the university archives; not republished','sources':['https://aaltodoc.aalto.fi/handle/123456789/3','https://lauda.ulapland.fi/handle/10024/59344','https://lauda.ulapland.fi/handle/10024/64254']}
+    coverage=json.loads((ROOT/'data/coverage.json').read_text())
+    meta={'collected':'2026-10-21','years':sorted({r['year'] for r in records}),'coverage':coverage,'partial_years':[2026],'scope':'Kuvataidekasvatus / Art Education; NoVA excluded','translation':'AI-assisted; original-language text retained; existing Swedish abstracts reused','classification':'AI-assisted interpretive coding; no independent double coding','pdfs':'Linked to the university archives; not republished','sources':['https://aaltodoc.aalto.fi/handle/123456789/3','https://lauda.ulapland.fi/handle/10024/59344','https://lauda.ulapland.fi/handle/10024/64254']}
     dest=ROOT/'docs/data';dest.mkdir(exist_ok=True)
     (dest/'theses.json').write_text(json.dumps({'metadata':meta,'records':records},ensure_ascii=False,indent=2)+'\n')
     (dest/'analysis.json').write_text(json.dumps(analysis,ensure_ascii=False,indent=2)+'\n')

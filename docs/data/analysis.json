@@ -1,37 +1,41 @@
 {
-  "total": 98,
-  "open": 82,
+  "total": 127,
+  "open": 96,
   "primary_methods": [
     {
       "label": "Konstbaserad aktionsforskning",
-      "count": 34
+      "count": 39
     },
     {
       "label": "Konstnärlig/konstbaserad forskning",
-      "count": 19
-    },
-    {
-      "label": "Autoetnografi",
-      "count": 8
+      "count": 30
     },
     {
       "label": "Annan kvalitativ studie",
-      "count": 7
+      "count": 13
+    },
+    {
+      "label": "Autoetnografi",
+      "count": 10
     },
     {
       "label": "Fenomenologisk/hermeneutisk studie",
       "count": 6
     },
     {
+      "label": "Aktionsforskning",
+      "count": 5
+    },
+    {
       "label": "Fallstudie",
-      "count": 4
+      "count": 5
     },
     {
       "label": "Intervjustudie",
       "count": 4
     },
     {
-      "label": "Aktionsforskning",
+      "label": "Litteraturstudie/metasyntes",
       "count": 3
     },
     {
@@ -40,10 +44,6 @@
     },
     {
       "label": "Enkätstudie",
-      "count": 2
-    },
-    {
-      "label": "Litteraturstudie/metasyntes",
       "count": 2
     },
     {
@@ -63,6 +63,10 @@
       "count": 1
     },
     {
+      "label": "Etnografi",
+      "count": 1
+    },
+    {
       "label": "Inte fastställbar",
       "count": 1
     }
@@ -70,108 +74,128 @@
   "themes": [
     {
       "label": "Undervisning och lärande",
-      "count": 46
+      "count": 56
     },
     {
       "label": "Konstnärlig praktik",
-      "count": 32
-    },
-    {
-      "label": "Samarbete och gemenskap",
-      "count": 28
+      "count": 49
     },
     {
       "label": "Kropp, sinnen och materialitet",
-      "count": 26
+      "count": 34
+    },
+    {
+      "label": "Samarbete och gemenskap",
+      "count": 32
     },
     {
       "label": "Välbefinnande och omsorg",
-      "count": 26
+      "count": 32
     },
     {
       "label": "Makt, delaktighet och rättvisa",
-      "count": 24
-    },
-    {
-      "label": "Natur och ekologisk hållbarhet",
-      "count": 24
+      "count": 30
     },
     {
       "label": "Kulturarv, plats och nordliga sammanhang",
-      "count": 19
+      "count": 25
+    },
+    {
+      "label": "Natur och ekologisk hållbarhet",
+      "count": 25
     },
     {
       "label": "Identitet och profession",
-      "count": 17
-    },
-    {
-      "label": "Kunskap och vetenskap",
-      "count": 13
+      "count": 24
     },
     {
       "label": "Estetik och visuell kultur",
-      "count": 12
+      "count": 19
+    },
+    {
+      "label": "Kunskap och vetenskap",
+      "count": 18
     },
     {
       "label": "Digital kultur och medier",
-      "count": 11
+      "count": 13
     }
   ],
   "keywords": [
     {
       "label": "konst",
-      "count": 23
+      "count": 30
+    },
+    {
+      "label": "bildkonst",
+      "count": 26
     },
     {
       "label": "bildpedagogik",
       "count": 22
     },
     {
-      "label": "bildkonst",
+      "label": "konstnärlig forskning",
       "count": 16
     },
     {
-      "label": "konstnärlig forskning",
+      "label": "konstbaserade metoder",
       "count": 12
     },
     {
-      "label": "konstbaserade metoder",
+      "label": "erfarenheter",
+      "count": 10
+    },
+    {
+      "label": "undervisning",
       "count": 10
     },
     {
       "label": "aktionsforskning",
-      "count": 7
+      "count": 9
     },
     {
       "label": "konstbaserad aktionsforskning",
-      "count": 7
-    },
-    {
-      "label": "posthumanism",
-      "count": 7
-    },
-    {
-      "label": "erfarenheter",
-      "count": 6
-    },
-    {
-      "label": "fotografi",
-      "count": 6
-    },
-    {
-      "label": "samtidskonst",
-      "count": 6
-    },
-    {
-      "label": "undervisning",
-      "count": 6
-    },
-    {
-      "label": "unga",
-      "count": 6
+      "count": 9
     },
     {
       "label": "gemenskap",
+      "count": 8
+    },
+    {
+      "label": "posthumanism",
+      "count": 8
+    },
+    {
+      "label": "samtidskonst",
+      "count": 8
+    },
+    {
+      "label": "unga",
+      "count": 8
+    },
+    {
+      "label": "fotografi",
+      "count": 7
+    },
+    {
+      "label": "identitet",
+      "count": 7
+    },
+    {
+      "label": "delaktighet",
+      "count": 6
+    },
+    {
+      "label": "kreativitet",
+      "count": 6
+    },
+    {
+      "label": "autoetnografi",
+      "count": 5
+    },
+    {
+      "label": "gemenskapskonst",
       "count": 5
     },
     {
@@ -179,7 +203,19 @@
       "count": 5
     },
     {
-      "label": "identitet",
+      "label": "gymnasium",
+      "count": 5
+    },
+    {
+      "label": "konstbaserad forskning",
+      "count": 5
+    },
+    {
+      "label": "kroppslighet",
+      "count": 5
+    },
+    {
+      "label": "lärande",
       "count": 5
     },
     {
@@ -187,19 +223,11 @@
       "count": 5
     },
     {
-      "label": "autoetnografi",
-      "count": 4
+      "label": "välbefinnande",
+      "count": 5
     },
     {
-      "label": "delaktighet",
-      "count": 4
-    },
-    {
-      "label": "gymnasium",
-      "count": 4
-    },
-    {
-      "label": "konstbaserad forskning",
+      "label": "konstnärligt arbete",
       "count": 4
     },
     {
@@ -207,12 +235,24 @@
       "count": 4
     },
     {
+      "label": "måleri",
+      "count": 4
+    },
+    {
+      "label": "natur",
+      "count": 4
+    },
+    {
       "label": "projekt",
       "count": 4
     },
     {
-      "label": "välbefinnande",
-      "count": 4
+      "label": "aktörskap",
+      "count": 3
+    },
+    {
+      "label": "deltagande",
+      "count": 3
     },
     {
       "label": "dialog",
@@ -231,23 +271,7 @@
       "count": 3
     },
     {
-      "label": "kroppslighet",
-      "count": 3
-    },
-    {
-      "label": "lärande",
-      "count": 3
-    },
-    {
       "label": "miljökonstpedagogik",
-      "count": 3
-    },
-    {
-      "label": "måleri",
-      "count": 3
-    },
-    {
-      "label": "natur",
       "count": 3
     },
     {
@@ -275,7 +299,11 @@
       "count": 3
     },
     {
-      "label": "aktörskap",
+      "label": "studerande",
+      "count": 3
+    },
+    {
+      "label": "affekt",
       "count": 2
     },
     {
@@ -287,11 +315,11 @@
       "count": 2
     },
     {
-      "label": "deltagande",
+      "label": "ekosocial bildning",
       "count": 2
     },
     {
-      "label": "ekosocial bildning",
+      "label": "elever",
       "count": 2
     },
     {
@@ -303,11 +331,15 @@
       "count": 2
     },
     {
-      "label": "framtid",
+      "label": "fenomenologi",
       "count": 2
     },
     {
-      "label": "gemenskapskonst",
+      "label": "fotokonst",
+      "count": 2
+    },
+    {
+      "label": "framtid",
       "count": 2
     },
     {
@@ -319,11 +351,19 @@
       "count": 2
     },
     {
+      "label": "illustration",
+      "count": 2
+    },
+    {
       "label": "informellt lärande",
       "count": 2
     },
     {
       "label": "integration",
+      "count": 2
+    },
+    {
+      "label": "interaktion",
       "count": 2
     },
     {
@@ -351,7 +391,7 @@
       "count": 2
     },
     {
-      "label": "kreativitet",
+      "label": "konstuppfattningar",
       "count": 2
     },
     {
@@ -359,11 +399,35 @@
       "count": 2
     },
     {
+      "label": "landskap",
+      "count": 2
+    },
+    {
       "label": "landskapsforskning",
       "count": 2
     },
     {
+      "label": "lappland",
+      "count": 2
+    },
+    {
+      "label": "ljudkonst",
+      "count": 2
+    },
+    {
       "label": "mediepedagogik",
+      "count": 2
+    },
+    {
+      "label": "misslyckande",
+      "count": 2
+    },
+    {
+      "label": "motivation",
+      "count": 2
+    },
+    {
+      "label": "multilitteracitet",
       "count": 2
     },
     {
@@ -387,6 +451,14 @@
       "count": 2
     },
     {
+      "label": "reflektion",
+      "count": 2
+    },
+    {
+      "label": "serier",
+      "count": 2
+    },
+    {
       "label": "stadsaktivism",
       "count": 2
     },
@@ -395,11 +467,23 @@
       "count": 2
     },
     {
+      "label": "tecknade serier",
+      "count": 2
+    },
+    {
       "label": "tillämpad konst",
       "count": 2
     },
     {
       "label": "utbildningsprogrammet i bildkonstpedagogik",
+      "count": 2
+    },
+    {
+      "label": "utvecklingsforskning",
+      "count": 2
+    },
+    {
+      "label": "vardag",
       "count": 2
     },
     {
@@ -419,15 +503,15 @@
       "count": 2
     },
     {
+      "label": "workshoppar",
+      "count": 2
+    },
+    {
       "label": "ableism",
       "count": 1
     },
     {
       "label": "adh",
-      "count": 1
-    },
-    {
-      "label": "affekt",
       "count": 1
     },
     {
@@ -444,6 +528,10 @@
     },
     {
       "label": "alkemi",
+      "count": 1
+    },
+    {
+      "label": "amatör",
       "count": 1
     },
     {
@@ -467,6 +555,10 @@
       "count": 1
     },
     {
+      "label": "arkivariens roll",
+      "count": 1
+    },
+    {
       "label": "arktiska regionen",
       "count": 1
     },
@@ -480,6 +572,10 @@
     },
     {
       "label": "autism",
+      "count": 1
+    },
+    {
+      "label": "autofiktion",
       "count": 1
     },
     {
@@ -555,7 +651,19 @@
       "count": 1
     },
     {
+      "label": "budosporter",
+      "count": 1
+    },
+    {
+      "label": "daghem",
+      "count": 1
+    },
+    {
       "label": "dans",
+      "count": 1
+    },
+    {
+      "label": "datalogiskt tänkande",
       "count": 1
     },
     {
@@ -572,6 +680,14 @@
     },
     {
       "label": "demokrati",
+      "count": 1
+    },
+    {
+      "label": "den arkiviska vändningen",
+      "count": 1
+    },
+    {
+      "label": "den lyssnande kroppen",
       "count": 1
     },
     {
@@ -599,6 +715,10 @@
       "count": 1
     },
     {
+      "label": "digi-grasping",
+      "count": 1
+    },
+    {
       "label": "digitala spel",
       "count": 1
     },
@@ -608,6 +728,10 @@
     },
     {
       "label": "diskussion",
+      "count": 1
+    },
+    {
+      "label": "distansundervisning",
       "count": 1
     },
     {
@@ -635,6 +759,10 @@
       "count": 1
     },
     {
+      "label": "egen praktik",
+      "count": 1
+    },
+    {
       "label": "ekocentrism",
       "count": 1
     },
@@ -643,11 +771,19 @@
       "count": 1
     },
     {
+      "label": "ekosocial konstpedagogik",
+      "count": 1
+    },
+    {
       "label": "elevcentrering",
       "count": 1
     },
     {
-      "label": "elever",
+      "label": "empirism",
+      "count": 1
+    },
+    {
+      "label": "enföräldersfamilj",
       "count": 1
     },
     {
@@ -671,7 +807,15 @@
       "count": 1
     },
     {
+      "label": "etnografi",
+      "count": 1
+    },
+    {
       "label": "etnografisk forskning",
+      "count": 1
+    },
+    {
+      "label": "explicit kunskap",
       "count": 1
     },
     {
@@ -679,11 +823,15 @@
       "count": 1
     },
     {
+      "label": "feministisk aktionsforskning",
+      "count": 1
+    },
+    {
       "label": "feministiska nymaterialismer",
       "count": 1
     },
     {
-      "label": "fenomenologi",
+      "label": "fenomenografi",
       "count": 1
     },
     {
@@ -707,11 +855,23 @@
       "count": 1
     },
     {
+      "label": "folkdräkter",
+      "count": 1
+    },
+    {
       "label": "folkhögskola",
       "count": 1
     },
     {
       "label": "folkhögskoleår",
+      "count": 1
+    },
+    {
+      "label": "folkliga dräkter",
+      "count": 1
+    },
+    {
+      "label": "folklivsskildring",
       "count": 1
     },
     {
@@ -723,7 +883,7 @@
       "count": 1
     },
     {
-      "label": "fotokonst",
+      "label": "fotografiundervisning",
       "count": 1
     },
     {
@@ -732,6 +892,10 @@
     },
     {
       "label": "färdighetsinlärning",
+      "count": 1
+    },
+    {
+      "label": "färger",
       "count": 1
     },
     {
@@ -751,7 +915,23 @@
       "count": 1
     },
     {
+      "label": "förändring",
+      "count": 1
+    },
+    {
+      "label": "gemenskaper",
+      "count": 1
+    },
+    {
+      "label": "glas",
+      "count": 1
+    },
+    {
       "label": "grounded theory",
+      "count": 1
+    },
+    {
+      "label": "grundläggande konstundervisning",
       "count": 1
     },
     {
@@ -760,6 +940,10 @@
     },
     {
       "label": "gruppbildning",
+      "count": 1
+    },
+    {
+      "label": "gruppdynamik",
       "count": 1
     },
     {
@@ -783,6 +967,10 @@
       "count": 1
     },
     {
+      "label": "hem",
+      "count": 1
+    },
+    {
       "label": "hermeneutik",
       "count": 1
     },
@@ -799,6 +987,10 @@
       "count": 1
     },
     {
+      "label": "högskoleundervisning",
+      "count": 1
+    },
+    {
       "label": "icke-formellt lärande",
       "count": 1
     },
@@ -807,7 +999,7 @@
       "count": 1
     },
     {
-      "label": "illustration",
+      "label": "individuation",
       "count": 1
     },
     {
@@ -824,10 +1016,6 @@
     },
     {
       "label": "institutionell vithet",
-      "count": 1
-    },
-    {
-      "label": "interaktion",
       "count": 1
     },
     {
@@ -851,7 +1039,15 @@
       "count": 1
     },
     {
+      "label": "involvering",
+      "count": 1
+    },
+    {
       "label": "involvering av deltagare",
+      "count": 1
+    },
+    {
+      "label": "john dewey",
       "count": 1
     },
     {
@@ -863,7 +1059,19 @@
       "count": 1
     },
     {
+      "label": "jungianism",
+      "count": 1
+    },
+    {
+      "label": "jämlikhet i utbildningen",
+      "count": 1
+    },
+    {
       "label": "kamratbedömning (bedömningsmetoder)",
+      "count": 1
+    },
+    {
+      "label": "karelianism",
       "count": 1
     },
     {
@@ -895,7 +1103,15 @@
       "count": 1
     },
     {
+      "label": "konstbaserad arkivpedagogik",
+      "count": 1
+    },
+    {
       "label": "konstfakulteten / bildkonstpedagogik",
+      "count": 1
+    },
+    {
+      "label": "konstfilosofi",
       "count": 1
     },
     {
@@ -931,6 +1147,14 @@
       "count": 1
     },
     {
+      "label": "konstpedagogik för vuxna",
+      "count": 1
+    },
+    {
+      "label": "konstpedagogiskt rum",
+      "count": 1
+    },
+    {
       "label": "konstpedagogiskt tänkande",
       "count": 1
     },
@@ -943,7 +1167,7 @@
       "count": 1
     },
     {
-      "label": "konstuppfattningar",
+      "label": "konstutställning",
       "count": 1
     },
     {
@@ -967,6 +1191,18 @@
       "count": 1
     },
     {
+      "label": "kreativ programmering",
+      "count": 1
+    },
+    {
+      "label": "kreativ verksamhet",
+      "count": 1
+    },
+    {
+      "label": "kreativt landskap",
+      "count": 1
+    },
+    {
       "label": "kritisk pedagogik",
       "count": 1
     },
@@ -975,11 +1211,35 @@
       "count": 1
     },
     {
+      "label": "kritiskt tänkande",
+      "count": 1
+    },
+    {
+      "label": "kropp och sinne",
+      "count": 1
+    },
+    {
+      "label": "kroppskartläggning",
+      "count": 1
+    },
+    {
       "label": "kroppskultur",
       "count": 1
     },
     {
       "label": "kroppskunskap",
+      "count": 1
+    },
+    {
+      "label": "kroppsligt minne",
+      "count": 1
+    },
+    {
+      "label": "kroppsligt tecknande",
+      "count": 1
+    },
+    {
+      "label": "kroppsminnen",
       "count": 1
     },
     {
@@ -1011,14 +1271,6 @@
       "count": 1
     },
     {
-      "label": "landskap",
-      "count": 1
-    },
-    {
-      "label": "lappland",
-      "count": 1
-    },
-    {
       "label": "lera",
       "count": 1
     },
@@ -1043,7 +1295,7 @@
       "count": 1
     },
     {
-      "label": "ljudkonst",
+      "label": "ljudinstallation",
       "count": 1
     },
     {
@@ -1056,6 +1308,10 @@
     },
     {
       "label": "lärarens roll",
+      "count": 1
+    },
+    {
+      "label": "läraridentitet",
       "count": 1
     },
     {
@@ -1091,11 +1347,19 @@
       "count": 1
     },
     {
+      "label": "lågfrekventa ljudvibrationer",
+      "count": 1
+    },
+    {
       "label": "långsam film",
       "count": 1
     },
     {
       "label": "långsamhet",
+      "count": 1
+    },
+    {
+      "label": "marion milner",
       "count": 1
     },
     {
@@ -1119,6 +1383,10 @@
       "count": 1
     },
     {
+      "label": "maurice merleau-ponty",
+      "count": 1
+    },
+    {
       "label": "medborgarfostran",
       "count": 1
     },
@@ -1135,11 +1403,27 @@
       "count": 1
     },
     {
+      "label": "meditation",
+      "count": 1
+    },
+    {
       "label": "medvetande",
       "count": 1
     },
     {
       "label": "medveten närvaro",
+      "count": 1
+    },
+    {
+      "label": "metakognition",
+      "count": 1
+    },
+    {
+      "label": "miljöfostran",
+      "count": 1
+    },
+    {
+      "label": "miljöinriktad konstpedagogik",
       "count": 1
     },
     {
@@ -1159,7 +1443,7 @@
       "count": 1
     },
     {
-      "label": "misslyckande",
+      "label": "mircea eliade",
       "count": 1
     },
     {
@@ -1167,11 +1451,15 @@
       "count": 1
     },
     {
-      "label": "motivation",
+      "label": "moderskap",
       "count": 1
     },
     {
-      "label": "multilitteracitet",
+      "label": "multimodalitet",
+      "count": 1
+    },
+    {
+      "label": "multisensorialitet",
       "count": 1
     },
     {
@@ -1208,6 +1496,10 @@
     },
     {
       "label": "möte",
+      "count": 1
+    },
+    {
+      "label": "narrativitet",
       "count": 1
     },
     {
@@ -1251,11 +1543,19 @@
       "count": 1
     },
     {
+      "label": "observation",
+      "count": 1
+    },
+    {
       "label": "odlingslott",
       "count": 1
     },
     {
       "label": "offentligt rum",
+      "count": 1
+    },
+    {
+      "label": "ofullbordat tillstånd",
       "count": 1
     },
     {
@@ -1276,6 +1576,10 @@
     },
     {
       "label": "pedagogiska praktiker",
+      "count": 1
+    },
+    {
+      "label": "performativt skrivande",
       "count": 1
     },
     {
@@ -1303,6 +1607,10 @@
       "count": 1
     },
     {
+      "label": "platsrelation",
+      "count": 1
+    },
+    {
       "label": "platsspecifik konst",
       "count": 1
     },
@@ -1315,11 +1623,43 @@
       "count": 1
     },
     {
+      "label": "postdigital",
+      "count": 1
+    },
+    {
       "label": "postkvalitativitet",
       "count": 1
     },
     {
+      "label": "problemlösning",
+      "count": 1
+    },
+    {
+      "label": "process",
+      "count": 1
+    },
+    {
+      "label": "processer",
+      "count": 1
+    },
+    {
+      "label": "programmering",
+      "count": 1
+    },
+    {
       "label": "psykisk ohälsa",
+      "count": 1
+    },
+    {
+      "label": "psykoanalys",
+      "count": 1
+    },
+    {
+      "label": "relationalitet",
+      "count": 1
+    },
+    {
+      "label": "religionsfenomenologi",
       "count": 1
     },
     {
@@ -1359,6 +1699,14 @@
       "count": 1
     },
     {
+      "label": "rörelse",
+      "count": 1
+    },
+    {
+      "label": "rörelsefilosofi",
+      "count": 1
+    },
+    {
       "label": "samarbete",
       "count": 1
     },
@@ -1395,7 +1743,7 @@
       "count": 1
     },
     {
-      "label": "serier",
+      "label": "semiotik",
       "count": 1
     },
     {
@@ -1408,6 +1756,10 @@
     },
     {
       "label": "situation",
+      "count": 1
+    },
+    {
+      "label": "situerad kunskap",
       "count": 1
     },
     {
@@ -1443,6 +1795,14 @@
       "count": 1
     },
     {
+      "label": "skymundan",
+      "count": 1
+    },
+    {
+      "label": "småbarnspedagogik",
+      "count": 1
+    },
+    {
       "label": "social form",
       "count": 1
     },
@@ -1452,6 +1812,10 @@
     },
     {
       "label": "socialt stärkande",
+      "count": 1
+    },
+    {
+      "label": "socioekonomisk ojämlikhet",
       "count": 1
     },
     {
@@ -1495,7 +1859,7 @@
       "count": 1
     },
     {
-      "label": "studerande",
+      "label": "studiehandböcker",
       "count": 1
     },
     {
@@ -1511,6 +1875,22 @@
       "count": 1
     },
     {
+      "label": "suomalaisen kirjallisuuden seura",
+      "count": 1
+    },
+    {
+      "label": "symboler",
+      "count": 1
+    },
+    {
+      "label": "säsongsarbete",
+      "count": 1
+    },
+    {
+      "label": "tai chi",
+      "count": 1
+    },
+    {
       "label": "tatuering",
       "count": 1
     },
@@ -1523,15 +1903,19 @@
       "count": 1
     },
     {
-      "label": "tecknade serier",
-      "count": 1
-    },
-    {
       "label": "tecknande",
       "count": 1
     },
     {
       "label": "teckning",
+      "count": 1
+    },
+    {
+      "label": "teckning (konst)",
+      "count": 1
+    },
+    {
+      "label": "teknisk ritning",
       "count": 1
     },
     {
@@ -1599,6 +1983,10 @@
       "count": 1
     },
     {
+      "label": "tänkande",
+      "count": 1
+    },
+    {
       "label": "undervisningsmetoder",
       "count": 1
     },
@@ -1615,6 +2003,10 @@
       "count": 1
     },
     {
+      "label": "universitet",
+      "count": 1
+    },
+    {
       "label": "upplevande",
       "count": 1
     },
@@ -1627,15 +2019,19 @@
       "count": 1
     },
     {
+      "label": "utbildning",
+      "count": 1
+    },
+    {
       "label": "utbildning i bildkonstpedagogik",
       "count": 1
     },
     {
-      "label": "utveckling",
+      "label": "utbildningsprogram",
       "count": 1
     },
     {
-      "label": "utvecklingsforskning",
+      "label": "utveckling",
       "count": 1
     },
     {
@@ -1659,10 +2055,6 @@
       "count": 1
     },
     {
-      "label": "vardag",
-      "count": 1
-    },
-    {
       "label": "varumärke",
       "count": 1
     },
@@ -1676,6 +2068,10 @@
     },
     {
       "label": "verkstadsverksamhet",
+      "count": 1
+    },
+    {
+      "label": "verkstäder",
       "count": 1
     },
     {
@@ -1727,6 +2123,10 @@
       "count": 1
     },
     {
+      "label": "visuellt uttryck",
+      "count": 1
+    },
+    {
       "label": "vital materialism",
       "count": 1
     },
@@ -1751,11 +2151,11 @@
       "count": 1
     },
     {
-      "label": "workshoppar",
+      "label": "yayoi kusama",
       "count": 1
     },
     {
-      "label": "yayoi kusama",
+      "label": "yoga",
       "count": 1
     },
     {
@@ -1774,50 +2174,74 @@
   "techniques": [
     {
       "label": "Intervjuer",
-      "count": 24
+      "count": 29
     },
     {
       "label": "Innehållsanalys",
-      "count": 20
+      "count": 27
     },
     {
       "label": "Tematisk analys",
+      "count": 21
+    },
+    {
+      "label": "Konstbaserat arbete som material",
       "count": 17
     },
     {
       "label": "Dagböcker",
-      "count": 11
-    },
-    {
-      "label": "Konstbaserat arbete som material",
-      "count": 11
+      "count": 16
     },
     {
       "label": "Observation",
-      "count": 9
+      "count": 14
     },
     {
       "label": "Enkäter",
-      "count": 5
+      "count": 11
     },
     {
       "label": "Foto- och videodokumentation",
-      "count": 5
+      "count": 7
+    },
+    {
+      "label": "Diskursanalys",
+      "count": 4
     },
     {
       "label": "Narrativ analys",
-      "count": 3
+      "count": 4
     },
     {
       "label": "Workshoppar",
       "count": 3
     },
     {
-      "label": "Diskursanalys",
+      "label": "Dokumentmaterial",
       "count": 2
     },
     {
+      "label": "Fenomenografisk analys",
+      "count": 2
+    },
+    {
+      "label": "Performativt skrivande",
+      "count": 2
+    },
+    {
+      "label": "Semiotisk bildanalys",
+      "count": 2
+    },
+    {
+      "label": "Analys av arbetsprocesser och undervisningssituationer",
+      "count": 1
+    },
+    {
       "label": "Analys av undervisningsplanering och genomförande",
+      "count": 1
+    },
+    {
+      "label": "Associativ bearbetning av litteratur, undervisningssituationer och minnen",
       "count": 1
     },
     {
@@ -1833,6 +2257,10 @@
       "count": 1
     },
     {
+      "label": "Deltagarnas återkoppling på tolkningar",
+      "count": 1
+    },
+    {
       "label": "Diffraktiv läsning",
       "count": 1
     },
@@ -1841,15 +2269,23 @@
       "count": 1
     },
     {
+      "label": "Dokumentation och skriftliga utvärderingar",
+      "count": 1
+    },
+    {
       "label": "Dokumenterade utvecklingscykler",
       "count": 1
     },
     {
-      "label": "Dokumentmaterial",
+      "label": "Eget handarbetsprojekt som material",
       "count": 1
     },
     {
-      "label": "Eget handarbetsprojekt som material",
+      "label": "Egna erfarenheter och minnen",
+      "count": 1
+    },
+    {
+      "label": "Egna kroppsliga erfarenheter",
       "count": 1
     },
     {
@@ -1885,11 +2321,35 @@
       "count": 1
     },
     {
+      "label": "Glasflätning och ljudinstallation",
+      "count": 1
+    },
+    {
       "label": "Gruppdiskussioner och gemensam reflektion",
       "count": 1
     },
     {
+      "label": "Gruppering av konstverk",
+      "count": 1
+    },
+    {
       "label": "Informationsinsamling från experter och dokument",
+      "count": 1
+    },
+    {
+      "label": "Inspelade samtal",
+      "count": 1
+    },
+    {
+      "label": "Jämförande förändringsanalys",
+      "count": 1
+    },
+    {
+      "label": "Jämförande och självreflekterande analys av teckningsprocessen",
+      "count": 1
+    },
+    {
+      "label": "Jämförelse av synlighet över tid",
       "count": 1
     },
     {
@@ -1902,6 +2362,34 @@
     },
     {
       "label": "Konstbaserat experimentellt skrivande",
+      "count": 1
+    },
+    {
+      "label": "Konstpedagogisk verkstadsprocess och multimodalt material",
+      "count": 1
+    },
+    {
+      "label": "Konstverkstad",
+      "count": 1
+    },
+    {
+      "label": "Konstverkstad och deltagarproducerade bilder",
+      "count": 1
+    },
+    {
+      "label": "Kvalitativ materialbaserad analys",
+      "count": 1
+    },
+    {
+      "label": "Kvantifiering",
+      "count": 1
+    },
+    {
+      "label": "Litteraturmaterial",
+      "count": 1
+    },
+    {
+      "label": "Ljudvandringar och ljudteckningar",
       "count": 1
     },
     {
@@ -1918,6 +2406,10 @@
     },
     {
       "label": "Målningar och arbetsanteckningar",
+      "count": 1
+    },
+    {
+      "label": "Närläsning",
       "count": 1
     },
     {
@@ -1941,7 +2433,19 @@
       "count": 1
     },
     {
+      "label": "Processdokumentation, samtal och självvärderingar",
+      "count": 1
+    },
+    {
+      "label": "Reducerande, klustrande och abstraherande analys",
+      "count": 1
+    },
+    {
       "label": "Reflekterande fallanalyser",
+      "count": 1
+    },
+    {
+      "label": "Reflekterande granskning av fyra fallexempel",
       "count": 1
     },
     {
@@ -1969,6 +2473,10 @@
       "count": 1
     },
     {
+      "label": "Självreflektion",
+      "count": 1
+    },
+    {
       "label": "Skriftlig och visuell dokumentation",
       "count": 1
     },
@@ -1977,11 +2485,23 @@
       "count": 1
     },
     {
+      "label": "Skriftligt och visuellt material",
+      "count": 1
+    },
+    {
       "label": "Skönlitterärt skrivande",
       "count": 1
     },
     {
+      "label": "Sociogram och konstinterventioner",
+      "count": 1
+    },
+    {
       "label": "Speltestning och respons",
+      "count": 1
+    },
+    {
+      "label": "Tecknande och reflekterande skrivande",
       "count": 1
     },
     {
@@ -1997,7 +2517,15 @@
       "count": 1
     },
     {
+      "label": "Teorivägledd analys och abduktiv slutledning",
+      "count": 1
+    },
+    {
       "label": "Textanalys",
+      "count": 1
+    },
+    {
+      "label": "Tolkning av dräktmotivens betydelser",
       "count": 1
     },
     {
@@ -2006,6 +2534,10 @@
     },
     {
       "label": "Tre kamratbedömningstillfällen under undervisningspraktik",
+      "count": 1
+    },
+    {
+      "label": "Undervisningsförsök och elevproducerat material",
       "count": 1
     },
     {
@@ -2047,36 +2579,40 @@
   ],
   "universities": {
     "Aalto": {
-      "total": 48,
+      "total": 60,
       "open": 36,
       "themes": [
         {
           "label": "Konstnärlig praktik",
-          "count": 23
+          "count": 30
         },
         {
           "label": "Kropp, sinnen och materialitet",
-          "count": 21
+          "count": 27
         },
         {
           "label": "Undervisning och lärande",
-          "count": 17
+          "count": 19
         },
         {
           "label": "Välbefinnande och omsorg",
-          "count": 11
+          "count": 15
         },
         {
           "label": "Identitet och profession",
-          "count": 10
+          "count": 13
         },
         {
           "label": "Makt, delaktighet och rättvisa",
-          "count": 10
+          "count": 13
+        },
+        {
+          "label": "Kulturarv, plats och nordliga sammanhang",
+          "count": 11
         },
         {
           "label": "Kunskap och vetenskap",
-          "count": 8
+          "count": 11
         },
         {
           "label": "Natur och ekologisk hållbarhet",
@@ -2087,12 +2623,8 @@
           "count": 8
         },
         {
-          "label": "Kulturarv, plats och nordliga sammanhang",
-          "count": 7
-        },
-        {
           "label": "Estetik och visuell kultur",
-          "count": 6
+          "count": 7
         },
         {
           "label": "Digital kultur och medier",
@@ -2100,35 +2632,35 @@
         }
       ],
       "theme_counts": {
-        "Estetik och visuell kultur": 6,
-        "Kulturarv, plats och nordliga sammanhang": 7,
-        "Makt, delaktighet och rättvisa": 10,
+        "Estetik och visuell kultur": 7,
+        "Kulturarv, plats och nordliga sammanhang": 11,
+        "Makt, delaktighet och rättvisa": 13,
         "Samarbete och gemenskap": 8,
+        "Kropp, sinnen och materialitet": 27,
+        "Konstnärlig praktik": 30,
         "Natur och ekologisk hållbarhet": 8,
-        "Kropp, sinnen och materialitet": 21,
-        "Konstnärlig praktik": 23,
-        "Undervisning och lärande": 17,
-        "Kunskap och vetenskap": 8,
-        "Välbefinnande och omsorg": 11,
-        "Identitet och profession": 10,
+        "Undervisning och lärande": 19,
+        "Kunskap och vetenskap": 11,
+        "Välbefinnande och omsorg": 15,
+        "Identitet och profession": 13,
         "Digital kultur och medier": 5
       },
       "primary_methods": [
         {
           "label": "Konstnärlig/konstbaserad forskning",
-          "count": 15
+          "count": 21
+        },
+        {
+          "label": "Autoetnografi",
+          "count": 8
         },
         {
           "label": "Konstbaserad aktionsforskning",
           "count": 8
         },
         {
-          "label": "Autoetnografi",
-          "count": 7
-        },
-        {
           "label": "Annan kvalitativ studie",
-          "count": 4
+          "count": 7
         },
         {
           "label": "Narrativ/biografisk forskning",
@@ -2147,6 +2679,14 @@
           "count": 2
         },
         {
+          "label": "Litteraturstudie/metasyntes",
+          "count": 2
+        },
+        {
+          "label": "Aktionsforskning",
+          "count": 1
+        },
+        {
           "label": "Blandad metod",
           "count": 1
         },
@@ -2159,105 +2699,105 @@
           "count": 1
         },
         {
-          "label": "Litteraturstudie/metasyntes",
-          "count": 1
-        },
-        {
           "label": "Teoretisk/filosofisk studie",
           "count": 1
         }
       ]
     },
     "Lappland": {
-      "total": 50,
-      "open": 46,
+      "total": 67,
+      "open": 60,
       "themes": [
         {
           "label": "Undervisning och lärande",
-          "count": 29
+          "count": 37
         },
         {
           "label": "Samarbete och gemenskap",
-          "count": 20
-        },
-        {
-          "label": "Natur och ekologisk hållbarhet",
-          "count": 16
-        },
-        {
-          "label": "Välbefinnande och omsorg",
-          "count": 15
-        },
-        {
-          "label": "Makt, delaktighet och rättvisa",
-          "count": 14
-        },
-        {
-          "label": "Kulturarv, plats och nordliga sammanhang",
-          "count": 12
+          "count": 24
         },
         {
           "label": "Konstnärlig praktik",
-          "count": 9
+          "count": 19
         },
         {
-          "label": "Identitet och profession",
-          "count": 7
+          "label": "Makt, delaktighet och rättvisa",
+          "count": 17
         },
         {
-          "label": "Digital kultur och medier",
-          "count": 6
+          "label": "Natur och ekologisk hållbarhet",
+          "count": 17
+        },
+        {
+          "label": "Välbefinnande och omsorg",
+          "count": 17
+        },
+        {
+          "label": "Kulturarv, plats och nordliga sammanhang",
+          "count": 14
         },
         {
           "label": "Estetik och visuell kultur",
-          "count": 6
+          "count": 12
+        },
+        {
+          "label": "Identitet och profession",
+          "count": 11
+        },
+        {
+          "label": "Digital kultur och medier",
+          "count": 8
         },
         {
           "label": "Kropp, sinnen och materialitet",
-          "count": 5
+          "count": 7
         },
         {
           "label": "Kunskap och vetenskap",
-          "count": 5
+          "count": 7
         }
       ],
       "theme_counts": {
-        "Natur och ekologisk hållbarhet": 16,
-        "Undervisning och lärande": 29,
-        "Makt, delaktighet och rättvisa": 14,
-        "Kulturarv, plats och nordliga sammanhang": 12,
-        "Konstnärlig praktik": 9,
-        "Samarbete och gemenskap": 20,
-        "Välbefinnande och omsorg": 15,
-        "Kunskap och vetenskap": 5,
-        "Kropp, sinnen och materialitet": 5,
-        "Digital kultur och medier": 6,
-        "Estetik och visuell kultur": 6,
-        "Identitet och profession": 7
+        "Undervisning och lärande": 37,
+        "Makt, delaktighet och rättvisa": 17,
+        "Natur och ekologisk hållbarhet": 17,
+        "Kulturarv, plats och nordliga sammanhang": 14,
+        "Konstnärlig praktik": 19,
+        "Samarbete och gemenskap": 24,
+        "Välbefinnande och omsorg": 17,
+        "Kunskap och vetenskap": 7,
+        "Kropp, sinnen och materialitet": 7,
+        "Estetik och visuell kultur": 12,
+        "Digital kultur och medier": 8,
+        "Identitet och profession": 11
       },
       "primary_methods": [
         {
           "label": "Konstbaserad aktionsforskning",
-          "count": 26
+          "count": 31
+        },
+        {
+          "label": "Konstnärlig/konstbaserad forskning",
+          "count": 9
+        },
+        {
+          "label": "Annan kvalitativ studie",
+          "count": 6
         },
         {
           "label": "Fenomenologisk/hermeneutisk studie",
           "count": 5
         },
         {
-          "label": "Konstnärlig/konstbaserad forskning",
+          "label": "Aktionsforskning",
           "count": 4
         },
         {
-          "label": "Aktionsforskning",
-          "count": 3
-        },
-        {
-          "label": "Annan kvalitativ studie",
-          "count": 3
-        },
-        {
           "label": "Fallstudie",
+          "count": 3
+        },
+        {
+          "label": "Autoetnografi",
           "count": 2
         },
         {
@@ -2265,15 +2805,15 @@
           "count": 2
         },
         {
-          "label": "Autoetnografi",
-          "count": 1
-        },
-        {
           "label": "Designbaserad forskning",
           "count": 1
         },
         {
           "label": "Diskursanalys",
+          "count": 1
+        },
+        {
+          "label": "Etnografi",
           "count": 1
         },
         {
@@ -2301,6 +2841,12 @@
       "open": 24
     },
     {
+      "university": "Aalto",
+      "year": 2026,
+      "total": 12,
+      "open": 0
+    },
+    {
       "university": "Lappland",
       "year": 2024,
       "total": 16,
@@ -2311,11 +2857,17 @@
       "year": 2025,
       "total": 34,
       "open": 31
+    },
+    {
+      "university": "Lappland",
+      "year": 2026,
+      "total": 17,
+      "open": 14
     }
   ],
   "method_coverage": {
-    "with_pdf_evidence": 18,
-    "abstract_only": 80,
+    "with_pdf_evidence": 29,
+    "abstract_only": 98,
     "no_methods": 0
   }
 }

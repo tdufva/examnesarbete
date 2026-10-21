@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-10-21",
+  "cohorts": [
+    {
+      "university": "Aalto",
+      "year": 2024,
+      "status": "verified",
+      "records": 16,
+      "open_pdfs": 12,
+      "source": "Aaltodoc"
+    },
+    {
+      "university": "Aalto",
+      "year": 2025,
+      "status": "verified",
+      "records": 32,
+      "open_pdfs": 24,
+      "source": "Aaltodoc"
+    },
+    {
+      "university": "Lappland",
+      "year": 2024,
+      "status": "verified",
+      "records": 16,
+      "open_pdfs": 15,
+      "source": "Lauda"
+    },
+    {
+      "university": "Lappland",
+      "year": 2025,
+      "status": "verified",
+      "records": 34,
+      "open_pdfs": 31,
+      "source": "Lauda"
+    },
+    {
+      "university": "Lappland",
+      "year": 2026,
+      "status": "verified",
+      "records": 17,
+      "open_pdfs": 14,
+      "source": "Lauda"
+    },
+    {
+      "university": "Aalto",
+      "year": 2026,
+      "status": "partial_metadata",
+      "records": 12,
+      "open_pdfs": 0,
+      "source": "Aalto Primo",
+      "note_sv": "Poster har identifierats via Aalto Primo. För flera poster saknas verifierat huvudämnesfält; urvalet är preliminärt och arkivets fullständighet kan inte kontrolleras under Aaltodocs serviceavbrott."
+    }
+  ],
+  "notices": [
+    {
+      "university": "Aalto",
+      "years": [
+        2026
+      ],
+      "text_sv": "Aaltodoc var otillgängligt vid kontrollen 21 oktober 2026. De nya Aalto-posternas PDF-åtkomst är därför inte verifierad och räknas inte som öppen tillgång. Det betyder inte att PDF-filerna är stängda. För en striktare jämförelse, välj ”Gemensamt verifierade år” (2024–2025)."
+    }
+  ]
+}
