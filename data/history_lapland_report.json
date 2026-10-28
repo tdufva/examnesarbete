@@ -1,0 +1,2365 @@
+{
+  "checked": "2026-10-28",
+  "sources": [
+    "https://lauda.ulapland.fi/handle/10024/59344",
+    "https://lauda.ulapland.fi/handle/10024/64254"
+  ],
+  "searches": [
+    {
+      "collection": "10024/59344",
+      "query": "kuvataidekasv*",
+      "records_reported": 441,
+      "records_retrieved": 441,
+      "pages": 5,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/59344/discover?query=kuvataidekasv%2A&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    },
+    {
+      "collection": "10024/59344",
+      "query": "\"art education\"",
+      "records_reported": 445,
+      "records_retrieved": 445,
+      "pages": 5,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/59344/discover?query=%22art+education%22&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    },
+    {
+      "collection": "10024/59344",
+      "query": "taidekasvat*",
+      "records_reported": 353,
+      "records_retrieved": 353,
+      "pages": 4,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/59344/discover?query=taidekasvat%2A&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    },
+    {
+      "collection": "10024/64254",
+      "query": "kuvataidekasv*",
+      "records_reported": 23,
+      "records_retrieved": 23,
+      "pages": 1,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/64254/discover?query=kuvataidekasv%2A&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    },
+    {
+      "collection": "10024/64254",
+      "query": "\"art education\"",
+      "records_reported": 20,
+      "records_retrieved": 20,
+      "pages": 1,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/64254/discover?query=%22art+education%22&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    },
+    {
+      "collection": "10024/64254",
+      "query": "taidekasvat*",
+      "records_reported": 23,
+      "records_retrieved": 23,
+      "pages": 1,
+      "first_page_url": "https://lauda.ulapland.fi/handle/10024/64254/discover?query=taidekasvat%2A&rpp=100&sort_by=dc.date.issued_dt&order=asc&page=1"
+    }
+  ],
+  "coverage_note": "All pages of the recorded Finnish/English queries in the two master-thesis collections were retrieved. Results establish archive coverage, not all historically submitted theses. Programme fields are retained verbatim; archival metadata can contain errors.",
+  "metadata_anomaly_examples": [
+    {
+      "id": "60644",
+      "note": "Archive assigns Art Education although title and abstract concern industrial furniture design; programme could not be independently checked."
+    },
+    {
+      "id": "60657",
+      "note": "Archive assigns Art Education although title concerns product-experience design; programme could not be independently checked."
+    }
+  ],
+  "candidate_count": 575,
+  "confirmed_records": 424,
+  "first_year": 2007,
+  "last_year": 2026,
+  "by_year": {
+    "2007": 3,
+    "2008": 21,
+    "2009": 23,
+    "2010": 24,
+    "2011": 43,
+    "2012": 22,
+    "2013": 32,
+    "2014": 16,
+    "2015": 21,
+    "2016": 18,
+    "2017": 19,
+    "2018": 15,
+    "2019": 24,
+    "2020": 15,
+    "2021": 14,
+    "2022": 26,
+    "2023": 21,
+    "2024": 16,
+    "2025": 34,
+    "2026": 17
+  },
+  "abstract_available": 386,
+  "source_language_discrepancies": 22,
+  "open_pdf_links": 270,
+  "errors": [],
+  "excluded_or_unverified": [
+    {
+      "id": "59572",
+      "year": 2008,
+      "title": "Oppiminen, arviointi ja opiskelun laatu yliopistossa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59572"
+    },
+    {
+      "id": "61567",
+      "year": 2012,
+      "title": "Koulutuksesta Lykkyä hyvinvointiyrittäjyyteen : hyvinvointialan yrittäjyyskoulutuksen arviointitutkimus",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Sosiologia|en=Sociology|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61567"
+    },
+    {
+      "id": "59783",
+      "year": 2013,
+      "title": "Välittävä vuorovaikutus : etnografinen tutkimus pelkokokemuksen kuvataidekasvatuksellisesta työstämisestä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59783"
+    },
+    {
+      "id": "59793",
+      "year": 2013,
+      "title": "Luokanlehtoreiden samanaikaisopetukselle antamia merkityksiä opetuksessa ja kasvatuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59793"
+    },
+    {
+      "id": "62019",
+      "year": 2015,
+      "title": "Oi maamme: Suomalaisen kansankulttuurin ja kalevalaisuuden innoittama painokangasmallisto",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Tekstiili- ja vaatetusala|en=Interior and Textile Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62019"
+    },
+    {
+      "id": "62218",
+      "year": 2015,
+      "title": "”Ensimmäinen asia, mistä kaikki lähtee, on asenne” : kolmiportaisen tuen toimivat käytänteet",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62218"
+    },
+    {
+      "id": "61872",
+      "year": 2015,
+      "title": "”Sain syksyllä alkaa kaiken alusta”: Petsamon siirtolaisten koulunkäynti Tervolan Varejoella 1940–1950-luvulla",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61872"
+    },
+    {
+      "id": "61981",
+      "year": 2015,
+      "title": "Opetustyön vaativuus inklusiivisessa luokassa opettajaopiskelijoiden näkemysten mukaan",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61981"
+    },
+    {
+      "id": "62133",
+      "year": 2015,
+      "title": "Jakautuneen identiteetin kaupunki : Rovaniemellä opiskelevien nuorten kulttuurisesti jäsentyneet muuttamisen ja jäämisen merkitykset",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Sosiologia|en=Sociology|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62133"
+    },
+    {
+      "id": "62203",
+      "year": 2015,
+      "title": "Mitä sisustustuotteet kertovat arktisuudesta? Case Pentik Oy",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62203"
+    },
+    {
+      "id": "62651",
+      "year": 2016,
+      "title": "Lost in palvelupolku. Teollisen muotoilijan rooli palveluiden ideointi- ja konseptointivaiheessa eräässä palvelumuotoiluprojektissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62651"
+    },
+    {
+      "id": "62655",
+      "year": 2016,
+      "title": "Koululaisen vaatekaappi.: Ekaluokkalaisen koulupukeutuminen huoltajan käsityksien ja koulun ohjeistuksien valossa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Tekstiili- ja vaatetusala|en=Interior and Textile Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62655"
+    },
+    {
+      "id": "62856",
+      "year": 2017,
+      "title": "”Onneksi ohjausryhmä perustettiin ja on olemassa” : etnografinen tutkimus moniammatillisesta ohjausryhmästä Via Vis –Väkivaltatyön hankkeessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Hallintotiede|en=Administrative science|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62856"
+    },
+    {
+      "id": "62875",
+      "year": 2017,
+      "title": "Sarvet, siivet ja häntä – tarinan kuvittaminen tekstiilitaiteen keinoin",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Tekstiili- ja vaatetusala|en=Interior and Textile Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62875"
+    },
+    {
+      "id": "63080",
+      "year": 2017,
+      "title": "Materiaalin tuntu vuorovaikutuksessa – tapaustutkimus lasin luomasta käyttäjäkokemuksesta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63080"
+    },
+    {
+      "id": "63153",
+      "year": 2017,
+      "title": "”Kädelliset käyttävät käsiään, mikä on myös pään käyttämistä yhtä aikaa”: taidekasvattajien näkemyksiä alakoulun kuvataiteen merkityksestä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63153"
+    },
+    {
+      "id": "62924",
+      "year": 2017,
+      "title": "Saamelaisuuden myyttiset representaatiot matkailuyritysten internet-sivulla : mainoskuvien semioottinen analyysi",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Matkailututkimus|en=Tourism Research|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62924"
+    },
+    {
+      "id": "63208",
+      "year": 2018,
+      "title": "”Se on alun perin niinku ollu koko ydin tässä, että mää pystyn tajuamaan millasta se oppiminen voi olla - se on osa mun ammatti-identiteettiä\" : oppimisvaikeuden yhteys opettajaopiskelijan kehittyvään ammatti-identiteettiin",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63208"
+    },
+    {
+      "id": "63369",
+      "year": 2018,
+      "title": "”Ei musta moozzarttia tule, mutta kyllähän mää ton pianonsoiton kesytän tän talven aikana” : luokanopettajaksi opiskelun mielekkyyden representaatiot Facebookissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63369"
+    },
+    {
+      "id": "63497",
+      "year": 2018,
+      "title": "Ulkomailla työskentely on muuttanut mun ammatillisen identiteetin sataprosenttisesti”: opettajien kertomuksia ulkomailla työskentelystä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Markkinointi|en=Marketing|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63497"
+    },
+    {
+      "id": "63768",
+      "year": 2019,
+      "title": "Metsä alan opiskelijoiden silmin - fenomenografinen tulkinta luonnonvara-alan opiskelijoiden luontosuhteista",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63768"
+    },
+    {
+      "id": "63868",
+      "year": 2019,
+      "title": "Lapsen tie kotihoidosta päiväkotihoitoon vanhempien kertomana : kasvatuskumppanuuden toteutuminen siirtymävaiheen ajalta kahdessa Lounais-Lapin kunnassa",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63868"
+    },
+    {
+      "id": "64071",
+      "year": 2019,
+      "title": "Metamorphosis -menetelmä – Kaksisuuntaista kotoutumista katutanssiringissä sosiaalityön keinoin",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Sosiaalityö"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64071"
+    },
+    {
+      "id": "64084",
+      "year": 2019,
+      "title": "Korkeakouluopintojen loppuvaiheessa olevien opiskelijoiden hyvinvointi",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Kasvatustiede"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64084"
+    },
+    {
+      "id": "64615",
+      "year": 2021,
+      "title": "Käsityön merkityksiä nykytekstiilitaiteessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sisustus- ja tekstiilimuotoilu"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64615"
+    },
+    {
+      "id": "64683",
+      "year": 2021,
+      "title": "”Luonto on ehtymätön muusa!” Luonto oppimisympäristönä kuvataiteessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Kasvatustiede/Luokanopettaja"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64683"
+    },
+    {
+      "id": "65193",
+      "year": 2022,
+      "title": "Kukoistusta kuvaamassa. Tarinallisuus ja valokuvaus hyvinvoinnin muotoilun menetelminä.",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Palvelumuotoilun monialainen maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65193"
+    },
+    {
+      "id": "65593",
+      "year": 2023,
+      "title": "Luonnoskirjatyöskentelyn merkitys ja hyödyntäminen luovuuden käsittelyssä, taiteellisessa työskentelyssä ja tutkimuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Muoti, tekstiilitaide ja materiaalitutkimus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65593"
+    },
+    {
+      "id": "65543",
+      "year": 2023,
+      "title": "Opettajaopiskelijoiden kokemuksia hyvinvoinnista opetusharjoittelun aikana",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65543"
+    },
+    {
+      "id": "66448",
+      "year": 2025,
+      "title": "”Et ei oo mitään yhtä tapaa olla hyvä opettaja vaan sun pitää löytää ne sun omat vahvuudet myöskin opettaa, jotta niiden lasten vahvuudet korostuu.”: maisterivaiheen luokanopettaja-opiskelijoiden näkemyksiä vahvuuksistaan kuvataiteen opetuksessa tulevassa työelämässä",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66448"
+    },
+    {
+      "id": "66685",
+      "year": 2025,
+      "title": "Usko prosessiin – Trust the process : aloittelevien formaatin kehittäjien luovan prosessin kuvaus",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Audiovisuaalinen mediakulttuuri"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66685"
+    },
+    {
+      "id": "66870",
+      "year": 2025,
+      "title": "Vanhuuden estetiikka ja siihen kietoutuva  etiikka taiteilijan näkökulmasta",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Taiteen asiantuntijuuden maisteriohjelma"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66870"
+    },
+    {
+      "id": "66884",
+      "year": 2025,
+      "title": "”Koko kehossa elämistä pelkän pään sijaan” : kokemuksia kehotietoisuudesta ja sen potentiaalista kehotietoisuuskurssille osallistuneiden mukaan",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Taiteen asiantuntija"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66884"
+    },
+    {
+      "id": "67057",
+      "year": 2026,
+      "title": "Toinen ilmaisuna",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Taiteen asiantuntija -maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67057"
+    },
+    {
+      "id": "67089",
+      "year": 2026,
+      "title": "Maalähtöinen taidetyöskentely hyvinvoinnin lähteenä",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Master´s degree in Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67089"
+    },
+    {
+      "id": "67199",
+      "year": 2026,
+      "title": "Tamponitaidetta : taiteellista tutkimusta materiaalihäpeän äärellä",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Soveltava taide"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67199"
+    },
+    {
+      "id": "67192",
+      "year": 2026,
+      "title": "Koko kylä kasvattaa. Tapaustutkimus koulun ulkopuolisten toimijoiden kokemuksista kouluyhteistyöstä.",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajan koulutusohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67192"
+    },
+    {
+      "id": "60797",
+      "year": 2013,
+      "title": "One person's trash can be another person's treasure: redesigning used objects",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60797"
+    },
+    {
+      "id": "59861",
+      "year": 2014,
+      "title": "Moniammatillinen yhteistyö mahdollisuutena : tapaustutkimus alakoulun, päiväkodin ja seurakunnan sosiaalista mediaa hyödyntävästä yhteistyöprojektista",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59861"
+    },
+    {
+      "id": "62189",
+      "year": 2015,
+      "title": "Maskuliinisuuden representaatiot Justimusfilmsin huumorivideoissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62189"
+    },
+    {
+      "id": "61914",
+      "year": 2015,
+      "title": "Inspiration: An Analysis of Students' Conception of Inspiration in Art and Design",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Audiovisuaalinen mediakulttuuri|en=Audiovisual Media Culture|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61914"
+    },
+    {
+      "id": "62588",
+      "year": 2016,
+      "title": "Steinerkoulun eettinen kasvatus ja arvojen toteutuminen steinerluokanopettajien näkökulmasta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62588"
+    },
+    {
+      "id": "63335",
+      "year": 2018,
+      "title": "Open Museums: Audience Development in the Museums of Finnish Lapland Strategies, Methods and Steps Towards Future",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Aikuiskasvatus|en=Adult Education|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63335"
+    },
+    {
+      "id": "63624",
+      "year": 2018,
+      "title": "DESIGNING TEN TOWERS – WEAVING TEN STORIES : Environmental art as a tool in development of cultural and creative tourism in Finnish Lapland",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "fi=Graafinen suunnittelu|en=Graphic Design|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63624"
+    },
+    {
+      "id": "64020",
+      "year": 2019,
+      "title": "A Piece of Raanujärvi : creating aesthetic experience through applied visual arts",
+      "programme_fields": [
+        {
+          "field": "pdf_programme",
+          "value": "Master of Arctic Art and Design, Applied Visual Arts",
+          "file_page": 2
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64020"
+    },
+    {
+      "id": "64074",
+      "year": 2019,
+      "title": "Kaamos, valo ja seinämaalaus : UV-seinämaalauksen toteuttaminen paikkasidonnaisena soveltavana kuvataiteena",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Soveltavan kuvataiteen ja luontokuvauksen maisteriohjelma"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64074"
+    },
+    {
+      "id": "64343",
+      "year": 2019,
+      "title": "Recollections of Vattaja - Preserving collective place memories through applied visual art",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Master's Degree Programme in Arctic Art and Desing"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64343"
+    },
+    {
+      "id": "64130",
+      "year": 2019,
+      "title": "Finding a path : sustainable public art practices in small communities of Finnish Lapland",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Applied Visual Arts"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64130"
+    },
+    {
+      "id": "64509",
+      "year": 2020,
+      "title": "Brand Finland in Education Export – A case study of an info-promotional video presentation of “Finnish Education Excellence”",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Media Education"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64509"
+    },
+    {
+      "id": "64365",
+      "year": 2020,
+      "title": "The importance of process in applied visual art thinking",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Faculty of Arctic Arts and Design"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64365"
+    },
+    {
+      "id": "64350",
+      "year": 2020,
+      "title": "Board game for participatory design",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Arctic Art and Design"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64350"
+    },
+    {
+      "id": "64374",
+      "year": 2020,
+      "title": "Making Environmental Art Together: a Study on Applied Visual Arts through the Enontekiö Art Path Project",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Master's degree in Arctic Art and Design"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64374"
+    },
+    {
+      "id": "64721",
+      "year": 2021,
+      "title": "Printing the senses of the seasons:Developing an Art-related TourismService Connected to Local Identity",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Arctic Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64721"
+    },
+    {
+      "id": "64756",
+      "year": 2021,
+      "title": "TUNTUVA TEKSTIILI, Taidetekstiilin aistilliset ominaisuudet",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Tekstiili- ja vaatetusalan koulutusohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64756"
+    },
+    {
+      "id": "65053",
+      "year": 2022,
+      "title": "Slavoik - Exploration of transcultural artistic expression on the example of Sámi and Slavic cultures",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Arctic Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65053"
+    },
+    {
+      "id": "65132",
+      "year": 2022,
+      "title": "Numerically Controlled Pen Plotters in Art : Building an Experimental Pen Plotter Allowing for Additional Creative Possibilities",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Audiovisual Media Culture"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65132"
+    },
+    {
+      "id": "65073",
+      "year": 2022,
+      "title": "Is Money a Dirty Word? Art-based action research of entrepreneurship in the arts",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Palvelumuotoilun monialainen maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65073"
+    },
+    {
+      "id": "65667",
+      "year": 2023,
+      "title": "Instagram branding frame for Arctic artists and designers based on service design",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Arctic Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65667"
+    },
+    {
+      "id": "65443",
+      "year": 2023,
+      "title": "Oman elämän ohjaimissa : muotoiluajattelun työkalut osana oman elämän suunnittelua",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Palvelumuotoilun monialainen maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65443"
+    },
+    {
+      "id": "65540",
+      "year": 2023,
+      "title": "Community art practices to elevate spiritual and environmental awareness",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Arctic Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65540"
+    },
+    {
+      "id": "65975",
+      "year": 2024,
+      "title": "Make the smell dancing : designing an experimental interactive purifying device near an open fire for frequent users in Finnish Lapland",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65975"
+    },
+    {
+      "id": "66257",
+      "year": 2024,
+      "title": "Non-locality Of Water",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66257"
+    },
+    {
+      "id": "66215",
+      "year": 2024,
+      "title": "Values transcending national and cultural barrier : fan activism rolled out in Cantonese fansubbing in Thai pop culture",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Master of Arts in Arctic Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66215"
+    },
+    {
+      "id": "66075",
+      "year": 2024,
+      "title": "Utilize XR as a sustainable service design for Nordic tourism",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66075"
+    },
+    {
+      "id": "66224",
+      "year": 2024,
+      "title": "Art-based practice in nature for communal well-being",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66224"
+    },
+    {
+      "id": "66271",
+      "year": 2024,
+      "title": "New genre public art in rural Finnish Lapland : sitting within the historical log driving scene in Meltosjärvi",
+      "programme_fields": [
+        {
+          "field": "pdf_programme",
+          "value": "Sustainable Art and Design",
+          "file_page": 2
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66271"
+    },
+    {
+      "id": "66911",
+      "year": 2024,
+      "title": "Playgrounds of the mind : exploring the uncanny landscape through participatory art and self expression",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66911"
+    },
+    {
+      "id": "66618",
+      "year": 2025,
+      "title": "Designing a multi-functional yurt as a cultural landmark and tourist attraction",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable art and design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66618"
+    },
+    {
+      "id": "66590",
+      "year": 2025,
+      "title": "Transforming Heritage Through Sustainable Craft: Adinkra  Symbols with Arctic Materials",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Faculty of Arts / Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66590"
+    },
+    {
+      "id": "66667",
+      "year": 2025,
+      "title": "Artstream of Utsjoki: A student’s perspective on creative collaboration and ethical challenges in community art",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Arctic Art & Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66667"
+    },
+    {
+      "id": "66772",
+      "year": 2025,
+      "title": "Development of creative tourism attractions in Rovaniemi City to enhance tourist experiences",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Tourism, Culture and International Management"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66772"
+    },
+    {
+      "id": "66656",
+      "year": 2025,
+      "title": "Art as a catalyst for dialogue : exploring motivations and methods in contemporary artistic practices",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Master's in Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66656"
+    },
+    {
+      "id": "66619",
+      "year": 2025,
+      "title": "From wool to action : reviving traditional practices for sustainable futures",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66619"
+    },
+    {
+      "id": "66670",
+      "year": 2025,
+      "title": "Wool innovation - Punch needle embroidery : participatory art-workshop incorporated with Arctic region’s sustainability and tourism.",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Master's Thesis"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66670"
+    },
+    {
+      "id": "66723",
+      "year": 2025,
+      "title": "Storytelling with dementia-affected elderly",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66723"
+    },
+    {
+      "id": "66754",
+      "year": 2025,
+      "title": "Exploring the user experience of self-checkout systems through design",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Teollinen muotoilu"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66754"
+    },
+    {
+      "id": "67120",
+      "year": 2026,
+      "title": "”Siellä kaikille löytyy se keppi ja joku kolo” : Ulkoilmapedagogisen mallin jatkokehittäminen opettajien kokemusten avulla",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Kestävyys- ja luontokasvatuspainotteinen luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67120"
+    },
+    {
+      "id": "67110",
+      "year": 2026,
+      "title": "To work for art with environment",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable art and design Masters Programme"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67110"
+    },
+    {
+      "id": "67288",
+      "year": 2026,
+      "title": "Sustainable Fashion: Influencing Consumer Awareness and Ethical Consumption through Creative Practice",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Master's in Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67288"
+    },
+    {
+      "id": "67307",
+      "year": 2026,
+      "title": "Reconnecting Communities through Craft - Intergenerational Learning and Cultural Sustainability in Hunza",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Arts and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67307"
+    },
+    {
+      "id": "67198",
+      "year": 2026,
+      "title": "Rethinking Event Systems and  Sustainability in the Arctic - A Design Perspective on the Levi Alpine Ski World Cup",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "MA Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67198"
+    },
+    {
+      "id": "67211",
+      "year": 2026,
+      "title": "Seasons of identity : visual narratives of cultural adaptation and belonging through collaborative artistic photography in Finland",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67211"
+    },
+    {
+      "id": "67215",
+      "year": 2026,
+      "title": "Between Arrival and Belonging: The Production of Safe Space through Lived Experiences, Everyday Practices and Art-Based Inquiry",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67215"
+    },
+    {
+      "id": "67299",
+      "year": 2026,
+      "title": "Defacializing the Encounter: Bodily Disruption and the Materiality of the Non-face in Frontal Animal Images of Northern Finland",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67299"
+    },
+    {
+      "id": "67508",
+      "year": 2026,
+      "title": "Make unseen seen: SciArt as a tool to interlink science and art",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sustainable Art and Design"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67508"
+    },
+    {
+      "id": "61294",
+      "year": 2006,
+      "title": "Inhoruokaa antituristeille : semioottinen analyysi merkityksen tuotannosta Madventures -televisio-ohjelmassa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Matkailututkimus|en=Tourism Research|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61294"
+    },
+    {
+      "id": "59727",
+      "year": 2011,
+      "title": "Miltä musiikki tuntuu? : design-tutkimus musiikin käyttämisestä opetusvälineenä pienryhmäopetuksessa äidinkielen tunneilla",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59727"
+    },
+    {
+      "id": "59732",
+      "year": 2012,
+      "title": "Tanssin taikaa : lasten tunteet ja kommunikointi soveltavan tanssin tunneilla",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59732"
+    },
+    {
+      "id": "60503",
+      "year": 2011,
+      "title": "Kauneus ja kirjanmuotoilu",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Graafinen suunnittelu|en=Graphic Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60503"
+    },
+    {
+      "id": "59671",
+      "year": 2011,
+      "title": "Matkalla minuuteen : omakohtainen kuvaus identiteetin rakentumisesta ja kummitusten kirjeiden kautta rakentuvasta maailmasta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59671"
+    },
+    {
+      "id": "59760",
+      "year": 2012,
+      "title": "Alkuopettajien käsityksiä luovuudesta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59760"
+    },
+    {
+      "id": "60963",
+      "year": 2012,
+      "title": "Orkesterin asialla : intendentti luovan asiantuntijaorganisaation johtajana",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Hallintotiede, erityisesti johtamisen psykologia|en=Administrative Science, Leadership psychology|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60963"
+    },
+    {
+      "id": "59853",
+      "year": 2013,
+      "title": "Ammattikasvattajien näkemyksiä mediakasvatuksen käytännöistä ja materiaaleista",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59853"
+    },
+    {
+      "id": "59841",
+      "year": 2012,
+      "title": "Hyvän mielen verkko : fenomenografinen tutkimus yläkoululaisten käsityksistä online-minuuden voimaannuttavuudesta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59841"
+    },
+    {
+      "id": "59846",
+      "year": 2013,
+      "title": "Media- ja elokuvakasvatus peruskouluopetuksessa : tutkimus Elävää kuvaa -projektiin osallistuneiden opettajien käsityksistä ja opetuskäytänteistä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59846"
+    },
+    {
+      "id": "59784",
+      "year": 2013,
+      "title": "”Se on vain omista rohkeista askelista kiinni sitte että mitä tekkee työssä” : luokanopettajan musiikinopettajuuden rakentuminen",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59784"
+    },
+    {
+      "id": "60808",
+      "year": 2013,
+      "title": "Craftmaking designers: creativity and empowerment through craft workshops",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60808"
+    },
+    {
+      "id": "59555",
+      "year": 2014,
+      "title": "Keskustelua työstä työssä : kehityskeskustelut ja palaverit työssä oppimisen edistäjinä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Aikuiskasvatus|en=Adult Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59555"
+    },
+    {
+      "id": "61340",
+      "year": 2013,
+      "title": "”Todella hyvä meininki kylällä” – Kulttuuritapahtuman kokonaiselämykseen vaikuttavat tekijät",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Matkailututkimus|en=Tourism Research|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61340"
+    },
+    {
+      "id": "61493",
+      "year": 2013,
+      "title": "”Täällä on niinkö semmonen avoin ilmapiiri” : nuorten kokemuksia Draaman Paikka-teatteriryhmässä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Sosiaalityö|en=Social Work|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61493"
+    },
+    {
+      "id": "59808",
+      "year": 2014,
+      "title": "Työ tekijäänsä neuvoo :  Lapin yliopistosta vuosina 1980–1981 ja 2010–2011 valmistuneiden luokanopettajien kokemuksia uravalinnasta, koulutuksesta ja uran alkuvaiheista",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59808"
+    },
+    {
+      "id": "59847",
+      "year": 2014,
+      "title": "Tieteenalat mediakasvatuksen kentällä : tieteenalakohtaisuus ja tieteidenvälisyys suomalaisessa mediakasvatustutkimuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediakasvatus|en=Media Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59847"
+    },
+    {
+      "id": "61972",
+      "year": 2014,
+      "title": "“Saa keskittyä ja tehä sitä juttua, mistä tykkää” : käsityö kuudennen luokan oppilaiden näkökulmasta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61972"
+    },
+    {
+      "id": "62207",
+      "year": 2014,
+      "title": "Moniulotteisen korrespondenssianalyysin soveltamisesta yhteiskuntatieteissä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Sosiaalityö|en=Social Work|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62207"
+    },
+    {
+      "id": "60799",
+      "year": 2014,
+      "title": "Miten ITE-taiteesta tuli ilmiö?: kuin suihku tunkkaisille kyynisille aivoille",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Teollinen muotoilu|en=Industrial Design|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60799"
+    },
+    {
+      "id": "59622",
+      "year": 2014,
+      "title": "’Helsinki on mulle rakas kotikontu, oon käyny kaikilla pihoilla ja kurkistanu joka kiven alle’ – Somalitaustaiset suomalaisnuoret kokemustensa kanssatutkijoina",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/59622"
+    },
+    {
+      "id": "62273",
+      "year": 2015,
+      "title": "Kritiikin paikka: kuvataidekritiikin mahdollisuudet simulaatiokulttuurissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Mediatiede|en=Media Science|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62273"
+    },
+    {
+      "id": "62272",
+      "year": 2015,
+      "title": "Tutkimuksesta dokumenttielokuvaksi: tekijälähtöinen tutkimus yhteiskuntatieteellisen tutkimuksen ja dokumenttielokuvan tuotantoprosessin yhdistämisestä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Audiovisuaalinen mediakulttuuri|en=Audiovisual Media Culture|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62272"
+    },
+    {
+      "id": "60481",
+      "year": 2014,
+      "title": "Netti kulttuurin käsissä: tapaustutkimus kulttuurin aloilla työskentelevien netinkäytöstä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Audiovisuaalinen mediakulttuuri|en=Audiovisual Media Culture|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60481"
+    },
+    {
+      "id": "62094",
+      "year": 2015,
+      "title": "Hopeasepän taidon jäljissä",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Aikuiskasvatus|en=Adult Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62094"
+    },
+    {
+      "id": "61873",
+      "year": 2015,
+      "title": "Sosiaalinen yhteenkuuluvuus koululiikunnassa ja urheiluseuran harjoituksissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61873"
+    },
+    {
+      "id": "62175",
+      "year": 2015,
+      "title": "Osallistumisjärjestelmällä kohti kuntien uudistuvaa kansanvaltaisuutta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Hallintotiede|en=Administrative science|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62175"
+    },
+    {
+      "id": "62421",
+      "year": 2016,
+      "title": "Kyselytutkimus lappilaisten opettajien näkemyksistä musiikin opettamisesta alakoulussa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62421"
+    },
+    {
+      "id": "62469",
+      "year": 2016,
+      "title": "Intertekstuaalisuus Lewis Carrollin Liisa Ihmemaassa -teosta hyödyntävissä mainoskuvissa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Audiovisuaalinen mediakulttuuri|en=Audiovisual Media Culture|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62469"
+    },
+    {
+      "id": "62419",
+      "year": 2016,
+      "title": "”Pienen orkesterin saa sitte itelle” :  tablet-laitteet opetusvälineinä alakoulun musiikinopetuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62419"
+    },
+    {
+      "id": "63107",
+      "year": 2017,
+      "title": "Interaktiivista ongelmanratkaisua: prosessidraama opetustapahtumana",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63107"
+    },
+    {
+      "id": "62920",
+      "year": 2017,
+      "title": "”Ei se oo mikään lakka vaan hilla”  : kuntaidentiteetin rakentuminen ja kiinnittymispisteet",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Hallintotiede|en=Administrative science|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62920"
+    },
+    {
+      "id": "64560",
+      "year": 2017,
+      "title": "AiRE – Artist-in-Residence – Residenssikonseptin suunnittelu palvelumuotoilun viitekehyksessä",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Audiovisuaalinen mediakulttuuti"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64560"
+    },
+    {
+      "id": "63342",
+      "year": 2018,
+      "title": "Aarteita vai inhotuksia? – Kuluttajien mielikuvat kierrätyksestä ja kierrä-tysmateriaaleista pukeutumisessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Tekstiili- ja vaatetusala|en=Interior and Textile Design|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63342"
+    },
+    {
+      "id": "63391",
+      "year": 2018,
+      "title": "Aarteita vai inhotuksia? – Kuluttajien mielikuvat kierrätyksestä ja kierrä-tysmateriaaleista pukeutumisessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Tekstiili- ja vaatetusala|en=Interior and Textile Design|"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63391"
+    },
+    {
+      "id": "63047",
+      "year": 2017,
+      "title": "Ekaluokkalaisten leikki vanhempien näkökulmasta",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63047"
+    },
+    {
+      "id": "64006",
+      "year": 2019,
+      "title": "Kehittämistutkimus kriittisen medialukutaidon opetuksesta kuudennella luokalla",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Luokanopettaja"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64006"
+    },
+    {
+      "id": "64026",
+      "year": 2019,
+      "title": "Maalattuja lankoja – kudottuja hetkiä : tekstiilitaidetta sosiaalisen taiteen residenssissä",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Sisustus- ja tekstiilimuotoilu"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64026"
+    },
+    {
+      "id": "64076",
+      "year": 2019,
+      "title": "Suunnittelija vallankäyttäjänä : osallistavaa suunnittelua intersektionaalisen feminismin näkökulmasta",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Graafinen suunnittelu"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64076"
+    },
+    {
+      "id": "64012",
+      "year": 2019,
+      "title": "Koneeseen kadonneet? Vanhempien toimijuus ja yläkouluikäisten poikien digitaalinen pelaaminen",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Sosiaalityö"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64012"
+    },
+    {
+      "id": "64308",
+      "year": 2020,
+      "title": "Kohti posthumanistista ymmärrystä – Saamelaiskulttuurien opettaminen sosiomateriaalisena käytäntönä",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Matkailututkimus"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64308"
+    },
+    {
+      "id": "64428",
+      "year": 2020,
+      "title": "OMA TILA - VOIMAANNUTTAVA TILA LUOTUNA JA KOETTUNA",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Sisustus- ja tekstiilisuunnittelu"
+        },
+        {
+          "field": "dc.contributor.organization",
+          "value": "Sisustus- ja tekstiilimuotoilu"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64428"
+    },
+    {
+      "id": "64601",
+      "year": 2021,
+      "title": "Kokonaisen käsityöprosessin asema käsityönopetuksessa : Käsityönopetus alakoulun luokanopettajien kuvaamana",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Kasvatustiede/Luokanopettaja"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64601"
+    },
+    {
+      "id": "64496",
+      "year": 2020,
+      "title": "Draaman mahdollisuudet ympäristökasvatuksessa - opettajien ja asiantuntijoiden näkemyksiä",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luonto- ja kestävyyskasvatuksen maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64496"
+    },
+    {
+      "id": "66456",
+      "year": 2021,
+      "title": "Luokanopettajien käsityksiä ja kokemuksia luontokasvatuksen hyödyntämisestä alkuopetuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajan koulutusohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66456"
+    },
+    {
+      "id": "65217",
+      "year": 2022,
+      "title": "Ympäristö- ja kestävän kehityksen kasvatus alakoulussa - Luonto- ja ympäristökoulut opetuksen tukena",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Kestävyys- ja luontokasvatuspainotteinen luokanopettaja"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65217"
+    },
+    {
+      "id": "65092",
+      "year": 2022,
+      "title": "Etäopiskelu ja ammatillisen kasvun kokemukset matkailualan koulutuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Kasvatustiede"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65092"
+    },
+    {
+      "id": "65904",
+      "year": 2024,
+      "title": "Making of: Making of Lea : skenografin ekoskenografinen lähestymistapa näyttämötaiteen teoksessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Muoti, tekstiilitaide ja materiaalitutkimus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65904"
+    },
+    {
+      "id": "65810",
+      "year": 2023,
+      "title": "Monilukutaito lukion opetussuunnitelman 2019 perusteissa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Mediakasvatus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65810"
+    },
+    {
+      "id": "65935",
+      "year": 2024,
+      "title": "Matkalla rakkaudelliseksi muotoilijaksi",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Teollinen muotoilu"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65935"
+    },
+    {
+      "id": "66450",
+      "year": 2025,
+      "title": "Toiminnalliset opetusmenetelmät englannin kielen alkuopetuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66450"
+    },
+    {
+      "id": "66445",
+      "year": 2024,
+      "title": "Maapallo pelissä : koulun ulkopuolisen oppimisympäristön vaikuttavuuden tarkastelua luokanopettajien ajatuksiin ja opetuskäytänteisiin",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Yleinen kasvatustiede"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66445"
+    },
+    {
+      "id": "66672",
+      "year": 2025,
+      "title": "Matka Varjomaahan : pelko kuvakirjan kuvituksissa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Graafinen suunnittelu"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66672"
+    },
+    {
+      "id": "66659",
+      "year": 2025,
+      "title": "Aloita tästä : autoetnografinen tutkimus muotoilijan oivalluksista ja luovista teoista",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Palveluluotoilun monialainen maisteriohjelma"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66659"
+    },
+    {
+      "id": "66748",
+      "year": 2025,
+      "title": "”Lähtökohdan pitäisi olla se, että jokaisella on mahdollisuus  kouluttautua huolimatta yksilön ominaisuuksista” : fenomenografinen tutkimus yksilöllisiä järjestelyjä saavien opiskelijoiden käsityksistä yliopiston tarjoamasta tuesta",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettaja"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66748"
+    },
+    {
+      "id": "60830",
+      "year": 2014,
+      "title": "Kittilän lapinkylä: soveltava taide kulttuuriperinnön representaationa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "Soveltava kuvataide"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60830"
+    },
+    {
+      "id": "67220",
+      "year": 2026,
+      "title": "Lapsen osallisuuden mahdollistaminen — Taidetta päiväkoteihin",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Taiteen asiantuntija"
+        }
+      ],
+      "degree_types": [
+        "Pro gradu-tutkielma"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67220"
+    },
+    {
+      "id": "62316",
+      "year": 2015,
+      "title": "Lapin yliopiston ensimmäisen vuoden opiskelijoiden opiskelukyky",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62316"
+    },
+    {
+      "id": "67308",
+      "year": 2025,
+      "title": "Oodi kotipitäjälle: Posiolaisuuden ja paikkakiintymyksen ilmaisukeinot tekstiilitaiteessa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Muoti, tekstiilitaide ja materiaalitutkimus"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67308"
+    },
+    {
+      "id": "64408",
+      "year": 2020,
+      "title": "Opettajuus kansalaisopistossa - autoetnogafinen tutkimus opettajuuden rakenteista Rovaniemen kansalaisopistoissa",
+      "programme_fields": [
+        {
+          "field": "dc.contributor.organization",
+          "value": "Aikuiskasvatustiede"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/64408"
+    },
+    {
+      "id": "65008",
+      "year": 2022,
+      "title": "Musiikkiin erikoistuneiden luokanopettajien käsityksiä musiikin opettamisen kompetenssista",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/65008"
+    },
+    {
+      "id": "62569",
+      "year": 2016,
+      "title": "Kuvionuottimenetelmän soveltuvuus alakoulun musiikin opetukseen : musiikin erityispalvelukeskus Resonaarin kuvionuottiklubiin kuuluvat opettajat kuvionuottimenetelmän käyttäjinä alakoulun musiikin opetuksessa",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Luokanopettajakoulutus|en=Class Teacher Training|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/62569"
+    },
+    {
+      "id": "61869",
+      "year": 2015,
+      "title": "Vipuvoimaa nuorten työpajaan yksilövalmennuksella",
+      "programme_fields": [
+        {
+          "field": "dc.programme",
+          "value": "fi=Kasvatustiede|en=Education|"
+        }
+      ],
+      "degree_types": [
+        "masterThesis",
+        "fi=Pro Gradu|en=Master's Thesis|"
+      ],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/61869"
+    },
+    {
+      "id": "66041",
+      "year": 2024,
+      "title": "Luokanopettajien kokemuksia draamakasvatuksesta alakoulussa",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettaja"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66041"
+    },
+    {
+      "id": "66410",
+      "year": 2024,
+      "title": "\"Se on itsestäki aika paljon kiinni\" : luokanopettajaopiskelijoiden käsityksiä musiikin opettamisesta",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Luokanopettajakoulutus"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66410"
+    },
+    {
+      "id": "67104",
+      "year": 2025,
+      "title": "Luovien menetelmien kirjasen kehittäminen katkaisuhoitoon ja päihdekuntoutukseen saapuvan henkilön tueksi",
+      "programme_fields": [
+        {
+          "field": "dc.subject.degreeprogram",
+          "value": "Taiteen asiantuntijuuden maisteriohjelma"
+        }
+      ],
+      "degree_types": [],
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67104"
+    }
+  ],
+  "existing_records_missing": []
+}

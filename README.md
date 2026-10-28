@@ -1,6 +1,6 @@
 # Examensarbeten i bildkonstpedagogik
 
-En svensk läs- och analyswebbplats över examensarbeten från **Aalto-universitetet** och **Lapplands universitet**, publicerade **2024–2026**. Repositorynamnet `examnesarbete` följer beställningen.
+En svensk läs- och analyswebbplats över examensarbeten från **Aalto-universitetet** och **Lapplands universitet**, publicerade **2024–2026**. Den separata historikdelen följer arkivposterna tillbaka till 2007 och dokumenterade äldre Aalto-källförteckningar till 2010. Repositorynamnet `examnesarbete` följer beställningen.
 
 **Webbplats:** https://tdufva.github.io/examnesarbete/
 
@@ -92,3 +92,37 @@ Examensarbetena och metadata producerades av författare, handledare, granskare 
 ## Publicering
 
 GitHub Pages publicerar den statiska katalogen från `main:/docs`. Inga inloggningar, analyscookies eller externa backendtjänster används. Typsnitt laddas från Google Fonts med lokala systemtypsnitt som reserv. Söknings- och filterstatus sparas i sidans URL. Data laddas lokalt i webbläsaren och skickas inte till en söktjänst.
+
+
+## Historisk analys (kontrollerad 28 oktober 2026)
+
+[Historisk analys](https://tdufva.github.io/examnesarbete/historik.html) är en separat sida med en enhetligt textkodad historisk samling. Standardurvalet innehåller **778 unika direkta arkivposter**: Aalto **411 (2011–2026)** och Lappland **367 (2007–2026)**. Det är alla ämnesavgränsade poster som kunde beläggas genom de dokumenterade sökningarna och kontrollerna, inte en garanti för hela utbildningarnas historiska produktion. Aaltodoc fungerar åter vid denna kontroll.
+
+Därtill kan läsaren välja **43 äldre Lapplandsposter med osäker utbildningstillhörighet** och **41 ytterligare, namngivna Aalto-arbeten från ett publicerat konstnärligt forskningsurval 2010–2015**, varav 15 är från 2010. Totalt finns 862 poster i den öppna historiska datamängden. De två tilläggsgrupperna utesluts som standard. En identisk Lauda-dubblett har slagits samman med bevarad alternativ länk. Tretton poster som arkivet märker Kuvataidekasvatus har uteslutits efter belägg för en annan utbildning i PDF eller abstrakt; se den öppna granskningsfilen. Utbildningsfält i äldre migrerad metadata är alltså inte felfria.
+
+Äldre historisk dokumentation finns redan för 2000–2010 i Heidi Väisänens avhandling (2015), men hennes institutionsurval innehåller även närliggande utbildningar. Outi Koivisto (2016) anger 219 Art Education-magisterarbeten 2010–2015 och listar 81 konstnärligt inriktade arbeten. Dessa källor visas med rätt urvalsbegränsningar; deras uppgifter görs inte till en fabricerad komplett årgång eller abstraktbaserad trend.
+
+Sidan kan visa sammanslaget material, separata universitet eller två jämförelseserier, år för år, i femårsperioder eller årtionden. Metod- och tematrender kan visas som antal eller procent. Standardnämnaren är periodens poster med abstrakt; valet ”alla arkivposter” visar vad som händer om saknad text räknas med. Nämnare och abstrakttäckning finns i varje datatabell. Saknade nämnare bryter linjerna; de blir inte 0 %. År 2026 är ofullständigt.
+
+Historiken räknar **överlappande textsignaler**, med samma finska, engelska och svenska lexikon för alla år. Metoder kräver ett lokalt studiesammanhang i originalabstraktet; vissa negationer, bakgrundsreferenser och framtida förslag utesluts. Teman söks i titel, nyckelord och abstrakt. Varje träff bevarar ett exakt originalutdrag. Detta är en transparent, konservativ automatisk kodning, inte oberoende validerad närläsning och inte samma huvuddesignmått som i den nyare analysen. De ämnesvalda äldre källförteckningarna får inga textkoder. Historiska originaltitlar visas före AI-översatta svenska titlar; originalabstrakt och fulltext nås i källarkiven.
+
+Filer:
+
+- `docs/data/history.json`: historiska originalmetadata, svenska titlar, kodregler och spårbara textsignaler.
+- `data/history_aalto.json`, `data/history_lapland.json`, `data/history_additional.json`: direkta källposter.
+- `data/history_aalto_earlier_catalogue.json`: sekundära, selekterade äldre källhänvisningar.
+- `data/history_scope_audit.json`: PDF-belägg för bortval, osäkra äldre fält, författarkorrigering och dubblett.
+- `data/history_*_report.json`: sökvägar, paginering, fältkontroller och byggsammanställning.
+- `data/history_coding_audit.json`: flerspråkiga mönster och 15 källgranskade exempel; ingen påstådd oberoende validering.
+- `data/history_titles_*.json`: AI-assisterade svenska titelöversättningar.
+- `scripts/harvest_history_aalto.py`, `scripts/harvest_history_lapland.py`: cachelagd insamling från offentliga universitetsarkiv. PDF-programmekontroll kräver `pypdf`.
+
+Reproducera publicerade historiska data och kontrollera beräkningarna utan nätverk:
+
+```sh
+python3 scripts/build_history.py
+python3 scripts/validate_history.py
+node scripts/check_history.mjs
+```
+
+Råa hämtningar och kontrollerade PDF-filer i `data/history_raw/` publiceras inte. Historikens arkivuppgifter kan innehålla saknade abstrakt, felaktiga språk- eller utbildningsfält och varierande publiceringspraxis. De synliga begränsningarna är en del av analysen.

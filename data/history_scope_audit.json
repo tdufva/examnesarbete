@@ -1,0 +1,396 @@
+{
+  "checked": "2026-10-28",
+  "excluded": [
+    {
+      "id": "60620",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Vaatetusala Syksy 2008 Tanja Oraviita [PDF page 2] 2 Lapin yliopisto, taiteiden tiedekunta, Työ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60620/6603.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60616",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Degree program in Textile and Clothing Design Type of the work: Pro gradu thesis Number of page",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60616/Laura_Sepp%c3%a4l%c3%a4_gradu_1.pdf?sequence=5&isAllowed=y"
+    },
+    {
+      "id": "60639",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Teollinen muotoilu Työn laji: Pro gradu -tutkielma x Laudaturtyö Sivumäärä: 56 + Liitteet Vuosi",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60639/Gradu_Kai_Rinkinen.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60628",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Vaatetus Työn laji: Pro gradu-tutkielma X Laudaturtyö . Sivumäärä: 88 Liitteet: 4 Vuosi: Kevät ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60628/Riikka_Koistinen_Gradu_Luonnonvarit.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60658",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Teollinen muotoilu Työn laji: Pro gradu -tutkielma Sivumäärä: 51 Vuosi: Kevät 2011 Tiivistelmä:",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60658/Gradu-Veli_Moilanen.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60659",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Industrial Design Type: Master Thesis Pages: 117 Year: 2011 Abstract Being connected with old s",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60659/NSavla_MAThesis_2011.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60662",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Industrial Design Type of the work: Pro gradu thesis Number of pages: 97 pages, 3 attachments Y",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60662/AN%20Pro-gradu%20thesis.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60686",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Soveltava kuvataide Työn laji: Pro gradu -tutkielma Sivumäärä: 80 Vuosi: Syksy 2012 Tiivistelmä",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60686/Johanna%20Ruotsalainen%20Pro%20gradu%202012.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60548",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Applied Visual Arts The type of the work: pro gradu thesis X Number of pages: 87 Year: Autumn 2",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60548/Konttinen_Katri_gradu_2013.pdf?sequence=2&isAllowed=y"
+    },
+    {
+      "id": "60706",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Soveltava kuvataide Työn laji: Pro gradu –tutkielma x_ Laudaturtyö__ Sivumäärä: 87 Vuosi: 2013 ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60706/Koistinen_Salla-Mari_Progradu.pdf?sequence=2&isAllowed=y"
+    },
+    {
+      "id": "60642",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-sida1 anger Teollinen muotoilu.",
+      "evidence": "Teollinen muotoilu",
+      "pdf_page": 1,
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60642/6030.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60634",
+      "status": "excluded_other_programme",
+      "reason_sv": "PDF-sida2 anger Tekstiiliala (textildesign).",
+      "evidence": "Koulutusohjelma/oppiaine: Tekstiiliala",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60634"
+    },
+    {
+      "id": "60545",
+      "status": "excluded_other_programme",
+      "reason_sv": "Abstraktet anger uttryckligen att arbetet genomfördes inom Soveltava kuvataide.",
+      "evidence": "Ympäristötaideteoksen suunnittelu oli Lapin yliopiston Soveltavan kuvataiteen opintojen 2011- 2013 aikana toteutettu ympäristötaideprojektin tutkimus.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60545"
+    }
+  ],
+  "uncertain": [
+    {
+      "id": "60622",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60622"
+    },
+    {
+      "id": "60644",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60644"
+    },
+    {
+      "id": "60623",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60623"
+    },
+    {
+      "id": "60625",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60625"
+    },
+    {
+      "id": "60645",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60645"
+    },
+    {
+      "id": "60648",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60648"
+    },
+    {
+      "id": "60653",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60653"
+    },
+    {
+      "id": "60654",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60654"
+    },
+    {
+      "id": "60656",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60656"
+    },
+    {
+      "id": "60657",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60657"
+    },
+    {
+      "id": "60615",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60615"
+    },
+    {
+      "id": "60621",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60621"
+    },
+    {
+      "id": "60624",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60624"
+    },
+    {
+      "id": "60630",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60630"
+    },
+    {
+      "id": "60631",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60631"
+    },
+    {
+      "id": "60646",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60646"
+    },
+    {
+      "id": "60650",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60650"
+    },
+    {
+      "id": "60651",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60651"
+    },
+    {
+      "id": "60652",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60652"
+    },
+    {
+      "id": "60612",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60612"
+    },
+    {
+      "id": "60613",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60613"
+    },
+    {
+      "id": "60614",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60614"
+    },
+    {
+      "id": "60618",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60618"
+    },
+    {
+      "id": "60626",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60626"
+    },
+    {
+      "id": "60627",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60627"
+    },
+    {
+      "id": "60629",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60629"
+    },
+    {
+      "id": "60632",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60632"
+    },
+    {
+      "id": "60633",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60633"
+    },
+    {
+      "id": "60638",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60638"
+    },
+    {
+      "id": "60640",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60640"
+    },
+    {
+      "id": "60643",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60643"
+    },
+    {
+      "id": "60647",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60647"
+    },
+    {
+      "id": "60649",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60649"
+    },
+    {
+      "id": "60617",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60617"
+    },
+    {
+      "id": "60619",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60619"
+    },
+    {
+      "id": "60635",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60635"
+    },
+    {
+      "id": "60636",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60636"
+    },
+    {
+      "id": "60641",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60641"
+    },
+    {
+      "id": "60660",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60660"
+    },
+    {
+      "id": "60661",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60661"
+    },
+    {
+      "id": "60663",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med verifierade fel i utbildningsfältet. Ämnestexten berör design/textil; utbildningstillhörigheten kunde inte kontrolleras i ett läsbart PDF-försättsblad. Inte säkert en felaktig post, men utesluten som standard.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60663"
+    },
+    {
+      "id": "60544",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med felaktiga utbildningsfält; ämnet antyder Applied Visual Arts men tillhörigheten kunde inte verifieras.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60544"
+    },
+    {
+      "id": "60549",
+      "status": "legacy_programme_unverified",
+      "reason_sv": "Äldre arkivgrupp med felaktiga utbildningsfält; ämnet antyder Applied Visual Arts men tillhörigheten kunde inte verifieras.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60549"
+    }
+  ],
+  "duplicates": [
+    {
+      "id": "60569",
+      "preferred_id": "60562",
+      "reason_sv": "Samma författare Heikki Länkinen, år2008 och normaliserad titel; bevaras som alternativ arkivlänk."
+    }
+  ],
+  "corrections": [
+    {
+      "id": "63322",
+      "field": "authors",
+      "value": "Pursiainen, Säde",
+      "basis": "Original PDF title page",
+      "pdf_page": 1,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/63322"
+    }
+  ],
+  "secondary_duplicate_matches": [
+    {
+      "citation_id": "historical-koivisto-cf194bb9bd1a",
+      "archive_id": "aalto-67176340-ac26-41d8-b966-5f138ef1270b",
+      "reason_sv": "Samma arbete efter jämförelse av titel och författaruppgifter; mindre titel-/namnvariant eller ett års skillnad i sekundär citeringsuppgift. Arkivets år bevaras, citerat år sparas separat."
+    },
+    {
+      "citation_id": "historical-koivisto-ab8ef36c51a4",
+      "archive_id": "aalto-66513ef9-95a0-4a3f-88ab-72b5d7d00aa2",
+      "reason_sv": "Samma arbete efter jämförelse av titel och författaruppgifter; mindre titel-/namnvariant eller ett års skillnad i sekundär citeringsuppgift. Arkivets år bevaras, citerat år sparas separat."
+    },
+    {
+      "citation_id": "historical-koivisto-3e0819d693d6",
+      "archive_id": "aalto-17714caa-4886-4b3c-aa85-4a0e865b4373",
+      "reason_sv": "Samma arbete efter jämförelse av titel och författaruppgifter; mindre titel-/namnvariant eller ett års skillnad i sekundär citeringsuppgift. Arkivets år bevaras, citerat år sparas separat."
+    },
+    {
+      "citation_id": "historical-koivisto-b63dbcbf83b5",
+      "archive_id": "aalto-bd7304d7-e345-4f7a-8421-f35318ffed1d",
+      "reason_sv": "Samma arbete efter jämförelse av titel och författaruppgifter; mindre titel-/namnvariant eller ett års skillnad i sekundär citeringsuppgift. Arkivets år bevaras, citerat år sparas separat."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "created": "2026-10-28",
+  "scope": "Bounded coding audit of existing public 2024–2026 source abstracts; not independent validation of a historical classifier.",
+  "recommendation": "For automatic historical trends use multi-label, explicitly named method signals and label them as text coding. Do not present deterministic matches as independently verified designs or force a primary design.",
+  "input_policy": {
+    "methods": "Use original abstracts only. Do not use title or keywords to assert a method was actually used, and never use programme/author fields. Titles may be separately displayed as low-evidence signals if explicitly labelled.",
+    "themes": "Title + original abstract + author keywords, excluding programme/institution labels. Overlapping dictionary signals, not authoritative subject classifications.",
+    "missing_abstract": "No method signal is unknown, not no method used. Keep a missing/uncodable series and denominator. Do not use zero as known absence.",
+    "languages": "Finnish, English, Swedish; patterns are candidate lexicon, not a trained/validated classifier.",
+    "normalization": "NFKC, casefold, whitespace collapse; repair soft hyphens only, retain source text separately. Do not aggressively join ordinary hyphens."
+  },
+  "context_rules": [
+    "Require positive attachment to the present study: this thesis/study/research + is/uses/employs/combines/applies; tutkielma/tutkimus/opinnäyte + on/toteutettiin/lähestyn/käytän/hyödynnän/perustuu/kiinnittyi; avhandlingen/studien/jag + använder/tillämpar/utgår från/genomfördes. A nearby first-person research action can suffice.",
+    "The label and its self-study cue should be in the same sentence or a bounded local span (roughly 200 characters), not anywhere in the abstract. Finnish inflections must be allowed.",
+    "Exclude local explicit negatives: ei/emme/en + käytä/käytetty/ole; not/never/without; inte/ej/utan. Negation requires scope, not suppressing an entire sentence because it contains any negative word.",
+    "Exclude or mark weak future/proposal use: jatkotutkimuksessa/voisi/tulevaisuudessa; future research/could be used/propose using; framtida forskning/skulle kunna. A recommendation is not the study methodology.",
+    "Exclude background/cited research: aiempi/aikaisempi tutkimus/lähdekirjallisuus/taustoitus; previous research/literature/background; tidigare forskning. Theoretical framework + method-family term is not sufficient.",
+    "Flag partiality/combination: piirteitä/osalta/sivuaa/risteykseen/yhdistelee; features/aspects/part of/combines; inslag/delvis/kombinerar. Multiple explicit methods remain overlapping, not a fabricated single main design.",
+    "Preserve exact supporting sentence, source field and source URL for every visible signal. In trends disclose dictionary version and re-code all years uniformly, including 2024–2026.",
+    "Comparison with old manual annotations measures agreement, not truth; old annotation schema deliberately applies precedence and includes PDF evidence unavailable to abstract-only coding."
+  ],
+  "method_candidates": [
+    {
+      "label_sv": "Konstbaserad aktionsforskning",
+      "pattern": "taideperustai\\w*\\s+toimintatutkim\\w*|taiteelli\\w*\\s+toimintatutkim\\w*|arts?[- ]based\\s+action\\s+research|konstbaserad\\w*\\s+aktionsforskning",
+      "note": "Explicit art-based action research. A compound occurrence must not produce a second generic artistic-research label automatically."
+    },
+    {
+      "label_sv": "Konstnärlig/konstbaserad forskning",
+      "pattern": "taiteelli\\w*\\s+tutkim\\w*|taideperustai\\w*\\s+tutkim\\w*|artistic\\s+research|arts?[- ]based\\s+research|konstnärlig\\w*\\s+forskning|konstbaserad\\w*\\s+forskning",
+      "note": "Require the author to attach this term to the present study or its actual approach; exclude background or a named publication."
+    },
+    {
+      "label_sv": "Autoetnografi",
+      "pattern": "autoetnograf\\w*|autoethnograph\\w*|auto[- ]ethnograph\\w*",
+      "note": "Own-life writing, diary or first-person prose alone do not establish autoethnography. Partial features should not determine a primary design."
+    },
+    {
+      "label_sv": "Aktionsforskning",
+      "pattern": "(?<!taideperustainen )toimintatutkim\\w*|\\baction\\s+research\\b|aktionsforskning",
+      "note": "ABAR is a subtype, so a multi-label series needs explicit disclosure about overlap or should suppress the generic parent category."
+    },
+    {
+      "label_sv": "Fallstudie",
+      "pattern": "tapaustutkim\\w*|\\bcase[- ]stud(?:y|ies)\\b|fallstudi\\w*",
+      "note": "One location, one participant group or a case example alone is insufficient."
+    },
+    {
+      "label_sv": "Intervjustudie",
+      "pattern": "haastattelututkim\\w*|\\binterview[- ](?:based\\s+)?stud(?:y|ies)\\b|intervjustudi\\w*",
+      "note": "Interview material is collection evidence only; do not automatically promote it to research design."
+    },
+    {
+      "label_sv": "Etnografi",
+      "pattern": "(?<!auto)etnograf\\w*|(?<!auto)ethnograph\\w*|netnograf\\w*|netnograph\\w*",
+      "note": "Exclude autoethnography lexical substring. A theory merely influenced by ethnography is weaker evidence."
+    },
+    {
+      "label_sv": "Litteraturstudie/metasyntes",
+      "pattern": "kirjallisuuskatsau\\w*|metasyntees\\w*|\\b(?:systematic|scoping|mapping|integrative|descriptive)?\\s*literature\\s+review\\b|\\bmeta[- ]synthesis\\b|litteraturstud\\w*|litteraturöversikt\\w*|metasyntes\\w*",
+      "note": "Generic katsaus/overview/review of a subject is not a literature-review design. A background literature chapter is also insufficient."
+    },
+    {
+      "label_sv": "Enkätstudie",
+      "pattern": "kyselytutkim\\w*|\\bsurvey[- ]stud(?:y|ies)\\b|enkätstud\\w*",
+      "note": "Questionnaires are a collection technique unless the source identifies the design as a survey."
+    },
+    {
+      "label_sv": "Diskursanalys",
+      "pattern": "diskurssianaly\\w*|discourse[- ]analy\\w*|diskursanaly\\w*",
+      "note": "May be analysis rather than whole design; show as a method signal unless explicit design is given. The word discourse alone is not enough."
+    },
+    {
+      "label_sv": "Narrativ/biografisk forskning",
+      "pattern": "narratiivi\\w*\\s+tutkim\\w*|elämäkerralli\\w*\\s+tutkim\\w*|\\bnarrative\\s+(?:research|inquiry)\\b|\\bbiograph\\w*\\s+(?:research|inquiry)\\b|narrativ\\w*\\s+forskning|biografisk\\w*\\s+forskning",
+      "note": "Narratives or biographies as the topic are not automatically the research method; narrative analysis belongs to analysis."
+    },
+    {
+      "label_sv": "Designbaserad forskning",
+      "pattern": "kehittämistutkim\\w*|muotoilututkim\\w*|design[- ]based\\s+research|designbaserad\\w*\\s+forskning",
+      "note": "Developing a teaching exercise or making a design artefact alone does not establish the named research design."
+    },
+    {
+      "label_sv": "Fenomenologisk/hermeneutisk studie",
+      "pattern": "fenomenolog\\w*|hermeneutt\\w*|phenomenolog\\w*|hermeneutic\\w*|hermeneutisk\\w*",
+      "note": "Require explicit self-methodological attachment: tutkimusote/lähestymistapa/menetelmä, approach/methodology, ansats/metod. Fenomenografia is a different family, not this code."
+    },
+    {
+      "label_sv": "Blandad metod",
+      "pattern": "mixed[- ]methods?|blandad\\w*\\s+metod|laadull\\w*\\s+ja\\s+määräll\\w*|määräll\\w*\\s+ja\\s+laadull\\w*",
+      "note": "Finnish monimenetelmällinen only means multiple methods; do not assume a qualitative+quantitative mixed-method design."
+    },
+    {
+      "label_sv": "Annan kvalitativ studie",
+      "pattern": "laadull\\w*\\s+tutkim\\w*|kvalitatiiv\\w*\\s+tutkim\\w*|qualitative\\s+(?:study|research)|kvalitativ\\w*\\s+(?:studie|forskning)|fenomenograf\\w*|phenomenograph\\w*",
+      "note": "A broad explicit qualitative signal is defensible, but not a reason to erase the named subdesign. Phenomenography deserves its own displayed signal even if this controlled parent groups it."
+    },
+    {
+      "label_sv": "Teoretisk/filosofisk studie",
+      "pattern": "(?:filosofi\\w*|teoreetti\\w*)\\s+(?:tutkim\\w*|analyysi\\w*)|(?:philosophical|theoretical)\\s+(?:inquiry|study|analysis)|(?:filosofisk\\w*|teoretisk\\w*)\\s+(?:studie|analys)",
+      "note": "Every thesis has a theoretical framework. Framework/theory citations alone are not the design."
+    }
+  ],
+  "collection_analysis_candidates": [
+    {
+      "label_sv": "Intervjuer",
+      "pattern": "haastattel\\w*|interview\\w*|intervju\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Enkäter",
+      "pattern": "kysely\\w*|questionnaire\\w*|enkät\\w*|survey",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Observation",
+      "pattern": "havainnoin\\w*|havainnointi\\w*|observation\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Workshoppar",
+      "pattern": "työpaj\\w*|workshop\\w*|verkstad\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Dagböcker",
+      "pattern": "päiväkirj\\w*|diar(?:y|ies)|journal\\w*|dagbok\\w*|dagböck\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Innehållsanalys",
+      "pattern": "sisällönanaly\\w*|sisällön analy\\w*|content\\s+analy\\w*|innehållsanaly\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Tematisk analys",
+      "pattern": "teemoittel\\w*|temaatt\\w*\\s+(?:analy\\w*|tulkin\\w*)|thematic\\s+analy\\w*|tematisk\\w*\\s+analy\\w*|tematiser\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Narrativ analys",
+      "pattern": "narratiivi\\w*\\s+(?:analy\\w*|tulkin\\w*)|narrative\\s+(?:analysis|interpretation)|narrativ\\w*\\s+(?:analys|tolkning)",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Diskursanalys",
+      "pattern": "diskurssianaly\\w*|discourse[- ]analy\\w*|diskursanaly\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    },
+    {
+      "label_sv": "Foto- och videodokumentation",
+      "pattern": "(?:valokuva|video|photo|foto)\\w*.{0,35}(?:dokumento|document|dokument)|(?:dokumento|document|dokument)\\w*.{0,35}(?:valokuva|video|photo|foto)\\w*",
+      "note": "Require local evidence of collection or analysis of the actual study; workshops and photography may instead be the topic or pedagogical recommendations."
+    }
+  ],
+  "theme_candidates": [
+    {
+      "label_sv": "Undervisning och lärande",
+      "pattern": "opetus(?:suunnitelm|menetelm|käytän|kokeil|työ)|oppimi\\w*|pedagog\\w*|curricul\\w*|learning|teaching|undervis\\w*|lärande",
+      "caution": "Do not match programme label kuvataidekasvatus/art education alone."
+    },
+    {
+      "label_sv": "Natur och ekologisk hållbarhet",
+      "pattern": "luonto\\w*|ympäristökasvat\\w*|ekologi\\w*|ekososiaali\\w*|kestäv\\w*|ilmasto\\w*|ecolog\\w*|sustainab\\w*|climate|environmental|natur\\w*|hållbar\\w*",
+      "caution": "Generic environment/ympäristö can mean a classroom; prefer ecological context."
+    },
+    {
+      "label_sv": "Kropp, sinnen och materialitet",
+      "pattern": "keholli\\w*|ruumiilli\\w*|aisti\\w*|materiaali\\w*|embodi\\w*|sensory|materialit\\w*|kropp\\w*|sinnlig\\w*",
+      "caution": "Finnish aineisto/material as research data is not materiality; never match generic material alone."
+    },
+    {
+      "label_sv": "Välbefinnande och omsorg",
+      "pattern": "hyvinvoin\\w*|mielentervey\\w*|hoiv\\w*|trauma\\w*|terapia\\w*|well[- ]?being|mental\\s+health|care|välbefinn\\w*|omsorg",
+      "caution": "Care word requires topic context, not take care of practical arrangements."
+    },
+    {
+      "label_sv": "Identitet och profession",
+      "pattern": "identite\\w*|opettaju\\w*|ammatti\\w*|professio\\w*|identity|identitet\\w*|lärarskap\\w*",
+      "caution": "Do not infer an author identity or profession from name or simply being a student."
+    },
+    {
+      "label_sv": "Makt, delaktighet och rättvisa",
+      "pattern": "osallisuu\\w*|osallista\\w*|vallan|valta\\w*|yhdenverta\\w*|tasa[- ]arvo\\w*|eriarvo\\w*|syrjin\\w*|rasis\\w*|feminis\\w*|queer|demokra\\w*|power|justice|inequal\\w*|equality|inclusi\\w*|delaktig\\w*|rättvis\\w*|makt\\w*",
+      "caution": "Participant/osallistuja alone is not participation/delaktighet as a theme."
+    },
+    {
+      "label_sv": "Konstnärlig praktik",
+      "pattern": "taiteelli\\w*\\s+(?:työskentel\\w*|prosessi\\w*|praktiik\\w*)|taiteen\\s+tekemi\\w*|artistic\\s+(?:practice|process)|art[- ]making|konstnärlig\\w*\\s+(?:praktik|process|arbete)",
+      "caution": "Do not match generic art/taide or every work in art education."
+    },
+    {
+      "label_sv": "Digital kultur och medier",
+      "pattern": "digitaali\\w*|sosiaali\\w*\\s+media|verkko\\w*|pel(?:i|ei)\\w*|ohjelmoin\\w*|tekoäly\\w*|digital\\w*|social\\s+media|videogam\\w*|video\\s+gam\\w*|programming|artificial\\s+intelligence|medie\\w*",
+      "caution": "Photography alone is not necessarily digital culture."
+    },
+    {
+      "label_sv": "Kulturarv, plats och nordliga sammanhang",
+      "pattern": "kulttuuriperin\\w*|kulttuuriperint\\w*|paikkasuh\\w*|paikkasidonn\\w*|pohjoi\\w*|arktis\\w*|saamelai\\w*|cultural\\s+heritage|place[- ]based|northern|arctic|sámi|sami|kulturarv\\w*|platsrelat\\w*|nordlig\\w*",
+      "caution": "Lapin/Lappland or Aalto in institution metadata is not itself a theme; use title/abstract/keywords only."
+    },
+    {
+      "label_sv": "Estetik och visuell kultur",
+      "pattern": "esteti\\w*|visuaali\\w*\\s+kulttuur\\w*|kuvaluk\\w*|aestheti\\w*|visual\\s+culture|visual\\s+literacy|visuell\\w*\\s+kultur|bildläs\\w*",
+      "caution": "Generic visual or image alone is too broad."
+    },
+    {
+      "label_sv": "Samarbete och gemenskap",
+      "pattern": "yhteisöll\\w*|yhteisöta\\w*|yhteisluo\\w*|yhteistyö\\w*|kollektiiv\\w*|communit\\w*|collaborat\\w*|collective|gemenskap\\w*|samarbet\\w*",
+      "caution": "Studying a class is not automatically a community theme."
+    },
+    {
+      "label_sv": "Kunskap och vetenskap",
+      "pattern": "epistem\\w*|tietämis\\w*|tiedonmuodos\\w*|hiljai\\w*\\s+tieto|tiede\\w*|knowledge\\s+(?:production|creation)|tacit\\s+knowledge|knowing|kunskaps\\w*|vetenskap\\w*",
+      "caution": "Every abstract contains research/tutkimus; do not match those generic terms."
+    }
+  ],
+  "audited_examples": [
+    {
+      "id": "cfb95e63-6b94-4453-94ba-e3488211a0b5",
+      "university": "Aalto",
+      "year": 2024,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/129151",
+      "snippet": "Tämä opinnäyte on taideperustainen toimintatutkimus",
+      "case": "positive",
+      "expected_interpretation": "Konstbaserad aktionsforskning",
+      "reason": "Explicit self-identification; preserve as the more specific action-research subtype."
+    },
+    {
+      "id": "5a06794c-71d7-4e6d-b0a9-3d79fc9a9e69",
+      "university": "Aalto",
+      "year": 2024,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/130645",
+      "snippet": "Opinnäyte lähestyy aihetta taiteellisen tutkimuksen keinoin",
+      "case": "positive",
+      "expected_interpretation": "Konstnärlig/konstbaserad forskning",
+      "reason": "Actual approach, not merely a cited framework."
+    },
+    {
+      "id": "7360d360-913d-4e47-8ca0-9035a6b1c1d9",
+      "university": "Aalto",
+      "year": 2024,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/129118",
+      "snippet": "taideperustainen autoetnografinen tutkimus",
+      "case": "positive",
+      "expected_interpretation": "Autoetnografi",
+      "reason": "Explicit combined artistic/autoethnographic study; multi-label is more faithful than a forced single design."
+    },
+    {
+      "id": "66688",
+      "university": "Lappland",
+      "year": 2025,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66688",
+      "snippet": "Tutkimuksemme oli luonteeltaan toimintatutkimus.",
+      "case": "positive",
+      "expected_interpretation": "Aktionsforskning",
+      "reason": "Explicit statement; qualitative and quantitative content analysis elsewhere should not overwrite this design."
+    },
+    {
+      "id": "66804",
+      "university": "Lappland",
+      "year": 2025,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66804",
+      "snippet": "Tutkimukseni on luonteeltaan etnografinen tapaustutkimus.",
+      "case": "positive",
+      "expected_interpretation": "Fallstudie; Etnografi",
+      "reason": "Both explicitly named; a flat one-label precedence obscures the combination."
+    },
+    {
+      "id": "45697494-ace7-4a1f-8f14-fbc79d5710ef",
+      "university": "Aalto",
+      "year": 2025,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/136729",
+      "snippet": "Tutkimusmenetelmänä käytetään kuvailevaa kirjallisuuskatsausta",
+      "case": "positive",
+      "expected_interpretation": "Litteraturstudie/metasyntes",
+      "reason": "Actual review method, not generic review/overview language."
+    },
+    {
+      "id": "56763acb-bc53-49d2-89d0-72eb634db5b9",
+      "university": "Aalto",
+      "year": 2025,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/138787",
+      "snippet": "Tutkimusmenetelmä on laadullinen ja määrällinen eklektinen tutkimus.",
+      "case": "positive",
+      "expected_interpretation": "Blandad metod",
+      "reason": "Qualitative+quantitative is explicit; an appropriate mixed-method signal with eclectic qualification."
+    },
+    {
+      "id": "fb6c9d49-f04d-4f5b-ac90-f7727ede35b3",
+      "university": "Aalto",
+      "year": 2024,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/130656",
+      "snippet": "The data consists of three biographical interviews analyzed using the narrative interpretation method (BNIM).",
+      "case": "positive",
+      "expected_interpretation": "Narrativ analys; Intervjuer",
+      "reason": "Analysis and collection explicitly named; do not label participant neurodivergence as inferred author demographics."
+    },
+    {
+      "id": "66695",
+      "university": "Lappland",
+      "year": 2025,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66695",
+      "snippet": "Tutkimus on filosofinen ja kasvatusteoreettinen analyysi",
+      "case": "negative",
+      "expected_interpretation": "Reject automatic phenomenological design",
+      "reason": "Although Marion phenomenology occurs, it is named theory; the actual approach is philosophical/theoretical analysis."
+    },
+    {
+      "id": "c0c15f63-093f-416f-a6d6-1a270e97636d",
+      "university": "Aalto",
+      "year": 2025,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/138778",
+      "snippet": "Tutkielman tavoitteena on luoda katsaus siihen",
+      "case": "negative",
+      "expected_interpretation": "Reject automatic literature review",
+      "reason": "Katsaus means overview here; empirical conversation data and Grounded Theory analysis follow."
+    },
+    {
+      "id": "9e51cf56-c064-47ad-aec2-35fd4846aeeb",
+      "university": "Aalto",
+      "year": 2024,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/130667",
+      "snippet": "Tutkimusaineistona on viiden kuvataiteen aineenopettajan teemahaastattelut ympäri Suomea, joita analysoidaan laadullisella sisällönanalyysilla.",
+      "case": "negative",
+      "expected_interpretation": "Intervjuer and Innehållsanalys, not automatically Intervjustudie",
+      "reason": "A named collection method does not by itself establish the research design."
+    },
+    {
+      "id": "1c08e8a6-7a6d-4b4b-a588-f596fa28057c",
+      "university": "Aalto",
+      "year": 2025,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/138786",
+      "snippet": "Opinnäytetyö on toteutettu monimenetelmällisesti",
+      "case": "negative",
+      "expected_interpretation": "Reject automatic qualitative+quantitative mixed design",
+      "reason": "The described combination is feminism, autoethnography and narrative research; not explicit quantitative research."
+    },
+    {
+      "id": "66014",
+      "university": "Lappland",
+      "year": 2024,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/66014",
+      "snippet": "Oman interventioni ja sen tarkastelun osalta tutkimus on taideperustaista toimintatutkimusta",
+      "case": "qualified",
+      "expected_interpretation": "Partial ABAR signal; no sole-primary assignment",
+      "reason": "The rest of the abstract explicitly gives autoethnography and observation across a wider course; osalta restricts ABAR to a part."
+    },
+    {
+      "id": "641d70f8-ace2-412d-99f5-33668118e9c7",
+      "university": "Aalto",
+      "year": 2025,
+      "source_url": "https://aaltodoc.aalto.fi/handle/123456789/136745",
+      "snippet": "I denna avhandling delar jag",
+      "case": "negative",
+      "expected_interpretation": "Inte fastställbar",
+      "reason": "Personal reflection and experience are present but no named research methodology is stated; do not invent autoethnography or case study."
+    },
+    {
+      "id": "67264",
+      "university": "Lappland",
+      "year": 2026,
+      "source_url": "https://lauda.ulapland.fi/handle/10024/67264",
+      "snippet": "Laadullisessa fenomenografisessa tutkimuksessa selvitin",
+      "case": "qualified",
+      "expected_interpretation": "Phenomenography, not phenomenology",
+      "reason": "Finnish phenomenografia and phenomenologia are distinct; preserve a separate specific label or explicitly grouped qualitative parent."
+    }
+  ],
+  "coverage_expected": {
+    "quantitative_estimate": null,
+    "reason": "No historical source corpus or completed classifier was available for this bounded audit. Estimating accuracy/coverage numerically would invent evidence. Explicit named families are retrievable, but conservative context gating will intentionally leave many abstracts unclassified.",
+    "main_biases": [
+      "Earlier years can have shorter or missing abstracts; apparent growth can be metadata growth.",
+      "Methodological terminology changes over time and translation can change matching.",
+      "A dictionary covers selected named families; absent matches do not imply absent methods or themes.",
+      "Historical themes should be presented as text signals with all-record and usable-text denominators.",
+      "Use within-university percentages; combined thesis-weighted share and equal-university mean are different metrics.",
+      "A partially harvested year cannot be treated as complete output or a zero-production year."
+    ]
+  }
+}

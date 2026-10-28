@@ -1,0 +1,553 @@
+{
+  "checked": "2026-10-28",
+  "direct_confirmed": 778,
+  "archive_uncertain": 43,
+  "secondary_added": [
+    "historical-koivisto-9d5141dae6f2",
+    "historical-koivisto-39e1a2b0afcb",
+    "historical-koivisto-3414e5373c16",
+    "historical-koivisto-49e016a43f91",
+    "historical-koivisto-0d9df87d5c1c",
+    "historical-koivisto-4cb5a2732eda",
+    "historical-koivisto-16a428259879",
+    "historical-koivisto-1e521c9000e3",
+    "historical-koivisto-12e174b90a53",
+    "historical-koivisto-80b4d4e936fe",
+    "historical-koivisto-c803900388ba",
+    "historical-koivisto-581787396548",
+    "historical-koivisto-126d6568519b",
+    "historical-koivisto-24e95691e878",
+    "historical-koivisto-f9af64a4ea45",
+    "historical-koivisto-4f6937f2e8bb",
+    "historical-koivisto-7b6a2a801296",
+    "historical-koivisto-6a0fbbaa6e0a",
+    "historical-koivisto-68117dac3178",
+    "historical-koivisto-db53059e9053",
+    "historical-koivisto-24a387e07d85",
+    "historical-koivisto-7f2f71c42066",
+    "historical-koivisto-327f3d6767f6",
+    "historical-koivisto-43b661c90d23",
+    "historical-koivisto-cc74bbda8cf5",
+    "historical-koivisto-faac9e0ba425",
+    "historical-koivisto-12fbd6b35180",
+    "historical-koivisto-d1cc269b14f2",
+    "historical-koivisto-bd2842747de9",
+    "historical-koivisto-1615f8fdf088",
+    "historical-koivisto-8ac0e4c13088",
+    "historical-koivisto-c9903e292b86",
+    "historical-koivisto-5f638bb29859",
+    "historical-koivisto-3dc90e816564",
+    "historical-koivisto-0a963bea22ec",
+    "historical-koivisto-55f1d5d54ee6",
+    "historical-koivisto-8abcc76d1b0c",
+    "historical-koivisto-d16cfe44ac2f",
+    "historical-koivisto-e384fb44b9e4",
+    "historical-koivisto-55dc8f49a782",
+    "historical-koivisto-c26249f50ec0"
+  ],
+  "secondary_matches": [
+    {
+      "citation": "historical-koivisto-d3a69c20d7c9",
+      "archive_id": "aalto-4d5e8a92-7019-4d17-9413-03d175db1356"
+    },
+    {
+      "citation": "historical-koivisto-be75388433a6",
+      "archive_id": "aalto-0f80e5eb-3d2c-468d-900e-e8f2b02e1c0a"
+    },
+    {
+      "citation": "historical-koivisto-9fed0a2f1ed5",
+      "archive_id": "aalto-f36f98a4-774c-49dd-ad31-3ed35ad4ea86"
+    },
+    {
+      "citation": "historical-koivisto-e5ceec539ceb",
+      "archive_id": "aalto-e1bcec17-250b-4bf7-ad42-d2545e65ca91"
+    },
+    {
+      "citation": "historical-koivisto-34730fb8a875",
+      "archive_id": "aalto-90aacf77-8f35-45f9-b0f2-6bb916a73b8e"
+    },
+    {
+      "citation": "historical-koivisto-70f41d860c52",
+      "archive_id": "aalto-a463918a-8fbb-45e7-ae20-e0eaf7880414"
+    },
+    {
+      "citation": "historical-koivisto-1878430362a4",
+      "archive_id": "aalto-f6217d62-4690-4b14-abdc-d652a6e9039f"
+    },
+    {
+      "citation": "historical-koivisto-9fe8289ba3c3",
+      "archive_id": "aalto-dc179d80-c48d-49df-ae47-567a739cd278"
+    },
+    {
+      "citation": "historical-koivisto-a42ab1b3f23a",
+      "archive_id": "aalto-bc6c19c1-49e4-4dac-8a32-59ba44a22abc"
+    },
+    {
+      "citation": "historical-koivisto-ebf24fb3db19",
+      "archive_id": "aalto-a5b5cdba-541a-4583-8bc1-d30475547fad"
+    },
+    {
+      "citation": "historical-koivisto-430dd66e9d01",
+      "archive_id": "aalto-2e90cb0d-c407-4569-a0a6-bf207ec4df42"
+    },
+    {
+      "citation": "historical-koivisto-061f99e93b1e",
+      "archive_id": "aalto-74bd577a-b5e7-4ad5-9046-6eb1b31f0a2e"
+    },
+    {
+      "citation": "historical-koivisto-ef60beac3f48",
+      "archive_id": "aalto-bdaee624-7761-4fba-87e4-cd4d0f456d42"
+    },
+    {
+      "citation": "historical-koivisto-d00d9b35d6d4",
+      "archive_id": "aalto-8b892f33-4a52-4d5e-bdee-278a02f77f3b"
+    },
+    {
+      "citation": "historical-koivisto-b3b8b2cd86c4",
+      "archive_id": "aalto-0ff0197c-03da-4a5e-8812-79bcb8839183"
+    },
+    {
+      "citation": "historical-koivisto-6ddb00f0ee04",
+      "archive_id": "aalto-c29a816b-1859-4c97-9cf5-fb440bcb27c6"
+    },
+    {
+      "citation": "historical-koivisto-3e0819d693d6",
+      "archive_id": "aalto-17714caa-4886-4b3c-aa85-4a0e865b4373"
+    },
+    {
+      "citation": "historical-koivisto-102c44a3eff9",
+      "archive_id": "aalto-15e949b0-95af-44db-ba02-2e7205cc4725"
+    },
+    {
+      "citation": "historical-koivisto-1b503e616427",
+      "archive_id": "aalto-b36335fe-0505-4d53-aca3-6c3b948c804d"
+    },
+    {
+      "citation": "historical-koivisto-b63dbcbf83b5",
+      "archive_id": "aalto-bd7304d7-e345-4f7a-8421-f35318ffed1d"
+    },
+    {
+      "citation": "historical-koivisto-d73d2d4f5b8b",
+      "archive_id": "aalto-2404bb24-eba9-4b73-a1c0-7a1523fa5f38"
+    },
+    {
+      "citation": "historical-koivisto-2e53d4a1b113",
+      "archive_id": "aalto-b281ad86-2ef6-44a4-af0f-c8cd6a96bbfd"
+    },
+    {
+      "citation": "historical-koivisto-6280477897a9",
+      "archive_id": "aalto-41ff488e-dec6-4040-86c1-31fbe69087fc"
+    },
+    {
+      "citation": "historical-koivisto-d3f01c7ff627",
+      "archive_id": "aalto-7c376620-b428-4319-b222-ceed6aa97a1f"
+    },
+    {
+      "citation": "historical-koivisto-511ef874fc61",
+      "archive_id": "aalto-e12ee8d7-9a1a-48c3-a683-e5feb9d53fba"
+    },
+    {
+      "citation": "historical-koivisto-5834a20c9768",
+      "archive_id": "aalto-96ee3533-560d-47e7-8d5d-0cab1a9b2301"
+    },
+    {
+      "citation": "historical-koivisto-9597cd8aa73c",
+      "archive_id": "aalto-cf3d7830-7dbe-4597-949e-044dafc891b2"
+    },
+    {
+      "citation": "historical-koivisto-e1c89fa50024",
+      "archive_id": "aalto-d55cdd90-2896-4629-b88f-c2d53f976a9f"
+    },
+    {
+      "citation": "historical-koivisto-68343a1263f6",
+      "archive_id": "aalto-291b8431-362d-49ce-95cb-9f05f3925e7c"
+    },
+    {
+      "citation": "historical-koivisto-0cb5589289b8",
+      "archive_id": "aalto-33fdce3b-6bb4-4491-ad33-e3cb4db7b6b3"
+    },
+    {
+      "citation": "historical-koivisto-cf194bb9bd1a",
+      "archive_id": "aalto-67176340-ac26-41d8-b966-5f138ef1270b"
+    },
+    {
+      "citation": "historical-koivisto-bac6ca01ecfb",
+      "archive_id": "aalto-fb1e798f-0128-4335-bb76-75f2c0aa8494"
+    },
+    {
+      "citation": "historical-koivisto-22cd271a23fe",
+      "archive_id": "aalto-49dd3594-8e25-4734-ab10-1db469041a22"
+    },
+    {
+      "citation": "historical-koivisto-ab8ef36c51a4",
+      "archive_id": "aalto-66513ef9-95a0-4a3f-88ab-72b5d7d00aa2"
+    },
+    {
+      "citation": "historical-koivisto-ce24cc237d23",
+      "archive_id": "aalto-e0b0258e-9c20-4aca-9670-60362827dd7e"
+    },
+    {
+      "citation": "historical-koivisto-6c328833c3e4",
+      "archive_id": "aalto-4efbee76-e778-4297-af23-471b4f4713e4"
+    },
+    {
+      "citation": "historical-koivisto-1d426ae3847a",
+      "archive_id": "aalto-a0ebf2f2-1ad0-4ac5-9482-1987bc1bff09"
+    },
+    {
+      "citation": "historical-koivisto-8e4295876e1c",
+      "archive_id": "aalto-e33e9fab-19fe-4065-ac2a-5364fcd78615"
+    },
+    {
+      "citation": "historical-koivisto-26851c43fc85",
+      "archive_id": "aalto-4ce41e6a-314b-4585-8588-e1a016dd0117"
+    },
+    {
+      "citation": "historical-koivisto-c2a4b0132e29",
+      "archive_id": "aalto-e8cc6d8f-1212-4fb4-8daf-fb841710417b"
+    }
+  ],
+  "aliases": [
+    {
+      "id": "60569",
+      "preferred_id": "60562",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60569"
+    }
+  ],
+  "excluded_scope": [
+    {
+      "id": "60620",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Vaatetusala Syksy 2008 Tanja Oraviita [PDF page 2] 2 Lapin yliopisto, taiteiden tiedekunta, Työ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60620/6603.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60616",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Degree program in Textile and Clothing Design Type of the work: Pro gradu thesis Number of page",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60616/Laura_Sepp%c3%a4l%c3%a4_gradu_1.pdf?sequence=5&isAllowed=y"
+    },
+    {
+      "id": "60639",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Teollinen muotoilu Työn laji: Pro gradu -tutkielma x Laudaturtyö Sivumäärä: 56 + Liitteet Vuosi",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60639/Gradu_Kai_Rinkinen.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60628",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Vaatetus Työn laji: Pro gradu-tutkielma X Laudaturtyö . Sivumäärä: 88 Liitteet: 4 Vuosi: Kevät ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60628/Riikka_Koistinen_Gradu_Luonnonvarit.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60658",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Teollinen muotoilu Työn laji: Pro gradu -tutkielma Sivumäärä: 51 Vuosi: Kevät 2011 Tiivistelmä:",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60658/Gradu-Veli_Moilanen.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60659",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Industrial Design Type: Master Thesis Pages: 117 Year: 2011 Abstract Being connected with old s",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60659/NSavla_MAThesis_2011.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60662",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Industrial Design Type of the work: Pro gradu thesis Number of pages: 97 pages, 3 attachments Y",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60662/AN%20Pro-gradu%20thesis.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60686",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Soveltava kuvataide Työn laji: Pro gradu -tutkielma Sivumäärä: 80 Vuosi: Syksy 2012 Tiivistelmä",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60686/Johanna%20Ruotsalainen%20Pro%20gradu%202012.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60548",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Applied Visual Arts The type of the work: pro gradu thesis X Number of pages: 87 Year: Autumn 2",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60548/Konttinen_Katri_gradu_2013.pdf?sequence=2&isAllowed=y"
+    },
+    {
+      "id": "60706",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-försättsbladet anger en annan utbildning än den äldre arkivpostens Kuvataidekasvatus.",
+      "evidence": "Soveltava kuvataide Työn laji: Pro gradu –tutkielma x_ Laudaturtyö__ Sivumäärä: 87 Vuosi: 2013 ",
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60706/Koistinen_Salla-Mari_Progradu.pdf?sequence=2&isAllowed=y"
+    },
+    {
+      "id": "60642",
+      "status": "excluded_pdf_other_programme",
+      "reason_sv": "PDF-sida1 anger Teollinen muotoilu.",
+      "evidence": "Teollinen muotoilu",
+      "pdf_page": 1,
+      "source_url": "https://lauda.ulapland.fi/bitstream/handle/10024/60642/6030.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "id": "60634",
+      "status": "excluded_other_programme",
+      "reason_sv": "PDF-sida2 anger Tekstiiliala (textildesign).",
+      "evidence": "Koulutusohjelma/oppiaine: Tekstiiliala",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60634"
+    },
+    {
+      "id": "60545",
+      "status": "excluded_other_programme",
+      "reason_sv": "Abstraktet anger uttryckligen att arbetet genomfördes inom Soveltava kuvataide.",
+      "evidence": "Ympäristötaideteoksen suunnittelu oli Lapin yliopiston Soveltavan kuvataiteen opintojen 2011- 2013 aikana toteutettu ympäristötaideprojektin tutkimus.",
+      "source_url": "https://lauda.ulapland.fi/handle/10024/60545"
+    }
+  ],
+  "by_year": [
+    {
+      "university": "Aalto",
+      "year": 2007,
+      "records": 0,
+      "with_abstract": 0
+    },
+    {
+      "university": "Aalto",
+      "year": 2008,
+      "records": 0,
+      "with_abstract": 0
+    },
+    {
+      "university": "Aalto",
+      "year": 2009,
+      "records": 0,
+      "with_abstract": 0
+    },
+    {
+      "university": "Aalto",
+      "year": 2010,
+      "records": 0,
+      "with_abstract": 0
+    },
+    {
+      "university": "Aalto",
+      "year": 2011,
+      "records": 4,
+      "with_abstract": 1
+    },
+    {
+      "university": "Aalto",
+      "year": 2012,
+      "records": 17,
+      "with_abstract": 15
+    },
+    {
+      "university": "Aalto",
+      "year": 2013,
+      "records": 20,
+      "with_abstract": 19
+    },
+    {
+      "university": "Aalto",
+      "year": 2014,
+      "records": 23,
+      "with_abstract": 13
+    },
+    {
+      "university": "Aalto",
+      "year": 2015,
+      "records": 48,
+      "with_abstract": 22
+    },
+    {
+      "university": "Aalto",
+      "year": 2016,
+      "records": 21,
+      "with_abstract": 14
+    },
+    {
+      "university": "Aalto",
+      "year": 2017,
+      "records": 27,
+      "with_abstract": 21
+    },
+    {
+      "university": "Aalto",
+      "year": 2018,
+      "records": 28,
+      "with_abstract": 23
+    },
+    {
+      "university": "Aalto",
+      "year": 2019,
+      "records": 44,
+      "with_abstract": 40
+    },
+    {
+      "university": "Aalto",
+      "year": 2020,
+      "records": 26,
+      "with_abstract": 23
+    },
+    {
+      "university": "Aalto",
+      "year": 2021,
+      "records": 25,
+      "with_abstract": 21
+    },
+    {
+      "university": "Aalto",
+      "year": 2022,
+      "records": 19,
+      "with_abstract": 16
+    },
+    {
+      "university": "Aalto",
+      "year": 2023,
+      "records": 41,
+      "with_abstract": 38
+    },
+    {
+      "university": "Aalto",
+      "year": 2024,
+      "records": 16,
+      "with_abstract": 16
+    },
+    {
+      "university": "Aalto",
+      "year": 2025,
+      "records": 32,
+      "with_abstract": 32
+    },
+    {
+      "university": "Aalto",
+      "year": 2026,
+      "records": 20,
+      "with_abstract": 20
+    },
+    {
+      "university": "Lappland",
+      "year": 2007,
+      "records": 1,
+      "with_abstract": 1
+    },
+    {
+      "university": "Lappland",
+      "year": 2008,
+      "records": 10,
+      "with_abstract": 10
+    },
+    {
+      "university": "Lappland",
+      "year": 2009,
+      "records": 14,
+      "with_abstract": 3
+    },
+    {
+      "university": "Lappland",
+      "year": 2010,
+      "records": 8,
+      "with_abstract": 8
+    },
+    {
+      "university": "Lappland",
+      "year": 2011,
+      "records": 30,
+      "with_abstract": 22
+    },
+    {
+      "university": "Lappland",
+      "year": 2012,
+      "records": 21,
+      "with_abstract": 16
+    },
+    {
+      "university": "Lappland",
+      "year": 2013,
+      "records": 27,
+      "with_abstract": 21
+    },
+    {
+      "university": "Lappland",
+      "year": 2014,
+      "records": 16,
+      "with_abstract": 16
+    },
+    {
+      "university": "Lappland",
+      "year": 2015,
+      "records": 21,
+      "with_abstract": 21
+    },
+    {
+      "university": "Lappland",
+      "year": 2016,
+      "records": 18,
+      "with_abstract": 18
+    },
+    {
+      "university": "Lappland",
+      "year": 2017,
+      "records": 19,
+      "with_abstract": 19
+    },
+    {
+      "university": "Lappland",
+      "year": 2018,
+      "records": 15,
+      "with_abstract": 14
+    },
+    {
+      "university": "Lappland",
+      "year": 2019,
+      "records": 24,
+      "with_abstract": 24
+    },
+    {
+      "university": "Lappland",
+      "year": 2020,
+      "records": 15,
+      "with_abstract": 15
+    },
+    {
+      "university": "Lappland",
+      "year": 2021,
+      "records": 14,
+      "with_abstract": 14
+    },
+    {
+      "university": "Lappland",
+      "year": 2022,
+      "records": 26,
+      "with_abstract": 26
+    },
+    {
+      "university": "Lappland",
+      "year": 2023,
+      "records": 21,
+      "with_abstract": 21
+    },
+    {
+      "university": "Lappland",
+      "year": 2024,
+      "records": 16,
+      "with_abstract": 16
+    },
+    {
+      "university": "Lappland",
+      "year": 2025,
+      "records": 34,
+      "with_abstract": 34
+    },
+    {
+      "university": "Lappland",
+      "year": 2026,
+      "records": 17,
+      "with_abstract": 17
+    }
+  ]
+}
