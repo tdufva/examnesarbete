@@ -126,3 +126,28 @@ node scripts/check_history.mjs
 ```
 
 Råa hämtningar och kontrollerade PDF-filer i `data/history_raw/` publiceras inte. Historikens arkivuppgifter kan innehålla saknade abstrakt, felaktiga språk- eller utbildningsfält och varierande publiceringspraxis. De synliga begränsningarna är en del av analysen.
+
+
+## Newsroom: bild och slöjd 2024–2026 (9 november 2026)
+
+[Newsroom](https://tdufva.github.io/examnesarbete/newsroom.html) jämför **270 unika arbeten, nio utbildningslinjer och sju lärosäten** i den levererade samlingen. Konstfack omfattar tre linjer; Östra Finland, Helsingfors, Åbo universitet, Åbo Akademi, Lappland och Aalto en vardera. Den tidigare katalogen och fördjupningen behåller sitt Aalto/Lappland-urval. Den större historiska analysens innehåll, data och beräkningar ändras inte.
+
+277 levererade filer motsvarar 276 byte-unika PDF-filer. Två arbeten har separata PDF-delar och räknas en gång, vilket ger 274 arbetskandidater. Tre Konstfack-arbeten har källår 2018 eller 2023 och utesluts från perioden. Ett arbete hör uttryckligen till en annan masterutbildning och hålls utanför de nio linjernas nämnare, med analysreferatet kvar i granskningen. Sju källstödda korrigeringar av linjetillhörighet redovisas öppet. Källår används före mappår. Leveransen innehåller inga Aalto-, Lappland- eller Konstfack-arbeten från 2026; detta betyder inte att inga sådana arbeten finns.
+
+Jämförelsen kan grupperas per lärosäte, linje eller landsurval och begränsas till bild, slöjd, år, land, nivå och individuellt verifierade poäng. Ett lärosätes sammanslagna andel räknar unika arbeten, inte ett ovägt medel av linjernas procent. Nämnarna visas tillsammans med andelar och antal, tomma nämnare är streck och överlappande teman kan summera till mer än 100 %. Diagram har exakta datatabeller, gemensam skala för små årsgrafer och stöd för mobil. Automatiska redaktionella texter följer urvalet. Förändringstexten jämför 2024–2025 endast där båda grupperna har minst fem arbeten; det pågående året 2026 visas utan långsiktiga trendanspråk.
+
+Jämförbarhet behandlas som en del av analysen: Konstfacks avancerade yrkesexamen skiljs från generell masterexamen, en students separata ämnesarbeten från antal utexaminerade, och enbart avhandlingspoäng från kombinerat seminarium och avhandling. En svensk institution och sex finska möjliggör inte slutsatser om nationell kvalitet. Officiella utbildningskällor och deras tidsbegränsningar visas. Den medföljande UEF-bibliografin listar 31 arbeten men leveransen innehåller 20 av dem; elva textluckor ges inga innehållskoder.
+
+193 nya arbeten har kodats från titelblad, abstrakt och utvalda metodavsnitt. För 81 Aalto-/Lappland-arbeten som också finns i leveransen återanvänds den tidigare källgranskningen; forskningskontexten har kontrollerats och 24 har fått nya längre analysreferat. Övriga behåller kortare referat. Tre uttryckligt postkvalitativa huvuddesigner har omprövats mot originalet. Teman använder samma 14 koder, med material/tillverkning och hållbar konsumtion åtskilda från kroppslig materialitet och ekologisk naturrelation. Kodning och översättningar är AI-assisterade, inte oberoende dubbelkodade eller auktoriserade av författarna. Referaten är egna analytiska sammanfattningar, inte återpublicerade originalabstrakt.
+
+**Inga original-PDF:er, Word-dokument, fulltexter, råa textutdrag, privata filvägar eller samtyckesbilagor publiceras.** Fulltextextraktion ligger endast i ignorerad lokal cache. De öppna filerna består av bibliografiska uppgifter, analyskoder, egna referat, metodparafraser och sidbelägg.
+
+Reproducera publicerad data och kontrollera beräkningarna utan PDF-filer eller nätverk:
+
+```sh
+python3 scripts/build_newsroom.py
+python3 scripts/validate_newsroom.py
+node scripts/check_newsroom.mjs
+```
+
+Källor för bygget: `data/newsroom_annotations_*.json`, `data/newsroom_programmes.json`, `data/newsroom_context.json` och `data/newsroom_manifest.json`. Manifestet innehåller filhashar, grupper, mappår, sidantal och filräkning, inga filvägar eller källtexter. Resultatet är `docs/data/newsroom.json` och `data/newsroom_build_report.json`. Förberedelseskripten kräver den privata leveransen; de behövs inte för att reproducera analysen. `build_newsroom.py --refresh-manifest` uppdaterar manifestet uttryckligen från den lokala extraktionen.

@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "checked": "2026-11-09",
+    "checked_sv": "9 november 2026",
+    "years": [
+      2024,
+      2025,
+      2026
+    ],
+    "file_count": 277,
+    "unique_pdf_count": 276,
+    "unique_work_candidates": 274,
+    "analysed_work_count": 274,
+    "in_scope_count": 270,
+    "excluded_outside_period": 3,
+    "complete": true,
+    "missing_coding": 0,
+    "selection_notes_sv": [
+      "Samlingen följer de nio levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+      "Åbo universitets medföljande urvalsbeskrivning anger öppet publicerade magisteravhandlingar 2024–2026. Flera är skrivna i par. Ett gemensamt arbete räknas som ett arbete, inte två studenter.",
+      "Åbo Akademis medföljande urvalsbeskrivning avser slöjdteman inom slöjdvetenskap eller pedagogik, med lärarbehörighet enligt beskrivningen. Dokumentet nämner 2024–2025; levererade 2026-filer ingår enligt den aktuella tidsavgränsningen men markeras separat i täckningen.",
+      "Östra Finlands universitets medföljande bibliografi listar 31 arbeten (2024: 8, 2025: 10, 2026: 13). De 20 levererade PDF-arbetena matchar bibliografin (2024: 3, 2025: 8, 2026: 9). Elva bibliografiska poster saknar PDF i denna leverans, däribland en som dokumentet markerar ”hittas inte”. De får inga metod- eller temakoder. Detta är en leveranslucka, inte ett belägg för att arbetena saknar metod eller inte är öppet tillgängliga.",
+      "Ett universitets sammanslagna resultat väger varje unikt arbete lika. Det är inte medelvärdet av dess linjer, och en institution med flera linjer kan ha en annan ämnessammansättning.",
+      "År 2026 är pågående och insamlingsdatum och filernas täckning begränsar jämförelsen. En tom mapp eller saknat år ger ingen grund att påstå att inga arbeten producerades."
+    ],
+    "unit_sv": "Ett unikt examensarbete. Separata PDF-delar och byte-identiska kopior räknas tillsammans. Ett pararbete räknas en gång; två separata ämnesarbeten från samma student räknas som två arbeten.",
+    "methods_sv": "En huvudsaklig forskningsdesign per arbete och överlappande datainsamlings-/analysmetoder. Filosofiska perspektiv redovisas separat. Teman är analytikerns överlappande kodning; en andel beskriver detta urval, inte kvalitet.",
+    "source_sv": "Levererade PDF-mappar, kompletterade med tidigare granskade bibliografiska uppgifter för samma Aalto- och Lapplandstexter. Inga historiska år utanför 2024–2026 tillförs.",
+    "privacy_sv": "Original-PDF:er, fulltexter, råa utdrag och lokala filvägar ingår inte i den publicerade analysen. Källbelägg återges som parafraser med sidnummer.",
+    "excluded_other_programmes": 1
+  },
+  "coverage": [
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2024,
+      "files": 7,
+      "works": 8,
+      "delivered": true,
+      "known_degree": 1,
+      "known_credits": 7,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2025,
+      "files": 5,
+      "works": 6,
+      "delivered": true,
+      "known_degree": 0,
+      "known_credits": 6,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2024,
+      "files": 5,
+      "works": 6,
+      "delivered": true,
+      "known_degree": 6,
+      "known_credits": 6,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2025,
+      "files": 15,
+      "works": 12,
+      "delivered": true,
+      "known_degree": 12,
+      "known_credits": 12,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2024,
+      "files": 21,
+      "works": 19,
+      "delivered": true,
+      "known_degree": 16,
+      "known_credits": 19,
+      "limited_coding": 2
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2025,
+      "files": 25,
+      "works": 22,
+      "delivered": true,
+      "known_degree": 13,
+      "known_credits": 20,
+      "limited_coding": 2
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2024,
+      "files": 3,
+      "works": 3,
+      "delivered": true,
+      "known_degree": 3,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2025,
+      "files": 8,
+      "works": 8,
+      "delivered": true,
+      "known_degree": 7,
+      "known_credits": 0,
+      "limited_coding": 1
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2026,
+      "files": 9,
+      "works": 9,
+      "delivered": true,
+      "known_degree": 9,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2024,
+      "files": 14,
+      "works": 14,
+      "delivered": true,
+      "known_degree": 14,
+      "known_credits": 14,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2025,
+      "files": 14,
+      "works": 15,
+      "delivered": true,
+      "known_degree": 15,
+      "known_credits": 14,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2026,
+      "files": 14,
+      "works": 13,
+      "delivered": true,
+      "known_degree": 13,
+      "known_credits": 4,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2024,
+      "files": 11,
+      "works": 11,
+      "delivered": true,
+      "known_degree": 11,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2025,
+      "files": 14,
+      "works": 14,
+      "delivered": true,
+      "known_degree": 14,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2026,
+      "files": 18,
+      "works": 18,
+      "delivered": true,
+      "known_degree": 18,
+      "known_credits": 0,
+      "limited_coding": 1
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2024,
+      "files": 2,
+      "works": 2,
+      "delivered": true,
+      "known_degree": 2,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2025,
+      "files": 5,
+      "works": 5,
+      "delivered": true,
+      "known_degree": 5,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2026,
+      "files": 4,
+      "works": 4,
+      "delivered": true,
+      "known_degree": 4,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2024,
+      "files": 15,
+      "works": 15,
+      "delivered": true,
+      "known_degree": 15,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2025,
+      "files": 31,
+      "works": 30,
+      "delivered": true,
+      "known_degree": 30,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2024,
+      "files": 13,
+      "works": 12,
+      "delivered": true,
+      "known_degree": 12,
+      "known_credits": 6,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2025,
+      "files": 24,
+      "works": 24,
+      "delivered": true,
+      "known_degree": 24,
+      "known_credits": 8,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    }
+  ],
+  "outside_period": [
+    {
+      "id": "51a6f53e7c724678ca834391788268ce23d44a0f68b0d6a61b3d6a4984a2f205",
+      "title": "Inkluderande strategier – digitala stödstrukturer i det estetiska klassrummet",
+      "year": 2018,
+      "folder_years": [
+        2025
+      ],
+      "reason_sv": "Källans daterade arbete ligger utanför 2024–2026."
+    },
+    {
+      "id": "7924e355adc7038649d502c60c590959bd83aa513d0ddaac27e7a16b4c89497c",
+      "title": "Interpersonell relationskompetens – En studie om lärare-elev-relationens mellanmänskliga rum",
+      "year": 2023,
+      "folder_years": [
+        2025
+      ],
+      "reason_sv": "Källans daterade arbete ligger utanför 2024–2026."
+    },
+    {
+      "id": "b0a3fd5988f3790a90c2ba56b9c9f1fa44ee0b5206d39e8220b51058f44cfeb5",
+      "title": "Att se sig själv inifrån – bildterapi möter bildpedagogik: Kunskaper och erfarenheter från deltagare i bildterapi",
+      "year": 2023,
+      "folder_years": [
+        2024
+      ],
+      "reason_sv": "Källans daterade arbete ligger utanför 2024–2026."
+    }
+  ],
+  "other_programmes": [
+    {
+      "id": "97a46052307c91f3adcbe08374cc9236bd029e8d18cca50dbace067412853315",
+      "title": "Spelet om traditionerna – Brädspel för motiverad undervisning om historiska slöjdkulturer",
+      "year": 2024,
+      "programme_sv": "Masterexamen i visuell kultur och lärande med inriktning bildpedagogik",
+      "reason_sv": "Separat masterprogram i visuell kultur och lärande med inriktning bildpedagogik, utanför de nio beställda linjerna.",
+      "summary_sv": "Analytisk sammanfattning: Studien förenar slöjdhistoriska berättelser med prövning av ett undervisningsspel. Närståendes erfarenheter av handarbete används för att undersöka tre slöjdperioder och relationen mellan individers val och samhällsvillkor. Materialet omvandlas därefter till ett brädspel som prövas med åttondeklassare och analyseras med motivationsteorier. Resultaten beskriver engagemang och möjlighet att förmedla teoretisk slöjdkunskap genom spel. Undersökningen binder samman historisk tolkning och pedagogisk design, men det begränsade fältförsöket kan inte fastställa varaktigt lärande eller att brädspel generellt överträffar andra undervisningsformer.",
+      "methods": [
+        {
+          "label": "Narrativt historiskt underlag",
+          "kind": "insamling",
+          "pdf_page": 2,
+          "evidence_sv": "Närståendes berättelser och erfarenheter används för att belysa tre slöjdperioder."
+        },
+        {
+          "label": "Prövning av brädspel i fält",
+          "kind": "insamling",
+          "pdf_page": 2,
+          "evidence_sv": "Ett spel baserat på det historiska materialet prövades i årskurs åtta."
+        },
+        {
+          "label": "Teoribaserad tolkning",
+          "kind": "analys",
+          "pdf_page": 2,
+          "evidence_sv": "Aktör–strukturresonemang användes för historiken och motivationsteorier för fältstudien."
+        }
+      ],
+      "source_pdf_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "track_corrections": [
+    {
+      "id": "33cbc83c1aec59ab265e8d7f717dda3607710615ecee95c82be6c4ccbee1972c",
+      "title": "Reclaim the deck. Skateboardbrädan i slöjden – lärande, material och möjligheter",
+      "from_track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "to_track_id": "konstfack-slojd-grundskola",
+      "note_sv": "Källans titelsida anger självständigt arbete i slöjd/LRS402 trots placering i bildmapp."
+    },
+    {
+      "id": "4dcdc6ef33b3a49f30c3c63273eb776ce98ea493567f8e1aa5a73d243c1eaaf2",
+      "title": "När bilder lämnar klassrummet – En enkätundersökning av bildlärares erfarenheter av att rikta undervisningen ut från klassrummet",
+      "from_track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "to_track_id": "konstfack-bild-grundskola",
+      "note_sv": "Katalogen anger slöjd, men titelsidan anger självständigt arbete i bild och grundskolans årskurs 7–9."
+    },
+    {
+      "id": "51a6f53e7c724678ca834391788268ce23d44a0f68b0d6a61b3d6a4984a2f205",
+      "title": "Inkluderande strategier – digitala stödstrukturer i det estetiska klassrummet",
+      "from_track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "to_track_id": "konstfack-bild-grundskola",
+      "note_sv": "Katalogen anger bild gymnasium, men titelsidan anger Bild, ämneslärarprogrammet med inriktning mot årskurs 7–9."
+    },
+    {
+      "id": "ae4f585d6f666e873a34f0b5d46cd27b1d644660a9c7e8d235d15aeca8874f60",
+      "title": "Att uppleva och gestalta världen – bildundervisning och skapande som det upplevts av några individer med neuropsykiatriska diagnoser",
+      "from_track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "to_track_id": "konstfack-bild-grundskola",
+      "note_sv": "Titelsidan anger självständigt arbete i bild, avancerad nivå, grundskolans 7–9. Katalogen anger slöjd."
+    },
+    {
+      "id": "e210703305174ebdd1d18738df9c502fd6467f9e38ed965dd44957780d9c8be4",
+      "title": "Transformationer och fantasivärldar: Utforskande av estetiska lärprocesser med återbruksmaterial som pedagogisk relationalitet",
+      "from_track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "to_track_id": "konstfack-bild-grundskola",
+      "note_sv": "Titelsidan anger grundskolans årskurs7–9 och15hp trots placering i gymnasiemapp."
+    },
+    {
+      "id": "f47b1c64be36ed8bdf98cc394fe554a9082ca9ec07afeb9e792b608317bb6957",
+      "title": "Formge en mönsterrapport i bildämnet – Kunnande och kritiska aspekter inom mönsterformgivning",
+      "from_track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "to_track_id": "konstfack-bild-grundskola",
+      "note_sv": "Katalogen anger slöjd, men titelsidan anger självständigt arbete i bild och ämneslärarprogrammet 7–9."
+    },
+    {
+      "id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
+      "title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+      "from_track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "to_track_id": "konstfack-slojd-grundskola",
+      "note_sv": "Katalogen anger bild gymnasium, men titelsidan anger LRS402, självständigt arbete i slöjd, ämneslärarprogrammet 7–9."
+    }
+  ],
+  "duplicate_file_count": 1,
+  "multi_pdf_work_count": 2,
+  "year_conflict_count": 3,
+  "by_university": {
+    "konstfack": 73,
+    "uef": 20,
+    "helsingfors": 42,
+    "turku": 43,
+    "abo-akademi": 11,
+    "lappland": 45,
+    "aalto": 36
+  }
+}

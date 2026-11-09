@@ -1,0 +1,3948 @@
+[
+  {
+    "id": "4625224bc91fa9f81ad06439edcd074812529707617deebe1ab67018e8f68728",
+    "original_title": "Zero waste -elementit karjalaisen kansanpuvun naisen sarkaviitassa",
+    "title_sv": "Zero waste-element i vadmalsmanteln i den karelska kvinnodräkten",
+    "authors": "Aino Eerikäinen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Studien undersöker hur tyg utnyttjades i två historiska karelska vadmalsmantlar och prövar vad deras konstruktion kan bidra med till nutida avfallsfri kläddesign. Museiföremålen analyseras genom dräktforskning, mönsterdelar och alternativa tygutläggningar. En samtida mantel utvecklas med pusselbaserad mönsterkonstruktion. Undersökningen visar att äldre sparsam materialanvändning inte innebär att plaggen var helt avfallsfria. Den nya versionen når däremot ett sådant konstruktionsmål genom upprepade försök. Bidraget förenar dokumentation av hantverksarv med praktisk designkunskap; slutsatserna gäller de studerade plaggen och konstruktionerna.",
+    "topic_sv": "Historiska dräktkonstruktioner och avfallsfri mönsterutläggning",
+    "primary_method": "Föremåls-/materialstudie",
+    "methods": [
+      {
+        "label": "Föremålsbaserad dräktforskning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Två historiska vadmalsmantlar utgör undersökningens centrala föremålsmaterial."
+      },
+      {
+        "label": "Mönster- och utläggningsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Mönsterdelar och tygutläggningar granskas med avfallsfri design som perspektiv."
+      },
+      {
+        "label": "Rekonstruktiva konstruktionsförsök",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "En samtida mantel utvecklas genom flera provversioner och pusselbaserad mönsterkonstruktion."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Material, teknik och tillverkning",
+      "Kulturarv, plats och nordliga sammanhang"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "d4d70083416e0a4b29a8251f2b860ce22f8d76e6d5c269eeedca62c2a97d8560",
+    "original_title": "Generatiivinen tekoäly osana luovaa prosessia käsityönopetuksessa. Oppimateriaalin kehittämistutkimus",
+    "title_sv": "Generativ AI som del av den kreativa processen i slöjdundervisningen: En utvecklingsstudie av läromedel",
+    "authors": "Jenni Hallikainen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Arbetet utvecklar ett undervisningsmaterial om generativ AI som stöd för idéarbete och planering i slöjd. Två utvecklingsomgångar kombinerar ett undervisningsförsök i grundskolan med lärarintervju, observationsanteckningar och en heuristisk expertbedömning. Materialet analyseras kvalitativt och med beskrivande kvantifiering av användbarhetsproblem. Utvecklingen leder från en bred AI-helhet till mer avgränsade bildgenereringsuppgifter och tydligare visuella anvisningar. Resultaten gäller materialets relevans och användbarhet i den prövade kontexten, snarare än generella effekter av AI på lärande. Etiska frågor och förståelse av tekniken ingår i undervisningsambitionen.",
+    "topic_sv": "Generativ AI i slöjdens idé- och planeringsundervisning",
+    "primary_method": "Designbaserad forskning",
+    "methods": [
+      {
+        "label": "Utvecklingsstudie i två cykler",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Författaren identifierar studien som kvalitativ utvecklingsforskning med två utvecklingsomgångar."
+      },
+      {
+        "label": "Semistrukturerad lärarintervju",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Den första omgången samlar lärarens erfarenheter genom tematisk intervju."
+      },
+      {
+        "label": "Observationsdagbok",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Anteckningar från undervisningsförsöket används som kompletterande material."
+      },
+      {
+        "label": "Heuristisk expertbedömning med enkät",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "Den andra omgången använder experters enkätbaserade bedömning av läromedlet."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjumaterialet analyseras genom materialbaserad innehållsanalys."
+      },
+      {
+        "label": "Beskrivande kvantifiering",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Användbarhetsproblem beskrivs även numeriskt och klassificeras efter svårighetsgrad."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärare",
+      "Elever i grundskolan",
+      "AI-forskare och sakkunniga"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "ebb718974d0d8165de20dcfdc21b48602946ff0fa9b362e904a3a5310dda4ec6",
+    "original_title": "Hyvinvointia käsitöistä: Käsityön merkityksiä ikäihmisille käsityöpainotteisessa kulttuuritoiminnassa",
+    "title_sv": "Välbefinnande genom slöjd: Slöjdens betydelser för äldre i slöjdinriktad kulturverksamhet",
+    "authors": "Roosa Harju",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Avhandlingen granskar vilken betydelse slöjdinriktad kulturverksamhet får för äldre och hur verksamheten organiseras. Materialet består av semistrukturerade intervjuer med handledare inom äldreomsorg och bearbetas med materialbaserad innehållsanalys. Handledarna beskriver skapandeglädje, upprätthållen funktion och social gemenskap, men också särskilda behov i grupper med minnessjukdom och förändrade villkor under pandemin. Studien synliggör slöjd som en del av omsorgens vardag snarare än enbart skolämne. Äldres erfarenheter återges här genom personalens perspektiv; resultaten utgör därför inte en direkt effektmätning eller de äldres egna intervjusvar.",
+    "topic_sv": "Slöjd, gemenskap och välbefinnande inom äldreomsorg",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Studien anges vara kvalitativ och undersöker handledares beskrivningar av slöjdverksamhet."
+      },
+      {
+        "label": "Semistrukturerade individuella intervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Personal som använder slöjd i äldreverksamhet intervjuas individuellt."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Inspelade och transkriberade intervjuer sorteras i teman och övergripande innehållskategorier."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Yrkesliv",
+      "Fritid och hobby"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Handledare inom äldreomsorg"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "5e5234a08491e29bcb73acd008d80918b76aeec49a677a90e4dd38f980e1ad94",
+    "original_title": "Katajainen käärmeveistos: Käsityö menneisyydestä",
+    "title_sv": "En ormskulptur av en: Hantverk från det förflutna",
+    "authors": "Martina Helle",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Undersökningen använder en förhistorisk ormskulptur för att pröva hur äldre träbearbetningsverktyg kan förstås genom praktisk rekonstruktion. Ett arkeologiskt föremål, en 3D-utskrift och en nytillverkad rekonstruktion jämförs genom synliga bearbetningsspår. Experimenten relateras till tidigare arkeologisk kunskap. Resultaten pekar mot vissa typer av eggar och mejslar, medan exempelvis den ursprungliga kapningen av virket förblir osäker. Studien visar hur slöjdkunnande kan bidra till historisk tolkning, men rekonstruktionen ger inte direkt tillgång till varje ursprungligt arbetsmoment. Fokus ligger på föremål och tillverkning, inte deltagarintervjuer.",
+    "topic_sv": "Experimentell rekonstruktion av förhistorisk träbearbetning",
+    "primary_method": "Experimentell/materialteknisk studie",
+    "methods": [
+      {
+        "label": "Experimentell arkeologi",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Arbetet beskrivs som en experimentell undersökning med rekonstruktion av ett förhistoriskt träföremål."
+      },
+      {
+        "label": "Föremåls- och rekonstruktionsjämförelse",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Skulpturen, en 3D-utskrift och en tillverkad rekonstruktion utgör jämförelsematerial."
+      },
+      {
+        "label": "Analys av bearbetningsspår",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Synliga verktygsspår granskas och tolkas med stöd av tidigare arkeologiska undersökningar."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "themes": [
+      "Material, teknik och tillverkning",
+      "Kulturarv, plats och nordliga sammanhang",
+      "Digital kultur och medier"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "a8d118b631e3ade9b93f3a6914ec04524b5b3de694f4a7487c193dacfea3b92d",
+    "authors": "Silvia Kenttä",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdhobbyister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Yhteisöllisyyden merkitykset käsityöntekijälle",
+    "title_sv": "Gemenskapens betydelser för den som slöjdar",
+    "summary_sv": "Studien undersöker hur slöjdhobbyister upplever gemenskap och vad den betyder för deras arbete. En webbenkät med både öppna och strukturerade frågor besvaras av 250 personer, rekryterade genom sociala medier, föreningar och kursverksamhet. Analysen framhäver både digitala och fysiska möten som stöd för tillhörighet, idéutveckling, kunskapsutbyte och personligt lärande. Gemenskap påverkar enligt svaren såväl arbetsprocessen som slutresultatet. Resultaten beskriver erfarenheter i det självrekryterade materialet; de anger inte hur vanligt varje erfarenhet är bland alla som ägnar sig åt slöjd.",
+    "topic_sv": "Slöjdhobbyisters digitala och fysiska gemenskaper",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ enkätstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Undersökningen beskrivs som kvalitativ och samlar både öppna och strukturerade enkätsvar."
+      },
+      {
+        "label": "Webbenkät",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Enkäten besvaras av 250 slöjdhobbyister efter rekrytering genom flera hobbyrelaterade kanaler."
+      },
+      {
+        "label": "Beskrivande numerisk sammanställning",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Strukturerade svar används för att illustrera och beskriva fenomenet."
+      }
+    ],
+    "themes": [
+      "Samarbete och gemenskap",
+      "Undervisning och lärande",
+      "Digital kultur och medier"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "3c5e1ece97fb0e01f97a0a6566881ec271febb8eb0ff0c8e04ef9eb11cb02c28",
+    "authors": "Hanna Kousa",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "en",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Yrkesverksamma hantverkare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Historical, Contemporary, and Future Meanings of Arimatsu Shibori: A Study of Cultural Heritage",
+    "title_sv": "Historiska, samtida och framtida betydelser av Arimatsu shibori: En studie av kulturarv",
+    "summary_sv": "Arbetet undersöker hur historiska, samtida och framtida betydelser formar en japansk färgningstradition och hantverkarnas värdesystem. En etnografisk undersökning kombinerar fältanteckningar med intervjuer med tre hantverkare samt film av två deltagares arbete. Textmaterialet kategoriseras, medan filmerna granskas för tyst kunskap och avvikelser i praktiken. Tradition och innovation framträder som sammanflätade över tid, tillsammans med mer tidsbundna värden. Studien visar kulturarv som något människor fortlöpande väljer och förändrar. Perspektivet är lokalt och bygger på ett litet antal hantverkares berättelser och arbetsmoment.",
+    "topic_sv": "Arimatsu shibori som föränderligt hantverksarv",
+    "primary_method": "Etnografi",
+    "methods": [
+      {
+        "label": "Etnografisk undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fältarbete och hantverkarintervjuer används för att undersöka traditionens betydelser."
+      },
+      {
+        "label": "Fältanteckningar och intervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Tre hantverkare intervjuas och fältanteckningar samlas."
+      },
+      {
+        "label": "Videodokumentation",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Två hantverkares arbetsmoment filmas för att studera tyst kunskap."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjutexterna kategoriseras och klassificeras."
+      },
+      {
+        "label": "Ordfrekvenser och visuell arbetsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Ett ordmoln sammanställer återkommande värdeord; filmerna granskas genom fokuspunkter för tyst kunskap."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Material, teknik och tillverkning",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "3d0e94c1759d9929583f9283f9f1113b3b2a55a8d38ef723597cc4b7698b94a5",
+    "authors": "Tanja Kuri",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityön ympärille muodostuvat diskurssit Juhani Ahon teoksissa Rautatie, Papin tytär ja Papin rouva",
+    "title_sv": "Diskurser kring slöjd i Juhani Ahos verk Rautatie, Papin tytär och Papin rouva",
+    "summary_sv": "Studien granskar vilka betydelser slöjd får i tre romaner av Juhani Aho och hur dessa förhåller sig till det sena 1800-talets samhälle. Beskrivningar av slöjd, föremål och färdigheter samlas ur texterna och bearbetas genom innehållsanalys och tolkande diskursanalys. Sex diskurser synliggör bland annat vardagens arbete, kläders statusmarkeringar, känslor och föreställningar om kvinnlig sedlighet. Slöjd framstår både som gemensam vardagspraktik och som medel för att upprätthålla skillnader. Slutsatserna gäller romanernas representationer, vilka tolkas historiskt, och ger inte direkt tillgång till alla människors levda vardag.",
+    "topic_sv": "Slöjd, samhällshierarkier och kön i historisk skönlitteratur",
+    "primary_method": "Diskursanalys",
+    "methods": [
+      {
+        "label": "Tolkande diskursanalys",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Slöjdbeskrivningar i tre romaner tolkas i relation till samhällshistorisk kontext."
+      },
+      {
+        "label": "Texturval ur skönlitteratur",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Passager om slöjd hämtas ur Rautatie, Papin tytär och Papin rouva."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Beskrivningarna ordnas i under- och överkategorier som används för att bygga diskurser."
+      },
+      {
+        "label": "Historiskt och könsrelaterat perspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Tolkningen relaterar slöjdens betydelser till 1800-talets samhälle och könsroller."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Makt, delaktighet och rättvisa",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "bebc77dc2d7727c3ef631e85fc12e761b1443885c814b881549c14b7ee862db1",
+    "authors": "Aino Lindh",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityöaktivismia vieraslajilla värjäämällä: Komealupiinin (Lupinus polyphyllus) hyödyntäminen luonnonväriaineena merinovillalankaa värjätessä",
+    "title_sv": "Slöjdaktivism genom färgning med en invasiv art: Användning av blomsterlupin (Lupinus polyphyllus) som naturfärgämne vid färgning av merinoullsgarn",
+    "summary_sv": "Arbetet prövar blomsterlupin som färgkälla för merinoull och kopplar materialexperimenten till bekämpning av invasiva arter. Garnprover färgas på fyra sätt och genomgår tvätt- och ljusäkthetstester. Färska blommor ger olika blå eller turkosa toner beroende på temperatur, medan torkat material och efterbad ger brunare resultat. Tvättäktheten bedöms som god och ljusäktheten som måttlig, men tvättmedlets pH påverkar nyansen. Studien synliggör en möjlig koppling mellan slöjd och ekologisk aktivism. Den visar tekniska möjligheter hos proverna, inte den faktiska effekten av färgningen på artens spridning.",
+    "topic_sv": "Lupinfärgning, färgäkthet och ekologisk slöjdaktivism",
+    "primary_method": "Experimentell/materialteknisk studie",
+    "methods": [
+      {
+        "label": "Experimentell färgningsstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fyra färgningsmetoder används för att pröva lupinblommor på merinoull."
+      },
+      {
+        "label": "Standardiserade tvättäkthetstester",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Prover tvättas med både alkaliskt standardtvättmedel och pH-neutralt medel."
+      },
+      {
+        "label": "Ljusäkthetstester",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Både tvättade och otvättade prover utsätts för ljusäkthetsprov."
+      },
+      {
+        "label": "Kvantitativ och kvalitativ provbedömning",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Färgresultatens beständighet analyseras med numeriska och visuella bedömningar."
+      }
+    ],
+    "themes": [
+      "Natur och ekologisk hållbarhet",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "e9401a0cb5bb574793b4cca1c622c882cdf3c01abcc1187ee6bfbc04ee463006",
+    "authors": "Aino Kauppinen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärarstudenter"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityönopettajaopiskelijoiden opettajaidentiteetin kehittyminen syventävässä opetusharjoittelussa",
+    "title_sv": "Slöjdlärarstudenters utveckling av läraridentiteten under fördjupad undervisningspraktik",
+    "summary_sv": "Studien undersöker hur slöjdlärarstudenters läraridentitet utvecklas under en avslutande praktikperiod. Reflektionstexter från tolv studenter analyseras kvalitativt med både teoretiska utgångspunkter och öppenhet för materialet. Utvecklingen samlas kring ämneskunskap, didaktik, samspel och upplevd förmåga. Praktiken ger nya arbetssätt och större medvetenhet om den egna undervisningen, samtidigt som lärarrollen breddas genom möten med elever. Osäkerhet kan övergå i trygghet, men nya farhågor inför arbetslivet uppstår också. Resultaten beskriver studenternas skrivna reflektioner och kan inte ensamma visa hur deras undervisning förändrades i praktiken.",
+    "topic_sv": "Läraridentitet och professionell utveckling i slöjdlärarpraktik",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ textundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Tolv studenters praktikanknutna reflektionstexter utgör materialet."
+      },
+      {
+        "label": "Reflektionstexter",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Studenter som genomför eller har genomfört fördjupad praktik bidrar med sina texter."
+      },
+      {
+        "label": "Teoristyrd och materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Ämneskunskap, didaktik och pedagogik används tillsammans med materialbaserade kategorier."
+      }
+    ],
+    "themes": [
+      "Identitet och profession",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "5391e4238da2c6b51ba80e8f687feb2eb1a968fbbd7b38446f9e9e05d3205b5f",
+    "authors": "Kaisa Kivipelto",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": true,
+    "participant_groups_sv": [
+      "Forskaren själv"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kokemuksesta kudonnaiseksi: Autoetnografinen tutkimus runokokemuksen materialisoinnista",
+    "title_sv": "Från upplevelse till vävnad: En autoetnografisk studie av att materialisera en diktupplevelse",
+    "summary_sv": "Undersökningen följer hur en personlig diktupplevelse kan bli till en vävnad. Författaren väver, skriver dagbok och för dialog med teori om materiellt tänkande samt bildens och ordets samspel. Dagboken ingår i forskningstexten och bearbetas genom narrativ analys till berättelser som bär resultaten. Under processen framträder materialet som medverkande i utformningen, snarare än som ett passivt redskap för en redan färdig idé. Studien ger situerad kunskap om materialisering och skapande. Den bygger på forskarens egen erfarenhet och avser inte att beskriva hur alla vävare arbetar.",
+    "topic_sv": "Vävning som materialisering av en diktupplevelse",
+    "primary_method": "Autoetnografi",
+    "methods": [
+      {
+        "label": "Autoetnografisk undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Forskarens egna erfarenheter, skrivande och vävande förs samman."
+      },
+      {
+        "label": "Processdagbok och eget vävande",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Dagboken följer vägen från diktupplevelse till vävnad och ingår i forskningstexten."
+      },
+      {
+        "label": "Narrativ analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Dagboksmaterialet bearbetas till modellberättelser som presenterar resultaten."
+      },
+      {
+        "label": "Materiellt tänkande",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Materialets agens används för att förstå samspelet mellan skapare och vävnad."
+      }
+    ],
+    "themes": [
+      "Konstnärlig praktik",
+      "Kropp, sinnen och materialitet",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Annat"
+    ]
+  },
+  {
+    "id": "c82d6a909fbf109defbd29a97efc482e6dd507e1bda5542ad03f68fe1b142c0b",
+    "authors": "Satu Rantanen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Yhdysvaltojen Amissien tilkkutyöt: Käsityöperinteet YouTube-videoissa",
+    "title_sv": "Amishfolkets lapptäcksarbete i USA: Slöjdtraditioner i YouTube-videor",
+    "summary_sv": "Arbetet analyserar hur amishfolkets lapptäckstradition framställs i YouTube-videor producerade utanför de berörda gemenskaperna. Fem ämnesvideor och fem instruktionsvideor granskas genom representationsanalys respektive teoribaserad innehållsanalys. Videorna återger i stort traditionens kända drag, men innehållets bredd varierar betydligt. Digitala kanaler framstår som möjliga resurser för lärande och traditionsförmedling. Samtidigt gäller resultatet ett begränsat urval förmedlat av utomstående. Det är därför viktigt att skilja mellan hur en tradition representeras på plattformen och hur den förstås och praktiseras inom gemenskapen själv.",
+    "topic_sv": "Digitala representationer av amishfolkets lapptäckstradition",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ mediestudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Tio YouTube-videor om amishfolkets lapptäcken analyseras."
+      },
+      {
+        "label": "Avgränsat videourval",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Fem ämnesvideor och fem instruktionsvideor väljs med avgränsningar och huvudsakligen slumpmässigt urval."
+      },
+      {
+        "label": "Representationsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Ämnesvideorna granskas för hur traditionen framställs."
+      },
+      {
+        "label": "Teoribaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Instruktionsvideornas innehåll jämförs med kända egenskaper hos traditionen."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Kulturarv, plats och nordliga sammanhang",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "13380cc84f7b160ca41791d0c834ecba80d64016757392afb7caf2839d805acd",
+    "authors": "Riina Siven",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdformgivare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Luonnonväriaineet suunnittelun käynnistäjänä: Käsityömuotoilijoiden näkemyksiä luonnonväriaineilla työskentelystä",
+    "title_sv": "Naturfärgämnen som utgångspunkt för formgivning: Slöjdformgivares syn på arbete med naturfärgämnen",
+    "summary_sv": "Studien undersöker hur naturfärgämnen sätter igång formgivning och vilka betydelser slöjdformgivare förknippar med dem. Tretton individuella temaintervjuer bearbetas med innehållsanalys och modeller för designprocesser. Deltagarna beskriver en närmare relation till naturmiljön, ansvarstagande och önskan att också fördjupa konsumenters kontakt med omgivningen. Arbetet uppfattas som långsammare och mer oförutsägbart än färgning med syntetiska ämnen, men ändå värdefullt. Resultaten pekar på behov av fortbildning och kunskapsutbyte. De återger formgivarnas perspektiv och mäter inte färgämnenas faktiska miljöpåverkan över en hel livscykel.",
+    "topic_sv": "Naturfärgämnen i slöjdformgivares designprocesser",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Studien bygger på tretton individuella intervjuer med slöjdformgivare."
+      },
+      {
+        "label": "Semistrukturerade temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjuerna behandlar naturfärgämnenas roll och betydelser i formgivningen."
+      },
+      {
+        "label": "Innehållsanalys med teman och kategorier",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet tematiseras och kategoriseras."
+      },
+      {
+        "label": "Modeller för slöjd- och designprocesser",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Anttilas och Lawsons modeller används för att analysera planeringsskedet."
+      }
+    ],
+    "themes": [
+      "Natur och ekologisk hållbarhet",
+      "Material, teknik och tillverkning",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "5c5322fc89f4bb42d58b028e48d4aedca2b0689a8c8b7fc1974f385b9b46c89a",
+    "authors": "Anni Tiusanen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Lärare",
+      "Pedagogiska sakkunniga"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kehyskudontaa luonnonmateriaaleilla: STEAM-oppimateriaalin kehittämistutkimus",
+    "title_sv": "Ramvävning med naturmaterial: En utvecklingsstudie av ett STEAM-läromedel",
+    "summary_sv": "Arbetet utvecklar ett öppet digitalt läromedel som förenar ramvävning med matematik, miljökunskap och teknik. Målet är användbarhet i både finländska och sydafrikanska skolmiljöer. Tre utvecklingscykler kombinerar teoretisk problemanalys, expertbedömning, samtal och lärarrespons. Responsen leder bland annat till tydligare språk, uttalade mål, självbedömning och starkare koppling mellan geometri och vävning. Lärare bedömer materialet som pedagogiskt användbart men identifierar förbättringsbehov. Studien visar hur tillgängliga resurser kan bearbetas mellan utbildningskontexter; den redovisar främst bedömningar av läromedlet och fastställer inte jämförande effekter på elevers lärande.",
+    "topic_sv": "Tillgängligt STEAM-läromedel för ramvävning i två utbildningskontexter",
+    "primary_method": "Designbaserad forskning",
+    "methods": [
+      {
+        "label": "Utvecklingsstudie i tre cykler",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Läromedlet revideras genom teoretisk analys och två omgångar återkoppling."
+      },
+      {
+        "label": "Teoretisk problemanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Den första versionen utformas efter analys av pedagogiska förutsättningar."
+      },
+      {
+        "label": "Expertbedömning med enkät och samtal",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Experter i Sydafrika bedömer materialet genom enkät och gemensam diskussion."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Öppna enkätsvar och transkriberade samtal analyseras kvalitativt."
+      },
+      {
+        "label": "Beskrivande kvantifiering",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Likertfrågornas svar återges numeriskt."
+      },
+      {
+        "label": "Lärarrespons",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "Finländska lärare provar materialet och ger enkätbaserad respons."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "dec5187849ab09991a058440507c9b512c304c7316a65fc6ef971621f4fd9226",
+    "authors": "Linda Lempinen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 7"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kestävän kehityksen arvot käsityöoppiaineessa: Vertaileva tutkimus taustatietojen vaikutuksista",
+    "title_sv": "Värderingar om hållbar utveckling i slöjdämnet: En jämförande studie av bakgrundsfaktorers betydelse",
+    "summary_sv": "Studien granskar hur sjundeklassares hållbarhetsvärderingar hänger samman med bakgrundsfaktorer, attityder till slöjd och val av tillvalsämne. En webbenkät besvaras av 121 elever vid tre skolor och analyseras statistiskt. Positiva slöjdattityder och stark oro för framtiden sammanfaller med mer positiva hållbarhetsvärderingar. Samtidigt framträder ingen tydlig variation i värderingarna utifrån själva tillvalsbeslutet. Arbetet uppmärksammar skillnaden mellan miljömedvetenhet och handling. Eftersom undersökningen mäter samband vid ett tillfälle kan den inte avgöra om slöjdundervisning orsakar hållbarare värderingar eller förändrat beteende hos eleverna.",
+    "topic_sv": "Elevers hållbarhetsvärderingar och val av slöjd",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvantitativ enkätstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Sjundeklassares värderingar studeras med ett kvantitativt upplägg."
+      },
+      {
+        "label": "Webbenkät",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "121 elever vid tre skolor besvarar enkäten."
+      },
+      {
+        "label": "Statistisk analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Svar jämförs statistiskt utifrån bakgrundsfaktorer och tillvalsbeslut."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Natur och ekologisk hållbarhet",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "baab514e208c8ca9e6e27eb58e201883a9497fd11b69156ee0a4f1a01e241a6d",
+    "authors": "Siiri Walve",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt. Titelbladet anger 1900–1950-tal, medan abstraktets titelfält anger 1900–1960-tal; titelbladets titel används här.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kuviointimenetelmät 1900–1950-luvun räsymatoissa: Tilkkukankaiden hyödyntäminen räsymaton kuvioinnissa",
+    "title_sv": "Mönstringsmetoder i trasmattor från 1900–1950-talen: Användning av lappade tyger i trasmattans mönstring",
+    "summary_sv": "Arbetet undersöker historiska trasmattors mönstring och utvecklar sätt att använda lappade tyger som inslag. Ett bildmaterial med 136 fotografier från samlingar, tidskrifter och litteratur analyseras och grupperas efter mönstringsmetod. Olika tekniker fördelar sig olika över årtiondena, medan tvärränder förekommer genom hela perioden. En experimentell del omsätter tolkningarna i fyra vävda prototyper. Studien visar hur tradition kan användas i materialdriven samtida utveckling. Bildurvalet beskriver de bevarade och publicerade exemplen; det ger inte en fullständig bild av all historisk mattvävning.",
+    "topic_sv": "Historisk trasmattsmönstring och materialdriven produktutveckling",
+    "primary_method": "Föremåls-/materialstudie",
+    "methods": [
+      {
+        "label": "Bild- och föremålsbaserad undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Historiskt bildmaterial kombineras med analys av mattors mönster."
+      },
+      {
+        "label": "Arkiv- och bildinsamling",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "136 fotografier och tillhörande uppgifter samlas ur föremålssamlingar och publikationer."
+      },
+      {
+        "label": "Visuell innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Bildmaterialet kodas i Atlas.ti och grupperas i tre mönstringsklasser."
+      },
+      {
+        "label": "Experimentell prototyputveckling",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Fyra prototyper vävs med lappade inslag efter analys av historiska mönster."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "02602085fdecd8c2f57cb77af5d5c9bcf7c57280f28f3442f1c468fd11d9a6bf",
+    "authors": "Linda Hakalax",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Äldre hantverkskunnig familjemedlem",
+      "Forskaren själv"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Perinteisen käsityötaidon periytyminen: Puukon valmistus vaarin opissa",
+    "title_sv": "Överföring av traditionell slöjdkunskap: Att lära sig knivtillverkning av farfar",
+    "summary_sv": "Studien följer hur kunskap om traditionell knivtillverkning överförs mellan två generationer inom en familj. Ett praktikbaserat fall kombinerar film, fotografier, fältanteckningar, högt tänkande, reflektioner och de tillverkade knivarna. Visuell etnografi och teoristyrd innehållsanalys används för att undersöka den tysta kunskap som visar sig i arbetet. Sinnesintryck, kroppsligt demonstrerande och verktygsanvändning framträder som viktiga vägar för lärande. Undersökningen ger detaljrik kunskap om en specifik relation och process. Forskarens dubbla roll som närstående och lärande deltagare är central för hur materialet blir till.",
+    "topic_sv": "Tyst kunskap och generationsöverskridande lärande i knivtillverkning",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Praktikbaserad fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En familjemedlems undervisning och forskarens lärande avgränsar fallet."
+      },
+      {
+        "label": "Video, fotografier och fältanteckningar",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Båda tillverkningsprocesserna dokumenteras."
+      },
+      {
+        "label": "Högt tänkande och reflektioner",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Forskarens lärande dokumenteras under och efter arbetsmoment."
+      },
+      {
+        "label": "Visuell etnografi",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Visuellt material används för att förstå hur kunskap visas."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Uttryck för tyst kunskap analyseras med tidigare teori."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Undervisning och lärande",
+      "Kropp, sinnen och materialitet",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "dbb7a2386c7557f9f709df21be9b8376db640b81174704f72fb9da41ee17003d",
+    "authors": "Noora Joutsenlahti",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "STEAM-sakkunniga"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Asiantuntijoiden näkemyksiä STEAM-opetuksen käytänteistä Suomessa ja Etelä-Afrikassa: Kehittämistutkimus Etelä-Afrikan maaseutualueiden koulutuksen yhdenvertaisuuden edistämiseksi",
+    "title_sv": "Experters syn på STEAM-undervisningens praktiker i Finland och Sydafrika: En utvecklingsstudie för jämlik utbildning på Sydafrikas landsbygd",
+    "summary_sv": "Arbetet undersöker vilka STEAM-praktiker som kan stödja mer jämlik utbildning i sydafrikanska landsbygdsskolor. En utvecklingsinriktad undersökning sammanför 27 forskningsartiklar med intervjuer med åtta experter och analyserar båda materialen kvalitativt. Samarbetslärande, kamratstöd och åldersblandade grupper framstår som användbara möjligheter. Konst ses som en viktig del, med slöjd som ett av flera arbetssätt. Experterna pekar samtidigt på ojämlika resurser och oklara pedagogiska mål. Studien skapar underlag för senare utvecklingscykler; någon färdig undervisningsintervention prövas inte och föreslagna möjligheter ska därför inte läsas som uppmätta effekter.",
+    "topic_sv": "STEAM-pedagogik och utbildningsjämlikhet i Finland och Sydafrika",
+    "primary_method": "Designbaserad forskning",
+    "methods": [
+      {
+        "label": "Utvecklingsinriktad undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Arbetet ger underlag för senare utvecklingscykler och en möjlig undervisningsintervention."
+      },
+      {
+        "label": "Litteraturöversikt",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "27 vetenskapliga artiklar ingår."
+      },
+      {
+        "label": "Expertintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Åtta experter bidrar med perspektiv från två länder."
+      },
+      {
+        "label": "Kvalitativ analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Både artiklar och intervjuer analyseras kvalitativt."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "59dffb51d5f38d1e4814d1d5e3646f530595e9660c65962bff3368972f834cb2",
+    "authors": "Sini Kangaskolkka",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärarstudenter"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Ohjelmoinnillinen ajattelu ja ohjelmointi käsityössä: Tapaustutkimus käsityönopettajaopiskelijoiden näkökulmasta",
+    "title_sv": "Datalogiskt tänkande och programmering i slöjd: En fallstudie ur slöjdlärarstudenters perspektiv",
+    "summary_sv": "Studien undersöker datalogiskt tänkande och inställningar till programmering och robotik bland slöjdlärarstudenter. Materialet består av 27 lärdagböcker från en kurs i elektronik, mekanik och programmering. Teoristyrd analys identifierar datalogiska tankeprocesser, medan materialbaserad analys belyser studenternas attityder. Alla centrala tankeprocesser förekommer, särskilt algoritmiskt tänkande. Programmering uppfattas ofta positivt, men dess plats inom slöjd väcker också osäkerhet. Resultaten ger underlag för diskussion om lärarutbildningens innehåll. De beskriver studenternas egna dagboksframställningar från en viss kurs och utgör inte ett oberoende färdighetstest eller en representativ kartläggning.",
+    "topic_sv": "Programmeringens plats i slöjdlärarutbildningen",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En kurs inom slöjdlärarutbildningen utgör fallet."
+      },
+      {
+        "label": "Lärdagböcker",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "27 studentproducerade lärdagböcker används."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Tidigare beskrivningar av datalogiskt tänkande används."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Attityder till programmering och robotik analyseras materialbaserat."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "c930e11ea7ab04962f799f652b06128fc3fba7218a44c53e06abea94fd9ae83f",
+    "authors": "Miia-Leena Karhula",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Anställda inom smyckesproduktion"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Rautakauden korut ja niiden kulttuurinen perintö Kalevala Koru Oy:n tuotannossa: Käsityöperinne ja kultasepäntyö menneisyyden ja nykypäivän rajapinnassa",
+    "title_sv": "Järnålderssmycken och deras kulturarv i Kalevala Koru Oy:s produktion: Slöjdtradition och guldsmedsarbete mellan dåtid och nutid",
+    "summary_sv": "Undersökningen granskar hur historiskt inspirerade smycken bevarar och omformar kulturarv i samtida kommersiell produktion. En kvalitativ fallstudie av ett smyckesföretag kombinerar tre personalintervjuer med analys av järnåldersförebilder och moderna versioner. Visuella dokument och föremålens egenskaper används för att förstå form, tillverkning och betydelser. Studien framställer kulturarv som en aktiv resurs för förändring snarare än enbart bevarande. Den visar möten mellan historisk inspiration och moderna behov. Perspektivet är knutet till ett företag och dess material, och omfattar inte hela smyckesbranschens praktik.",
+    "topic_sv": "Historiska smyckesförebilder och samtida kulturarvsformgivning",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie med flera material",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Företagets smycken undersöks med flera kvalitativa metoder."
+      },
+      {
+        "label": "Semistrukturerade personalintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Tre anställda intervjuas."
+      },
+      {
+        "label": "Visuell dokumentanalys",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Historiska förebilder och moderna versioner jämförs."
+      },
+      {
+        "label": "Föremålsanalys",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Smyckenas form och karaktär analyseras."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Material, teknik och tillverkning",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Yrkesliv",
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "5d0d1dfdd3992dec2aa6b7128674f776a56bb83ecb19e9792370b5bfafd3f90b",
+    "authors": "Ronja Amanda Kinnunen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Forskaren själv"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Autoetnografinen käsityötutkimus intuitiivisesta neulomisesta ja kehollisesta kokemuksesta",
+    "title_sv": "En autoetnografisk slöjdstudie av intuitiv stickning och kroppslig erfarenhet",
+    "summary_sv": "Studien utforskar intuitiv stickning som kroppslig och materiell process genom forskarens eget arbete. Under sex månader dokumenteras stickade lappar och sammanfogningen av en kofta i 65 dagboksinlägg med bilder, tekniska beskrivningar och erfarenhetsanteckningar. Stickningen sker samtidigt med motionscykling, vilket gör rytm och kroppslig uppmärksamhet centrala. Abduktiv och reflexiv tematisk analys visar hur beslut växer fram i samspelet mellan garn, rörelse och förnimmelser. Den färdiga koftan konkretiserar processen. Kunskapen är situerad i en egen praktik och ger inte ett generellt mått på stickningens välbefinnandeeffekter.",
+    "topic_sv": "Intuitiv stickning, rytm och materiell agens",
+    "primary_method": "Autoetnografi",
+    "methods": [
+      {
+        "label": "Autoetnografisk slöjdstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Forskaren är både tillverkare och systematisk observatör av processen."
+      },
+      {
+        "label": "Lappdagbok med fotografier",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "65 inlägg dokumenterar stickning och koftans montering under sex månader."
+      },
+      {
+        "label": "Abduktiv och reflexiv tematisk analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Erfarenhetsmaterialet tolkas genom återkommande teman och teori."
+      },
+      {
+        "label": "Modell för slöjdens betydelser",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Kouhias modell används för att tolka betydelser i processen."
+      }
+    ],
+    "themes": [
+      "Kropp, sinnen och materialitet",
+      "Material, teknik och tillverkning",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "76e300b6ea578a4d3e75f0f6857f13e442de7142e9e611c24a0ee4637cfaf532",
+    "authors": "Saaga Markkanen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Lärare i teknisk slöjd",
+      "Elever i årskurs 3–4"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Teknisen työn työturvallisuuden huomiointi 3.–4.-luokkalaisten opetuksessa: Havainnointitutkimus opettajien toiminnasta sekä tilan vaikutuksesta turvallisuuden huomiointiin",
+    "title_sv": "Arbetssäkerhet i undervisning i teknisk slöjd för årskurs 3–4: En observationsstudie av lärarnas agerande och lokalernas betydelse för säkerheten",
+    "summary_sv": "Arbetet undersöker hur lärare och undervisningslokaler bidrar till säkerhet i yngre elevers tekniska slöjd. Fyra lärares lektioner vid två skolor observeras och kompletteras med en bakgrundsenkät. Analysen använder fysiska, pedagogiska, psykologiska och sociala dimensioner av en trygg lärmiljö. Lärarnas rutiner, instruktioner om skyddsutrustning och aktiva närvaro skiljer sig åt. Tät kontakt med elever underlättar upptäckt av risker. Studien visar säkerhet som ett samspel mellan rum och pedagogiskt arbete. Det begränsade observationsmaterialet kan synliggöra praktiker men fastställer inte orsaker till olyckor eller generella säkerhetsnivåer.",
+    "topic_sv": "Säkerhetspraktiker och lärmiljö i teknisk slöjd",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Observationsundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fyra lärares undervisning vid två skolor observeras."
+      },
+      {
+        "label": "Lektionsobservation",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Observationerna rör läraragerande och klassrummets fysiska egenskaper."
+      },
+      {
+        "label": "Bakgrundsenkät",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "En enkät kompletterar observationerna med bakgrundsuppgifter."
+      },
+      {
+        "label": "Fyra dimensioner av trygg lärmiljö",
+        "kind": "perspektiv",
+        "pdf_page": 3,
+        "evidence_sv": "Fysisk, pedagogisk, psykologisk och social miljö används som observationsram."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Välbefinnande och omsorg",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "e759fbfa00efcc4fd9b90cc7b32cb49b6f953e84da5f79774350d5bed5d4ded8",
+    "authors": "Rita Palmroos",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Deltagare i offentlig nätdiskussion"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kotimainen muoti kuluttajan silmin: Aineistolähtöinen analyysi verkkokeskustelusta",
+    "title_sv": "Inhemskt mode ur konsumentens perspektiv: En materialbaserad analys av en nätdiskussion",
+    "summary_sv": "Studien granskar förväntningar på finländskt mode och spänningen mellan uttalade värderingar och köpbeslut. Materialet består av 348 kommentarer i en nätdiskussion kopplad till en journalistisk artikel. Kvalitativ innehållsanalys visar att pris, tillgänglighet och personlig stil kan hindra köp även när deltagarna vill stödja inhemska och ansvarsfulla alternativ. Kommentarerna efterfrågar också tydligare information och mer deltagande produktutveckling. Resultaten synliggör motsägelsefulla föreställningar om inhemskhet. De beskriver en specifik offentlig diskussion och bör inte behandlas som representativa uppgifter om alla konsumenters faktiska inköp.",
+    "topic_sv": "Konsumtionshinder och föreställningar om finländskt mode",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ analys av nätdiskussion",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En artikelanknuten diskussion används för att undersöka konsumentperspektiv."
+      },
+      {
+        "label": "Offentliga nätkommentarer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet omfattar 348 läsarkommentarer."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Kommentarerna analyseras kvalitativt utan att på förhand låsa kategorierna."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Digital kultur och medier",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "cd155e9ba4a1c212f92a18e0594b4b8971967dbe30d7167b0215fec488c27dc4",
+    "authors": "Satu Rajala",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Sillä sipuli: Punasipulin (Allium cepa) kuorilla happamassa, neutraalissa ja emäksisessä pH:ssa värjättyjen selluloosa- ja selluloosamuuntokuitujen värinkesto-ominaisuudet",
+    "title_sv": "Därmed lök: Färgäkthet hos cellulosa- och regenererade cellulosafibrer färgade med rödlöksskal (Allium cepa) vid surt, neutralt och basiskt pH",
+    "summary_sv": "Arbetet prövar rödlöksskal som färgkälla under olika temperaturer, pH-värden och betningsförhållanden. Tjugofem textilprover genomgår standardiserade tester för tvätt-, gnid- och ljusäkthet samt färgmätning. Resultaten visar att de förhållanden som ger mörkast färg inte alltid ger bäst beständighet. Neutralt pH och hög temperatur ger överlag goda värden, medan tannin framstår som ett användbart betningsalternativ i försöken. Studien bidrar med materialteknisk kunskap om restströmmars möjliga användning. Slutsatserna gäller de testade materialen och processerna och utgör ingen fullständig bedömning av industriell skalbarhet eller miljöpåverkan.",
+    "topic_sv": "Rödlöksfärgning och textiliers färgbeständighet",
+    "primary_method": "Experimentell/materialteknisk studie",
+    "methods": [
+      {
+        "label": "Experimentell färgningsstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Temperatur, pH och betningsmedel varieras i 25 prover."
+      },
+      {
+        "label": "Standardiserade färgäkthetstester",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Tvätt-, gnid- och ljusäkthet testas enligt angivna ISO-standarder."
+      },
+      {
+        "label": "CIELab-färgmätning",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Färgvärden mäts med ett standardiserat färgrymdssystem."
+      },
+      {
+        "label": "Gråskalebedömning och provjämförelse",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Färgäkthet värderas med gråskalor och jämförs mellan färgningsvillkor."
+      }
+    ],
+    "themes": [
+      "Material, teknik och tillverkning",
+      "Hållbarhet och konsumtion"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "cafa1e85f12c6f794a41de73ec792798318ee2236ade907b5b319ec878abc8d0",
+    "authors": "Helmi Serala",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Naturfärgningsutövare",
+      "Slöjdföretagare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Luonnonvärit käsityöyhteisöissä: Värjäreiden kokemuksia ja näkemyksiä luonnonvärien merkityksellisyydestä ja mahdollisuuksista nyt ja tulevaisuudessa",
+    "title_sv": "Naturfärger i slöjdgemenskaper: Färgares erfarenheter och syn på naturfärgernas betydelse och möjligheter nu och i framtiden",
+    "summary_sv": "Studien undersöker värderingar bakom naturfärgning, använda färgkällor och framtidsföreställningar i slöjdgemenskaper. Sju deltagare rekryterade från sociala medier intervjuas på distans, och samtalen analyseras med materialbaserad innehållsanalys. Växter, svampar, bioavfall och inköpta färger ingår i praktikerna. Handarbete, natur, tradition och gemenskap ges stor betydelse. Framtidsbilderna rymmer både tillförsikt och osäkerhet om naturfärgningens samhälleliga ställning. Materialet synliggör engagerade utövares perspektiv och behov av vidare forskning. Det begränsade urvalet kan inte avgöra vilka värderingar som dominerar bland alla färgare.",
+    "topic_sv": "Naturfärgningens värderingar, gemenskaper och framtidsbilder",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Sju medlemmar i slöjdgemenskaper på sociala medier deltar."
+      },
+      {
+        "label": "Semistrukturerade distansintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtalen genomförs via Teams, spelas in och transkriberas."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Värderingar och framtidsbilder kategoriseras kvalitativt."
+      }
+    ],
+    "themes": [
+      "Natur och ekologisk hållbarhet",
+      "Samarbete och gemenskap",
+      "Kulturarv, plats och nordliga sammanhang"
+    ],
+    "research_settings": [
+      "Fritid och hobby",
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "6f69651d462c9d9fcebcd88a7ea11e4d908baa392c7b6fb6b06799e1f24dc2cf",
+    "authors": "Beatrice Sofie Sillanpää",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Vuxna med erfarenhet av bärsjal",
+      "Barn"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Lapsen ja aikuisen vuorovaikutus kudotun kantoliinan sidonnassa ja purkamisessa",
+    "title_sv": "Samspel mellan barn och vuxen när en vävd bärsjal knyts och lossas",
+    "summary_sv": "Undersökningen analyserar hur barn och vuxna samordnar kropp och material när en vävd bärsjal knyts och lossas. Fyrtiofyra instruktions- och hemvideor med två vuxna och tre barn granskas kvalitativt. Jämförelser av instruktioner, observation av samspel och visuell rörelsekodning visar skillnader mellan noggrant beskriven knytning och kortare anvisningar för lossning. Säkerhet skapas genom kontakt, kroppskontroll, förhandling och gemensamma rörelser. Arbetet breddar slöjdvetenskapens blick mot vardaglig materialhantering. Det beskriver erfarna utövares filmade situationer och utgör ingen prövning av bärsjalars medicinska eller ergonomiska effekter.",
+    "topic_sv": "Kroppsligt samspel och materialhantering med bärsjal",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ videoundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "44 befintliga instruktions- och hemvideor analyseras."
+      },
+      {
+        "label": "Jämförelse av instruktionstexter",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Knyt- och lossningsanvisningar jämförs."
+      },
+      {
+        "label": "Observation och klassificering av samspel",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Interaktioner mellan barn och vuxen kategoriseras."
+      },
+      {
+        "label": "Visuell rörelsekodning",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Lossning från ryggen kodas till en karta över rörelsekategorier."
+      }
+    ],
+    "themes": [
+      "Kropp, sinnen och materialitet",
+      "Välbefinnande och omsorg",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Annat"
+    ]
+  },
+  {
+    "id": "8cc1b59e60230ba699986c741cf95846622c2413018f2f2f87cb0f13f26cb8cd",
+    "authors": "Eva Sundvik",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "sv",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger pro gradu-avhandling inom magisterprogrammet i pedagogik.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Forskaren själv"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Den handspunna tråden genom den inhemska spillullens livscykel: En autoetnografisk studie om resurser och ullens livscykel i hantverk",
+    "title_sv": "Den handspunna tråden genom den inhemska spillullens livscykel: En autoetnografisk studie om resurser och ullens livscykel i hantverk",
+    "summary_sv": "Arbetet följer hur inhemsk spillull kan förädlas till handspunnet garn och vilka resurser detta kräver. Författaren genomför själv processen och dokumenterar arbetsinsatser, tid, vattenåtgång och praktiska moment på film. En modell för hållbart hantverk används för att förstå resurser bredare än enbart råvara. Studien beskriver hur olika egenskaper och insatser formar både arbetsprocessen och garnet. Den uppmärksammar motsättningen mellan efterfrågan på lokal ull och svårigheter att ta till vara materialet. Resultaten gäller den dokumenterade hantverksprocessen och ger inte en jämförande livscykelanalys av industriella produktionskedjor.",
+    "topic_sv": "Resurser i förädling av inhemsk spillull till garn",
+    "primary_method": "Autoetnografi",
+    "methods": [
+      {
+        "label": "Praktikledd autoetnografi",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Forskaren genomför själv förädlingen från spillull till garn."
+      },
+      {
+        "label": "Resursbokföring",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Arbetsinsats, tid och vattenåtgång dokumenteras."
+      },
+      {
+        "label": "Videodokumentation",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Arbetsmoment filmas för att fördjupa förståelsen av resursbehov."
+      },
+      {
+        "label": "Modell för hållbart hantverk",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Väänänens modell används för en bred förståelse av resurser och hantverkets egenskaper."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Material, teknik och tillverkning",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "c4cf2544c0c0bd1ed89f75f754ae2640e1bc8a4217a1d8d1fe2c34c4bcdf607e",
+    "authors": "Pia Turunen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Potentiella deltagare i hantverkskurser"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kädentaitojen verkkokurssien kysyntä ja potentiaalinen opiskelijakohderyhmä kansalaisopiston tuntiopettajan toteuttaman kurssisuunnittelun lähtökohtina",
+    "title_sv": "Efterfrågan på nätkurser i hantverk och potentiella studerande som utgångspunkt för timlärares kursplanering vid medborgarinstitut",
+    "summary_sv": "Studien kartlägger intresse för nätbaserade hantverkskurser och hur kursplanering kan möta potentiella deltagares behov. En enkät i slöjdrelaterade Facebookgrupper ger 144 svar som analyseras med beskrivande statistik och sambandstester. Den största potentiella efterfrågan finns i materialet bland yrkesarbetande i medelåldern. Korta kurser med tydlig färdighets- eller produktinriktning efterfrågas, både som direktsänd undervisning och självstudier. En planeringslista sammanfattar resultaten för lärare. Undersökningen visar intresse i ett digitalt rekryterat urval; den mäter inte faktisk anmälan och kan missa personer utanför dessa nätverk.",
+    "topic_sv": "Efterfrågan och deltagarbehov för nätkurser i hantverk",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvantitativ kartläggning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Studien kartlägger potentiella kursdeltagares intresse."
+      },
+      {
+        "label": "Webbenkät i hobbygrupper",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "144 svar samlas via Facebookgrupper."
+      },
+      {
+        "label": "Beskrivande statistik och korstabeller",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Frekvenser och korstabeller används för att beskriva efterfrågan."
+      },
+      {
+        "label": "Chi-två-test och Cramérs V",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Samband och deras styrka prövas statistiskt."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Digital kultur och medier",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "2bdb03279ab1d3282a5533b274834c51cf933ffed4ba3fda7242af84a8c8f638",
+    "authors": "Henna Yrjänäinen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Historiska slöjdlärarstuderande genom egna texter"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Sukkulan suhina: Näin Wetterhoffin oppilaat kirjoittivat toverikunnan lehteen vuosina 1909–1984",
+    "title_sv": "Skyttelns sus: Så skrev Wetterhoffs studerande i kamratföreningens tidning 1909–1984",
+    "summary_sv": "Arbetet granskar hur studerande vid en historisk slöjdutbildning skrev om hemslöjd, skolgemenskap och framtid i sin egen tidning under perioden 1909–1984. Tidningarnas texter och bilder utgör ett historiskt material som tematiseras genom innehållsanalys. Skribenterna reflekterar över läraryrket, vänskap, tradition och behovet av förändring. Gemenskapen formas genom delade erfarenheter och en balans mellan arbete och nöje. Studien ger tillgång till vissa studentröster över lång tid. Tidningarnas redigerade och bevarade innehåll kan dock inte antas omfatta alla studerandes erfarenheter eller åsikter.",
+    "topic_sv": "Historiska studentröster om slöjdutbildning och framtida lärarskap",
+    "primary_method": "Historisk/etnologisk studie",
+    "methods": [
+      {
+        "label": "Historisk textundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Studenttidningar från 1909–1984 används för att förstå utbildningsgemenskapen."
+      },
+      {
+        "label": "Arkivmaterial från studenttidning",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Tidningarnas egna och lånade texter samt bilder utgör material."
+      },
+      {
+        "label": "Tematisk innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Texter väljs och analyseras kring hemslöjd, skolgemenskap och framtid."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Identitet och profession",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Lärarutbildning",
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "cc6656e62e0b1f40eae744c7818969fa5f74d90b5951c0b94c0b6a260de9ab72",
+    "authors": "Annika Arvonen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 8",
+      "Lärarpraktikant",
+      "Handledande lärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "TikTok-videosta vaatteeksi: Tutorial-videoiden käyttö käsityönopetuksessa",
+    "title_sv": "Från TikTok-video till klädesplagg: Instruktionsvideor i slöjdundervisningen",
+    "summary_sv": "Studien undersöker hur TikTok-instruktioner kan stödja idéer, planering och tillverkning av kläder i skolslöjden. En kvalitativ fallstudie i årskurs åtta kombinerar 14 lärdagböcker, observation av tre elever samt lärar- och praktikantperspektiv. Innehållsanalyser visar att videorna särskilt inspirerar genom färg, form och föreställningar om bekvämlighet eller enkelhet. Under själva sömnaden varierar användningen och kräver teknisk förståelse. Arbetet ger ett konkret undervisningsexempel och nyanserar sociala mediers pedagogiska roll. Resultaten härrör från en kurs och visar inte att videor generellt förbättrar läranderesultat.",
+    "topic_sv": "TikTok som inspiration och instruktion i klädsömnad",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En tillvalskurs i slöjd i årskurs åtta avgränsar undersökningen."
+      },
+      {
+        "label": "Lärdagböcker och observation",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "14 dagböcker och observationer av tre elever ingår."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Elevernas dagböcker och observationsmaterial analyseras med teoristöd."
+      },
+      {
+        "label": "Materialbaserad analys av lärarperspektiv",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Praktikantens och handledarens perspektiv analyseras materialbaserat."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "84e464bb360d0a644cb0dca4201a7f0f23ac2d9f3db20cce8d6cce8190dc49c5",
+    "authors": "Anna Kilpeläinen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 2 och 8"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "”On vaan tosi oudon näköistä, jos joku poika kävelee tuolla hameessa”: Femmefobian näkyminen vuonna 2025 vantaalaisten peruskoululaisten kokemuksissa",
+    "title_sv": "”Det ser bara väldigt konstigt ut om en pojke går omkring i kjol”: Hur femmefobi framträder i grundskoleelevers erfarenheter i Vanda 2025",
+    "summary_sv": "Undersökningen granskar hur könsstereotyper och nedvärdering av femininitet uttrycks av barn och unga, särskilt i föreställningar om slöjd. Individuella semistrukturerade intervjuer med elever i årskurs två och åtta analyseras genom materialbaserad innehållsanalys. Feminina uttryck hos pojkar beskrivs som socialt riskfyllda, medan motsvarande normöverskridanden hos flickor oftare accepteras. Textil och teknisk slöjd förknippas med olika kön, men gränsöverskridande val förekommer också. Studien synliggör hur hierarkier kan upprätthållas i kamratrelationer. Resultaten gäller de intervjuades framställningar och motiverar inte generaliseringar om alla elever.",
+    "topic_sv": "Femmefobi och könsnormer i barns föreställningar om slöjd",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Elevers föreställningar om kön och slöjd undersöks genom intervjuer."
+      },
+      {
+        "label": "Semistrukturerade individuella intervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Elever i årskurs två och åtta intervjuas."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Uttryck kondenseras och ordnas i under- och överkategorier."
+      },
+      {
+        "label": "Femmefobi som tolkningsperspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Nedvärdering av femininitet används för att förstå könsnormernas upprätthållande."
+      }
+    ],
+    "themes": [
+      "Makt, delaktighet och rättvisa",
+      "Identitet och profession",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "e53746b2d5845e399604ee36b44cd2c0cd69d552732415b56891c14d05e7c7a5",
+    "authors": "Maija Kalaoja",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 8",
+      "Slöjdlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      30
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "”Jos löytyy hyvät kaavat niin sit työ voitte tehä.”: Ohjausstrategiat ja affordanssit keksintöprojektissa",
+    "title_sv": "”Om det finns bra mönster kan ni göra det.”: Handledningsstrategier och handlingsmöjligheter i ett uppfinningsprojekt",
+    "summary_sv": "Arbetet undersöker lärarhandledning och handlingsmöjligheter under en elevgrupps uppfinningsprojekt i årskurs åtta. En explorativ kvalitativ fallstudie använder material från tretton undervisningstillfällen. Lärarens strategier analyseras teoribaserat, medan handlingsmöjligheter granskas med både teori och materialnära kategorier. Samordnande handledning dominerar framför auktoritär styrning och helt fria händer. Möjligheter uppstår genom lärare, material, kunskap och samspel. Studien bidrar med begrepp för att förstå projektundervisning som ett komplext samarbete. Den följer ett avgränsat gruppförlopp och kan inte rangordna strategiers effektivitet för alla elevgrupper.",
+    "topic_sv": "Lärarhandledning och handlingsmöjligheter i uppfinningspedagogik",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Explorativ kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En grupps uppfinningsprojekt följs under tretton undervisningstillfällen."
+      },
+      {
+        "label": "Videobaserat projektmaterial",
+        "kind": "insamling",
+        "pdf_page": 30,
+        "evidence_sv": "Analysbeskrivningen anger urval av filmade handledningsögonblick i projektets faser."
+      },
+      {
+        "label": "Teoribaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 30,
+        "evidence_sv": "Tre tidigare definierade handledningsstrategier styr kategoriseringen."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 30,
+        "evidence_sv": "Analysen av handlingsmöjligheter kombinerar tidigare teori med nya materialbaserade klasser."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Samarbete och gemenskap",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "44cb80b47fd6f2ed6bd58c9e46e88e3985ea3876ba23f0c185d79ea1caa9ad74",
+    "authors": "Piritta Kämi-Conway",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Avgångsstuderande i gymnasiet"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Someron lukion karonkka yhteisöllisen oppimisen ja laaja-alaisen osaamisen näkökulmasta: Opiskelijoiden kokemuksia karonkan merkityksestä",
+    "title_sv": "Efterfesten vid Somero gymnasium ur perspektiven gemensamt lärande och mångsidig kompetens: Studerandes erfarenheter av dess betydelse",
+    "summary_sv": "Studien undersöker hur gymnasiestuderande upplever en traditionsbunden fest med en gemensamt producerad teaterföreställning. En kvalitativ fallstudie använder en enkät med öppna svar och flervalsfrågor till avgångsstuderande. Materialet bearbetas genom innehållsanalys med fokus på gemenskap, deltagande, ämnesintegration och mångsidig kompetens. Eleverna beskriver sin egen roll och det gemensamma arbetet som betydelsefulla och upplever att flera färdigheter utvecklas. Undersökningen synliggör estetiska projekt som lärmiljöer. Den återger erfarenheter från en lokal tradition och mäter inte oberoende hur mycket deltagarnas kompetenser förändras.",
+    "topic_sv": "Gemenskap och ämnesöverskridande lärande i gymnasiets festprojekt",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En gymnasietradition undersöks som avgränsad lärmiljö."
+      },
+      {
+        "label": "Enkät med öppna och fasta svar",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Avgångsstuderandes erfarenheter samlas med ett frågeformulär."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Svar reduceras och grupperas i teman."
+      },
+      {
+        "label": "Sociokulturellt lärandeperspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Gemenskap och praktikgemenskaper används för att förstå projektets lärmiljö."
+      }
+    ],
+    "themes": [
+      "Samarbete och gemenskap",
+      "Undervisning och lärande",
+      "Kulturarv, plats och nordliga sammanhang"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ]
+  },
+  {
+    "id": "9064ecfbb7add9e920bda49ff9c44a68beece90e13e103c0e69f38a38c2220d0",
+    "authors": "Anna-Greta Liedes",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Forskaren själv",
+      "Forskarens partner"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Rakkaudella sinulle: Vaatteen korjaamisen merkityksellisyys parisuhteen kontekstissa",
+    "title_sv": "Med kärlek till dig: Klädlagningens betydelse i en parrelation",
+    "summary_sv": "Arbetet utforskar vad det betyder att laga en partners jacka och hur förväntningar, omsorg och material samverkar. En praktikbaserad autoetnografisk undersökning kombinerar jackan, processdagbok och reflekterande parsamtal. Innehållsanalys och autoetnografiskt skrivande visar hur lagningen kan skapa upplevelser av kärlek, erkännande och fördjupad anknytning till plagget. Synlig lagning blir både praktiskt arbete och relationsskapande handling. Studien ger närhet till en specifik reparationsprocess. Dess påståenden om hållbarhet bör skiljas från uppmätta miljöeffekter, och relationens erfarenheter kan inte generaliseras till alla reparationssituationer.",
+    "topic_sv": "Synlig klädlagning som omsorg och relationspraktik",
+    "primary_method": "Autoetnografi",
+    "methods": [
+      {
+        "label": "Praktikbaserad autoetnografi",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Forskaren undersöker sin egen lagning av partnerns jacka."
+      },
+      {
+        "label": "Processdagbok och plagg",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Jackan och dokumentationen av arbetet ingår i materialet."
+      },
+      {
+        "label": "Reflekterande parintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtal behandlar förväntningar och erfarenheter före och efter lagning."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet bearbetas med innehållsanalys."
+      },
+      {
+        "label": "Autoetnografisk reflektion och skrivande",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Egen erfarenhet bearbetas genom reflekterande skrivande."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Välbefinnande och omsorg",
+      "Kropp, sinnen och materialitet"
+    ],
+    "research_settings": [
+      "Annat"
+    ]
+  },
+  {
+    "id": "b86cbb336bf0cc866b863d8b2125a208928534155a00e749c4c7afd600636a77",
+    "authors": "Heidi Mäki",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdhobbyister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityö hyvinvoinnin tukena: Neulomisen merkitys hyvinvoinnin vahvistajana",
+    "title_sv": "Slöjd som stöd för välbefinnande: Stickningens betydelse för att stärka välbefinnandet",
+    "summary_sv": "Studien undersöker hur fem slöjdhobbyister förknippar stickning med vardag och upplevt välbefinnande. Semistrukturerade temaintervjuer analyseras med materialbaserad tematisk analys inom en kvalitativ fallstudie. Stickning beskrivs som stöd för koncentration, avkoppling, känsloreglering och meningsfull aktivitet. Processen och det färdiga arbetet kan ge tillfredsställelse, men materialet rymmer också frustration och neutrala erfarenheter. Arbetet motverkar därmed en entydigt positiv bild av handarbete. Resultaten gäller deltagarnas erfarenheter i olika situationer och ska inte läsas som kliniskt uppmätta effekter eller som att stickning passar alla.",
+    "topic_sv": "Stickningens skiftande betydelser för vardagligt välbefinnande",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fem hobbyisters erfarenheter bildar ett avgränsat kvalitativt material."
+      },
+      {
+        "label": "Semistrukturerade temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Deltagare med olika ålder och färdighetsnivå intervjuas."
+      },
+      {
+        "label": "Materialbaserad tematisk analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjuerna analyseras genom teman om vardag och välbefinnande."
+      }
+    ],
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "4e983155e883d0d1f0686ca59ea16a015c7fb8238f5d83e942b52df0f5f8fd22",
+    "authors": "Aino Malinen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": true,
+    "participant_groups_sv": [
+      "Forskaren själv"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityö- ja kuvataideprosesseissa rakentuva opettajan osaaminen: Autobiografinen tutkielma opettajaopintojen ajalta",
+    "title_sv": "Lärarkompetens som utvecklas i slöjd- och bildkonstprocesser: En självbiografisk studie från lärarutbildningen",
+    "summary_sv": "Undersökningen utforskar hur en lärarstudents slöjd- och bildkonstprocesser bidrar till professionellt kunnande. Självbiografiska processportföljer och reflektioner från studier vid två universitet analyseras tematiskt genom abduktivt resonemang i en hermeneutisk tolkningsprocess. Resultaten beskriver kunnande som ett sammanhängande och föränderligt mönster av ämneskunskap, sinnliga erfarenheter, identitet och meningsskapande. Arbetet framhäver också ämnenas särskilda kunskapsformer. Bidraget är ett inifrånsperspektiv på lärarblivande, inte en jämförande utvärdering av universiteten. Att två ämnen förekommer i materialet innebär inte att arbetet ska räknas dubbelt i institutionsstatistiken.",
+    "topic_sv": "Självbiografisk lärarkompetens genom slöjd och bildkonst",
+    "primary_method": "Narrativ/biografisk forskning",
+    "methods": [
+      {
+        "label": "Självbiografisk kvalitativ studie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Forskarens egna lärarstudier och processer utgör undersökningens grund."
+      },
+      {
+        "label": "Processportföljer och reflektioner",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Material från slöjdvetenskapliga och bildpedagogiska kurser vid två universitet används."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Portföljerna analyseras för teman om kunnande och lärande."
+      },
+      {
+        "label": "Hermeneutisk tolkning och abduktion",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Tolkningen rör sig mellan material och teori i en hermeneutisk cirkel."
+      }
+    ],
+    "themes": [
+      "Identitet och profession",
+      "Undervisning och lärande",
+      "Konstnärlig praktik",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "beae2bf68a9ac58af09d39672d4e85ceeaf808fab56f0c0b18d47201d7b43e15",
+    "authors": "Jaakko Mansikka-aho",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärarstudenter"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      4
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Laajennettu todellisuus käsityön oppiaineessa: Käsityönopettajaopiskelijoiden kokemuksia XR-teknologian mahdollisuuksista ja haasteista",
+    "title_sv": "Utvidgad verklighet i slöjdämnet: Slöjdlärarstudenters erfarenheter av XR-teknikens möjligheter och utmaningar",
+    "summary_sv": "Undersökningen följer sex slöjdlärarstudenters erfarenheter av tre workshoppar med virtuell verklighet och tredimensionell modellering. Lärdagböcker, slutrapporter, ljud och skärminspelningar analyseras tematiskt i en kvalitativ fallstudie. Studenterna beskriver motivation, ökad säkerhet och stöd för rumsligt tänkande, men också fysisk och kognitiv belastning samt behov av tydligare instruktioner. XR framstår främst som ett komplement i planeringsfasen. Resultaten betonar resurser och olika användarbehov. Det lilla försöket visar erfarenheter av ett bestämt tekniskt upplägg och kan inte ensam belägga bredare lärandeeffekter eller minskad materialförbrukning.",
+    "topic_sv": "XR och tredimensionell planering i slöjdlärarutbildning",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie med undervisningsförsök",
+        "kind": "design",
+        "pdf_page": 3,
+        "evidence_sv": "Sex studenter deltar parvis i tre XR-workshoppar."
+      },
+      {
+        "label": "Lärdagböcker och slutrapporter",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "18 dagböcker och fem slutrapporter utgör skriftligt material."
+      },
+      {
+        "label": "Ljud- och skärminspelningar",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "Inspelningar från undervisningstillfällena kompletterar texterna."
+      },
+      {
+        "label": "Teoristyrd tematisk analys",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Materialet analyseras till teman om erfarenheter och pedagogisk användning."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Kropp, sinnen och materialitet"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "f39f31c6e81c3130cee15f2ca2bd847dc1405a7021b357460747e0cac9da9350",
+    "authors": "Malla Pilssari",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 8"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Generatiivisen tekoälyn ja oppilaiden välinen yhteisluovuus: Oppilaiden generatiivisen tekoälyn käyttö luovassa työskentelyssä sekä kokemukset sen vahvuuksista ja heikkouksista",
+    "title_sv": "Gemensam kreativitet mellan generativ AI och elever: Elevers användning av generativ AI i skapande arbete och erfarenheter av dess styrkor och svagheter",
+    "summary_sv": "Studien undersöker hur elever använder generativ AI i skapande arbete och hur de bedömer teknikens möjligheter och begränsningar. En kvalitativ fallstudie i årskurs åtta analyserar filmade arbetsprocesser och elevernas kedjor av instruktioner till AI. Verktyget stödjer främst idéutveckling och planering, ibland som en upplevd idépartner, medan eleverna behåller styrningen genom att ändra och granska förslag. De uppmärksammar också stereotypier, snedvridningar och tekniska brister. Resultaten framhäver kritisk AI-kunnighet. Studien gäller avgränsade grupprocesser och avgör inte hur AI påverkar kreativitet generellt.",
+    "topic_sv": "Elevstyrd kreativitet och kritisk granskning av generativ AI",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Ett AI-projekt med åttondeklassare undersöks."
+      },
+      {
+        "label": "Videoinspelningar och instruktionskedjor",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Filmer och elevernas promptkedjor utgör material."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Arbetsprocesserna analyseras kvalitativt utan på förhand fastställda innehållskategorier."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "b4963f6aedb4824022747e1649952069567156373de9c8af323da7f7daa87227",
+    "authors": "Roswitha Poikonen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Keltaisia luonnonvärejä: Suomen keltaisten luonnonvärien kirjo ja kestävyysominaisuudet villakankaassa",
+    "title_sv": "Gula naturfärger: Variationen och beständighetsegenskaperna hos finländska gula naturfärger på ulltyg",
+    "summary_sv": "Arbetet kartlägger gula nyanser från växtmaterial och prövar deras beständighet på ulltyg. Prover färgade med 34 växtdelar genomgår ljus- och tvättäkthetstester, med två tvättmedel och referensfärgning från reseda. Materialexperimenten visar ett brett nyansspektrum och skilda sätt att förändras vid slitage. Mer alkaliskt tvättmedel ger ofta mindre gynnsamma resultat. Studien öppnar samtidigt en diskussion om vilka färgförändringar som bör betraktas som godtagbara för naturfärger. Den bidrar med provbaserad kunskap; ekologiskt hållbar tillgång och produktion kräver även andra undersökningar än beständighetstester.",
+    "topic_sv": "Gula växtfärger och bedömning av färgförändring",
+    "primary_method": "Experimentell/materialteknisk studie",
+    "methods": [
+      {
+        "label": "Experimentell materialundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Ulltyg färgat med 34 växtdelar undersöks."
+      },
+      {
+        "label": "Ljus- och tvättäkthetstester",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Tvättäkthet provas med två tvättmedel som skiljer sig i alkalinitet."
+      },
+      {
+        "label": "Jämförelse med resedafärgning",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Resedablomma och hel växt används som referenser för gul färg."
+      },
+      {
+        "label": "Klassificering av förändringsprofiler",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Resultaten ordnas i fyra slitageprofiler och tre typer av färgförändring."
+      }
+    ],
+    "themes": [
+      "Material, teknik och tillverkning",
+      "Natur och ekologisk hållbarhet",
+      "Kunskap och vetenskap"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "a0627d86f0f8ab9d9841cf2f66bed6dccec782885f46277bd672681e699a777c",
+    "authors": "Anniina Rantala",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": true,
+    "participant_groups_sv": [
+      "Elever i årskurs 8"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kahdeksasluokkalaisten työskentely generatiivisen tekoälyn kanssa: Ekologinen ja sosiaalinen kestävyys mediataideprojektissa",
+    "title_sv": "Åttondeklassares arbete med generativ AI: Ekologisk och social hållbarhet i ett mediekonstprojekt",
+    "summary_sv": "Studien granskar hur åttondeklassare samarbetar med generativ AI i ett mediekonstprojekt och hur hållbarhet blir synlig i samtal och bilder. Filmat klassrumsarbete delas i episoder och analyseras genom en flernivåmodell för video samt kvalitativ innehållsanalys. Eleverna för fram egna idéer, samarbetar och upptäcker snedvridningar i genererade bilder. Föreställningar om lyx återkommer och problematiserar relationen mellan önskade bilder och ekologisk eller social hållbarhet. Undersökningen visar konkreta processer i ett lokalt sammanhang. Den mäter inte elevernas hållbarhetsbeteende eller deras samlade AI-kompetens.",
+    "topic_sv": "AI-genererad mediekonst, lyx och hållbarhetsföreställningar",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En skolas åttondeklassare följs under ett mediekonstprojekt."
+      },
+      {
+        "label": "Klassrumsvideo",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet består av inspelat arbete i elevernas eget klassrum."
+      },
+      {
+        "label": "Videoundersökning på tre nivåer",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Ashs modell används och materialet delas i episoder med ELAN."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Samtal och arbete granskas för AI-användning och hållbarhetsteman."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Natur och ekologisk hållbarhet",
+      "Makt, delaktighet och rättvisa",
+      "Konstnärlig praktik"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "8ed71cb5f7b92410bd8dac421b361ef15c98ca1b00c70492a4eb7d03c97445ef",
+    "authors": "Mia Rantavaara",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Skapare av konstnärliga ryor"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Taideryijyn tekijät 2020-luvulla suomalaisen käsityöperinteen ylläpitäjät: Taiteilijoita vai käsityöläisiä?",
+    "title_sv": "Skapare av konstnärliga ryor på 2020-talet som upprätthållare av finländsk slöjdtradition: Konstnärer eller hantverkare?",
+    "summary_sv": "Studien undersöker hur nutida skapare av konstnärliga ryor förhåller sig till tradition, kulturarv och identitet som konstnär eller hantverkare. Fem finländska utövare intervjuas och materialet ordnas i teman med stöd av kodning och tabeller. Traditionen beskrivs som en respekterad värdegrund och inspirationskälla utan att begränsa uttrycket. Konstnärsidentiteten är ofta starkare, samtidigt som hantverkskunnandet förblir viktigt. Arbetet belyser gränser mellan konst och slöjd som förhandlingsbara. Resultaten representerar deltagarnas egna positioner och kan inte avgöra hur hela konstfältet värderar ryakonst.",
+    "topic_sv": "Ryakonst, levande kulturarv och konstnärsidentitet",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fem skapare av konstnärliga ryor intervjuas om tradition och identitet."
+      },
+      {
+        "label": "Temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtalen ger deltagarnas egna erfarenheter och positioneringar."
+      },
+      {
+        "label": "Tematisering med kodning och tabeller",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Analysen ordnas kring tradition, kulturarvsarbete och identitet med stöd av Atlas.ti."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Identitet och profession",
+      "Konstnärlig praktik"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "57a56cf090f54bfd760a894609c7dc1b7429c53897892b3ed90c81550aaa8422",
+    "authors": "Jesse Tulokas",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärare i årskurs 7"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Ideaalina kokonainen ja avoin – todellisuudessa rajattu ja ohjattu? Perusopetuksen käsityön oppimistehtävät 7. vuosiluokalla",
+    "title_sv": "Hel och öppen som ideal – avgränsad och styrd i verkligheten? Lärandeuppgifter i grundskolans slöjd i årskurs 7",
+    "summary_sv": "Arbetet kartlägger hur slöjdlärare beskriver uppgifter i årskurs sju, med fokus på hela slöjdprocessen, öppenhet och ämnesinnehåll. En webbenkät med 101 svar analyseras med beskrivande statistik, gruppjämförelser och klustring. Uppgifterna framstår som delvis öppna: elever kan utveckla idéer medan material och tekniker ofta bestäms av läraren. Olika innehållsprofiler kvarstår och digital tillverkning är mindre framträdande. Studien ger underlag för läroplansdiskussion. Resultaten bygger på lärares självrapporter och statistiska samband, och visar därför inte direkt vad som sker i varje klassrum eller vad som orsakar skillnaderna.",
+    "topic_sv": "Öppenhet och innehållsprofiler i slöjduppgifter för årskurs 7",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvantitativ webbenkätstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "101 slöjdlärare beskriver sina uppgifter i årskurs sju."
+      },
+      {
+        "label": "Beskrivande statistik och korstabeller",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Uppgifternas egenskaper och bakgrundsvariabler sammanställs."
+      },
+      {
+        "label": "Gruppjämförelser och sambandstester",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "t- eller U-test, variansanalys och chi-två används tillsammans med effektstorlekar."
+      },
+      {
+        "label": "K-medelvärdesklustring",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Tre innehållsprofiler identifieras genom klustring."
+      },
+      {
+        "label": "Pedagogisk innehållskunskap",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Shulmans teori ingår i den teoretiska ramen."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Identitet och profession",
+      "Digital kultur och medier"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "0055c5766752809db389e0a0704a3faf296a361a9bbafd5c0132cb9fb1a6cb8d",
+    "authors": "Taru Väisänen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelbladet och abstraktet anger 2025; filen ligger i en mapp märkt 2026. Källans år 2025 används.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger maisterintutkielma eller pro gradu inom magisterprogrammet.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärarstudenter"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "”Lempi-vaatteita korjaamalla saa niille lisää käyttöaikaa”: Emotionaalinen kestävyys ja hoiva vaatteiden korjaus- ja huoltoprosessissa",
+    "title_sv": "”Genom att laga favoritkläder får de längre användningstid”: Emotionell hållbarhet och omsorg i kläders reparations- och vårdprocess",
+    "summary_sv": "Undersökningen granskar emotionell anknytning och omsorg när kläder lagas och vårdas. Texter och fotografier från femton slöjdlärarstudenters uppgifter analyseras med både teoribaserad och materialbaserad innehållsanalys. Reparation, stoppning och noppborttagning återkommer, tillsammans med omsorg om sig själv och andra. Framtida upplevelser med favoritplagg, förbättrat utseende och eget arbete framträder som betydelsefulla. Studien kopplar produktrelationer till möjligheten att förlänga användning. Den dokumenterar deltagarnas meningsskapande, medan faktisk förlängd livslängd och minskat avfall inte mäts. Källan är från 2025 trots mappens märkning 2026.",
+    "topic_sv": "Emotionell anknytning och omsorg i klädlagning",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning av lärandeuppgifter",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Femton studenters reparations- och vårduppgifter utgör materialet."
+      },
+      {
+        "label": "Skriftliga uppgifter och fotografier",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Texter och bilder dokumenterar klädvårdsprocesserna."
+      },
+      {
+        "label": "Teoribaserad och materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Emotionell hållbarhet och omsorg granskas genom båda analysriktningarna."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Välbefinnande och omsorg",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "4222a50ace3b785cf178c47936da1742e473504a93c6a015ad22fa6854862498",
+    "authors": "Anu Nurmenniemi",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Kvinnor med ADHD"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "ADHD-naisen käsityöhön keskittyminen",
+    "title_sv": "Kvinnor med ADHD och koncentration på slöjd",
+    "summary_sv": "Studien undersöker hur kvinnor med ADHD beskriver koncentration under slöjdarbete. Åtta semistrukturerade temaintervjuer analyseras med kvalitativ innehållsanalys. Koncentrationen framträder som intensiv och helhetsomfattande, med förändrad tidsuppfattning och ibland uppskjutna kroppsliga behov. Deltagarna beskriver lugn och återhämtning men också trötthet, svårigheter att reglera tillståndet och starka reaktioner vid avbrott. Arbetet för samman erfarenheter som benämns flow och hyperfokus utan att sudda ut ambivalensen. Resultaten gäller ett litet intervjumaterial och bör inte förstås som medicinsk behandlingskunskap eller som en enhetlig erfarenhet hos alla personer med ADHD.",
+    "topic_sv": "Koncentration, flow och hyperfokus i slöjd hos kvinnor med ADHD",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Åtta kvinnor med ADHD intervjuas om koncentration under slöjd."
+      },
+      {
+        "label": "Semistrukturerade temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjuerna samlar erfarenheter från deltagare i olika åldrar."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Berättelserna analyseras för koncentrationens uttryck och betydelser."
+      }
+    ],
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Kropp, sinnen och materialitet",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "bf489324d2285173d992926c9ed4cba8dc5b67fc3d21ba97eb063fcfd3cda4be",
+    "authors": "Sanna Tiittanen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Inledningen beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 8,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdaktivister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3,
+      8,
+      22
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsintehtyjä kannanottoja: Käsityön tekijöiden kokemuksia käsityöaktivismista",
+    "title_sv": "Handgjorda ställningstaganden: Slöjdutövares erfarenheter av slöjdaktivism",
+    "summary_sv": "Studien undersöker hur slöjdutövare erfar aktivism och vilken mening de tillskriver sitt handarbete. Åtta skrivna erfarenhetsberättelser tolkas fenomenologiskt och hermeneutiskt med materialbaserad innehållsanalys. Resultaten grupperas kring hållbar livsföring, kontinuitet och mångfald, sammanförda som respekt för livet. Slöjdaktivism förstås som en möjlig väg att bygga handlingskraft och uppmärksamma samhällsproblem. Arbetet ger deltagarnas egna perspektiv på en politisk och kulturell praktik. Möjliga samhällseffekter är tolkningar av erfarenhetsmaterialet och ska skiljas från dokumenterade förändringar i politik eller allmänt välbefinnande.",
+    "topic_sv": "Slöjdaktivism som meningsskapande och samhällskritisk praktik",
+    "primary_method": "Fenomenologisk/hermeneutisk studie",
+    "methods": [
+      {
+        "label": "Fenomenologisk-hermeneutisk undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Deltagarnas erfarenhetsvärld ska förstås och tolkas."
+      },
+      {
+        "label": "Skrivna erfarenhetsberättelser",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "Åtta texter om slöjdaktivism utgör materialet."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Erfarenheterna ordnas i kategorier om hållbar livsföring, kontinuitet och mångfald."
+      },
+      {
+        "label": "Reflektion över förförståelse",
+        "kind": "perspektiv",
+        "pdf_page": 22,
+        "evidence_sv": "Forskarens tidigare kunskap synliggörs som del av tolkningen."
+      }
+    ],
+    "themes": [
+      "Makt, delaktighet och rättvisa",
+      "Hållbarhet och konsumtion",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "074d12ee10be5103632ce727bbf6d8b6c589769e8ab1efa7a0a52b4097987bb0",
+    "authors": "Emma Väisänen",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Aktivitetshandledare inom äldreomsorg"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Ohjattu käsityötoiminta ikääntyneiden palveluissa – viriketoiminnan ohjaajien näkemyksiä",
+    "title_sv": "Handledd slöjdverksamhet inom äldreomsorgen – aktivitetshandledares synpunkter",
+    "summary_sv": "Arbetet granskar handledd slöjdverksamhet för äldre ur aktivitetshandledares perspektiv. Sex handledare intervjuas i en kvalitativ fenomenografisk undersökning, och materialet bearbetas med innehållsanalys. Verksamheten rymmer bland annat verkstäder och minnesarbete, men formas av deltagarnas funktionsförmåga och tillgängliga resurser. Handledarna beskriver social kontakt, glädje och upplevelser av att lyckas som betydelsefulla. Studien visar hur omsorgens villkor påverkar möjligheten att delta i skapande aktiviteter. Äldres egna röster kommer fram indirekt genom personalens berättelser, och inga direkta hälsoeffekter eller långsiktiga förändringar mäts.",
+    "topic_sv": "Slöjdhandledning och deltagande inom äldreomsorg",
+    "primary_method": "Fenomenografi",
+    "methods": [
+      {
+        "label": "Kvalitativ fenomenografisk undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Studien benämns fenomenografisk och granskar handledares uppfattningar."
+      },
+      {
+        "label": "Intervjuer med aktivitetshandledare",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Sex handledare inom tjänster för äldre intervjuas."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Berättelser om verksamhet och dess betydelser analyseras."
+      }
+    ],
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Samarbete och gemenskap",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "e5d7d590c9d761193f53142f3e92c9b48a57dff26ba70d2af7e13a32b311a2b5",
+    "authors": "Venla Kokkonen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Stickhobbyister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Neulojien kokemuksia sosiaalisen median neuleyhteisöistä ja niiden yhteisöllisyydestä",
+    "title_sv": "Stickares erfarenheter av stickgemenskaper på sociala medier och deras gemenskap",
+    "summary_sv": "Studien undersöker hur stickare beskriver gemenskaper på sociala medier och hur tillhörighet uttrycks där. En webbenkät på finskspråkiga stickplattformar ger 57 svar som analyseras med kvalitativ innehållsanalys. Gilla-markeringar, kommentarer och samtal är vanliga former för samspel. Djupare gemenskap kopplas ofta till personer som också är bekanta personligen. Inspiration, vänskap och hjälp framhålls, samtidigt som tidsåtgång och ökad konsumtion problematiseras. Arbetet synliggör både stöd och belastningar i digital hobbykultur. Det självrekryterade materialet säger inte hur alla stickare använder plattformarna eller vilka som lämnar gemenskaperna.",
+    "topic_sv": "Digital stickgemenskap, inspiration och konsumtionsspänningar",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ enkätstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "57 enkätsvar undersöker erfarenheter av digitala stickgemenskaper."
+      },
+      {
+        "label": "Webbenkät på sociala medier",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Länken delas på finskspråkiga stickrelaterade plattformar."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Svar analyseras i två delar utifrån forskningsfrågorna."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Samarbete och gemenskap",
+      "Hållbarhet och konsumtion"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "1047b9935179283c79628619e478bf4be14812fb7f6cb4aa052825a41a895828",
+    "authors": "Inka Huotari",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Det finska abstraktet beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Deltagare i offentlig nätdiskussion"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Suomalaisten kuluttajien asenteet (ultra)pikamuotia kohtaan sosiaalisen median keskusteluissa",
+    "title_sv": "Finländska konsumenters attityder till snabbt och ultrasnabbt mode i diskussioner på sociala medier",
+    "summary_sv": "Undersökningen granskar hur köp av snabbt och ultrasnabbt mode motiveras och kritiseras i offentliga nätdiskussioner. Materialet består av 128 kommentarer till fjorton nyhetspubliceringar på fyra Facebooksidor och analyseras kvalitativt. Pris, tillgänglighet, kvalitet och inhemskhet används som köpargument, medan miljöskador, etik och konsumtionshets bär kritiken. Studien visar att medveten kritik kan samexistera med motiveringar för fortsatt konsumtion. Den belyser hur deltagare argumenterar i en särskild mediemiljö. Kommentarerna kan inte användas som representativa uppgifter om faktiska köp eller om alla finländska konsumenters inställning.",
+    "topic_sv": "Argument för och emot snabbt mode i offentlig nätdiskussion",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning av nätdiskussioner",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Konsumenters argument analyseras genom offentliga kommentarer."
+      },
+      {
+        "label": "Insamling av Facebookkommentarer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "128 kommentarer till fjorton nyhetspubliceringar ingår."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Köpgrunder och kritiska resonemang kategoriseras."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Digital kultur och medier",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "be07a17486d0548eecd432c39649dbed223737e1df2fd6c868a89c5f0c6cd391",
+    "authors": "Tommi Keronen",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger pro gradu-avhandling i slöjdvetenskap.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Idrottare som ägnar sig åt slöjd"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityöt “nollauskeinona” urheilijan arjessa",
+    "title_sv": "Slöjd som ett sätt att ”nollställa” sig i idrottarens vardag",
+    "summary_sv": "Studien undersöker vilken betydelse handarbete har för idrottares vardag, stresshantering och mentala återhämtning. Tio idrottare som ägnar sig åt slöjd intervjuas, och materialet bearbetas med innehållsanalys som både utgår från erfarenheterna och stöds av teori. Deltagarna beskriver slöjd som en möjlighet att lämna idrottens krav, lugna tankarna och hantera belastningar. Arbetet framhäver en vardaglig återhämtningspraktik utanför själva träningen. Resultaten återger upplevda betydelser hos redan slöjdintresserade idrottare och visar inte genom mätning hur prestation, stressnivåer eller återhämtning förändras.",
+    "topic_sv": "Idrottares handarbete som upplevd mental återhämtning",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Idrottare som har slöjd som hobby undersöks."
+      },
+      {
+        "label": "Intervjuer med tio idrottare",
+        "kind": "insamling",
+        "pdf_page": 3,
+        "evidence_sv": "Tio deltagare beskriver vardag, välbefinnande och stress."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys med teoristöd",
+        "kind": "analys",
+        "pdf_page": 3,
+        "evidence_sv": "Erfarenheterna analyseras materialnära och relateras till teoretisk ram."
+      }
+    ],
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Kropp, sinnen och materialitet"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "a3fb25469c43057687b86973d01a274f0879d138846b5b894ea122162d5ecf9f",
+    "authors": "Tuuli Hallivuo",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Det finska abstraktet beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdhobbyister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      30,
+      31,
+      32,
+      33
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityö harrastajien tunnesäätelyn välineenä",
+    "title_sv": "Slöjd som redskap för hobbyisters känsloreglering",
+    "summary_sv": "Arbetet undersöker hur slöjdhobbyister beskriver känslor och strategier för att reglera dem. En webbenkät ger ett större material, ur vilket 56 svar väljs för kvalitativ analys. Fenomenologisk-hermeneutisk orientering kombineras med materialbaserad analys av känslor och teoristyrd analys av regleringsstrategier. Glädje och lugn förekommer tillsammans med frustration och irritation. Närmande, undvikande och självutvecklande strategier framträder. Studien synliggör känslomässig mångfald snarare än enbart positiva effekter. Urvalet ur enkäten och rekryteringen via hobbygrupper behöver beaktas; inga kliniska effekter eller representativa frekvenser fastställs.",
+    "topic_sv": "Slöjdens känslor och strategier för känsloreglering",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Fenomenologiskt-hermeneutiskt perspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 31,
+        "evidence_sv": "Vetenskapsfilosofin inriktas på att förstå och tolka erfarenheters betydelser."
+      },
+      {
+        "label": "Webbenkät",
+        "kind": "insamling",
+        "pdf_page": 31,
+        "evidence_sv": "Erfarenheter samlas med ett elektroniskt frågeformulär."
+      },
+      {
+        "label": "Urval ur enkätsvar",
+        "kind": "insamling",
+        "pdf_page": 33,
+        "evidence_sv": "56 svar väljs ur 172 svar för den kvalitativa analysen."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 33,
+        "evidence_sv": "Känslouttryck reduceras och kategoriseras."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Strategier för känsloreglering analyseras med stöd av teori."
+      }
+    ],
+    "themes": [
+      "Välbefinnande och omsorg",
+      "Kropp, sinnen och materialitet"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "e4d18c84636b5438df9d224348e9c5880362949b71de1e8543526d93685f9a53",
+    "authors": "Saraliina Soramies",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Titelbladet anger pro gradu.",
+    "degree_pdf_page": 1,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Unga inom grundläggande konstundervisning i slöjd"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Nuorten liittämät merkitykset taiteen perusopetuksen käsityöharrastukseen",
+    "title_sv": "Ungas betydelsetillskrivningar till slöjd som hobby inom grundläggande konstundervisning",
+    "summary_sv": "Studien lyfter ungas egna erfarenheter av slöjd inom grundläggande konstundervisning. Sex unga hobbyutövare intervjuas med samma tio frågor, och svaren bearbetas genom materialbaserad innehållsanalys. Verksamheten beskrivs som en trygg miljö med plats för kreativitet, lärande och upplevelser av att lyckas. Den kan stödja identitet, ge vardagen rytm och fungera som motvikt till skolarbete. Arbetet synliggör fritidsundervisningens personliga betydelser. Resultaten bygger på deltagare som redan finns i verksamheten och ger mindre kunskap om dem som saknar tillgång, avstår eller har slutat.",
+    "topic_sv": "Ungas erfarenheter av slöjd inom grundläggande konstundervisning",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Sex unga deltagare i grundläggande konstundervisning intervjuas."
+      },
+      {
+        "label": "Intervjuer med gemensamma frågor",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Varje deltagare besvarar tio intervjufrågor."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Erfarenheter och betydelser kategoriseras kvalitativt."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Välbefinnande och omsorg",
+      "Samarbete och gemenskap",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "2cd9699d8edc39aeeea227fd2a0e0445946f724c5bb38632c8553077c3b59781",
+    "authors": "Sanna-Mari Karppinen; Marita Turunen",
+    "author_count": 2,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Författarnas diskussion om den egna undersökningens begränsningar benämner arbetet pro gradu.",
+    "degree_pdf_page": 118,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2,
+      3,
+      118
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Esinetutkimus naisten muotipukujen valmistusmenetelmistä 1700-luvulla – Tapauksena Suomessa säilyneet englantilaiskuosiset puvut",
+    "title_sv": "En föremålsstudie av tillverkningsmetoder i kvinnors modedräkter under 1700-talet – Bevarade dräkter av engelsk typ i Finland som fall",
+    "summary_sv": "Undersökningen granskar material, tillskärning och konstruktion i åtta bevarade kvinnodräkter från sent 1700-tal. En kvalitativ föremålsstudie i historisk kontext förenar museiobservationer, fotografier, reflektion och tolkning. Sju dräkter av engelsk typ jämförs med ytterligare ett närliggande plagg. Gemensamma lösningar och individuella variationer antyder både delad kunskap och utrymme för anpassning. Sparsamhet och planering framträder som betydelsefulla. Studien bidrar med dokumentation användbar för forskning och historisk sömnad. Bevarandets selektion och begränsad möjlighet till återbesök gör att resultaten inte representerar all klädtillverkning under perioden.",
+    "topic_sv": "Historisk sömnad och konstruktion i bevarade 1700-talsdräkter",
+    "primary_method": "Föremåls-/materialstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ föremålsstudie i historisk kontext",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Åtta dräkter undersöks som ett empiriskt historiskt fall."
+      },
+      {
+        "label": "Museiobservation och fotografier",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Plagg granskas på plats och genom bildmaterial."
+      },
+      {
+        "label": "Observation, reflektion och tolkning",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Föremålsiakttagelser sammanförs med tidigare forskning i analysen."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "71e7f40a4239b910a0842f095ed92d3717d82cd0bf2fd09fd7f1dd121ceb06b1",
+    "authors": "Jaana Mäkelä",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "abstract_page",
+    "year_note_sv": "Abstraktsidan anger november 2025; titelbladet saknar år.",
+    "language": "fi",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Abstraktsidan anger endast opinnäytetutkielma; exakt examensnivå kunde inte bekräftas i PDF-texten.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Vuxna slöjdhobbyister"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "limited",
+    "original_title": "Aikuisiän käsityöinnostus: Polku negatiivisista muistoista käsityöharrastajaksi",
+    "title_sv": "Slöjdentusiasm i vuxen ålder: Vägen från negativa minnen till slöjdhobby",
+    "summary_sv": "Studien undersöker hur vuxna med negativa barndomsminnen av slöjd ändå utvecklar ett varaktigt intresse. Sju semistrukturerade temaintervjuer analyseras med teoristyrd innehållsanalys. Berättelserna följer minnen, väckande händelser, lärande och sådant som håller engagemanget vid liv. Gynnsamma omständigheter, tillräcklig tid, självreglering och stöd från gemenskaper beskrivs som betydelsefulla. Motgångar kan omtolkas som delar av lärandet. Arbetet synliggör föränderliga relationer till slöjd, men utgår från personer vars intresse faktiskt utvecklats och säger mindre om dem som fortsatt avstår eller saknar motsvarande stöd.",
+    "topic_sv": "Vuxnas förändrade relation till slöjd efter negativa barndomsminnen",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Sju slöjdhobbyisters väg till engagemang undersöks."
+      },
+      {
+        "label": "Semistrukturerade temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Ett halvstrukturerat frågeunderlag styr samtalen."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Tidigare forskning om hobbyverksamhet och slöjdkunnande stöder analysen."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Välbefinnande och omsorg",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "ba2b943381a745d7b2303e10f5c9a29b06af3af9a320197093ab9687251a7a1e",
+    "authors": "Liisa Vahter",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Det finska abstraktet beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Skomakarmästare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Päästä varpaisiin – suutarimestarin näkemys perinnejalkineiden sisältämästä kulttuuriperinnöstä",
+    "title_sv": "Från topp till tå – en skomakarmästares syn på kulturarvet i traditionella skor",
+    "summary_sv": "Undersökningen granskar hur en skomakarmästare förstår och förmedlar kulturarv genom traditionella skor. Intervjuer analyseras med kvalitativ innehållsanalys och en modell för produktens designprocess. Form, handsydda tekniker och materialkunnande framträder som viktiga för både traditionens karaktär och skornas värde. Samtidigt måste hantverksföretagande balansera egna värderingar, samtida behov och lönsamhet. Studien synliggör kulturarv som ett aktivt formgivningsarbete i ett lokalt yrkesliv. Den bygger på en utövares perspektiv och kan därför inte representera alla skomakares villkor eller bedöma den ekonomiska hållbarheten i branschen.",
+    "topic_sv": "Traditionella skor, kulturarv och hantverksföretagande",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjubaserad undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En skomakarmästares perspektiv på traditionella skor står i centrum."
+      },
+      {
+        "label": "Intervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtal ger material om kulturarv, formgivning och tillverkning."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjumaterialets perspektiv kategoriseras."
+      },
+      {
+        "label": "Modell för produktens designprocess",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Planeringsprocessens delområden hjälper till att strukturera tolkningen."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Material, teknik och tillverkning",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "f10b68a67ab2dbc343be580605302705a6409dc8875cb94e10dcb56f7d8863ee",
+    "authors": "Antti Valkama",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Deltagare i båtbyggarkurs",
+      "Båtbyggarlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Veneenveistokurssi kulttuuriperinnön ylläpitäjänä Pohjois-Pohjanmaalla",
+    "title_sv": "En båtbyggarkurs som upprätthållare av kulturarv i Norra Österbotten",
+    "summary_sv": "Arbetet undersöker hur en båtbyggarkurs kan bidra till att hålla en regional hantverkstradition levande. Sju kursdeltagare och en lärare intervjuas individuellt, och materialet transkriberas och innehållsanalyseras. Traditionen uppfattas som värdefull men sårbar när utövarna blir äldre och få nya tillkommer. Fiske, familjers båtminnen, synligare kursutbud och vidareförmedling av kunnande framträder som möjliga stöd. Studien betonar tillgång till utbildning och gemensamt lärande. Den återger erfarenheter inom en befintlig kurs och kan inte ensam förutsäga traditionens framtid eller vilka grupper som saknar möjlighet att delta.",
+    "topic_sv": "Båtbyggarkurser och generationsöverföring av regionalt kulturarv",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "En båtbyggarkurs undersöks genom deltagarnas och lärarens berättelser."
+      },
+      {
+        "label": "Individuella intervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Sju kursdeltagare och en lärare intervjuas."
+      },
+      {
+        "label": "Innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjuer transkriberas och analyseras för traditionens förutsättningar."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Undervisning och lärande",
+      "Samarbete och gemenskap"
+    ],
+    "research_settings": [
+      "Fritid och hobby"
+    ]
+  },
+  {
+    "id": "6c59331145453c9a16f32799ed8b62156d0bd3f5959d1ef96e0d298b0b9bbc7c",
+    "authors": "Annu Verta",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Hundägare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Koiranvaatteiden valintaperusteet Suomessa",
+    "title_sv": "Grunder för val av hundkläder i Finland",
+    "summary_sv": "Studien undersöker vilka krav hundägare ställer när de väljer kläder åt sina hundar. Ett urval av femtio webbenkätsvar analyseras kvalitativt med stöd av modeller för funktion, uttryck och estetik. Skydd, praktisk användning och hundens behov framstår som centrala, medan dekoration oftare är underordnad eller ifrågasatt. Samtidigt överlappar funktionella och estetiska önskemål. Arbetet visar hur konsumtion också kan uttrycka omsorg i relationen mellan människa och djur. Resultaten bygger på valda självrapporter och ska inte förstås som representativa marknadsandelar eller som en oberoende prövning av hundarnas välbefinnande.",
+    "topic_sv": "Hundkläders funktion, estetik och omsorg i konsumentval",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ enkätundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "50 svar från en webbenkät väljs till analys."
+      },
+      {
+        "label": "Webbenkät till hundägare",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Hundägare beskriver förvärv och urvalskriterier."
+      },
+      {
+        "label": "Teoristyrd innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Svar analyseras särskilt genom teorianknutna kategorier."
+      },
+      {
+        "label": "Modeller för klädfunktioner",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Flügels funktioner och Lambs och Kallals modell för funktion, uttryck och estetik används."
+      }
+    ],
+    "themes": [
+      "Hållbarhet och konsumtion",
+      "Välbefinnande och omsorg",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Annat"
+    ]
+  },
+  {
+    "id": "6870534b73ef7f64a02af1e37bc9b3c6cf647523060df25b279ca2d0e2dec923",
+    "authors": "Melina Rissanen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Det finska abstraktet beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Lärare i teknisk slöjd"
+    ],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Oppilaiden avaruudellinen hahmottaminen yläkoulun teknisessä työssä",
+    "title_sv": "Elevers rumsliga uppfattningsförmåga i teknisk slöjd på högstadiet",
+    "summary_sv": "Studien undersöker hur lärare beskriver elevers rumsliga tänkande i teknisk slöjd och hur de stödjer utvecklingen. Fyra temaintervjuer analyseras genom materialbaserad innehållsanalys. Svårigheter att förstå proportioner och övergå från tvådimensionella modeller till tredimensionella konstruktioner återkommer. Lärarna lyfter konkret modellering, digital planering, stegvis handledning, språkliggörande och kamratlärande som stöd. Arbetet visar hur visuella, materiella och pedagogiska resurser kan samverka. Elevers färdigheter återges genom lärarnas perspektiv och testas inte direkt; undersökningen kan därför inte avgöra vilka arbetssätt som ger störst effekt.",
+    "topic_sv": "Lärares stöd för rumsligt tänkande i teknisk slöjd",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fyra lärare i teknisk slöjd beskriver elevers rumsliga tänkande."
+      },
+      {
+        "label": "Temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtalen samlar erfarenheter och pedagogiska lösningar."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Lärarutsagor om färdigheter och stöd kategoriseras."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Digital kultur och medier",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "dc2d6a4c10287c372412a479d9359142dbd3e04f5616309e4d09d7b333c78273",
+    "authors": "Erno Rusanen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Arbetets egen samtyckesbilaga benämner undersökningen pro gradu.",
+    "degree_pdf_page": 53,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt. Titelbladets fullständiga titel används; abstraktsidan och samtyckesbilagan har kortare titelvarianter.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      53
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Tekoälyn tuottamat käsityöohjeet käsityönopettajien näkökulmasta",
+    "title_sv": "AI-genererade slöjdinstruktioner ur slöjdlärares perspektiv",
+    "summary_sv": "Arbetet granskar slöjdlärares bedömningar av instruktioner som skapats med AI. Fyra lärare deltar i en gruppintervju, och materialet analyseras med materialbaserad innehållsanalys. Instruktionerna beskrivs som möjliga utgångspunkter som kan spara tid, men innehåller också brister i logik, tillförlitlighet och tekniskt innehåll. Granskning och komplettering av en kunnig lärare framstår som avgörande. Studien nyanserar bilden av AI som undervisningsresurs genom att synliggöra både möjligheter och ansvar. Den bygger på lärares bedömningar och fastställer inte instruktionernas säkerhet eller effekter när elever använder dem självständigt.",
+    "topic_sv": "Slöjdlärares kritiska bedömning av AI-genererade instruktioner",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Lärares perspektiv på AI-instruktioner står i centrum."
+      },
+      {
+        "label": "Gruppintervju",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Fyra slöjdlärare intervjuas tillsammans."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Bedömningar av styrkor, brister och användbarhet kategoriseras."
+      }
+    ],
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Yrkesliv",
+      "Grundskola"
+    ]
+  },
+  {
+    "id": "799209ff9aca1d0770ca5d60d042b188362fd95a053faa551ce5c944f7fe4bbc",
+    "authors": "Susanna Turkia",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Metodavsnittet anger att detta är ett pro gradu-arbete.",
+    "degree_pdf_page": 20,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2,
+      20
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Punomon oppimateriaalit opettajien tukena käsityön opetuksessa tukea tarvitseville oppilaille",
+    "title_sv": "Punomos läromedel som lärarstöd i slöjdundervisning för elever som behöver stöd",
+    "summary_sv": "Studien undersöker vilka råd och stöd ett digitalt läromedelsarkiv erbjuder lärare som undervisar elever med olika stödbehov. Tolv webbläromedel analyseras med materialbaserad innehållsanalys. Tydlighet, struktur, flera kommunikationskanaler, tillgängliga lärmiljöer och anpassade verktyg återkommer. Materialen uppfattas som förenliga med inkluderande pedagogik och differentiering. Arbetet synliggör konkret stöd i ett undervisningsarkiv och olika sätt att göra slöjd tillgänglig. Det analyserar resursernas innehåll, inte hur elever och lärare faktiskt använder dem. Upplevd tillgänglighet eller lärandeeffekter för berörda elever prövas därför inte.",
+    "topic_sv": "Tillgängliga digitala läromedel och stöd i slöjdundervisning",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ läromedelsundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Tolv nätbaserade läromedel om särskilt stöd analyseras."
+      },
+      {
+        "label": "Dokumentmaterial från Punomo",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet väljs ur sajtens avdelning för elever med stödbehov."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Lärarråd och pedagogiska stödformer kategoriseras."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa",
+      "Digital kultur och medier"
+    ],
+    "research_settings": [
+      "Grundskola",
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "fafc447077ef59c0ada483053b3699fcf9a55a2b8b10b928b544927af1c32fc9",
+    "authors": "Sanni Huttunen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Metodavsnittet anger att detta är ett pro gradu-arbete.",
+    "degree_pdf_page": 20,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Hantverksföretagare"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      20
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityöperinteiden merkityksiä pohjoiskarjalaisten käsityöyrittäjien liiketoiminnassa",
+    "title_sv": "Slöjdtraditioners betydelser i nordkarelska hantverksföretagares verksamhet",
+    "summary_sv": "Undersökningen granskar hur hantverksföretagare i Norra Karelen förstår tradition och använder den i sin verksamhet. Fem temaintervjuer analyseras med materialbaserad innehållsanalys. Plats, familjehistoria, viktiga föremål och självuttryck formar både produkter och yrkesidentitet. Traditioner lever vidare genom kunskapsförmedling, förnyelse och efterfrågan, samtidigt som företagandet upplevs som meningsfullt men oförutsägbart. Studien visar värden som sträcker sig bortom försörjning. Den belyser ett litet regionalt material och kan inte användas för att bedöma alla karelska företagares lönsamhet eller hur kunder faktiskt värderar kulturarvet.",
+    "topic_sv": "Regionalt kulturarv och mening i hantverksföretagande",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Fem regionala hantverksföretagares erfarenheter undersöks."
+      },
+      {
+        "label": "Temaintervjuer",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Samtalen berör företagande och slöjdtraditioner."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Traditionernas och företagandets betydelser kategoriseras."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Identitet och profession",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Yrkesliv"
+    ]
+  },
+  {
+    "id": "9237d54850e2f3a21a6d79e5ac2cc4a6496e6093adcdcd12accd11d2f39bca11",
+    "authors": "Tiina Pitkänen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Det finska abstraktet beskriver arbetet som ett pro gradu-arbete.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Slöjdlärarstudenter på magisternivå"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      23
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Käsityön opettajaopiskelijoiden kokemuksia monimateriaalisen käsityön opettajankoulutuksesta",
+    "title_sv": "Slöjdlärarstudenters erfarenheter av lärarutbildning i multimateriell slöjd",
+    "summary_sv": "Studien undersöker hur magisterstuderande förstår multimateriell slöjd och upplever utbildningens stöd inför läraryrket. Tjugonio svar från tre finländska universitet samlas genom webbenkät och analyseras med materialbaserad innehållsanalys. Ämnets bredd, motivation, tid och undervisningsresurser framträder både som möjligheter och utmaningar. Studenterna beskriver stöd från lärare, egna intressen och fördjupade färdigheter som betydelsefulla. Arbetet ger flera institutionsperspektiv på utbildningen. Eftersom svaren uttrycker studenters uppfattningar och urvalet är litet kan resultaten inte användas som rangordning av universiteten eller som direkt bedömning av undervisningsberedskap.",
+    "topic_sv": "Studenters upplevelser av multimateriell slöjdlärarutbildning",
+    "primary_method": "Enkätstudie",
+    "methods": [
+      {
+        "label": "Kvalitativ enkätundersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "29 magisterstudenters svar från tre universitet analyseras kvalitativt."
+      },
+      {
+        "label": "Webbenkät",
+        "kind": "insamling",
+        "pdf_page": 23,
+        "evidence_sv": "Metodavsnittet anger ett elektroniskt Webropol-formulär."
+      },
+      {
+        "label": "Materialbaserad innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Erfarenheter av ämnesinnehåll och lärarberedskap kategoriseras."
+      },
+      {
+        "label": "Fenomenologiskt perspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 23,
+        "evidence_sv": "Vetenskapsfilosofin betonar erfarenheters meningsinnehåll."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Identitet och profession",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Lärarutbildning"
+    ]
+  },
+  {
+    "id": "bc63c2c83ea3d8a0b736047d178fd871f5311b70d1024f4a258f8c13b254a47c",
+    "authors": "Anastasia Parviainen",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Abstraktsidan anger pro gradu-avhandling inom slöjdlärarutbildningen.",
+    "degree_pdf_page": 2,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [],
+    "source_pdf_pages": [
+      1,
+      2
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "Kantoliinat ja liinailukulttuurin kehittyminen Suomessa Vauva- ja Taito-lehtien aineistossa vuosina 1992–2020",
+    "title_sv": "Bärsjalar och bärsjalskulturens utveckling i Finland i material från tidskrifterna Vauva och Taito 1992–2020",
+    "summary_sv": "Arbetet undersöker hur bärsjalar och deras användning framställs i två finländska tidskrifter mellan 1992 och 2020. Artiklar och bilder analyseras genom kvalitativ dokumentanalys, visuell innehållsanalys och tematisk analys. Synligheten ökar och material, mönster samt förknippade betydelser blir mer varierade. Bärande framträder som barnomsorg, inlärd färdighet, gemenskap och ibland hobby eller livsstil. Egen vävning lyfts som ett särskilt inslag. Studien beskriver förändringar i tidskrifternas representationer och bör skiljas från en direkt kartläggning av hur vanligt bärande varit bland olika familjer.",
+    "topic_sv": "Bärsjalskulturens förändrade medierepresentationer",
+    "primary_method": "Historisk/etnologisk studie",
+    "methods": [
+      {
+        "label": "Kvalitativ dokumentanalys över tid",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Tidskriftsmaterial från 1992–2020 undersöks."
+      },
+      {
+        "label": "Artiklar och bilder ur tidskrifter",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Materialet hämtas från Vauva och Taito."
+      },
+      {
+        "label": "Visuell innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Bärsjalstyper och tidsmässig variation granskas i bildmaterialet."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Betydelser och förändrade betoningar kring bärande analyseras."
+      }
+    ],
+    "themes": [
+      "Kulturarv, plats och nordliga sammanhang",
+      "Välbefinnande och omsorg",
+      "Samarbete och gemenskap",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Arkiv, texter och föremål"
+    ]
+  },
+  {
+    "id": "9ec69569672abbd0dbf4166274972c530ea1a0496995059b5aef69c63a3cffdb",
+    "authors": "Henna Paukkeri",
+    "author_count": 1,
+    "year": 2026,
+    "year_basis": "title_page",
+    "year_note_sv": "Året anges på titelbladet.",
+    "language": "fi",
+    "degree_level": "master",
+    "degree_evidence_sv": "Metodavsnittet benämner den egna undersökningen pro gradu.",
+    "degree_pdf_page": 29,
+    "credits": null,
+    "credit_scope": "unknown",
+    "credits_pdf_page": null,
+    "method_note_sv": "Kodningen bygger på abstrakt och utvalda metodavsnitt, inte en systematisk genomläsning av hela PDF-filen.",
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Elever i årskurs 7"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      29
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported",
+    "original_title": "7.-luokkalaisten turvallisuusasenteet teknisen työn opetuksessa",
+    "title_sv": "Sjundeklassares säkerhetsattityder i undervisning i teknisk slöjd",
+    "summary_sv": "Studien granskar samband mellan säkerhetskunskap, attityder och beteende i teknisk slöjd bland sjundeklassare. En kvantitativ fallstudie vid en skola använder 93 elektroniska enkätsvar. Korrelations- och regressionsanalyser visar positiva samband mellan de tre områdena. Attityderna är i genomsnitt något positiva och det rapporterade beteendet huvudsakligen säkerhetsfrämjande. Några statistiskt säkerställda könsskillnader framträder inte. Arbetet visar hur säkerhetens kunskapsmässiga och attitydmässiga delar hänger samman i materialet. Ett tvärsnitt från en skola kan däremot inte fastställa orsaksriktning eller hur elever faktiskt agerar i alla arbetssituationer.",
+    "topic_sv": "Samband mellan säkerhetskunskap, attityd och beteende i teknisk slöjd",
+    "primary_method": "Fallstudie",
+    "methods": [
+      {
+        "label": "Kvantitativ fallstudie",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "93 sjundeklassare vid en skola deltar."
+      },
+      {
+        "label": "Elektronisk enkät",
+        "kind": "insamling",
+        "pdf_page": 2,
+        "evidence_sv": "Uppgifter samlas genom ett frågeformulär."
+      },
+      {
+        "label": "Korrelationsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Parvisa samband mellan säkerhetens tre områden undersöks."
+      },
+      {
+        "label": "Regressionsanalys",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Kunskap och attityd används tillsammans för att förklara beteendevariation."
+      },
+      {
+        "label": "t-test för oberoende grupper",
+        "kind": "analys",
+        "pdf_page": 2,
+        "evidence_sv": "Skillnader mellan könsgrupper prövas statistiskt."
+      }
+    ],
+    "themes": [
+      "Undervisning och lärande",
+      "Välbefinnande och omsorg"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ]
+  }
+]

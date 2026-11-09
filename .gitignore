@@ -10,3 +10,5 @@ tmp/
 data/harvest_2026/
 data/source_2026_full.json
 data/history_raw/
+data/newsroom_private/
+data/newsroom_private_extraction.log

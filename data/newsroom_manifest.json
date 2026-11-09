@@ -1,0 +1,2885 @@
+{
+  "file_count": 277,
+  "unique_pdf_count": 276,
+  "multi_pdf_work_count": 2,
+  "coverage_files": [
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2024,
+      "files": 7
+    },
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2025,
+      "files": 5
+    },
+    {
+      "track_id": "konstfack-bild-grundskola",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2024,
+      "files": 5
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2025,
+      "files": 15
+    },
+    {
+      "track_id": "konstfack-slojd-grundskola",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2024,
+      "files": 21
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2025,
+      "files": 25
+    },
+    {
+      "track_id": "konstfack-bild-gymnasium",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2024,
+      "files": 3
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2025,
+      "files": 8
+    },
+    {
+      "track_id": "uef-slojd",
+      "year": 2026,
+      "files": 9
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2024,
+      "files": 14
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2025,
+      "files": 14
+    },
+    {
+      "track_id": "helsingfors-slojd",
+      "year": 2026,
+      "files": 14
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2024,
+      "files": 11
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2025,
+      "files": 14
+    },
+    {
+      "track_id": "turku-slojd",
+      "year": 2026,
+      "files": 18
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2024,
+      "files": 2
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2025,
+      "files": 5
+    },
+    {
+      "track_id": "abo-akademi-slojd",
+      "year": 2026,
+      "files": 4
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2024,
+      "files": 15
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2025,
+      "files": 31
+    },
+    {
+      "track_id": "lappland-bild",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2024,
+      "files": 13
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2025,
+      "files": 24
+    },
+    {
+      "track_id": "aalto-bild",
+      "year": 2026,
+      "files": 0
+    }
+  ],
+  "works": [
+    {
+      "id": "0039c2869b3164691cb6a385add49125053352ece66f86ebdeddc7427ef5fea5",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "0055c5766752809db389e0a0704a3faf296a361a9bbafd5c0132cb9fb1a6cb8d",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "01af22b462b311eeb97a4f06fdf73e19a2d6e22fdcccdaf18d4627aa75876dd4",
+      "pdf_page_count": 109,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "01d1993f5bc4e0a2331fda38832d34934115b4c9cd52d96aa3638f5b2d167552",
+      "pdf_page_count": 27,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "02602085fdecd8c2f57cb77af5d5c9bcf7c57280f28f3442f1c468fd11d9a6bf",
+      "pdf_page_count": 111,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "02d71b5cec26e9e7fe77a6c9ad4e717577b2ad1d4a3426cc996654c49d51e7eb",
+      "pdf_page_count": 100,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "0466081c9a91f486aec1540c9bef229f4c458578da5074d70a168617d88f7b3f",
+      "pdf_page_count": 131,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "05031183afa06f0b228424906806371e1a6603ddd757e04bd21320e70adacbf4",
+      "pdf_page_count": 114,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "074d12ee10be5103632ce727bbf6d8b6c589769e8ab1efa7a0a52b4097987bb0",
+      "pdf_page_count": 72,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "0aa3b7c4fe4422ac65b10d03849ee8a1325d8ea7c94c89606a378ebb88800131",
+      "pdf_page_count": 69,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "0b92b7242418bb71738e67e2b46df3768ad83805041cceec51979c446b6c96c5",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "0d44f179a487451b04c6b81a8bd56f5ce85e2ff5f2321436e8447a06876708ef",
+      "pdf_page_count": 130,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "0fdc278539e027b36564e67c1e7f2886a8cccc06c524ea38e4885105011d1531",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1047b9935179283c79628619e478bf4be14812fb7f6cb4aa052825a41a895828",
+      "pdf_page_count": 75,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "11693d3e1dd5c93401c25a476ef218d1ef47977ffcd963a53d910084f95de860",
+      "pdf_page_count": 88,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "121c2c284d4de11881963dd74ba5a37beb8fd66d162dd27b7aa0ec220cc69420",
+      "pdf_page_count": 82,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "13380cc84f7b160ca41791d0c834ecba80d64016757392afb7caf2839d805acd",
+      "pdf_page_count": 77,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "15e141a47a9c509b779a7b11f187bd27748d7dd2d6c0ec80208c0d22050018a1",
+      "pdf_page_count": 31,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "1720f79f23435e42c4d29dfd1fa990dc3dd1120405b0e31713fb15383ebaf7e8",
+      "pdf_page_count": 97,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "195858ea6affbc030d5fd6665636175068acd7ddceb13ea74ae44fdd8723b435",
+      "pdf_page_count": 81,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "19f282d9e59ff3eee3584c1ead529f377f2fa89479bdcd964724b79e454c7bb2",
+      "pdf_page_count": 85,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1b2114498a2b4b64deb27989975d9b2aa1c135fa899419bfd10db4dd61a70560",
+      "pdf_page_count": 56,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1b70ac1a2f6316f5a105162cd1ed02ae8ea1705dd2a2dda02ff41610583302f5",
+      "pdf_page_count": 63,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "1ba1739fe707ff8267d93135d50e32ee7440a87fdf2f78b2099e01c56d00cde1",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "1ba8475027d1eac1f38849108c7461bfde7cc43885d7580281c586483dab11b4",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1c1bc19c9ace32a8d5a56f05621c525d0895ffbfe8a3f0fab9ab76854c201207",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "1cc3a2cd2a60b842da8b268d0fddda0f41993e1f9b582e4bd8fada7096c0008f",
+      "pdf_page_count": 28,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1d90f9544ac893866c1444b537d54cfaad2cc1857bf6cefb2fb910cbac21a0f8",
+      "pdf_page_count": 111,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1e4246bcff3d37c2cddd7e7c1bed03673167e3228ff07d8f206f37f9ada76d46",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "1f592aeefa8d8b96bec9ba6646c451bbb5547b711164fec3ee73aa468f32dca4",
+      "pdf_page_count": 87,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "207c4bdb468a1630f1a1ef2bc083b85d3fd38fae0e6b2220b73526f7e63642f3",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2170e12417997556198a99e15caf888b0287e79992f3df197cae15313e13dd4f",
+      "pdf_page_count": 85,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2248d9acbfb5e94edaf890a6e3b4c331aeb2e5831aecd282d3ed2dcad5d00d2d",
+      "pdf_page_count": 74,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "226fe9f1a92d411fc8a6b5fee87598d73ec79afc44bc16ad3c75052d8e719378",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2326452733e454da66ba7362a7bf79c0a022ea6a40c6d69e5545e4b8d198bd6b",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "23d32365241f8e36ebd91a6236cb85715a664e4eff364b8f455fa70d60e3dcc5",
+      "pdf_page_count": 71,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2500f6fdab1aca216cd89888a9771f35f7bc0c309b3c4b67ac845f5863e6f23a",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "2629edf84707ceae52769830263c0054c0acd30c1a71b1580c3f1f13f7217e8a",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2683d79e851a8f4a461caaeed383b86c9f67418fe5f06ff76f0950f14286c0b0",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "280d1cd97183ae1fb439e1c199458c07cf004873f905c647241aa24708f0712d",
+      "pdf_page_count": 45,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2821a80119c28a908b94681a71b4447ef92106b2b89308bf1a3e41ff0340f51f",
+      "pdf_page_count": 88,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "282e52f1966e3155fc9b1f8e17b73abcfae0d3fe5514611462fd284e8fdef304",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "292352e83d6c2f394663e6707773120c41559642d694cabf25e5cc51d22f0379",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "292c49cdf6858ac117664c40b765583db968bdd2b0daf789e336c52609cdbec4",
+      "pdf_page_count": 35,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2baa6c55c0d785bd11ac3556e18a044cd0f9e5c6ca66d5f28c3ed01796deae0a",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2bdb03279ab1d3282a5533b274834c51cf933ffed4ba3fda7242af84a8c8f638",
+      "pdf_page_count": 55,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2c4cb6fa53760e3902a93b08ff6d492e427ce181027a8d38f94d96e9be414722",
+      "pdf_page_count": 70,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2ca212c0b76a139cbaf7cda20aa61f9732b8c5602ed7c087ed043f8bbde39cf6",
+      "pdf_page_count": 51,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2cd9699d8edc39aeeea227fd2a0e0445946f724c5bb38632c8553077c3b59781",
+      "pdf_page_count": 185,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2d16edeab7ed116faf9cfab65e2c3d44cf2a46d9c7b3fd7a7625bdd4bddf7a43",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2ddcf5056b86dddef33ea507dfd373d80e7593e3bd0359358279cc9d686a60e5",
+      "pdf_page_count": 75,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "2eb0e9800629530a0691bf324c24b4468ad7a169b55f9bb12693ebf7689d8ff6",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "2f198216935b453b3ef4099a6ca447e3334319d2d9e50956c486da420c6e193a",
+      "pdf_page_count": 72,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2f1bbb73dd115b350efd6129ab4fd008a6a4473d7a0ab887217deadc2bf7b9ad",
+      "pdf_page_count": 66,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "2f619573a2dbe8c3bf5c38146a70d0b451697735a4cbed46f216d83f2651e045",
+      "pdf_page_count": 93,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2faf49669cd37221fe2a80a97514ec0d00cf1ab88b3bb82f461b336717a86493",
+      "pdf_page_count": 85,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "32e41365f0c8c9b2109bf8541cb528912f6cf664593ded44232f0c2b3e3ab79a",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "32eb6887b43ea3dea33273f85b2d4ed2f0b32a0b68122299dccef46f87299e4c",
+      "pdf_page_count": 31,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "33cbc83c1aec59ab265e8d7f717dda3607710615ecee95c82be6c4ccbee1972c",
+      "pdf_page_count": 37,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "34cbbbd2f21dd4d268d19ad1daca517b4fcb504f906edb7ee239666632d37199",
+      "pdf_page_count": 76,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "36bd4aac181faa771d19d5689e8badd029ec5e7025e7d8e557ee79f902993d11",
+      "pdf_page_count": 92,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "3a3899abaa99a5ff42d18a16a1857de5db2a9a6adb43f0366b6681b10da789de",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "3ae1e636e8435a52840926839a4fcdc2ced361997e942ae5adc853439434c0cf",
+      "pdf_page_count": 67,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "3c5e1ece97fb0e01f97a0a6566881ec271febb8eb0ff0c8e04ef9eb11cb02c28",
+      "pdf_page_count": 85,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "3d0e94c1759d9929583f9283f9f1113b3b2a55a8d38ef723597cc4b7698b94a5",
+      "pdf_page_count": 91,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "3d22b3b1690a5fc723218a34d0a42fa760760b03629de02f3d913cf620764f29",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "3d9b9a34b09835cae6c73b256fdb944cb36736847f001f0dfc60d0c1e6870f84",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "3f4b29c840dc166b869316cc7e5f865e5ae2ad179580918b38d01bbc996bb5ee",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "3f611fd95b6f5c88ebf606d3029c777d263c9bfc7fe837c027373fb2ccc4f672",
+      "pdf_page_count": 71,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4014b4ef6810e977d12a889e92a988b3f3b3eb1575797d303015a69a76792f73",
+      "pdf_page_count": 75,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "4222a50ace3b785cf178c47936da1742e473504a93c6a015ad22fa6854862498",
+      "pdf_page_count": 77,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4291983a0e018bc1113ca7322081a607c4b318879bc0b206da34c7da449d9589",
+      "pdf_page_count": 29,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4348c25d18364d4129ac17d501ba9308359ac7dc714db30328e736931c95b82a",
+      "pdf_page_count": 67,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "43a1e8881f1a8e1cb5aabb11a48440a80de198c10ff610c9c25a4ce0b3e1d804",
+      "pdf_page_count": 56,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "44cb80b47fd6f2ed6bd58c9e46e88e3985ea3876ba23f0c185d79ea1caa9ad74",
+      "pdf_page_count": 77,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "45953c5131ea24146ca004e37d39749d961f1c2e9c373371bbf373d52b4fce49",
+      "pdf_page_count": 30,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4625224bc91fa9f81ad06439edcd074812529707617deebe1ab67018e8f68728",
+      "pdf_page_count": 107,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4661e469440ebb429b68b3f8f6699a9c1f7d62cf5e43f91a6036eb508557c169",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "46ce285d4c1b35ed843252da97e4ac1260be53258770ea3eb9d3a7d7ff4ca8db",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "4738258d46585c8a07c913d9817f2c721a77a922455970936fcad114adb8f88d",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "48df482fd83a68ace38c0bae1077281c789146bd2c00b545b9041abd07619d2d",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4bb4b41441de67ce6243b5de586ac37b530dfd63fd83edaf835b93c6069fb3f9",
+      "pdf_page_count": 89,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4ccae8c922cad0d523f3bfde4d971fbb20ea40002148945ea364b1dadf1ec059",
+      "pdf_page_count": 65,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "4d08eac5318e132168ee0ccc22a3325b72850ff4871fb27fc0ebdacaf4d83e34",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4dcdc6ef33b3a49f30c3c63273eb776ce98ea493567f8e1aa5a73d243c1eaaf2",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "4e7dd5b0d56d3c6ede53a299562aac37bbef3866e4ae7b627d565771ded92f1d",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "4e983155e883d0d1f0686ca59ea16a015c7fb8238f5d83e942b52df0f5f8fd22",
+      "pdf_page_count": 90,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "4fe96021dcfdc5571e47943ab5bc08c355e3e8947ece10c18f56c8d71342777b",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "51a6f53e7c724678ca834391788268ce23d44a0f68b0d6a61b3d6a4984a2f205",
+      "pdf_page_count": 55,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5391e4238da2c6b51ba80e8f687feb2eb1a968fbbd7b38446f9e9e05d3205b5f",
+      "pdf_page_count": 59,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "53e4da00d0c20836231de9772da3d835bce54c6f4e491e58b1eb2e664ca50498",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "54a4cb16d4b87d21301c20eb44dc9c95289328f139271bf64991036018484b01",
+      "pdf_page_count": 93,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "56bbfdcfafa514220601f5a31273356e7e24ca4c7cbfd38c825f254e356db25a",
+      "pdf_page_count": 81,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "56cc8e80f8d60b33320858e338e3a824c772eef268a8848977c55b0e850fff1c",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "57a56cf090f54bfd760a894609c7dc1b7429c53897892b3ed90c81550aaa8422",
+      "pdf_page_count": 108,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "5936b878d4620e36f7e9c9452aad999902bef1acceea3cd549fa6fa1d0d5bc26",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "59dffb51d5f38d1e4814d1d5e3646f530595e9660c65962bff3368972f834cb2",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5a280c03ee5524eea9eeb5c52769c574da433db176fae8ff2910d6f2bb90b6d5",
+      "pdf_page_count": 83,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5ab8259ca01d7e296a0c51a02c3f8161f821c5facbe036908b333f010bf8151f",
+      "pdf_page_count": 56,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "5be4ae88e4ce4e2e5b58418a327a400e330b50179b1b419f13f6a2380dcee1a4",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5c5322fc89f4bb42d58b028e48d4aedca2b0689a8c8b7fc1974f385b9b46c89a",
+      "pdf_page_count": 95,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "5d0d1dfdd3992dec2aa6b7128674f776a56bb83ecb19e9792370b5bfafd3f90b",
+      "pdf_page_count": 75,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5d2d480451a93358601b27fc774d5c5e049b868311b17a934a474033929d1ce0",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "5e5234a08491e29bcb73acd008d80918b76aeec49a677a90e4dd38f980e1ad94",
+      "pdf_page_count": 51,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "5f0846a28315bcab554f739e51f81d99a2fe7f10c67a4a636f536c41146c34d9",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "5f9926582f6cac8d8b96b972f0022aab2e84fe2837ce556e6e3bc216ebbc3b60",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "60e6360a2ed58b093e2650e8ba6284e6a1a3cc81c29bc904ff1d54061f944f4a",
+      "pdf_page_count": 105,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "611a179286b94d0a3b55f134a3ab80df6674fa06ba3d7dfbc69a5411c3b4658b",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "61fdbccac89bd0e49b74deb595a001eca45398850cb7dba9abbc35d08f7495c7",
+      "pdf_page_count": 94,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "629499a69153232aaec00fbdf9303c181e42b6cda0ce20a81895368c0f7e8594",
+      "pdf_page_count": 117,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "62f9c3a4c9d307b71e1aa8b18601729d871e9ae51c7fd6ad8e68e50f300c3b73",
+      "pdf_page_count": 101,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "637bd15b3d0942662fbdf174fb1951a9220a4bd493455d3aca9c2cbcc07f8a85",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "646b4b0f0f008b9db8f5b895a3c193f3fa0948966248b972137adc29ecde30b2",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "686458e181b8ccb74f1f8a5c681394290afdaa13555c50ef0578394ad9c99e95",
+      "pdf_page_count": 79,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "6870534b73ef7f64a02af1e37bc9b3c6cf647523060df25b279ca2d0e2dec923",
+      "pdf_page_count": 68,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "6b095057c79f7c286768ed0fdc6f86f45714a986db4d07f1794b3fd03bf063c4",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "6b513cc096b9ab6f13d6e45259507a1b25ee588f272f1bbb5ada35ec09693c65",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "6c3c7bbae64a11523f8cb2bf790847cc9313efd9fc3e5bcd2b749c1b8454bc83",
+      "pdf_page_count": 89,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "6c59331145453c9a16f32799ed8b62156d0bd3f5959d1ef96e0d298b0b9bbc7c",
+      "pdf_page_count": 111,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "6d996db08cae036130ef5f843d21b571013716c9532fd9a6299384315ae45dbc",
+      "pdf_page_count": 26,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "6f69651d462c9d9fcebcd88a7ea11e4d908baa392c7b6fb6b06799e1f24dc2cf",
+      "pdf_page_count": 102,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "6fa9936a349c01660171415aa33bee36987d7c8f4eef8d744fdb0415290228db",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "71e7f40a4239b910a0842f095ed92d3717d82cd0bf2fd09fd7f1dd121ceb06b1",
+      "pdf_page_count": 113,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "74be0b20bf1a1a9cdd052332156c1c9d0a5f72439a7cfde5fda9aed53998100e",
+      "pdf_page_count": 70,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "76e300b6ea578a4d3e75f0f6857f13e442de7142e9e611c24a0ee4637cfaf532",
+      "pdf_page_count": 86,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7708699a9cbba07a0b814b339a00790a29f3ed258a2a2bc4399314d60d9e58a5",
+      "pdf_page_count": 70,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "772e006b77e586336789201eb7fd17541353e6d0e25d193cc919b9d5ea6d8124",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "78ab7248ab837cfa175eb14db5e48ce78d8617185efaff4d04149dc14a08c703",
+      "pdf_page_count": 97,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7924e355adc7038649d502c60c590959bd83aa513d0ddaac27e7a16b4c89497c",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7935723b2b65a0e5409bfcdafdc46a0b619dc1fdb78f269bf73bcfa75a133aed",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "799209ff9aca1d0770ca5d60d042b188362fd95a053faa551ce5c944f7fe4bbc",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "7ab73cd406924e90f1bd02379e5306e376ebfefce27f9cd46df116b159ab8880",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7b42cf91818dad0932b91618a0b3381c3e5f7bde1fdf7c1bac3ceeec773e9776",
+      "pdf_page_count": 78,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7b93a397acb5984f3327869b8fc305d95ee2c9083d7cea6aad9d5bf532b795bc",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7d8737648be67c1c2bdcf571b1cd45aa25f29b32cd51e0455c44fe07cb263510",
+      "pdf_page_count": 51,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "7dd4d31b75caefc7ac257af8b13450d0bfebd0a9ec38d2349346c053c36b5131",
+      "pdf_page_count": 89,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "7e3f4f67f185852fb346e720aaddb827501bf096770b3069f9a25f0c08403fa1",
+      "pdf_page_count": 85,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7ee58a06c9efef221f2c63f6e18238b5dcadb209c0a86e0b0f4943d8c87f0dea",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "7f1c10c7f6704be4a0f1b67c2657b49c022a9b0706281728bd0a17df55624338",
+      "pdf_page_count": 71,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "7ffc8582f161192797d4435979d0aa2d99f913de996c3f2115efcc4a1c2dab46",
+      "pdf_page_count": 25,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "846c0f170a40875662610c0736e8b6467d13296c9aec31a3b302c426475f3328",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "84e464bb360d0a644cb0dca4201a7f0f23ac2d9f3db20cce8d6cce8190dc49c5",
+      "pdf_page_count": 83,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "8547e56542b858ef0056481c5a064cbc681f2eaed3b1b89df1e730c0da84addc",
+      "pdf_page_count": 80,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "88505db31580b1f72c7de48c380f8d1141e345031b8f1e4d713f2de8445e474d",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "8b08aa602a1347bae3b76c0356f1332a0c7fd76331ce0baa9928336962e2b700",
+      "pdf_page_count": 70,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "8cc1b59e60230ba699986c741cf95846622c2413018f2f2f87cb0f13f26cb8cd",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "8d6e7da89fedee120279d1e0fb347ce9d59d6363d3fcbebd6f724e28666e6d17",
+      "pdf_page_count": 91,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "8e9b1a74dcf7a58b211a00b9054a1846ff441bc328c85b9d0dbe5ee0e92e9544",
+      "pdf_page_count": 58,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "8ed71cb5f7b92410bd8dac421b361ef15c98ca1b00c70492a4eb7d03c97445ef",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "8f0cc2127129222338fe19539896e7257bb848c58259f538850c895ba02764f1",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "9064ecfbb7add9e920bda49ff9c44a68beece90e13e103c0e69f38a38c2220d0",
+      "pdf_page_count": 74,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "90c69d6dcaee1977152c615dbfb24f4392d311686434844495e14458919b9b68",
+      "pdf_page_count": 95,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "91a532c3dfc28adebc948de59fb612ebe02cb7b0f268027f96b32d2609367618",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "9237d54850e2f3a21a6d79e5ac2cc4a6496e6093adcdcd12accd11d2f39bca11",
+      "pdf_page_count": 68,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "927de83a076228f77afbc48bf43b6fcf3e18b9d84eb28265fed372a97d967505",
+      "pdf_page_count": 55,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "93e4283195bd41275029287374669f59cb780d51b4575d45ceb604ec0edaa04b",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "93fca9367cbc69e1e990c98e05a5357ea7d6df55738fe73018c0f0722adbe3dd",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "94400ecedccba4ab752f7c4ff1794c727ee24216d248ab4299ea73d95eb41c39",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "9507135c962553c19c4afe247a1b786c54c371a965395dcb88dd41855e5bfeea",
+      "pdf_page_count": 21,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "97a46052307c91f3adcbe08374cc9236bd029e8d18cca50dbace067412853315",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "982796db9d0e02b3aefa50b1e9320aa77dbb392fc954df3af096d21d7bcf70ad",
+      "pdf_page_count": 52,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "9b8cf0aede971dab942c4eefaf8762842c34f75633cfdbb0f73ebd874d73238a",
+      "pdf_page_count": 83,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "9c21e5503427036e7325875115447b7f9e2fc891bedfec5b7e55674ec36ac59f",
+      "pdf_page_count": 126,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "9c5e6fac82f27e5a808e6c0095dfc50f4579b8a919b09b52a3165c42f6016b01",
+      "pdf_page_count": 121,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "9d95c7ddea20e425fbbf5713b2490b689c94574d60dc67c8a6f16e18a90e3db5",
+      "pdf_page_count": 42,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "9ea392bb0e198be7b7c3c3850c9396900550d4c835ad45b66eb3e3bfc089b058",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "9ec69569672abbd0dbf4166274972c530ea1a0496995059b5aef69c63a3cffdb",
+      "pdf_page_count": 68,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "9fd9cc3558bcf9ac2ddac1f06a5e96981a1ca0f57d4a365e8e76d4eeaa6b34c3",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "a0627d86f0f8ab9d9841cf2f66bed6dccec782885f46277bd672681e699a777c",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "a0925396775ae5d5ab258345d3ba74da85260ea4ecf45e405e8bae02cfaa4cf5",
+      "pdf_page_count": 78,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "a18688f1da240d6a79d6338531988087b18ae8f3f61e0b0ded4b19cb032245dc",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "a3d6de99ffc53b9204df73e8f6c5cc8e699b53357c18e9d3829859bb6648c622",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "a3f107d329d19f2f897b398e274435c39f76b0ecb1330e9a2198dbfc269c446c",
+      "pdf_page_count": 86,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "a3fb25469c43057687b86973d01a274f0879d138846b5b894ea122162d5ecf9f",
+      "pdf_page_count": 92,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "a48ecfb76fda804cbdf9fe22511ca78cd5af2c0a31c8b73b02cc2f3015a4bbd1",
+      "pdf_page_count": 103,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "a6109a27d5630e816937253dbc8f43cda277900fa874ce8b467a26ce785b2371",
+      "pdf_page_count": 131,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "a75c813b04ef3e93416d6849443c0e6796bf9c8d4c948c08b0d4fd978a3de1da",
+      "pdf_page_count": 81,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "a8d118b631e3ade9b93f3a6914ec04524b5b3de694f4a7487c193dacfea3b92d",
+      "pdf_page_count": 76,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "aa5697290d50592d97450bdafcdc684c3f57dad3d3542813d123a75866c1a0d8",
+      "pdf_page_count": 90,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "aba98e9cc67a2c0b9685a55c70fa54255a481f603ad306020f4b027c4e0a2f7c",
+      "pdf_page_count": 59,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ac6dddf6ea4a277f2554846a23e7eae5408bbf56fe7598de0fdabddbff6535aa",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ac864330be6d75b46832dc3d8fe90d83820dcb75267eaa1378147b23e8390b3d",
+      "pdf_page_count": 114,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ae4f585d6f666e873a34f0b5d46cd27b1d644660a9c7e8d235d15aeca8874f60",
+      "pdf_page_count": 41,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ae7c6bd42d6dc11f0d32a8c5caa8555a26a5e67c7a633921770095ea27e62640",
+      "pdf_page_count": 63,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "afb02a4df6e084a629c5ebc18dc75caeedd7b4cecec18cc8bb381a9d7a8d2635",
+      "pdf_page_count": 88,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b0a3fd5988f3790a90c2ba56b9c9f1fa44ee0b5206d39e8220b51058f44cfeb5",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "b1a0eb92cfed4ccfd28cf640460ac2b70ad3d62fde3919dcab7dba488665a9f9",
+      "pdf_page_count": 76,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b408afb9ba66210c8cfe24c79b946e412212aff2f78b224a111ca6a58914e141",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b44bc1e2c64894f76e95260e5f6c5769ac9e064008847cc7a53b6612a7337a27",
+      "pdf_page_count": 95,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "b4958284cca184c1666abfa28ba039a76067b5399f8a2487b70cabfad7eeaf6f",
+      "pdf_page_count": 32,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b4963f6aedb4824022747e1649952069567156373de9c8af323da7f7daa87227",
+      "pdf_page_count": 95,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "b71139b893ed0abffa84bd497d38b9cbd10230fe19e0584a75bf9c5c1bd86d07",
+      "pdf_page_count": 44,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b86cbb336bf0cc866b863d8b2125a208928534155a00e749c4c7afd600636a77",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "b890e60a02aa08a404c68aff12d7bc10b73f46355469e65e8085a1d696d84a3b",
+      "pdf_page_count": 84,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "ba2b943381a745d7b2303e10f5c9a29b06af3af9a320197093ab9687251a7a1e",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ba8d193371c56667bbccc770bd7fe3fd02aa94fc949d34ade6b3ecac61a94dd9",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "baab514e208c8ca9e6e27eb58e201883a9497fd11b69156ee0a4f1a01e241a6d",
+      "pdf_page_count": 76,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "bac9ac50d55d815dcbcd5f759b41ef765cfab13b47ad98d3b6e8ccddea094dfb",
+      "pdf_page_count": 69,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "bc5026131dab2fb81379fae01823579963cdb384615ad576a42bf1f93eb41e8e",
+      "pdf_page_count": 102,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "bc63c2c83ea3d8a0b736047d178fd871f5311b70d1024f4a258f8c13b254a47c",
+      "pdf_page_count": 72,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "be07a17486d0548eecd432c39649dbed223737e1df2fd6c868a89c5f0c6cd391",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "beae2bf68a9ac58af09d39672d4e85ceeaf808fab56f0c0b18d47201d7b43e15",
+      "pdf_page_count": 51,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "bebc77dc2d7727c3ef631e85fc12e761b1443885c814b881549c14b7ee862db1",
+      "pdf_page_count": 74,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "befb8ba84a1f338bfa129d76f3a14aff4f0aea8ff222c1e0ca7cce24f5ae02b0",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "bf489324d2285173d992926c9ed4cba8dc5b67fc3d21ba97eb063fcfd3cda4be",
+      "pdf_page_count": 69,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "bf72775bdaeea1918b3938ce6e4c5baf111f27b23e02187e21802ad8e90bbf56",
+      "pdf_page_count": 99,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c0926887d12418df36a3d80d1bc96186145a2baaa252ba8876757531eaf2da50",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "c1634b87772721a73d1327cbb65d3dfc0370048850493895ea96d30d5b24f0cb",
+      "pdf_page_count": 59,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c1eac13815744fe7086e48ecc889f1d68d3c03f2ccf201ec72ab8fb355958f92",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c22832645543a1c01c1f5e0d702295153995de4d2edfd9af3a329dbe4d1a73e9",
+      "pdf_page_count": 81,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c314219627cf0b3b85e2abf9d68343c022e78bbd2c9f4ccb1d1fcef811b4078d",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c3f7f115e64af14d34528a7bbefcad0bef03d36d56f36da01b3e2b820f06faab",
+      "pdf_page_count": 62,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c4cf2544c0c0bd1ed89f75f754ae2640e1bc8a4217a1d8d1fe2c34c4bcdf607e",
+      "pdf_page_count": 125,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c50b48f43778eea5872c237a91a069cba022a33712b4b321f328f33d18c133c7",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c74b8cb080af1e4845a3e8c9cd28eb7a91b58c822eb6abd2cb5a50d07de19d58",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c82d6a909fbf109defbd29a97efc482e6dd507e1bda5542ad03f68fe1b142c0b",
+      "pdf_page_count": 77,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c8bfb253b5a53eb77c18e874b76dc34b115f9548e94f38dc28f0182a02148396",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c930e11ea7ab04962f799f652b06128fc3fba7218a44c53e06abea94fd9ae83f",
+      "pdf_page_count": 96,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "caa0a1308f240a16d02bef2e963a6dce9c5eeb5d5ce27e21230ff7ec24154a33",
+      "pdf_page_count": 124,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "cafa1e85f12c6f794a41de73ec792798318ee2236ade907b5b319ec878abc8d0",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "cb66704372729064fc820dad3bf4b8627933d1ed13f0a2fc5b67aa7b28548222",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "cc6656e62e0b1f40eae744c7818969fa5f74d90b5951c0b94c0b6a260de9ab72",
+      "pdf_page_count": 68,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "cca78ce781cd3c04d8676a792979bf77eaa12a39cfc4fec3fac537ea5022c8c8",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "cd155e9ba4a1c212f92a18e0594b4b8971967dbe30d7167b0215fec488c27dc4",
+      "pdf_page_count": 76,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ce340b88b14329372cfbe20d6973dd5bd2826740b49c2700f06a619874a5c08a",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "id": "ce960816bb349c04bf7aab3d6e8b220c6a4772f8743c198321882c11ffc9d677",
+      "pdf_page_count": 82,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "d0ab3ee16be4c228a6c140b020ff9ea2926feea3523f8580ff83fba50d8ef82c",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "d0d3355011a4c69f8d3d7b78b76ad487b74b4be2e50e87c6ea6f4cc34a7b7821",
+      "pdf_page_count": 87,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "d2623ac1cc628a58c8c919a826f9b1210d926af20e1efdce5267e14ca687e579",
+      "pdf_page_count": 103,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "d29c9da8d12660f47c31cbb06886733673cde915fc173e78b5e55a40d5b13325",
+      "pdf_page_count": 71,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "d4c1a58deb50be60d61ad5c0f97668a7afc662e4d134c46c5b72f7b4af3d00b1",
+      "pdf_page_count": 42,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "d4d70083416e0a4b29a8251f2b860ce22f8d76e6d5c269eeedca62c2a97d8560",
+      "pdf_page_count": 108,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "d67ad1e27b25fdecdb5433b114fc1a6e07d3b9da530c92de14eeac8e510ae46e",
+      "pdf_page_count": 37,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "d883d0a9d0eb6e95d6880c76a7dd8ab62ef8418e0b22a89cb114f440ac24fc7f",
+      "pdf_page_count": 107,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "d9162f5bc3339eb2b3f6cbc947d79dff7be36e3027f169a6353f903661e6a912",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "dad4c96283dcde109ed237cd37bd2c0cf4a0b4c23d0643abc1b199e135c0efcb",
+      "pdf_page_count": 96,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "db88c9b8ba388849173829b31542aa3da7eb64846b55a6f1e860282a619c7be2",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "dbb7a2386c7557f9f709df21be9b8376db640b81174704f72fb9da41ee17003d",
+      "pdf_page_count": 109,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "dc2d6a4c10287c372412a479d9359142dbd3e04f5616309e4d09d7b333c78273",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "dd52c4b4fae42735562658d0f12e14943e8067d7c83768bcd21b6c0d01dacb5c",
+      "pdf_page_count": 52,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "dd69b3f5766890d7b2cbd9f55c448b14a1e41f97e4dfe591e758c8c08036e744",
+      "pdf_page_count": 86,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ddc46a1c1df7dc2c7f0d13c6fdad53e99b1bb1fb5186e5925e37aa2bd67dbcc7",
+      "pdf_page_count": 80,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "de42fb4207a3175c2d80338126f91fc84302bf2e8dae772ceb4ab87936c6b7e3",
+      "pdf_page_count": 109,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "dec5187849ab09991a058440507c9b512c304c7316a65fc6ef971621f4fd9226",
+      "pdf_page_count": 65,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "df587dc25ef75e52b0caf50fc8ca8acef89ceea2c6315abebc046d76057a259d",
+      "pdf_page_count": 39,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "df80106a1eeba142f3cc65869983d81f652e062e9bab83340b2a05b7c5badfcf",
+      "pdf_page_count": 63,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "e077824beb5508658080745d1b006fa660ef2e522bf689d3e23abe4bc94fdee0",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e0c23a31100328436c17f9135b049b8c56cc09457ac46a3157a670f3a3f32a8c",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "e210703305174ebdd1d18738df9c502fd6467f9e38ed965dd44957780d9c8be4",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "e22727dd127852ce5b05a91dbdebcbfff2395b291b1a1f6fde4645f92cf19402",
+      "pdf_page_count": 73,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e35c4f62485ac359b33b627119753cfda8108adc2560e198765c808770ce932e",
+      "pdf_page_count": 70,
+      "track_ids": [
+        "abo-akademi-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e4d18c84636b5438df9d224348e9c5880362949b71de1e8543526d93685f9a53",
+      "pdf_page_count": 67,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e53746b2d5845e399604ee36b44cd2c0cd69d552732415b56891c14d05e7c7a5",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "e5d7d590c9d761193f53142f3e92c9b48a57dff26ba70d2af7e13a32b311a2b5",
+      "pdf_page_count": 96,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e6a1dc49141aa8ad5becc1c32761c82dd8ab0893c3bc8e5b9073b715b6e256e8",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e759fbfa00efcc4fd9b90cc7b32cb49b6f953e84da5f79774350d5bed5d4ded8",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "e9401a0cb5bb574793b4cca1c622c882cdf3c01abcc1187ee6bfbc04ee463006",
+      "pdf_page_count": 87,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "e946cfa92a202c173bd96ee18748a3fffe141d7d79400f2746a1229a88687abe",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "eaa172d05dfb8bd334f740883589af43d6341386642d8ed13bc4e6e41a7753db",
+      "pdf_page_count": 20,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "eaa60529d7736d856c982522032ff9eedcff420f39b6590cdf139f20af61e727",
+      "pdf_page_count": 25,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "ebb718974d0d8165de20dcfdc21b48602946ff0fa9b362e904a3a5310dda4ec6",
+      "pdf_page_count": 92,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "ee4eed6f98bb98e68dff726e006083428a678c0a093165fe80b9355ef2f4cff5",
+      "pdf_page_count": 102,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "f10b68a67ab2dbc343be580605302705a6409dc8875cb94e10dcb56f7d8863ee",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "f19213254b250fab4a770d9c8903ee2e707b0d802e77b3923b2a3897e1a5e524",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "f2cda72f329056f01efa2265e0a42adddff1905b9d59f91080f8684f1e67a473",
+      "pdf_page_count": 51,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "f2d04326e6186e37e4be5ce00ebbbeddb35f5dbe17a19deb7ab4892ffa26419a",
+      "pdf_page_count": 90,
+      "track_ids": [
+        "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "f39f31c6e81c3130cee15f2ca2bd847dc1405a7021b357460747e0cac9da9350",
+      "pdf_page_count": 54,
+      "track_ids": [
+        "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "f3facabd34ca9bc7ad2dafe29e44601f3b294512274d4b6b73e59efcfcfca8e1",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "f47b1c64be36ed8bdf98cc394fe554a9082ca9ec07afeb9e792b608317bb6957",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "f7383ca025158a46bca0a5e9c7d3d226232d69d17f762380721c202064e98b66",
+      "pdf_page_count": 45,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "fafc447077ef59c0ada483053b3699fcf9a55a2b8b10b928b544927af1c32fc9",
+      "pdf_page_count": 64,
+      "track_ids": [
+        "uef-slojd"
+      ],
+      "folder_years": [
+        2026
+      ]
+    },
+    {
+      "id": "fb44d21fab525ae25815c185d99352da7072f6b0056190a7149cfba04bdd19f2",
+      "pdf_page_count": 84,
+      "track_ids": [
+        "turku-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "fe8ef1103b2c595ededa2120510d6d291760fdc48f118285cf3dc95d4c88c3eb",
+      "pdf_page_count": 28,
+      "track_ids": [
+        "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    }
+  ]
+}

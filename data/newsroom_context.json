@@ -1,0 +1,349 @@
+{
+  "checked": "2026-11-09",
+  "language": "sv",
+  "scope": "Jämförelsekontekst för nio beställda utbildningslinjer 2024–2026. Institutionsregler ersätter inte individuell dokumentverifikation.",
+  "sources": [
+    {
+      "id": "konstfack-examensordning-2026",
+      "institution": "Konstfack",
+      "track": [
+        "konstfack-bild-grundskola",
+        "konstfack-slojd-grundskola",
+        "konstfack-bild-gymnasium"
+      ],
+      "period": "Reviderad 2026-03-18, gäller från 2026-04-01. Äldre 7–9-struktur beläggs även i utbildningsplanen reviderad 2018-11-14.",
+      "claim_sv": "Konstfacks lokala regler anger två självständiga arbeten på avancerad nivå om 15 hp vardera för ämneslärarutbildningen 7–9: ett i slöjd och ett i bild. Gymnasieinriktningen har ett självständigt arbete om 30 hp på avancerad nivå i bild. För vissa studenter antagna 2012–2013 finns ett undantag med ett bildarbete om 30 hp.",
+      "url": "https://www.konstfack.se/PageFiles/145/Examensordning%20reviderad%202026-03-18.pdf",
+      "limits": "Regeln är utbildningsstruktur, inte belägg för varje enskilt arbetes poäng. Kontrollera kurskod, omslag, titelblad eller arkivpost. Samma student kan bidra med separata bild- och slöjdarbeten; antal arbeten är inte antal utexaminerade. Den tidigare 2024-12-11-filens URL gav 404 vid slutkontrollen. Den tillgängliga 2026-versionen ersätter inte belägg för varje students äldre studieplan; reglernas 7–9-struktur finns också i den äldre utbildningsplanen.",
+      "verified": true,
+      "expected_credit_by_track": {
+        "konstfack-bild-grundskola": 15,
+        "konstfack-slojd-grundskola": 15,
+        "konstfack-bild-gymnasium": 30
+      },
+      "level": "advanced",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "konstfack-7-9-plan-2018",
+      "institution": "Konstfack",
+      "track": [
+        "konstfack-bild-grundskola",
+        "konstfack-slojd-grundskola"
+      ],
+      "period": "Utbildningsplan reviderad 2018-11-14, föregångare till den aktuella examensordningen",
+      "claim_sv": "Utbildningsplanen för ämneslärarprogrammet 7–9 anger två separata självständiga arbeten på avancerad nivå: 15 hp bild och 15 hp slöjd. Detta belägger att tvåarbetsstrukturen inte bara kommer från 2026 års regler.",
+      "url": "https://www.konstfack.se/PageFiles/6751/UTBILDNINGSPLAN%207-9%20HT16-%20(reviderad%202018-11-14).pdf",
+      "limits": "En äldre plan är inte en kontroll av vilken plan varje student följde. Individuella omslag och kursuppgifter har företräde vid poängkodning.",
+      "verified": true
+    },
+    {
+      "id": "konstfack-lyb507",
+      "institution": "Konstfack",
+      "track": "konstfack-bild-gymnasium",
+      "period": "Kursplan gäller från VT 2022; användning 2024–2026 måste kontrolleras mot det enskilda arbetet",
+      "claim_sv": "LYB507 Självständigt arbete i bild omfattar 30 hp på avancerad nivå och delas i två kursdelar om 15 hp. Kursplanen förenar vetenskapliga och konstnärliga förhållningssätt.",
+      "url": "https://www.konstfack.se/PageFiles/4623/Kursplan%20LYB507%20Sj%C3%A4lvst%C3%A4ndigt%20arbete%20i%20bild.pdf",
+      "limits": "Två kursdelar är inte i sig två olika examensarbeten. Varken enbart konstnärlig gestaltning eller tvångskodning till en enda metod bör härledas från kursplanen.",
+      "verified": true
+    },
+    {
+      "id": "aalto-curriculum-2024-26",
+      "institution": "Aalto-universitetet",
+      "track": "aalto-bild",
+      "period": "Opetussuunnitelma 2024–2026",
+      "claim_sv": "Kuvataidekasvatus inom Aaltos magisterprogram i konst och media innehåller ett examensarbete om 30 studiepoäng. Ämnets fördjupade studier och lärarens pedagogiska studier ingår i examensstrukturen.",
+      "url": "https://www.aalto.fi/fi/ohjelmat/taiteen-ja-median-maisteriohjelma/opetussuunnitelma-2024-2026",
+      "limits": "Här anges examensarbetet separat från seminarie- och pedagogiska kurser. Ett enskilt arbetes poäng och utbildningstillhörighet behöver fortfarande beläggas i dess källa.",
+      "verified": true,
+      "expected_thesis_ects": 30,
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "lapland-transition-2024",
+      "institution": "Lapplands universitet",
+      "track": "lappland-bild",
+      "period": "Övergång från läroplan 2023–2024 till 2024–2027",
+      "claim_sv": "Övergångstabellen för Kuvataidekasvatus ersätter UKUV0611 Pro gradu-seminarium och avhandling, 40 studiepoäng, med UKUV0611 V24 Pro gradu-seminarium och avhandling, 30 studiepoäng.",
+      "url": "https://ulapland.fi/wp-content/uploads/sites/3/2025/05/TTK-siirtymataulukot-2024.pdf",
+      "limits": "Poängtalet avser en kombination av seminarium och avhandling. Året 2024 räcker inte för att avgöra vilken läroplan studenten följde. Lägg inte automatiskt 30 eller 40 poäng på alla Lapplandsposter.",
+      "verified": true,
+      "possible_combined_thesis_seminar_ects": [
+        30,
+        40
+      ],
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "lapland-programme-2024-27",
+      "institution": "Lapplands universitet",
+      "track": "lappland-bild",
+      "period": "Läroplan 2024–2027",
+      "claim_sv": "Det offentliga programmet för magisterexamen i bildkonstpedagogik anger Pro gradu-seminarium och avhandling om 30 studiepoäng.",
+      "url": "https://opinto-opas-lay.peppi4.lapit.csc.fi/fi/ohjelma/29337",
+      "limits": "Kombinerad kurshelhet; ska inte utan ytterligare kontroll behandlas som samma 30 poängsmått som ett examensarbete med separat seminarium.",
+      "verified": true
+    },
+    {
+      "id": "helsinki-masters-thesis",
+      "institution": "Helsingfors universitet",
+      "track": "helsingfors-slojd",
+      "period": "Offentlig universitetsinstruktion, kontrollerad 2026-11-09; inte en låst arkivversion av samtliga 2024–2026 läroplaner",
+      "claim_sv": "Helsingfors universitets allmänna instruktion anger en skriftlig magisteravhandling om 30 studiepoäng. Pararbete är möjligt endast när utbildningsprogrammets läroplan tillåter det; författarnas självständiga bidrag ska kunna bedömas.",
+      "url": "https://studies.silta.helsinki.fi/instructions/article/thesis-and-maturity-test-masters-and-licentiate-programmes",
+      "limits": "Allmän regel, inte en kontroll av varje slöjdvetenskapligt arbetes kurskod. Dagens webbversion bevisar inte vilka äldre övergångsregler varje student använde.",
+      "verified": true,
+      "expected_thesis_ects": 30,
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "helsinki-craft-programme",
+      "institution": "Helsingfors universitet",
+      "track": "helsingfors-slojd",
+      "period": "Offentlig programbeskrivning kontrollerad 2026-11-09",
+      "claim_sv": "Käsityötiede ja käsityönopettaja är en studieinriktning inom det 120 studiepoäng stora magisterprogrammet i pedagogik.",
+      "url": "https://www.helsinki.fi/fi/koulutusohjelmat/kasvatustieteiden-maisteriohjelma",
+      "limits": "Utbildningens omfattning är inte examensarbetets omfattning. Skilj universitetets slöjdvetenskapliga inriktning från en generell landskategori.",
+      "verified": true,
+      "programme_ects": 120
+    },
+    {
+      "id": "uef-craft-programme",
+      "institution": "Östra Finlands universitet",
+      "track": "uef-slojd",
+      "period": "Offentlig programbeskrivning kontrollerad 2026-11-09",
+      "claim_sv": "Käsityönopettajautbildningen i Joensuu har käsityötiede som huvudämne och leder till kandidat- och magisterexamen enligt en 3+2 årsstruktur. Innehållet omfattar både textila och tekniska material och tekniker.",
+      "url": "https://www.uef.fi/fi/koulutus/kasityonopettaja",
+      "limits": "Denna programbeskrivning fastställer inte den exakta avhandlingskursens studiepoäng för 2024–2026. Registrera enskilt poängtal som okänt tills kurskod eller arbete belägger det.",
+      "verified": true,
+      "expected_thesis_ects": null,
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "uef-faculty-thesis-2025-26",
+      "institution": "Östra Finlands universitet",
+      "track": "uef-slojd",
+      "period": "Filosofiska fakultetens studiehandbok 2025–2026",
+      "claim_sv": "På högre examensnivå krävs pro gradu i huvudämnets fördjupade studier. Pararbete eller deltagande i ett större forskningsprojekt är möjligt när läroplanen tillåter det; varje students bidrag ska kunna bedömas.",
+      "url": "https://kamu.uef.fi/tietopankki/perustutkinto-opiskelija/filosofisen-tiedekunnan-opinto-opas-2025-2026/",
+      "limits": "Fakultetens instruktion tillåter lokala preciseringar och anger här ingen verifierad generell slöjdavhandlingspoäng.",
+      "verified": true
+    },
+    {
+      "id": "turku-craft-programme",
+      "institution": "Åbo universitet",
+      "track": "turku-slojd",
+      "period": "Läroplansbeskrivning 2024–2027 i universitetets Studieinfo-post",
+      "claim_sv": "Käsityön aineenopettajan tutkinto-ohjelma i Rauma har käsityökasvatus som huvudämne. Kandidatdelen omfattar 180 och magisterdelen 120 studiepoäng; magisterexamen innehåller en pro gradu-avhandling.",
+      "url": "https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008903",
+      "limits": "Universitetet levererar programuppgifterna i den nationella portalen. Den exakta avhandlingskursens 2024–2026 poäng har inte verifierats här; använd inte programmets 120 poäng som arbetets omfattning.",
+      "verified": true,
+      "expected_thesis_ects": null,
+      "programme_ects": 120,
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "abo-craft-programme",
+      "institution": "Åbo Akademi",
+      "track": "abo-akademi-slojd",
+      "period": "Programbeskrivning med länk till Studiehandboken 2024–2027",
+      "claim_sv": "Utbildningen i slöjdvetenskap och hushållsvetenskap omfattar 180+120 studiepoäng och ges på svenska i Vasa. Slöjdvetenskap är ett eget huvudämne med forskningsbaserade studier och lärar- eller andra yrkesvägar.",
+      "url": "https://www.abo.fi/utbildningsprogram/utbildning-for-amneslarare-i-huslig-ekonomi-teknisk-slojd-eller-textilslojd/",
+      "limits": "Kursstrukturen i den dynamiska Studiehandboken kunde inte läsas i denna kontroll. Exakta avhandlingspoäng 2024–2026 lämnas okända. Svenskspråkiga avhandlingar vid Åbo Akademi är finländska, inte svenska landsposter.",
+      "verified": true,
+      "expected_thesis_ects": null,
+      "programme_ects": 120,
+      "level": "masters",
+      "individual_credit_assignment_allowed": false
+    },
+    {
+      "id": "sweden-ects-comparability",
+      "institution": "Universitetskanslersämbetet",
+      "track": "all-sweden",
+      "period": "Offentlig systembeskrivning kontrollerad 2026-11-09",
+      "claim_sv": "Ett normalt heltidsstudieår i Sverige motsvarar 60 högskolepoäng, jämförbara med 60 ECTS. Poäng kan användas som omfattningsmått men anger inte samma undersökningsdesign eller bedömningskultur.",
+      "url": "https://www.uka.se/sa-fungerar-hogskolan/hogskoleutbildningen",
+      "limits": "Jämförbar studietidsenhet är inte likvärdig innehålls- eller kvalitetsbedömning. Den sista meningen är projektets analytiska slutsats, inte en direkt formulering från UKÄ.",
+      "verified": true
+    },
+    {
+      "id": "finland-ects-unit",
+      "institution": "Jyväskylä universitet",
+      "track": "all-finland",
+      "period": "Offentlig universitetsinstruktion kontrollerad 2026-11-09",
+      "claim_sv": "En finländsk opintopiste motsvarar enECTS-poäng;60 poäng motsvarar ett heltidsstudieår.",
+      "url": "https://www.jyu.fi/en/for-students/instructions-for-bachelors-and-masters-students/completing-studies/credits-and-evaluation-of-courses",
+      "limits": "Används enbart för enhetsförklaring; Jyväskylä ingår inte som jämförelseuniversitet i det beställda materialet.",
+      "verified": true
+    },
+    {
+      "id": "sweden-qualification-types",
+      "institution": "Universitets- och högskolerådet / Studera.nu",
+      "track": "all-sweden",
+      "period": "Offentlig examensöversikt kontrollerad 2026-11-09",
+      "claim_sv": "Svensk magisterexamen, masterexamen och yrkesexamen är skilda examensformer. Ämneslärarexamen är en yrkesexamen på avancerad nivå; den bör inte automatiskt kallas svensk masterexamen.",
+      "url": "https://www.studera.nu/att-valja-utbildning/vagar/utbildningsnivaer-och-examina/",
+      "limits": "Jämför först nivå, omfattning och utbildningsändamål. Översätt inte finländsk magister och svensk magister enbart genom likadana ord.",
+      "verified": true
+    },
+    {
+      "id": "data-feminism-principles",
+      "institution": "MIT Press / Catherine D’Ignazio och Lauren F. Klein",
+      "track": "all",
+      "period": "Data Feminism 2020",
+      "claim_sv": "Data Feminism behandlar makt, kategorisering, kroppsliga erfarenheter, fler perspektiv, sammanhang och synliggörande av arbetet bakom data. Projektets nedanstående riktlinjer är en egen tillämpning, inte en validering av materialet.",
+      "url": "https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6",
+      "limits": "Ramverket ger en läsning av urvalets villkor; det avgör inte vilka enskilda avhandlingar som är feministiska.",
+      "verified": true
+    }
+  ],
+  "analysis_guidelines": [
+    {
+      "id": "country_scope",
+      "heading_sv": "Ett land är inte en skola",
+      "guideline_sv": "Sveriges del består här av Konstfack. En skillnad mellan Sverige och Finland kan därför bero på enskild skolprofil eller utbildningsmix. Skriv ”i detta material”, inte ”svenska studenter gör”.",
+      "basis": "Analytisk konsekvens av beställningens institutionsurval",
+      "source_ids": []
+    },
+    {
+      "id": "paper_unit",
+      "heading_sv": "Räkna arbeten, inte färdiga lärare",
+      "guideline_sv": "Räkna ett identifierat arbete en gång, även med flera författare, bilagor eller kopior. Konstfacks utbildning för årskurs 7–9 kan ge två ämnesarbeten per student. Visa därför inte examensarbetsantal som antal studenter eller examina.",
+      "basis": "Analytisk tillämpning av verifierad examensstruktur",
+      "source_ids": [
+        "konstfack-examensordning-2026",
+        "helsinki-masters-thesis"
+      ]
+    },
+    {
+      "id": "within_group_denominator",
+      "heading_sv": "Låt nämnaren följa urvalet",
+      "guideline_sv": "Beräkna andelar inom vald högskola, linje, ämne och år. Visa alltid antal/nämnare. Fler Konstfackslinjer eller större finländskt material ska inte i sig bli en högre metodandel.",
+      "basis": "Projektets beräkningsregel",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "track_mixture",
+      "heading_sv": "Blanda inte bort ämnena",
+      "guideline_sv": "Erbjud slöjd, bild och hela materialet som separata urval. Universitetssammanfattning ska ange vilka linjer som ingår; landssammanfattning ska ange vilka universitet som faktiskt ingår.",
+      "basis": "Projektets urvalsregel",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "credit_compatibility",
+      "heading_sv": "Kontrollera poängens innehåll",
+      "guideline_sv": "Skilj examensarbetets egna poäng från kombinerade seminariehelheter. Visa verifierad kursnivå och omfattning samt okända värden. Erbjud jämförelse med samma nivå/poäng, men gör inte fler poäng till högre kvalitet.",
+      "basis": "Analytisk konsekvens av olika kursstrukturer",
+      "source_ids": [
+        "konstfack-examensordning-2026",
+        "lapland-transition-2024",
+        "aalto-curriculum-2024-26"
+      ]
+    },
+    {
+      "id": "unknown_not_zero",
+      "heading_sv": "Saknad uppgift är ett resultat",
+      "guideline_sv": "Saknad PDF, abstrakt, kursnivå eller metoduppgift visas som okänd, inte noll. Ange textunderlag och kodningssäkerhet. Ett tillgängligt dokument i en mapp gör inte mappen till en komplett årgång.",
+      "basis": "Projektets bevis- och täckningsregel",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "language_context",
+      "heading_sv": "Språk är inte nationalitet",
+      "guideline_sv": "Land följer examensgivande institution, inte avhandlingens språk eller författarens namn. Bevara originalbegrepp tillsammans med svenska koder och synliggör översättningsarbete.",
+      "basis": "Projektets kategoriseringsregel",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "overlap",
+      "heading_sv": "En metod behöver inte tränga undan en annan",
+      "guideline_sv": "Skilj forskningsdesign, datainsamling, analys och teoretiskt perspektiv. Visa kombinationer och överlappande teman; summerade temaandelar kan överstiga 100 procent.",
+      "basis": "Projektets kodschema",
+      "source_ids": [
+        "konstfack-lyb507",
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "no_identity_inference",
+      "heading_sv": "Bedöm undersökningen, inte namnet",
+      "guideline_sv": "Härled inte kön, etnicitet eller andra identiteter från författarnamn. Analysera vilka deltagargrupper och erfarenheter studien uttryckligen handlar om, med källstöd.",
+      "basis": "Projektets analysavgränsning",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "partial_year",
+      "heading_sv": "2026 är en pågående årgång",
+      "guideline_sv": "Kontrollera insamlingsdatum och jämför likvärdiga tidsfönster. Årsantal före årets slut är en ögonblicksbild, inte en säker nedgång eller utbildningstrend.",
+      "basis": "Projektets tidsavgränsning 2024–2026",
+      "source_ids": []
+    },
+    {
+      "id": "editorial_vs_description",
+      "heading_sv": "Beskriv skillnader utan att rangordna",
+      "guideline_sv": "Metod- och temaandelar beskriver materialet. Läroplan, arbetets omfattning, pedagogiskt mål, samskrivande och källornas tillgänglighet är möjliga förklaringar, inte belagda orsaker utan vidare analys.",
+      "basis": "Projektets journalistiska tolkningsregel",
+      "source_ids": [
+        "data-feminism-principles"
+      ]
+    },
+    {
+      "id": "publish_derivatives_only",
+      "heading_sv": "Synliggör analysarbetet",
+      "guideline_sv": "Publicera bibliografiska uppgifter, kodningar, metodparafraser, sidreferenser och analys, med AI- och översättningsmärkning. Original-PDF:er och extraherad fulltext behålls lokalt enligt beställningen.",
+      "basis": "Användarens uttryckliga publiceringsavgränsning",
+      "source_ids": []
+    }
+  ],
+  "editorial_angles": [
+    {
+      "heading_sv": "Ett examensarbete är inte alltid samma enhet",
+      "summary_sv": "Konstfacks utbildning för årskurs 7–9 har två ämnesarbeten om 15 hp; gymnasieinriktningen har ett bildarbete om 30 hp. Antal avhandlingar ska därför läsas som dokument, inte som färdiga lärare.",
+      "source_ids": [
+        "konstfack-examensordning-2026"
+      ]
+    },
+    {
+      "heading_sv": "Trettiopoängsarbeten kan ha olika ramar",
+      "summary_sv": "Aalto anger ett 30 poängs examensarbete, medan Lapplands nya 30 poängskurs kombinerar seminarium och avhandling. Kursstruktur, inte bara talet, behöver följa jämförelsen.",
+      "source_ids": [
+        "aalto-curriculum-2024-26",
+        "lapland-transition-2024"
+      ]
+    },
+    {
+      "heading_sv": "Landsskillnaden kan vara en skolskillnad",
+      "summary_sv": "Svenska observationer från Konstfack ger inte ett representativt nationellt tvärsnitt. Jämför samma ämne och nivå och visa vilka linjer som faktiskt bär varje mönster.",
+      "source_ids": []
+    },
+    {
+      "heading_sv": "Likheter kräver lika noggrann läsning som skillnader",
+      "summary_sv": "Gemensamma lärarprofessionella frågor kan finnas trots olika examensbenämningar. Låt kodade teman och metodbelägg visa detta; härled inte likhet enbart ur likadana programnamn.",
+      "source_ids": [
+        "sweden-qualification-types",
+        "data-feminism-principles"
+      ]
+    }
+  ],
+  "unverified_credit_tracks": [
+    "uef-slojd",
+    "turku-slojd",
+    "abo-akademi-slojd"
+  ],
+  "record_level_rule": "credit_ects och degree_level får endast sättas som belagda när det enskilda arbetets källa eller identifierade kursplan stödjer dem; expected-värden är endast kontext."
+}

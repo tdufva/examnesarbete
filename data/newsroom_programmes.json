@@ -1,0 +1,116 @@
+{
+  "period": [
+    2024,
+    2025,
+    2026
+  ],
+  "tracks": [
+    {
+      "id": "konstfack-bild-grundskola",
+      "university": "konstfack",
+      "university_label": "Konstfack",
+      "label": "Bild · grundskolans årskurs 7–9",
+      "short_label": "Konstfack · bild 7–9",
+      "country": "Sverige",
+      "discipline": "bild",
+      "folder": "Konstfack bild grundskollärare",
+      "target": "Grundskola 7–9"
+    },
+    {
+      "id": "konstfack-slojd-grundskola",
+      "university": "konstfack",
+      "university_label": "Konstfack",
+      "label": "Slöjd · grundskolans årskurs 7–9",
+      "short_label": "Konstfack · slöjd 7–9",
+      "country": "Sverige",
+      "discipline": "slojd",
+      "folder": "Konstfack slöjd grundskola",
+      "target": "Grundskola 7–9"
+    },
+    {
+      "id": "konstfack-bild-gymnasium",
+      "university": "konstfack",
+      "university_label": "Konstfack",
+      "label": "Bild · gymnasielärare",
+      "short_label": "Konstfack · bild gymnasium",
+      "country": "Sverige",
+      "discipline": "bild",
+      "folder": "Konstfack bild gymnasielärare",
+      "target": "Gymnasium"
+    },
+    {
+      "id": "uef-slojd",
+      "university": "uef",
+      "university_label": "Östra Finlands universitet",
+      "label": "Slöjd",
+      "short_label": "Östra Finland · slöjd",
+      "country": "Finland",
+      "discipline": "slojd",
+      "folder": "Östra Finlands universitet slöjd",
+      "target": null
+    },
+    {
+      "id": "helsingfors-slojd",
+      "university": "helsingfors",
+      "university_label": "Helsingfors universitet",
+      "label": "Slöjd",
+      "short_label": "Helsingfors · slöjd",
+      "country": "Finland",
+      "discipline": "slojd",
+      "folder": "Helsingfors universitet slöjd",
+      "target": null
+    },
+    {
+      "id": "turku-slojd",
+      "university": "turku",
+      "university_label": "Åbo universitet",
+      "label": "Slöjd",
+      "short_label": "Åbo universitet · slöjd",
+      "country": "Finland",
+      "discipline": "slojd",
+      "folder": "Åbo universitet slöjd",
+      "target": null
+    },
+    {
+      "id": "abo-akademi-slojd",
+      "university": "abo-akademi",
+      "university_label": "Åbo Akademi",
+      "label": "Slöjdtema · slöjdvetenskap/pedagogik",
+      "short_label": "Åbo Akademi · slöjdtema",
+      "country": "Finland",
+      "discipline": "slojd",
+      "folder": "Åbo Akademi slöjd",
+      "target": "Grundskola 1–9 enligt urvalsbeskrivning"
+    },
+    {
+      "id": "lappland-bild",
+      "university": "lappland",
+      "university_label": "Lapplands universitet",
+      "label": "Bildkonstpedagogik",
+      "short_label": "Lappland · bild",
+      "country": "Finland",
+      "discipline": "bild",
+      "folder": "Lappi bildkonst",
+      "target": null
+    },
+    {
+      "id": "aalto-bild",
+      "university": "aalto",
+      "university_label": "Aalto-universitetet",
+      "label": "Bildkonstpedagogik",
+      "short_label": "Aalto · bild",
+      "country": "Finland",
+      "discipline": "bild",
+      "folder": "Aalto_bildkonst",
+      "target": null
+    }
+  ],
+  "selection_notes_sv": [
+    "Samlingen följer de nio levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+    "Åbo universitets medföljande urvalsbeskrivning anger öppet publicerade magisteravhandlingar 2024–2026. Flera är skrivna i par. Ett gemensamt arbete räknas som ett arbete, inte två studenter.",
+    "Åbo Akademis medföljande urvalsbeskrivning avser slöjdteman inom slöjdvetenskap eller pedagogik, med lärarbehörighet enligt beskrivningen. Dokumentet nämner 2024–2025; levererade 2026-filer ingår enligt den aktuella tidsavgränsningen men markeras separat i täckningen.",
+    "Östra Finlands universitets medföljande bibliografi listar 31 arbeten (2024: 8, 2025: 10, 2026: 13). De 20 levererade PDF-arbetena matchar bibliografin (2024: 3, 2025: 8, 2026: 9). Elva bibliografiska poster saknar PDF i denna leverans, däribland en som dokumentet markerar ”hittas inte”. De får inga metod- eller temakoder. Detta är en leveranslucka, inte ett belägg för att arbetena saknar metod eller inte är öppet tillgängliga.",
+    "Ett universitets sammanslagna resultat väger varje unikt arbete lika. Det är inte medelvärdet av dess linjer, och en institution med flera linjer kan ha en annan ämnessammansättning.",
+    "År 2026 är pågående och insamlingsdatum och filernas täckning begränsar jämförelsen. En tom mapp eller saknat år ger ingen grund att påstå att inga arbeten producerades."
+  ]
+}
