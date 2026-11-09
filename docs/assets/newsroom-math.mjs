@@ -1,3 +1,4 @@
+import {methodLayers,METHOD_FIELDS} from './method-layers.mjs?v=20261109-v2d';
 const unique=values=>[...new Set(values)];
 const rank=counts=>Object.entries(counts).map(([label,count])=>({label,count})).sort((a,b)=>b.count-a.count||a.label.localeCompare(b.label,'sv'));
 const count=values=>{const result={};for(const v of values)result[v]=(result[v]||0)+1;return result;};
@@ -7,6 +8,7 @@ export function technique(label){
  return label;
 }
 export function valuesFor(record,field){
+ if(field in METHOD_FIELDS)return methodLayers(record)[field];
  if(field==='primary_method')return [record.primary_method||'Inte fastställbar'];
  if(field==='techniques')return unique((record.methods||[]).filter(m=>['insamling','analys'].includes(m.kind)).map(m=>technique(m.label)));
  if(field==='research_settings')return unique(record.research_settings||['Inte fastställbart']);
@@ -28,7 +30,10 @@ export function selectWorks(records,tracks,filters={}){
  const eligible=new Set(matchingTracks(tracks,filters).map(t=>t.id)),groups=groupsFor(tracks,filters);
  const chosen=filters.groups===null||filters.groups===undefined?groups:groups.filter(g=>filters.groups.includes(g.id));
  const chosenTracks=new Set(chosen.flatMap(g=>g.track_ids));
+ const common=filters.balance==='common'?new Set(commonTracks(records,tracks,filters)):null;
+ const years=periodYears(filters.period);
  return records.filter(r=>{
+  if(common&&(!years.includes(r.year)||!r.track_ids.some(id=>common.has(id)&&eligible.has(id)&&chosenTracks.has(id))))return false;
   if(filters.year&&filters.year!=='all'&&r.year!==Number(filters.year))return false;
   if(filters.degree&&filters.degree!=='all'){
    if(filters.degree==='advanced'&&!['master','advanced_professional'].includes(r.degree_level))return false;
@@ -39,6 +44,21 @@ export function selectWorks(records,tracks,filters={}){
   }
   return r.track_ids.some(id=>eligible.has(id)&&chosenTracks.has(id));
  });
+}
+export function periodYears(period='2024-2025'){
+ const choices={'2024-2025':[2024,2025],'2025-2026':[2025,2026],'2024-2026':[2024,2025,2026]};return choices[period]||choices['2024-2025'];
+}
+export function commonTracks(records,tracks,filters={}){
+ const base=selectWorks(records,tracks,{...filters,balance:'all',year:'all'}),years=periodYears(filters.period);
+ const chosen=groupsFor(tracks,filters).filter(g=>filters.groups==null||filters.groups.includes(g.id)),ids=new Set(chosen.flatMap(g=>g.track_ids));
+ return matchingTracks(tracks,filters).filter(t=>ids.has(t.id)&&years.every(y=>base.some(r=>r.year===y&&r.track_ids.includes(t.id)))).map(t=>t.id);
+}
+export function themeMethodMatrix(records,field='collection',normalization='theme',limit=8){
+ const columns=aggregateWorks(records,field).ranking.slice(0,limit||undefined);
+ const rows=aggregateWorks(records,'themes').ranking.map(theme=>{
+  const work=records.filter(r=>r.themes.includes(theme.label)),denominator=normalization==='all'?records.length:work.length;
+  return {...theme,denominator,cells:columns.map(column=>{const count=work.filter(r=>valuesFor(r,field).includes(column.label)).length;return {category:column.label,count,denominator,percent:denominator?100*count/denominator:null};})};
+ });return {columns,rows,total:records.length,field,normalization};
 }
 export function aggregateWorks(records,field='primary_method'){
  const knownAuthors=records.filter(r=>Number.isInteger(r.author_count));

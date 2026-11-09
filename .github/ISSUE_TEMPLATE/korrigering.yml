@@ -2,7 +2,7 @@ name: Korrigering av ett examensarbete
 description: Föreslå en rättelse av titel, översättning, nyckelord eller metodkodning.
 title: "Korrigering: "
 body:
-  - type: input
+  - type: textarea
     id: source
     attributes:
       label: Arbete eller arkivlänk
@@ -16,6 +16,8 @@ body:
       options:
         - Översättning
         - Metodklassificering
+        - Metodens visningslager
+        - Urval eller årstillhörighet
         - Temakodning
         - Bibliografisk uppgift
         - Tillgång till PDF

@@ -3,7 +3,7 @@
 Svensk analyswebbplats med tre delar:
 
 1. **[Analys 2024–2026](https://tdufva.github.io/examnesarbete/)** är startsidan: 270 arbeten, sju lärosäten och nio utbildningslinjer. Jämför metoder, teman, forskningsmiljöer och arbetsformer per universitet, linje, land, ämne och år.
-2. **[Newsroom](https://tdufva.github.io/examnesarbete/newsroom.html)** lyfter fram beskrivande insikter för hela perioden eller ett enskilt år. Bild och slöjd kan läsas tillsammans, var för sig eller sida vid sida. Nämnare, årgångarnas sammansättning, primärdesigner och insamlings-/analysmetoder hålls synliga.
+2. **[Newsroom](https://tdufva.github.io/examnesarbete/newsroom.html)** lyfter fram beskrivande insikter för hela perioden eller ett enskilt år. Bild och slöjd kan läsas tillsammans, var för sig eller sida vid sida. Nämnare, årgångarnas sammansättning, forskningsansatser, upplägg, insamling och analys hålls synliga.
 3. **[Extra Aalto/Lappland 2007–2026](https://tdufva.github.io/examnesarbete/historik.html)** är den separata historiska fördjupningen. Historiska data och textkodning är oförändrade.
 
 Den gamla katalogen har tagits bort från webbgränssnittet. `analys.html` leder till startsidan; äldre datafiler bevaras som dokumentation av tidigare urval. Inga PDF:er eller fulltexter återpubliceras. Webbplatsens materialbegränsningar och de olika samlingarnas kodningssätt beskrivs nedan.
@@ -150,7 +150,7 @@ Råa hämtningar och kontrollerade PDF-filer i `data/history_raw/` publiceras in
 
 277 levererade filer motsvarar 276 byte-unika PDF-filer. Två arbeten har separata PDF-delar och räknas en gång, vilket ger 274 arbetskandidater. Tre Konstfack-arbeten har källår 2018 eller 2023 och utesluts från perioden. Ett arbete hör uttryckligen till en annan masterutbildning och hålls utanför de nio linjernas nämnare, med analysreferatet kvar i granskningen. Sju källstödda korrigeringar av linjetillhörighet redovisas öppet. Källår används före mappår. Leveransen innehåller inga Aalto-, Lappland- eller Konstfack-arbeten från 2026; detta betyder inte att inga sådana arbeten finns.
 
-Jämförelsen kan grupperas per lärosäte, linje eller landsurval och begränsas till bild, slöjd, år, land, nivå och individuellt verifierade poäng. Ett lärosätes sammanslagna andel räknar unika arbeten, inte ett ovägt medel av linjernas procent. Nämnarna visas tillsammans med andelar och antal, tomma nämnare är streck och överlappande teman kan summera till mer än 100 %. Diagram har exakta datatabeller, gemensam skala för små årsgrafer och stöd för mobil. Automatiska redaktionella texter följer urvalet. Förändringstexten jämför 2024–2025 endast där båda grupperna har minst fem arbeten; det pågående året 2026 visas utan långsiktiga trendanspråk.
+Jämförelsen kan grupperas per lärosäte, linje eller landsurval och begränsas till bild, slöjd, år, land, nivå och individuellt verifierade poäng. Ett lärosätes sammanslagna andel räknar unika arbeten, inte ett ovägt medel av linjernas procent. Nämnarna visas tillsammans med andelar och antal, tomma nämnare är streck och överlappande teman kan summera till mer än 100 %. Diagram har exakta datatabeller, gemensam skala för små årsgrafer och stöd för mobil. Frågestyrda redaktionella texter, dynamiska nyckeltal, exempel och nyanserande motexempel följer urvalet. År 2026 visas som pågående utan långsiktiga trendanspråk.
 
 Jämförbarhet behandlas som en del av analysen: Konstfacks avancerade yrkesexamen skiljs från generell masterexamen, en students separata ämnesarbeten från antal utexaminerade, och enbart avhandlingspoäng från kombinerat seminarium och avhandling. En svensk institution och sex finska möjliggör inte slutsatser om nationell kvalitet. Officiella utbildningskällor och deras tidsbegränsningar visas. Den medföljande UEF-bibliografin listar 31 arbeten men leveransen innehåller 20 av dem; elva textluckor ges inga innehållskoder.
 
@@ -167,3 +167,23 @@ node scripts/check_newsroom.mjs
 ```
 
 Källor för bygget: `data/newsroom_annotations_*.json`, `data/newsroom_programmes.json`, `data/newsroom_context.json` och `data/newsroom_manifest.json`. Manifestet innehåller filhashar, grupper, mappår, sidantal och filräkning, inga filvägar eller källtexter. Resultatet är `docs/data/newsroom.json` och `data/newsroom_build_report.json`. Förberedelseskripten kräver den privata leveransen; de behövs inte för att reproducera analysen. `build_newsroom.py --refresh-manifest` uppdaterar manifestet uttryckligen från den lokala extraktionen.
+
+
+## Utvidgad analys och frågestyrd Newsroom
+
+Källannoteringarna och eventuell granskningsstatus är oförändrade. Ingen ny oberoende verifiering har tillförts. Denna version förbättrar visning och analys av det befintliga materialet:
+
+- Täckningstabellen visar linjer × år, aktuella arbeten, total leverans och filer efter mappår. ”Samma linjer varje år” kräver minst ett arbete per år i vald period efter övriga ämnes-, grupp-, nivå- och poängfilter. Det ger 226 arbeten för 2024–2025, 86 för 2025–2026 och 116 för 2024–2026 i grundurvalet. Linjerna är gemensamma; personer och årgångsstorlekar behöver inte vara det.
+- `docs/assets/method-layers.mjs` grupperar befintliga etiketter i fyra överlappande visningslager: ansats, upplägg, insamling och analys. Primärkoden är bevarad för spårbarhet, men intervjuer och enkäter tvingas inte till upplägg. Perspektiv blir inte automatiskt metoder. Saknat lager får en synlig kategori och ersätts inte med en gissning. Versionsnummer och kodregler är offentliga.
+- Matrisen korsar tematisk kodning med ett valt metodlager. Nämnaren är valbar: arbeten med radens tema eller hela urvalet. Varje cell innehåller antal, nämnare och andel; en cell med träffar öppnar motsvarande arbeten. ”Alla” visar även små metodkategorier. Källistan och dess urval kan delas via URL.
+- Jämförelse och matris kan laddas som PNG med urval, nämnare och metodnot samt som CSV. Bilderna skapas lokalt i webbläsaren och kan förhandsgranskas före separat sparande. En kompakt filterrad följer analysen vid rullning.
+- `data/newsroom_editorial.json` och den publicerade `docs/data/editorial.json` innehåller tre frågestyrda texter om hållbarhet, eget görande och lärmiljöer. Befintliga referat och metodbelägg ligger bakom exemplen. Statistiken räknas från aktuellt år/ämne; exempel utanför urvalet döljs. Konstnärlig komponent tas inte som belägg för att forskarens eget arbete är material, och ”Annat” räknas inte som säkert utanför skolan.
+- Fem nischingångar använder öppet angivna titelord. Träffarna räknas i aktuellt urval och beskriver inte ämnenas sällsynthet i all forskning. Arbetsbundna rättelselänkar förifyller titel, offentlig källhänvisning och ID i GitHub-formuläret. Besökaren granskar och skickar själv; inga ärenden skapas automatiskt.
+
+Ytterligare kontroller:
+
+```sh
+node scripts/check_analysis_v2.mjs
+```
+
+Kontrollerna omfattar gemensamma linjer, korsade filter, metodpluralitet, saknade lager, matrisnämnare, filtrerade redaktionella exempel, motexempel, nischsökningar, CSV-format och arbetsbundna rättelseutkast. Den historiska datamängden och dess beräkningskod ändras inte.

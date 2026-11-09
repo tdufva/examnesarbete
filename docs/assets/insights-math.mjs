@@ -1,16 +1,17 @@
-import {selectWorks,aggregateWorks,sharedAndDifferent,groupsFor} from './newsroom-math.mjs';
+import {selectWorks,aggregateWorks,sharedAndDifferent,groupsFor} from './newsroom-math.mjs?v=20261109-v2d';
 
-export function insightScope(records,tracks,discipline='all',year='all'){
- return selectWorks(records,tracks,{discipline,year,groupBy:'university',groups:null});
+export function insightScope(records,tracks,discipline='all',year='all',options={}){
+ return selectWorks(records,tracks,{...options,discipline,year,groupBy:'university',groups:null});
 }
-export function describeInsight(records,tracks,discipline='all',year='all'){
- const works=insightScope(records,tracks,discipline,year),filters={discipline,year,groupBy:'university',groups:null};
+export function describeInsight(records,tracks,discipline='all',year='all',options={}){
+ const works=insightScope(records,tracks,discipline,year,options),filters={...options,discipline,year,groupBy:'university',groups:null};
  return {works,total:works.length,designs:aggregateWorks(works,'primary_method'),themes:aggregateWorks(works,'themes'),techniques:aggregateWorks(works,'techniques'),settings:aggregateWorks(works,'research_settings'),reading:sharedAndDifferent(works,tracks,filters,'themes'),universities:groupsFor(tracks,filters).filter(g=>works.some(r=>r.track_ids.some(id=>g.track_ids.includes(id)))).length};
 }
-export function themeShift(records,tracks,discipline='all',year='all'){
- const endYear=year==='all'?2025:Number(year),startYear=endYear-1;
+export function themeShift(records,tracks,discipline='all',year='all',options={}){
+ const period=(options.period||'2024-2025').split('-').map(Number);
+ const endYear=year==='all'?(options.balance==='common'?period[1]:2025):Number(year),startYear=year==='all'&&options.balance==='common'?period[0]:endYear-1;
  if(startYear<2024)return null;
- const start=insightScope(records,tracks,discipline,String(startYear)),end=insightScope(records,tracks,discipline,String(endYear));
+ const start=insightScope(records,tracks,discipline,String(startYear),options),end=insightScope(records,tracks,discipline,String(endYear),options);
  if(start.length<5||end.length<5)return null;
  const labels=aggregateWorks([...start,...end],'themes').ranking.map(r=>r.label);
  const changes=labels.map(label=>{

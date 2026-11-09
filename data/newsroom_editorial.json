@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "version": "2026-11-09-editorial-1",
+    "source": "docs/data/newsroom.json",
+    "scope_sv": "Frågestyrda redaktionella läsningar av det levererade urvalet 2024–2026. Befintliga AI-assisterade referat och metodparafraser har lästs. Ingen ny PDF-granskning eller oberoende dubbelkodning påstås.",
+    "numbers_sv": "Inga fasta jämförelsetal anges i introduktionerna. Nämnare och exempel behöver avgränsas dynamiskt efter år och ämnesval.",
+    "rarity_sv": "Smala titelord används som transparenta ämnesingångar. En liten sökträffmängd är inte ett belägg för nationell eller internationell sällsynthet."
+  },
+  "articles": [
+    {
+      "id": "hallbarhetens-betydelser",
+      "title_sv": "Vad får hållbarhet betyda i bild och slöjd?",
+      "question_sv": "Hur möts konsumtion, omsorg, material och relationen till naturen?",
+      "intro_sv": "Hållbarhet kan undersökas som en fråga om vad vi köper och reparerar, men också om hur vi uppfattar material, andra arter och vår plats i omgivningen. Ämneskoderna hjälper oss att urskilja dessa betoningar utan att göra dem till fasta gränser mellan bild och slöjd. De konkreta exemplen visar både konsumtionskritisk konsthistoria och slöjdformgivares naturrelationer. I andra texter blir lagning en omsorgshandling eller ett material ett föremål för tekniska och etiska prövningar. En läsning behöver därför följa vad författaren faktiskt undersöker: uttryckta värderingar, en skapande process eller uppmätta egenskaper. En hållbarhetsavsikt är inte i sig ett belägg för minskad miljöpåverkan.",
+      "themes": [
+        "Hållbarhet och konsumtion",
+        "Natur och ekologisk hållbarhet"
+      ],
+      "method_hints": [
+        "Intervjuer och fokusgrupper",
+        "Innehållsanalys",
+        "Material Driven Design",
+        "Konstnärlig forskning",
+        "Fenomenografisk ansats"
+      ],
+      "stat_plan_sv": "Visa de två överlappande temakodernas antal och andelar per bild/slöjd i aktuellt årsurval, även deras överlapp. Koderna beskriver ämnesbetoning, inte ekologisk effekt. År 2026 saknas bildtexter i leveransen.",
+      "evidence": [
+        {
+          "record_id": "9064ecfbb7add9e920bda49ff9c44a68beece90e13e103c0e69f38a38c2220d0",
+          "original_title": "Rakkaudella sinulle: Vaatteen korjaamisen merkityksellisyys parisuhteen kontekstissa",
+          "title_sv": "Med kärlek till dig: Klädlagningens betydelse i en parrelation",
+          "year": 2026,
+          "role": "example",
+          "commentary_sv": "Lagning av en partners jacka behandlas som ett samspel mellan omsorg, förväntningar och material. Konsumtionens livslängdsfråga får här en relationell och självbiografisk form.",
+          "limitation_sv": "Arbetet beskriver en specifik reparationsprocess och mäter inte plaggets faktiska miljöeffekt."
+        },
+        {
+          "record_id": "6c3c7bbae64a11523f8cb2bf790847cc9313efd9fc3e5bcd2b749c1b8454bc83",
+          "original_title": "Käsityönopettajaopiskelijoiden käsityksiä kestävän kehityksen opettamisesta käsityön oppiaineessa",
+          "title_sv": "Slöjdlärarstuderandes uppfattningar om undervisning i hållbar utveckling i slöjdämnet",
+          "year": 2026,
+          "role": "example",
+          "commentary_sv": "Slöjdlärarstudenters essäer lyfter särskilt ekologiska och ekonomiska perspektiv, återbruk och ansvarsfull konsumtion. Texten öppnar samtidigt för sociala och kulturella dimensioner.",
+          "limitation_sv": "Studenternas uttryckta uppfattningar är inte en prövning av deras genomförda undervisning."
+        },
+        {
+          "record_id": "54a4cb16d4b87d21301c20eb44dc9c95289328f139271bf64991036018484b01",
+          "original_title": "Palsta87 – Puutarhan kompostoiva kartoittaminen kokeellisen luonnonvärjäyksen ja kirjonnan keinoin",
+          "title_sv": "Palsta87 – Komposterande kartläggning av trädgården genom experimentell växtfärgning och broderi",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "Växtfärgning och broderi används för att utforska trädgårdsrelationer, omsorg och långsamt vetande. Materialpraktik och ekologisk relation vävs samman.",
+          "limitation_sv": "Det tidigare korta referatet och metodparafraserna stöder upplägget men preciserar inte alla resultat."
+        },
+        {
+          "record_id": "a6109a27d5630e816937253dbc8f43cda277900fa874ce8b467a26ce785b2371",
+          "original_title": "Länsimaisen kuvataiteen historian, kuluttajuuden historian ja luontosuhteen kolmiyhteys: Esimerkki  länsimaisen kuvataiteen historian eko- / biosentrisestä luennasta",
+          "title_sv": "Treklangen mellan den västerländska bildkonstens historia, konsumtionens historia och relationen till naturen: Ett exempel på en eko-/biocentrisk läsning av den västerländska bildkonstens historia",
+          "year": 2025,
+          "role": "counterexample",
+          "commentary_sv": "Konsumtion är även en bildkonstpedagogisk fråga: västerländsk konsthistoria läses genom konsumtion, människocentrering och synen på andra arter. Detta bryter en enkel uppdelning där bara slöjd skulle behandla konsumtion.",
+          "limitation_sv": "Studien är en avgränsad konsthistorisk syntes, inte en heltäckande beskrivning av västerländsk konst."
+        },
+        {
+          "record_id": "13380cc84f7b160ca41791d0c834ecba80d64016757392afb7caf2839d805acd",
+          "original_title": "Luonnonväriaineet suunnittelun käynnistäjänä: Käsityömuotoilijoiden näkemyksiä luonnonväriaineilla työskentelystä",
+          "title_sv": "Naturfärgämnen som utgångspunkt för formgivning: Slöjdformgivares syn på arbete med naturfärgämnen",
+          "year": 2024,
+          "role": "counterexample",
+          "commentary_sv": "Slöjdformgivare beskriver naturfärgämnen som en väg till närmare naturrelationer och ansvarstagande. Naturrelationen är alltså också ett explicit ämne i slöjdtexter.",
+          "limitation_sv": "Intervjuerna visar formgivares perspektiv; färgämnenas livscykelpåverkan prövas inte."
+        },
+        {
+          "record_id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
+          "original_title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+          "title_sv": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+          "year": 2024,
+          "role": "counterexample",
+          "commentary_sv": "Bioplaststudien prövar recept och textila tekniker men ifrågasätter samtidigt att ett biobaserat material automatiskt är miljövänligt. Det ger motstånd mot en enkel berättelse om gröna material.",
+          "limitation_sv": "Försöken omfattar valda recept och ingen livscykelanalys fastställer miljöfördelar."
+        }
+      ]
+    },
+    {
+      "id": "eget-gorande-som-kunskap",
+      "title_sv": "När blir det egna görandet forskningsmaterial?",
+      "question_sv": "Vilka kunskaper kan processer, dagböcker, föremål och konstnärligt arbete bära?",
+      "intro_sv": "Det egna görandet kan bära kunskap om lärande, material och relationer, men det får olika metodiska roller i olika arbeten. En processdagbok kan användas i autoetnografi, medan fotografier, frottage eller broderi kan delta i en postkvalitativ eller konstnärlig undersökning. I materialdriven design prövas dessutom tillverkning och användning genom upprepade försök. Att en text innehåller personlig erfarenhet eller konst innebär därför inte automatiskt samma forskningsdesign. De här exemplen visar hur handling, dokumentation och tolkning kopplas samman. Det avgörande är hur processen görs möjlig att följa och vad den kan ge kunskap om. En situerad erfarenhet kan vara analytiskt betydelsefull utan att representera alla lärare, konstnärer eller slöjdare.",
+      "themes": [
+        "Konstnärlig praktik",
+        "Kropp, sinnen och materialitet"
+      ],
+      "method_hints": [
+        "Konstbaserad autoetnografi",
+        "Postkvalitativ undersökning",
+        "Processportföljer och reflektioner",
+        "Forskningsdagbok",
+        "Material Driven Design"
+      ],
+      "stat_plan_sv": "Jämför explicit kodade arbetssätt, som autoetnografi, dagböcker och konstnärligt arbete som material. artistic_component=true visar en gestaltande komponent men bevisar inte att forskarens eget görande är material; etiketten får inte användas som automatiskt mått på just eget görande.",
+      "evidence": [
+        {
+          "record_id": "4e983155e883d0d1f0686ca59ea16a015c7fb8238f5d83e942b52df0f5f8fd22",
+          "original_title": "Käsityö- ja kuvataideprosesseissa rakentuva opettajan osaaminen: Autobiografinen tutkielma opettajaopintojen ajalta",
+          "title_sv": "Lärarkompetens som utvecklas i slöjd- och bildkonstprocesser: En självbiografisk studie från lärarutbildningen",
+          "year": 2026,
+          "role": "example",
+          "commentary_sv": "Egna slöjd- och bildkonstprocesser från lärarutbildningen bildar material genom portföljer och reflektioner. Den självbiografiska läsningen behandlar hur professionellt kunnande växer fram.",
+          "limitation_sv": "Arbetet är ett inifrånsperspektiv och inte en jämförande utvärdering av de två universiteten."
+        },
+        {
+          "record_id": "54a4cb16d4b87d21301c20eb44dc9c95289328f139271bf64991036018484b01",
+          "original_title": "Palsta87 – Puutarhan kompostoiva kartoittaminen kokeellisen luonnonvärjäyksen ja kirjonnan keinoin",
+          "title_sv": "Palsta87 – Komposterande kartläggning av trädgården genom experimentell växtfärgning och broderi",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "Färgning, skrivande och broderi fungerar både i materialproduktionen och i bearbetningen av trädgårdserfarenheter. Uppdelningen mellan att samla och analysera material blir här mindre skarp.",
+          "limitation_sv": "Källstödet består av den tidigare abstraktläsningen och dess metodparafraser."
+        },
+        {
+          "record_id": "0d44f179a487451b04c6b81a8bd56f5ce85e2ff5f2321436e8447a06876708ef",
+          "original_title": "Kalliokiipeily Ihmisen jälkeen: Erään ympäristösuhteen työstöä",
+          "title_sv": "Klippklättring efter Människan: Att bearbeta en miljörelation",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "Klippklättringsexperiment, dagbok, frottage och fotografier ingår i en uttryckligt postkvalitativ undersökning av miljörelationer. Görandet kopplas till ett tänkande tillsammans med teori.",
+          "limitation_sv": "Upplägget beskriver situerade forskningshändelser, inte effekter av klättring för en representativ grupp."
+        },
+        {
+          "record_id": "2326452733e454da66ba7362a7bf79c0a022ea6a40c6d69e5545e4b8d198bd6b",
+          "original_title": "Taidon kehittyminen informaalissa oppimisprosessissa – Taideperustainen autoetnografinen tutkimus työskentelystä lasin ja puun kanssa",
+          "title_sv": "Färdighetsutveckling i en informell lärprocess – En konstbaserad autoetnografisk studie av arbete med glas och trä",
+          "year": 2024,
+          "role": "example",
+          "commentary_sv": "Egen inlärning av glasblåsning och träsvarvning följs med forskningsdagbok i en konstbaserad autoetnografi. Övning och samspelet mellan hand och material görs till undersökningens fokus.",
+          "limitation_sv": "Det tillgängliga referatet ger begränsat stöd för detaljerade resultat eller överföring till andra lärande."
+        },
+        {
+          "record_id": "dd52c4b4fae42735562658d0f12e14943e8067d7c83768bcd21b6c0d01dacb5c",
+          "original_title": "Aistivoimaisen elämän puolesta",
+          "title_sv": "För ett sinnligt liv",
+          "year": 2025,
+          "role": "counterexample",
+          "commentary_sv": "Ett eget handarbetsprojekt utgör material i konstnärlig forskning. Metodnoteringen avstår uttryckligen från att automatiskt kalla det autoetnografi; personligt material och autoetnografisk design är skilda saker.",
+          "limitation_sv": "En separat namngiven analysmetod framgår inte av det tidigare abstraktunderlaget."
+        },
+        {
+          "record_id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
+          "original_title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+          "title_sv": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+          "year": 2024,
+          "role": "counterexample",
+          "commentary_sv": "Det egna tillverkandet kan också vara materialutveckling: bioplastrecept justeras iterativt och prövas av användare. Här får praktiken en materialdriven, teknisk och etisk funktion.",
+          "limitation_sv": "Materialdriven design ska inte omtolkas till en konstnärlig eller autoetnografisk design bara därför att görande ingår."
+        }
+      ]
+    },
+    {
+      "id": "larande-bortom-klassrummet",
+      "title_sv": "Var sker lärandet när klassrummet inte är utgångspunkten?",
+      "question_sv": "Hur skapas kunskap i fritid, omsorg, offentlig miljö och utbildningens mellanrum?",
+      "intro_sv": "Bild och slöjd framträder i samlingen även som verksamheter i fritid, omsorg och offentlig miljö. Där kan lärandet handla om att hålla en tradition levande, få tillgång till konst, delta i en gemenskap eller forma ett konstnärskap. Miljön ändrar vilka frågor och deltagarröster som blir möjliga. En intervju med en handledare ger exempelvis en annan kunskapsposition än en deltagares egen berättelse. Samtidigt behöver plats och utbildningsform skiljas åt: ett museibesök kan vara skolundervisning och ett universitets mellanrum en del av högre utbildning. Därför räcker inte adressen utanför skolan för att definiera informellt lärande. Exemplen används för att synliggöra dessa övergångar och för vem verksamheten görs tillgänglig.",
+      "themes": [
+        "Undervisning och lärande",
+        "Samarbete och gemenskap"
+      ],
+      "method_hints": [
+        "Intervjuer och fokusgrupper",
+        "Deltagande observation",
+        "Konstbaserad aktionsforskning",
+        "Diffraktiv analys",
+        "Vandringar och interventioner"
+      ],
+      "stat_plan_sv": "Redovisa uttryckligt kodade forskningsmiljöer separat, särskilt Fritid och hobby och Yrkesliv. Annat får inte räknas som säkert utanför skolan. Grundskola + Annat kan avse ett skolbesök i en annan miljö. Skilj faktisk forskningskontext från programmets behörighetsinriktning.",
+      "evidence": [
+        {
+          "record_id": "f10b68a67ab2dbc343be580605302705a6409dc8875cb94e10dcb56f7d8863ee",
+          "original_title": "Veneenveistokurssi kulttuuriperinnön ylläpitäjänä Pohjois-Pohjanmaalla",
+          "title_sv": "En båtbyggarkurs som upprätthållare av kulturarv i Norra Österbotten",
+          "year": 2026,
+          "role": "example",
+          "commentary_sv": "En båtbyggarkurs behandlas som en plats för gemensamt lärande och vidareförmedling av regionalt hantverkskunnande. Kursdeltagares och en lärares berättelser gör traditionens villkor synliga.",
+          "limitation_sv": "Materialet representerar erfarenheter i en befintlig kurs och visar inte vilka personer som saknar tillgång till den."
+        },
+        {
+          "record_id": "ebb718974d0d8165de20dcfdc21b48602946ff0fa9b362e904a3a5310dda4ec6",
+          "original_title": "Hyvinvointia käsitöistä: Käsityön merkityksiä ikäihmisille käsityöpainotteisessa kulttuuritoiminnassa",
+          "title_sv": "Välbefinnande genom slöjd: Slöjdens betydelser för äldre i slöjdinriktad kulturverksamhet",
+          "year": 2024,
+          "role": "example",
+          "commentary_sv": "Slöjd i äldreverksamhet undersöks genom handledares intervjuer. Skapandeglädje, funktion och social gemenskap framträder som betydelsefulla delar av omsorgens vardag.",
+          "limitation_sv": "De äldres erfarenheter återges genom personalens perspektiv, inte genom direkta intervjuer med de äldre."
+        },
+        {
+          "record_id": "cca78ce781cd3c04d8676a792979bf77eaa12a39cfc4fec3fac537ea5022c8c8",
+          "original_title": "Konst i rörelse – Guidade visningar som didaktiskt verktyg i Stockholms tunnelbana",
+          "title_sv": "Konst i rörelse – Guidade visningar som didaktiskt verktyg i Stockholms tunnelbana",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "En konstvisning i tunnelbanan blir fält för sinnlig och visuell etnografi. Rörelse, plats och konstverk hjälper till att formulera vad en bilddidaktisk lärmiljö kan vara.",
+          "limitation_sv": "Studien gäller en konkret visning och återbesök; undervisningseffekter hos elever mäts inte."
+        },
+        {
+          "record_id": "36bd4aac181faa771d19d5689e8badd029ec5e7025e7d8e557ee79f902993d11",
+          "original_title": "“Minusta on tullut taiteilija” : hyvinvointia ja osallisuutta taidetoiminnasta Lapin Muistiyhdistyksellä",
+          "title_sv": "”Jag har blivit konstnär” : välbefinnande och delaktighet genom konstverksamhet vid Lapin Muistiyhdistys",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "Konstverksamhet för personer i minnesrehabilitering och närstående undersöker delaktighet och konstnärskap. Löpande reflektion används för att anpassa verkstäderna.",
+          "limitation_sv": "Det tidigare abstraktunderlaget namnger inte samtliga insamlingsverktyg eller en särskild analysmetod."
+        },
+        {
+          "record_id": "ac864330be6d75b46832dc3d8fe90d83820dcb75267eaa1378147b23e8390b3d",
+          "original_title": "”Ku ei osa välttämättä menis ite sinne museoon, nii sitten koulun kanssa käydään edes kerran elämässä.” : kulttuurisen osallisuuden ilmeneminen museotyöpajassa",
+          "title_sv": "”För en del skulle kanske inte gå till museet själva, så då går man åtminstone en gång i livet med skolan.” : kulturell delaktighet i en museiverkstad",
+          "year": 2025,
+          "role": "counterexample",
+          "commentary_sv": "Museiverkstaden sker utanför skolbyggnaden men deltagarna är högstadieelever på ett skolanknutet besök. Exemplet visar varför en annan fysisk miljö inte automatiskt betyder informell utbildning.",
+          "limitation_sv": "Fokus ligger på elevers kulturella delaktighet i en avgränsad fallstudie."
+        },
+        {
+          "record_id": "646b4b0f0f008b9db8f5b895a3c193f3fa0948966248b972137adc29ecde30b2",
+          "original_title": "Liikkuvat penkit, keittiöt ja keppikeräelmät : Välinen tiedonmuodostuminen ja yliopiston temppuileva sosiaalinen muoto",
+          "title_sv": "Bänkar, kök och pinnsamlingar i rörelse: Kunskapsbildning i mellanrum och universitetets tricksande sociala form",
+          "year": 2025,
+          "role": "counterexample",
+          "commentary_sv": "Vandringar och interventioner undersöker informellt lärande och sociala rum inne i universitetet. Informalitet och institutionsanknytning kan alltså finnas samtidigt.",
+          "limitation_sv": "Interventioner gör inte i sig upplägget till aktionsforskning; abstraktet anger konstbaserad forskning."
+        }
+      ]
+    }
+  ],
+  "rare_spotlights": [
+    {
+      "id": "taxidermi-och-serier",
+      "record_id": "629499a69153232aaec00fbdf9303c181e42b6cda0ce20a81895368c0f7e8594",
+      "original_title": "Täytetty : taksidermian pedagogisesta roolista kerätystä tiedosta informatiiviseksi sarjakuvaksi.",
+      "title_sv": "Uppstoppad : från insamlad kunskap om taxidermins pedagogiska roll till en informativ tecknad serie.",
+      "year": 2025,
+      "analysis_sv": "Taxidermi kan öppna en oväntad fråga om hur kunskap förmedlas genom bilder och föremål. I detta arbete förenas expertkontakter, dokument och museierfarenheter med framställningen av en informativ serie. Det konstnärliga arbetet blir därmed också ett pedagogiskt översättningsarbete. Den tidigare metodläsningen bygger på abstraktet och behandlar expertkontakter som informationskällor, utan att automatiskt kalla dem forskningsintervjuer. Nischen visar en möjlig mötesplats mellan naturhistoriskt material och bildpedagogik.",
+      "rarity_basis_sv": "Nischen avgränsas av orden taxidermi/taksidermi i titeln. En liten träffmängd gäller denna leverans och dessa ord, inte ämnets förekomst i all forskning.",
+      "title_search_terms": [
+        "taxiderm",
+        "taksiderm"
+      ]
+    },
+    {
+      "id": "barsjalar-som-kulturhistoria",
+      "record_id": "bc63c2c83ea3d8a0b736047d178fd871f5311b70d1024f4a258f8c13b254a47c",
+      "original_title": "Kantoliinat ja liinailukulttuurin kehittyminen Suomessa Vauva- ja Taito-lehtien aineistossa vuosina 1992–2020",
+      "title_sv": "Bärsjalar och bärsjalskulturens utveckling i Finland i material från tidskrifterna Vauva och Taito 1992–2020",
+      "year": 2026,
+      "analysis_sv": "En bärsjal är samtidigt ett textilt föremål, en inlärd färdighet och en omsorgspraktik. Den här studien följer hur sjalar och bärande framställs i två tidskrifter över tid. Dokument, bilder och teman gör förändrade representationer möjliga att undersöka. Nischen flyttar uppmärksamheten från ett skolmoment till hur vardagskunnande synliggörs i medier. Tidskrifternas ökade synlighet för ett fenomen är dock inte samma sak som att dess förekomst bland familjer har uppmätts.",
+      "rarity_basis_sv": "Sökningen gäller titlar med bärsjal eller kantoliin och kan även fånga en annan typ av studie om sjalbindning. Rariteten beror på vald benämning och levererat urval.",
+      "title_search_terms": [
+        "bärsjal",
+        "kantoliin"
+      ]
+    },
+    {
+      "id": "hundklader-och-omsorg",
+      "record_id": "6c59331145453c9a16f32799ed8b62156d0bd3f5959d1ef96e0d298b0b9bbc7c",
+      "original_title": "Koiranvaatteiden valintaperusteet Suomessa",
+      "title_sv": "Grunder för val av hundkläder i Finland",
+      "year": 2026,
+      "analysis_sv": "Hundkläder gör gränsen mellan funktion, estetik och omsorg konkret. Studien använder valda webbenkätsvar för att undersöka hur hundägare motiverar klädval. Skydd och praktisk användning får stor betydelse, samtidigt som estetiska önskemål överlappar dem. Frågan visar att slöjdrelaterad konsumtion också kan röra relationer mellan människor och andra djur. Materialet berättar om ägares bedömningar; det prövar varken djurens välbefinnande oberoende eller representativa marknadsandelar.",
+      "rarity_basis_sv": "Nischen gäller titelorden hundkläder/koiranvaatte. Den beskriver en smal fråga i samlingen, inte hur ovanliga hundkläder eller sådana forskningsfrågor är i samhället.",
+      "title_search_terms": [
+        "hundkläd",
+        "koiranvaat"
+      ]
+    },
+    {
+      "id": "bioplast-som-slojdmaterial",
+      "record_id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
+      "original_title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+      "title_sv": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
+      "year": 2024,
+      "analysis_sv": "Bioplast förbinder en konkret materialfråga med etiska och estetiska överväganden. Studien utvecklar stärkelse- och gelatinbaserade recept och prövar materialet med textila slöjdtekniker. Vad som går att sy, brodera, sticka eller virka blir en del av kunskapsproduktionen. Nischen ger samtidigt skäl att granska gröna materialberättelser: ett biobaserat ursprung fastställer inte automatiskt en miljöfördel. Här handlar bidraget om avgränsade materialerfarenheter, inte om en genomförd livscykelanalys.",
+      "rarity_basis_sv": "Nischen bygger på bioplast i originaltitel eller svensk titel. Den avgränsar ett namngivet material, inte allt arbete om biomaterial, återbruk eller hållbarhet.",
+      "title_search_terms": [
+        "bioplast"
+      ]
+    },
+    {
+      "id": "tunnelbanan-som-larmiljo",
+      "record_id": "cca78ce781cd3c04d8676a792979bf77eaa12a39cfc4fec3fac537ea5022c8c8",
+      "original_title": "Konst i rörelse – Guidade visningar som didaktiskt verktyg i Stockholms tunnelbana",
+      "title_sv": "Konst i rörelse – Guidade visningar som didaktiskt verktyg i Stockholms tunnelbana",
+      "year": 2025,
+      "analysis_sv": "En tunnelbana kan vara både transportsträcka, konstmiljö och plats för ett pedagogiskt möte. Den här studien följer en guidad visning och återbesök med observation, gående intervju och visuella fältanteckningar. Plats, tid och rörelse behandlas som delar av hur undervisningsmöjligheter uppstår och begränsas. Nischen visar ett expanderat klassrum som konkret undersökningsfält. Den ger samtidigt en situerad läsning av en visning, inte ett effektmått för undervisning i kollektivtrafik.",
+      "rarity_basis_sv": "Nischen bygger på tunnelbana i titeln. Det avgränsar en bestämd offentlig miljö; fler arbeten om konst i offentliga rum kan finnas under andra benämningar.",
+      "title_search_terms": [
+        "tunnelban"
+      ]
+    }
+  ]
+}

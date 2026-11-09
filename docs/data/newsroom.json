@@ -24,9 +24,20 @@
       "År 2026 är pågående och insamlingsdatum och filernas täckning begränsar jämförelsen. En tom mapp eller saknat år ger ingen grund att påstå att inga arbeten producerades."
     ],
     "unit_sv": "Ett unikt examensarbete. Separata PDF-delar och byte-identiska kopior räknas tillsammans. Ett pararbete räknas en gång; två separata ämnesarbeten från samma student räknas som två arbeten.",
-    "methods_sv": "En huvudsaklig forskningsdesign per arbete och överlappande datainsamlings-/analysmetoder. Filosofiska perspektiv redovisas separat. Teman är analytikerns överlappande kodning; en andel beskriver detta urval, inte kvalitet.",
+    "methods_sv": "Den tidigare huvudkoden bevaras för spårbarhet. Den aktuella visningen skiljer fyra överlappande metodlager: ansats, upplägg, datainsamling och analys. Filosofiska perspektiv görs inte automatiskt till metoder. Teman är analytikerns överlappande kodning; en andel beskriver detta urval, inte kvalitet.",
     "source_sv": "Levererade PDF-mappar, kompletterade med tidigare granskade bibliografiska uppgifter för samma Aalto- och Lapplandstexter. Inga historiska år utanför 2024–2026 tillförs.",
     "privacy_sv": "Original-PDF:er, fulltexter, råa utdrag och lokala filvägar ingår inte i den publicerade analysen. Källbelägg återges som parafraser med sidnummer.",
+    "method_layers": {
+      "version": "2026-11-09-layers-1",
+      "fields": [
+        "Forskningsansats",
+        "Forskningsupplägg",
+        "Datainsamling",
+        "Analysmetod"
+      ],
+      "rules": "assets/method-layers.mjs",
+      "note_sv": "Överlappande visningskategorier från befintliga metodetiketter. Den ursprungliga huvudkoden bevaras för spårbarhet. Ingen ny eller oberoende granskning påstås."
+    },
     "excluded_other_programmes": 1
   },
   "tracks": [
