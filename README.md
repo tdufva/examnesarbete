@@ -1,8 +1,24 @@
-# Examensarbeten i bildkonstpedagogik
+# Examensarbeten: bild och slöjd
 
-En svensk läs- och analyswebbplats över examensarbeten från **Aalto-universitetet** och **Lapplands universitet**, publicerade **2024–2026**. Den separata historikdelen följer arkivposterna tillbaka till 2007 och dokumenterade äldre Aalto-källförteckningar till 2010. Repositorynamnet `examnesarbete` följer beställningen.
+Svensk analyswebbplats med tre delar:
 
-**Webbplats:** https://tdufva.github.io/examnesarbete/
+1. **[Analys 2024–2026](https://tdufva.github.io/examnesarbete/)** är startsidan: 270 arbeten, sju lärosäten och nio utbildningslinjer. Jämför metoder, teman, forskningsmiljöer och arbetsformer per universitet, linje, land, ämne och år.
+2. **[Newsroom](https://tdufva.github.io/examnesarbete/newsroom.html)** lyfter fram beskrivande insikter för hela perioden eller ett enskilt år. Bild och slöjd kan läsas tillsammans, var för sig eller sida vid sida. Nämnare, årgångarnas sammansättning, primärdesigner och insamlings-/analysmetoder hålls synliga.
+3. **[Extra Aalto/Lappland 2007–2026](https://tdufva.github.io/examnesarbete/historik.html)** är den separata historiska fördjupningen. Historiska data och textkodning är oförändrade.
+
+Den gamla katalogen har tagits bort från webbgränssnittet. `analys.html` leder till startsidan; äldre datafiler bevaras som dokumentation av tidigare urval. Inga PDF:er eller fulltexter återpubliceras. Webbplatsens materialbegränsningar och de olika samlingarnas kodningssätt beskrivs nedan.
+
+Validera nuvarande struktur och insikter:
+
+```sh
+python3 scripts/validate_structure.py
+node scripts/check_insights.mjs
+node scripts/check_newsroom.mjs
+```
+
+## Tidigare Aalto/Lappland-urval (arkiverad dokumentation)
+
+Följande avsnitt beskriver det tidigare 127-postsurvalet. Det är inte den nuvarande startsidans nämnare.
 
 ## Material och funktioner
 
@@ -130,7 +146,7 @@ Råa hämtningar och kontrollerade PDF-filer i `data/history_raw/` publiceras in
 
 ## Newsroom: bild och slöjd 2024–2026 (9 november 2026)
 
-[Newsroom](https://tdufva.github.io/examnesarbete/newsroom.html) jämför **270 unika arbeten, nio utbildningslinjer och sju lärosäten** i den levererade samlingen. Konstfack omfattar tre linjer; Östra Finland, Helsingfors, Åbo universitet, Åbo Akademi, Lappland och Aalto en vardera. Den tidigare katalogen och fördjupningen behåller sitt Aalto/Lappland-urval. Den större historiska analysens innehåll, data och beräkningar ändras inte.
+[Analys 2024–2026](https://tdufva.github.io/examnesarbete/) jämför **270 unika arbeten, nio utbildningslinjer och sju lärosäten** i den levererade samlingen. Konstfack omfattar tre linjer; Östra Finland, Helsingfors, Åbo universitet, Åbo Akademi, Lappland och Aalto en vardera. Den tidigare katalogens data bevaras för spårbarhet men är inte längre en separat sida. Den större historiska analysens innehåll, data och beräkningar ändras inte.
 
 277 levererade filer motsvarar 276 byte-unika PDF-filer. Två arbeten har separata PDF-delar och räknas en gång, vilket ger 274 arbetskandidater. Tre Konstfack-arbeten har källår 2018 eller 2023 och utesluts från perioden. Ett arbete hör uttryckligen till en annan masterutbildning och hålls utanför de nio linjernas nämnare, med analysreferatet kvar i granskningen. Sju källstödda korrigeringar av linjetillhörighet redovisas öppet. Källår används före mappår. Leveransen innehåller inga Aalto-, Lappland- eller Konstfack-arbeten från 2026; detta betyder inte att inga sådana arbeten finns.
 

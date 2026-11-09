@@ -144,3 +144,4 @@ body[data-page=newsroom]{background:#f5f0e6;color:#242320}
 .nr-reading{padding:20px 22px;background:#fffdf8;border-left:4px solid #2448c6;margin:20px 0 25px;font-size:.8rem}.nr-reading h4{font-size:1rem;margin-bottom:12px}#nr-country-reading{margin-top:30px}
 
 .nr-filter-primary>div,.nr-filter-extra>div,.nr-chart-controls>div{min-width:0}body[data-page=newsroom] select{min-width:0;max-width:100%}.nr-work-card,.nr-reading,.nr-context-source,.nr-countries h2{overflow-wrap:anywhere}
+.nr-route-note{border-top:1px solid #cbc6bc;margin-bottom:40px;padding-top:18px;font-size:.82rem}.nr-route-note p{margin:0}.nr-route-note a{display:inline}.nr-masthead nav{display:flex}.nr-masthead nav a{max-width:100%}
