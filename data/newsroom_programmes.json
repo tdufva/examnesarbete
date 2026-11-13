@@ -1,4 +1,6 @@
 {
+  "checked": "2026-11-13",
+  "checked_sv": "13 november 2026",
   "period": [
     2024,
     2025,
@@ -37,6 +39,28 @@
       "discipline": "bild",
       "folder": "Konstfack bild gymnasielärare",
       "target": "Gymnasium"
+    },
+    {
+      "id": "umea-bild",
+      "university": "umea",
+      "university_label": "Umeå universitet",
+      "label": "Bilddidaktik",
+      "short_label": "Umeå · bild",
+      "country": "Sverige",
+      "discipline": "bild",
+      "folder": "Umeå universitet bild",
+      "target": null
+    },
+    {
+      "id": "umea-slojd",
+      "university": "umea",
+      "university_label": "Umeå universitet",
+      "label": "Slöjddidaktik",
+      "short_label": "Umeå · slöjd",
+      "country": "Sverige",
+      "discipline": "slojd",
+      "folder": "Umeå universitet slöjd",
+      "target": null
     },
     {
       "id": "uef-slojd",
@@ -106,7 +130,8 @@
     }
   ],
   "selection_notes_sv": [
-    "Samlingen följer de nio levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+    "Samlingen följer de elva levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+    "Umeå universitet bidrar med arbeten i bild och slöjd från mapparna för 2024 och 2025. Ett verifierat publiceringsår i arkivet har företräde för Umeå; annars används arbetets egen datering. Försättsbladets termin och mappår kan därför skilja sig från analysåret. Nivå och poäng bygger på uppgifter om det enskilda arbetet.",
     "Åbo universitets medföljande urvalsbeskrivning anger öppet publicerade magisteravhandlingar 2024–2026. Flera är skrivna i par. Ett gemensamt arbete räknas som ett arbete, inte två studenter.",
     "Åbo Akademis medföljande urvalsbeskrivning avser slöjdteman inom slöjdvetenskap eller pedagogik, med lärarbehörighet enligt beskrivningen. Dokumentet nämner 2024–2025; levererade 2026-filer ingår enligt den aktuella tidsavgränsningen men markeras separat i täckningen.",
     "Östra Finlands universitets medföljande bibliografi listar 31 arbeten (2024: 8, 2025: 10, 2026: 13). De 20 levererade PDF-arbetena matchar bibliografin (2024: 3, 2025: 8, 2026: 9). Elva bibliografiska poster saknar PDF i denna leverans, däribland en som dokumentet markerar ”hittas inte”. De får inga metod- eller temakoder. Detta är en leveranslucka, inte ett belägg för att arbetena saknar metod eller inte är öppet tillgängliga.",

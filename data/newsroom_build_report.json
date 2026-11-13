@@ -1,22 +1,23 @@
 {
   "metadata": {
-    "checked": "2026-11-09",
-    "checked_sv": "9 november 2026",
+    "checked": "2026-11-13",
+    "checked_sv": "13 november 2026",
     "years": [
       2024,
       2025,
       2026
     ],
-    "file_count": 277,
-    "unique_pdf_count": 276,
-    "unique_work_candidates": 274,
-    "analysed_work_count": 274,
-    "in_scope_count": 270,
+    "file_count": 316,
+    "unique_pdf_count": 315,
+    "unique_work_candidates": 313,
+    "analysed_work_count": 313,
+    "in_scope_count": 309,
     "excluded_outside_period": 3,
     "complete": true,
     "missing_coding": 0,
     "selection_notes_sv": [
-      "Samlingen följer de nio levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+      "Samlingen följer de elva levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+      "Umeå universitet bidrar med arbeten i bild och slöjd från mapparna för 2024 och 2025. Ett verifierat publiceringsår i arkivet har företräde för Umeå; annars används arbetets egen datering. Försättsbladets termin och mappår kan därför skilja sig från analysåret. Nivå och poäng bygger på uppgifter om det enskilda arbetet.",
       "Åbo universitets medföljande urvalsbeskrivning anger öppet publicerade magisteravhandlingar 2024–2026. Flera är skrivna i par. Ett gemensamt arbete räknas som ett arbete, inte två studenter.",
       "Åbo Akademis medföljande urvalsbeskrivning avser slöjdteman inom slöjdvetenskap eller pedagogik, med lärarbehörighet enligt beskrivningen. Dokumentet nämner 2024–2025; levererade 2026-filer ingår enligt den aktuella tidsavgränsningen men markeras separat i täckningen.",
       "Östra Finlands universitets medföljande bibliografi listar 31 arbeten (2024: 8, 2025: 10, 2026: 13). De 20 levererade PDF-arbetena matchar bibliografin (2024: 3, 2025: 8, 2026: 9). Elva bibliografiska poster saknar PDF i denna leverans, däribland en som dokumentet markerar ”hittas inte”. De får inga metod- eller temakoder. Detta är en leveranslucka, inte ett belägg för att arbetena saknar metod eller inte är öppet tillgängliga.",
@@ -123,6 +124,66 @@
     },
     {
       "track_id": "konstfack-bild-gymnasium",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2024,
+      "files": 10,
+      "works": 10,
+      "delivered": true,
+      "known_degree": 9,
+      "known_credits": 10,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2025,
+      "files": 6,
+      "works": 7,
+      "delivered": true,
+      "known_degree": 2,
+      "known_credits": 7,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2024,
+      "files": 12,
+      "works": 14,
+      "delivered": true,
+      "known_degree": 12,
+      "known_credits": 14,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2025,
+      "files": 11,
+      "works": 8,
+      "delivered": true,
+      "known_degree": 5,
+      "known_credits": 8,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
       "year": 2026,
       "files": 0,
       "works": 0,
@@ -431,6 +492,15 @@
       "note_sv": "Katalogen anger slöjd, men titelsidan anger självständigt arbete i bild och ämneslärarprogrammet 7–9."
     },
     {
+      "id": "fa1cf78347c31965d0e5249da12c6854a83c075ee50e5cbf999b0a185c2bae60",
+      "title": "ELEVERS MOTIVATION I BILDÄMNET.",
+      "from_track_ids": [
+        "umea-slojd"
+      ],
+      "to_track_id": "umea-bild",
+      "note_sv": "Arbetet låg i leveransens slöjdmapp. Syfte, undervisningskontext och författarens ämnesinriktning i texten avser bild."
+    },
+    {
       "id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
       "title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
       "from_track_ids": [
@@ -442,9 +512,10 @@
   ],
   "duplicate_file_count": 1,
   "multi_pdf_work_count": 2,
-  "year_conflict_count": 3,
+  "year_conflict_count": 5,
   "by_university": {
     "konstfack": 73,
+    "umea": 39,
     "uef": 20,
     "helsingfors": 42,
     "turku": 43,

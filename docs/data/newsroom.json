@@ -1,22 +1,23 @@
 {
   "metadata": {
-    "checked": "2026-11-09",
-    "checked_sv": "9 november 2026",
+    "checked": "2026-11-13",
+    "checked_sv": "13 november 2026",
     "years": [
       2024,
       2025,
       2026
     ],
-    "file_count": 277,
-    "unique_pdf_count": 276,
-    "unique_work_candidates": 274,
-    "analysed_work_count": 274,
-    "in_scope_count": 270,
+    "file_count": 316,
+    "unique_pdf_count": 315,
+    "unique_work_candidates": 313,
+    "analysed_work_count": 313,
+    "in_scope_count": 309,
     "excluded_outside_period": 3,
     "complete": true,
     "missing_coding": 0,
     "selection_notes_sv": [
-      "Samlingen följer de nio levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+      "Samlingen följer de elva levererade mapparna. Filantal, unika arbeten och analyserbara texter hålls isär. Inga original-PDF:er eller fulltexter publiceras här.",
+      "Umeå universitet bidrar med arbeten i bild och slöjd från mapparna för 2024 och 2025. Ett verifierat publiceringsår i arkivet har företräde för Umeå; annars används arbetets egen datering. Försättsbladets termin och mappår kan därför skilja sig från analysåret. Nivå och poäng bygger på uppgifter om det enskilda arbetet.",
       "Åbo universitets medföljande urvalsbeskrivning anger öppet publicerade magisteravhandlingar 2024–2026. Flera är skrivna i par. Ett gemensamt arbete räknas som ett arbete, inte två studenter.",
       "Åbo Akademis medföljande urvalsbeskrivning avser slöjdteman inom slöjdvetenskap eller pedagogik, med lärarbehörighet enligt beskrivningen. Dokumentet nämner 2024–2025; levererade 2026-filer ingår enligt den aktuella tidsavgränsningen men markeras separat i täckningen.",
       "Östra Finlands universitets medföljande bibliografi listar 31 arbeten (2024: 8, 2025: 10, 2026: 13). De 20 levererade PDF-arbetena matchar bibliografin (2024: 3, 2025: 8, 2026: 9). Elva bibliografiska poster saknar PDF i denna leverans, däribland en som dokumentet markerar ”hittas inte”. De får inga metod- eller temakoder. Detta är en leveranslucka, inte ett belägg för att arbetena saknar metod eller inte är öppet tillgängliga.",
@@ -73,6 +74,28 @@
       "discipline": "bild",
       "folder": "Konstfack bild gymnasielärare",
       "target": "Gymnasium"
+    },
+    {
+      "id": "umea-bild",
+      "university": "umea",
+      "university_label": "Umeå universitet",
+      "label": "Bilddidaktik",
+      "short_label": "Umeå · bild",
+      "country": "Sverige",
+      "discipline": "bild",
+      "folder": "Umeå universitet bild",
+      "target": null
+    },
+    {
+      "id": "umea-slojd",
+      "university": "umea",
+      "university_label": "Umeå universitet",
+      "label": "Slöjddidaktik",
+      "short_label": "Umeå · slöjd",
+      "country": "Sverige",
+      "discipline": "slojd",
+      "folder": "Umeå universitet slöjd",
+      "target": null
     },
     {
       "id": "uef-slojd",
@@ -224,6 +247,66 @@
     },
     {
       "track_id": "konstfack-bild-gymnasium",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2024,
+      "files": 10,
+      "works": 10,
+      "delivered": true,
+      "known_degree": 9,
+      "known_credits": 10,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2025,
+      "files": 6,
+      "works": 7,
+      "delivered": true,
+      "known_degree": 2,
+      "known_credits": 7,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2026,
+      "files": 0,
+      "works": 0,
+      "delivered": false,
+      "known_degree": 0,
+      "known_credits": 0,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2024,
+      "files": 12,
+      "works": 14,
+      "delivered": true,
+      "known_degree": 12,
+      "known_credits": 14,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2025,
+      "files": 11,
+      "works": 8,
+      "delivered": true,
+      "known_degree": 5,
+      "known_credits": 8,
+      "limited_coding": 0
+    },
+    {
+      "track_id": "umea-slojd",
       "year": 2026,
       "files": 0,
       "works": 0,
@@ -414,9 +497,9 @@
     }
   ],
   "context": {
-    "checked": "2026-11-09",
+    "checked": "2026-11-13",
     "language": "sv",
-    "scope": "Jämförelsekontekst för nio beställda utbildningslinjer 2024–2026. Institutionsregler ersätter inte individuell dokumentverifikation.",
+    "scope": "Jämförelsekontekst för elva utbildningslinjer 2024–2026. Institutionsregler ersätter inte individuell dokumentverifikation.",
     "sources": [
       {
         "id": "konstfack-examensordning-2026",
@@ -461,6 +544,20 @@
         "url": "https://www.konstfack.se/PageFiles/4623/Kursplan%20LYB507%20Sj%C3%A4lvst%C3%A4ndigt%20arbete%20i%20bild.pdf",
         "limits": "Två kursdelar är inte i sig två olika examensarbeten. Varken enbart konstnärlig gestaltning eller tvångskodning till en enda metod bör härledas från kursplanen.",
         "verified": true
+      },
+      {
+        "id": "umea-amneslararprogrammet-7-9",
+        "institution": "Umeå universitet",
+        "track": [
+          "umea-bild",
+          "umea-slojd"
+        ],
+        "period": "Utbildningsplan för ämneslärarprogrammet årskurs 7–9, HT18 och tills vidare",
+        "claim_sv": "Programplanen anger ett examensarbete om minst 30 hp eller två arbeten om vardera minst 15 hp. Arbetena kan höra till ett eller två av utbildningens ämnen.",
+        "url": "https://www.umu.se/utbildning/kurs-och-utbildningsplan/lyagr/",
+        "limits": "Umeåmapparna omfattar flera utbildningsvägar. Kontrollera det enskilda arbetet, kursplanen eller arkivposten för nivå, poäng och publiceringsår.",
+        "verified": true,
+        "individual_credit_assignment_allowed": false
       },
       {
         "id": "aalto-curriculum-2024-26",
@@ -621,7 +718,7 @@
       {
         "id": "country_scope",
         "heading_sv": "Ett land är inte en skola",
-        "guideline_sv": "Sveriges del består här av Konstfack. En skillnad mellan Sverige och Finland kan därför bero på enskild skolprofil eller utbildningsmix. Skriv ”i detta material”, inte ”svenska studenter gör”.",
+        "guideline_sv": "Sveriges del omfattar Konstfack och Umeå universitet. En skillnad mellan landsurvalen kan bero på lärosäte, utbildningsnivå, ämnesmix eller årstäckning. Skriv ”i detta material”, inte ”svenska studenter gör”.",
         "basis": "Analytisk konsekvens av beställningens institutionsurval",
         "source_ids": []
       },
@@ -743,7 +840,7 @@
       },
       {
         "heading_sv": "Landsskillnaden kan vara en skolskillnad",
-        "summary_sv": "Svenska observationer från Konstfack ger inte ett representativt nationellt tvärsnitt. Jämför samma ämne och nivå och visa vilka linjer som faktiskt bär varje mönster.",
+        "summary_sv": "Konstfack och Umeå universitet beskriver två lärosäten i den svenska delen av urvalet. Jämför samma ämne och nivå och visa vilka linjer som faktiskt bär varje mönster.",
         "source_ids": []
       },
       {
@@ -14105,6 +14202,1136 @@
       "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
     },
     {
+      "original_title": "Visuellt buller i bildsalen: En studie om hur bildlärare påverkas av policy i praktiken",
+      "title_sv": "Visuellt buller i bildsalen: En studie om hur bildlärare påverkas av policy i praktiken",
+      "authors": "Agnes Nordquist; Anna Norlén",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger HT 2025.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien undersöker hur grundskolans bildlärare tolkar riktlinjer om att minska visuella störningar i undervisningsmiljön. Intervjuerna sätts i relation till observationer av bildsalar. Resultaten visar lokala skillnader i hur riktlinjerna omsätts och vad som får synas i rummet. Författarna diskuterar särskilt hur en lugn miljö kan förenas med undervisningens behov av synliga elevbilder och visuella referenser. Studien ger en bild av de avvägningar lärarna gör och av hur beslut på olika nivåer kan forma deras handlingsutrymme i bildsalen.",
+      "topic_sv": "Riktlinjer om visuella intryck och bildsalens funktion",
+      "primary_method": "Annan kvalitativ studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 22,
+          "evidence_sv": "Intervjuer och observationer belyser hur riktlinjer om visuella intryck används."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Grundskolans bildlärare intervjuas om hur policy påverkar deras undervisningsmiljö."
+        },
+        {
+          "label": "Strukturerade rumsobservationer",
+          "kind": "insamling",
+          "pdf_page": 22,
+          "evidence_sv": "Bildsalar observeras med stöd av en checklista för att belysa visuella villkor."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 23,
+          "evidence_sv": "Materialet ordnas i återkommande teman utifrån frågeställningarna."
+        },
+        {
+          "label": "Policy enactment",
+          "kind": "perspektiv",
+          "pdf_page": 3,
+          "evidence_sv": "Analysen använder teorin för att förstå den lokala tolkningen av policy."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Illustrationerna återger delar av de observerade bildsalarna.",
+      "themes": [
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa",
+        "Identitet och profession",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        20,
+        22,
+        23
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "909ab267742195084d11933c14b53def211712f45d31ed23c93b591d42d6a8a1",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Extra anpassningar: Det är bra pedagogik, helt enkelt. En studie om bildlärares strategier för extra anpassningar i gymnasieskolans bildundervisning",
+      "title_sv": "Extra anpassningar: Det är bra pedagogik, helt enkelt. En studie om bildlärares strategier för extra anpassningar i gymnasieskolans bildundervisning",
+      "authors": "Emelie Käck",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger VT 2025.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp. Den indexerade bibliografiska posten anger avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 30,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien följer hur gymnasiets bildlärare översätter riktlinjer om extra anpassningar till vardaglig undervisning. Intervjuerna belyser lärarnas tolkningar, medan observationer och material som används i undervisningen ger exempel på hur stödet ordnas. Författaren beskriver hur flera krav på individuellt stöd kan mötas med en kombination av återkommande undervisningsstrukturer och riktade strategier. Skillnaden mellan policy och praktik blir synlig när riktlinjerna behöver fungera i en konkret bildsal. Arbetets huvudsakliga perspektiv är lärarnas och materialet belyser vilka former av stöd som går att ordna.",
+      "topic_sv": "Hur gymnasiets bildlärare omsätter policy om extra anpassningar",
+      "primary_method": "Annan kvalitativ studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 22,
+          "evidence_sv": "Flera typer av kvalitativt material belyser hur riktlinjer omsätts i undervisningen."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 22,
+          "evidence_sv": "Bildlärare får beskriva hur de tolkar och genomför extra anpassningar."
+        },
+        {
+          "label": "Lektionsobservationer",
+          "kind": "insamling",
+          "pdf_page": 22,
+          "evidence_sv": "Undervisningen observeras för att synliggöra anpassningar i praktiken."
+        },
+        {
+          "label": "Insamling av artefakter",
+          "kind": "insamling",
+          "pdf_page": 24,
+          "evidence_sv": "Fotografier och exempel på stödmaterial ingår i det insamlade underlaget."
+        },
+        {
+          "label": "Deduktiv kodning",
+          "kind": "analys",
+          "pdf_page": 24,
+          "evidence_sv": "Intervju-, observations- och artefaktmaterial ordnas med hjälp av teoretiska begrepp."
+        },
+        {
+          "label": "Policy enactment",
+          "kind": "perspektiv",
+          "pdf_page": 24,
+          "evidence_sv": "Begreppen används för att förstå hur lärare omsätter riktlinjer lokalt."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Makt, delaktighet och rättvisa",
+        "Undervisning och lärande",
+        "Välbefinnande och omsorg",
+        "Identitet och profession"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        22,
+        23,
+        24
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A2034957/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "c28279e1289516ff3bc7da355bfac4b464c4f2bced4409fa92152766afffda41",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+      "title_sv": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+      "authors": "Gabriella Petersson",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger HT 2025.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "En undervisningssituation i fotografisk bild jämförs med en lektion utomhus för att undersöka hur miljön påverkar gymnasieelevers skapande. Observationer kombineras med ett lärarsamtal och elevernas gemensamma reflektioner. Författaren beskriver hur naturmiljön erbjuder fler sinnesintryck som kan ge upphov till idéer och nya sätt att ta sig an uppgiften. Tydliga instruktioner och lämpliga praktiska villkor spelar också roll för vad eleverna kan göra. Jämförelsen ger ett konkret exempel på hur miljö och didaktik samverkar under de två observerade lektionerna.",
+      "topic_sv": "Naturmiljö och kreativa processer i gymnasiets fotografiundervisning",
+      "primary_method": "Annan kvalitativ studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 16,
+          "evidence_sv": "Observationer och intervjuer används för att förstå deltagarnas kreativa processer och erfarenheter."
+        },
+        {
+          "label": "Deltagande observation",
+          "kind": "insamling",
+          "pdf_page": 16,
+          "evidence_sv": "Fotografielektioner inomhus och utomhus observeras för att studera elevernas kreativa processer."
+        },
+        {
+          "label": "Lärarintervju",
+          "kind": "insamling",
+          "pdf_page": 17,
+          "evidence_sv": "Läraren intervjuas efter lektionerna om undervisningsmiljö och skapande."
+        },
+        {
+          "label": "Fokusgruppsintervju",
+          "kind": "insamling",
+          "pdf_page": 18,
+          "evidence_sv": "Eleverna jämför sina erfarenheter av undervisningen i de två miljöerna."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 19,
+          "evidence_sv": "Observationer och intervjuer kodas och sammanställs i teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Natur och ekologisk hållbarhet",
+        "Kropp, sinnen och materialitet",
+        "Konstnärlig praktik"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Gymnasieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "5e9cdabb793d706291d76d0a17b4b010261c0701d0fd34768aa725b9bf52bf70",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "En kulturkanon för bildlärarna: Hur gymnasiebildlärare använder inspirerande förebilder i sin undervisning och hur de förhåller sig till en kulturkanon",
+      "title_sv": "En kulturkanon för bildlärarna: Hur gymnasiebildlärare använder inspirerande förebilder i sin undervisning och hur de förhåller sig till en kulturkanon",
+      "authors": "Jonna Lindahl",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger HT 2025.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Gymnasiets bildlärare intervjuas om hur de väljer visuella och kulturella förebilder och hur de ser på en nationell kulturkanon. Lärarnas exempel visar att referenser kan fylla olika funktioner, från att inspirera eget arbete till att ge historiska och teoretiska sammanhang. Flera undervisningsstrategier knyter ihop praktiskt skapande med kunskap om bilder och konst. Studien väcker frågan om vilket handlingsutrymme lärare behöver för att anpassa förebilder till undervisningens syfte och elevgrupp. Intervjuerna belyser lärarnas överväganden under en pågående diskussion om kanonens plats.",
+      "topic_sv": "Bildlärares val av förebilder och syn på en nationell kulturkanon",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 20,
+          "evidence_sv": "Lärares egna överväganden om förebilder och kulturkanon undersöks genom intervjuer."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Bildlärare intervjuas om arbetssätt och om sina val av kulturella referenser."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 21,
+          "evidence_sv": "Det transkriberade materialet granskas efter mönster och teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Estetik och visuell kultur",
+        "Kulturarv, plats och nordliga sammanhang",
+        "Identitet och profession",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        20,
+        21
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "57a64152805b1021226816b85462675b2df1c3988acb7200d7d87f8f4ea61928",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "ELEVERS MOTIVATION I BILDÄMNET.",
+      "title_sv": "ELEVERS MOTIVATION I BILDÄMNET.",
+      "authors": "Laura Särs",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger examensarbete inom lärarutbildning och omfattning men nivå framgår inte uttryckligen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien frågar vad högstadieelever upplever som motiverande i bildämnet och hur de förstår ämnets betydelse i och utanför skolan. En enkät med slutna frågor och fritext besvaras av elever i årskurs nio. Eleverna lyfter relationen till läraren och klasskamraterna som viktig för motivationen. Flera uttrycker osäkerhet om hur kunskaperna i bild kan användas i deras vardag eller framtid. Författaren sätter resultaten i relation till tidigare ämnesutvärdering och diskuterar skolämnets koppling till ungdomars visuella vardag. Den låga anslutningen gör räckvidden begränsad.",
+      "topic_sv": "Motivation och ämnets relevans för elever i bild",
+      "primary_method": "Enkätstudie",
+      "methods": [
+        {
+          "label": "Enkät med flervals- och fritextfrågor",
+          "kind": "insamling",
+          "pdf_page": 12,
+          "evidence_sv": "Enkäten utgår delvis från en nationell ämnesutvärdering och besvaras av en mindre grupp högstadieelever."
+        },
+        {
+          "label": "Innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 13,
+          "evidence_sv": "Författaren sammanställer både öppna och slutna svar och använder diagram som stöd för tolkningen."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet. Enkäten används för både kvalitativa och kvantitativa uppgifter. Studien kodas efter den gemensamma insamlingsformen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Grundskoleelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        4,
+        12,
+        13,
+        18,
+        30
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "fa1cf78347c31965d0e5249da12c6854a83c075ee50e5cbf999b0a185c2bae60",
+      "pdf_page_count": 39,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Bedömning av elevers konstnärliga verk: En studie om process och produkt i gymnasieskolans bildundervisning",
+      "title_sv": "Bedömning av elevers konstnärliga verk: En studie om process och produkt i gymnasieskolans bildundervisning",
+      "authors": "Mandi Stålnacke",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger VT 2025.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp.",
+      "degree_pdf_page": 1,
+      "credits": 30,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien jämför hur process och produkt behandlas i gymnasiets ämnesplaner med hur bildlärare beskriver sin bedömning. Utvalda styrdokument granskas och lärare intervjuas om vad som får betydelse när ett färdigt elevarbete bedöms. Både i dokumenten och i lärarnas utsagor får arbetsprocessen stor vikt. Samtidigt tolkar lärarna konstnärlig kvalitet på olika sätt, vilket påverkar hur de värderar egenskaper hos den färdiga bilden. Kombinationen av källor synliggör förhållandet mellan formella kriterier, professionellt omdöme och det skapande som föregår resultatet.",
+      "topic_sv": "Process och produkt vid bedömning av gymnasieelevers bildarbeten",
+      "primary_method": "Annan kvalitativ studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 23,
+          "evidence_sv": "Intervjuer med bildlärare kombineras med en kvalitativ granskning av ämnesplaner."
+        },
+        {
+          "label": "Kvalitativa intervjuer",
+          "kind": "insamling",
+          "pdf_page": 23,
+          "evidence_sv": "Gymnasiets bildlärare får beskriva hur de bedömer skapandeprocess och produkt."
+        },
+        {
+          "label": "Kvalitativ innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 24,
+          "evidence_sv": "Ämnesplaner från Gy11 och Gy25 kodas med avseende på process- och produktkriterier."
+        },
+        {
+          "label": "Läroplansteori och portföljvärdering",
+          "kind": "perspektiv",
+          "pdf_page": 4,
+          "evidence_sv": "Perspektiven knyter ihop styrdokument och bedömning av skapande arbete."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Konstnärlig praktik",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Gymnasium",
+        "Arkiv, texter och föremål"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        23,
+        24
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "29e1db18ae527893f43eca729fb54c606574c2a6bc3a97ab9ed8daff8371f60f",
+      "pdf_page_count": 59,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Bildlärares autonomi: Handlingsutrymme kontra läroplan i gymnasieskolan",
+      "title_sv": "Bildlärares autonomi: Handlingsutrymme kontra läroplan i gymnasieskolan",
+      "authors": "Thomas Costa Freté",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger HT 2025.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Fyra gymnasielärare intervjuas om hur skolans styrdokument påverkar deras möjligheter att planera och genomföra bildundervisning. Samtalen analyseras med stöd i självbestämmandeteorin. Lärarna beskriver ett stort handlingsutrymme och är i stort nöjda med det. Förändringen till Gy25 väcker frågor om framtida utrymme, men deltagarna har ännu begränsad erfarenhet av den nya läroplanen. Arbetet visar hur professionell autonomi kan upplevas inom ramen för gemensamma styrdokument. Resultaten gäller lärarnas erfarenheter vid studiens tidpunkt och kan följas upp när de nya styrdokumenten hunnit användas längre.",
+      "topic_sv": "Gymnasiets bildlärares handlingsutrymme i förhållande till läroplanen",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 11,
+          "evidence_sv": "Intervjuformen ger utrymme för olika erfarenheter av professionell autonomi."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 11,
+          "evidence_sv": "Intervjuer med gymnasiets bildlärare fångar individuella erfarenheter av handlingsutrymme."
+        },
+        {
+          "label": "Abduktiv tematisk analys",
+          "kind": "analys",
+          "pdf_page": 12,
+          "evidence_sv": "Kodningen växlar mellan återkommande innehåll i intervjuerna och teori."
+        },
+        {
+          "label": "Självbestämmandeteori",
+          "kind": "perspektiv",
+          "pdf_page": 3,
+          "evidence_sv": "Teorin används för att tolka autonomi och motivation."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Identitet och profession",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        11,
+        12
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "2c76d5506947872c19bd70ccaa223a405ede1aa3b250c1b66876b4d107883c6e",
+      "pdf_page_count": 27,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "AI i bildsalen & verkstaden: Lärares uppfattningar av AI i bild- samt trä- och metallslöjdundervisning: möjligheter, utmaningar och påverkan på elevers skapandeprocesser",
+      "title_sv": "AI i bildsalen & verkstaden: Lärares uppfattningar av AI i bild- samt trä- och metallslöjdundervisning: möjligheter, utmaningar och påverkan på elevers skapandeprocesser",
+      "authors": "Edvard Einarsson; Lovisa Augustsson",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2025/2026 och leveransmappen 2025. Datainsamlingen skedde i oktober 2025. Arbetet räknas till 2025 utifrån höstterminen och leveransen, med examens- eller publiceringsår ännu obekräftat.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger examensarbete inom lärarutbildning och omfattning men nivå framgår inte uttryckligen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "En webbenkät undersöker hur lärare i bild och trä- och metallslöjd förhåller sig till artificiell intelligens. Lika många lärare deltar från varje ämne. Lärarna beskriver AI som ett möjligt stöd för planering och idéarbete, samtidigt som de diskuterar risker för elevers självständighet, kreativitet och kritiska tänkande. Studien lägger vikt vid lärarens handledning och källkritik när verktygen används. Svaren visar hur deltagarna bedömer teknikens möjligheter och risker. Datamaterialet består av lärarnas egna uppgifter om sin undervisning och ger inga direkta mått på effekter för elever.",
+      "topic_sv": "Lärares användning av AI i bild och slöjd",
+      "primary_method": "Enkätstudie",
+      "methods": [
+        {
+          "label": "Digital enkät",
+          "kind": "insamling",
+          "pdf_page": 19,
+          "evidence_sv": "Öppna frågor gäller lärarnas erfarenheter av AI och slutna frågor ger underlag för jämförelser mellan svarande."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Författarna jämför sina kodningar och går tillbaka till enkätsvaren när de avgränsar fem teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet. De öppna enkätsvaren bär den kvalitativa analysen. Slutna frågor ger kompletterande bakgrund. Studien har lika många deltagare från bild och trä- och metallslöjd. Ämnesplaceringen följer slöjdmappen i leveransen.",
+      "themes": [
+        "Digital kultur och medier",
+        "Undervisning och lärande",
+        "Identitet och profession"
+      ],
+      "research_settings": [
+        "Grundskola",
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Lärare i trä- och metallslöjd"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        19,
+        20
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "c06cd7d923038dbf4494f3105f396ed481875b8b1aebaa8ede9b0f1a9c3d0955",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "INSTRUKTIONSFILM SOM LÄROMEDEL I SLÖJDÄMNET: En studie om slöjdlärares perspektiv på digitala hjälpmedel i undervisningen",
+      "title_sv": "INSTRUKTIONSFILM SOM LÄROMEDEL I SLÖJDÄMNET: En studie om slöjdlärares perspektiv på digitala hjälpmedel i undervisningen",
+      "authors": "Eva Lindelöf; Anna-Karin Malmsten",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger examensarbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien följer upp hur slöjdlärare använder eller vill använda instruktionsfilmer som stöd i undervisningen. I intervjuerna framstår tid som en viktig ramfaktor. Filmer kan frigöra lärartid och göra det möjligt för eleverna att se en instruktion igen, samtidigt som det kräver arbete att hitta eller producera lämpligt material. Författarna analyserar också betydelsen av bland annat lokal och elevgrupp. Lärarna beskriver film som ett komplement till att visa handgrepp och hjälpa elever på plats. Slutsatserna bygger på lärares erfarenheter och förväntningar i ett begränsat urval.",
+      "topic_sv": "Instruktionsfilm som stöd för handledning i slöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativa intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Intervjuformen ger utrymme att ställa följdfrågor om lärarnas erfarenheter av digitala instruktioner."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 23,
+          "evidence_sv": "Intervjuerna analyseras med en modell för att identifiera och ordna återkommande teman."
+        },
+        {
+          "label": "Ramfaktorteori",
+          "kind": "perspektiv",
+          "pdf_page": 16,
+          "evidence_sv": "Undervisningens villkor används för att tolka möjligheterna att arbeta med instruktionsfilm."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Digital kultur och medier",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        16,
+        20,
+        23,
+        30
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "eab827736644f4e9595c39b488cd42c4387370cd081468fcb5581220f02ce1de",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "KULTURELLA UTTRYCK: Ett begrepp som kan tolkas på olika sätt",
+      "title_sv": "KULTURELLA UTTRYCK: Ett begrepp som kan tolkas på olika sätt",
+      "authors": "Frida Perstrand; Linda Danielsson",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger examensarbete inom lärarutbildning och omfattning men nivå framgår inte uttryckligen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Arbetet undersöker vad kulturella uttryck betyder i grundskolans slöjd. En genomgång av kursplaner från Lgr 62 till Lgr 22 synliggör en förskjutning mot tolkning och reflektion kring skapande i kulturella sammanhang. I en enkät till textilslöjdlärare framträder olika sätt att omsätta begreppet. Traditionella hantverk och tekniker återkommer ofta. En del lärare anknyter också till elevernas egna erfarenheter och samtida uttryck. Författarna diskuterar hur kursplanens tolkningsutrymme kan påverka vilka traditioner och kulturella erfarenheter elever får möjlighet att möta i undervisningen.",
+      "topic_sv": "Kulturarv och kulturella uttryck i slöjdens kursplan",
+      "primary_method": "Enkätstudie",
+      "methods": [
+        {
+          "label": "Digital enkät",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Textilslöjdlärare besvarar flervalsfrågor och fritextfrågor om hur de arbetar med kulturella uttryck."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 16,
+          "evidence_sv": "Fritextsvaren kodas efter återkommande tolkningar och arbetssätt."
+        },
+        {
+          "label": "Beskrivande statistik",
+          "kind": "analys",
+          "pdf_page": 16,
+          "evidence_sv": "Svar med fasta alternativ sammanställs med enkel statistik."
+        },
+        {
+          "label": "Historisk genomgång av kursplaner",
+          "kind": "analys",
+          "pdf_page": 10,
+          "evidence_sv": "Författarna jämför hur betydelsen av kultur och estetiska uttryck har förändrats i läroplanerna."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet. Enkäten är huvuddesign i jämförelsen. Kursplanehistoriken är ett separat underlag.",
+      "themes": [
+        "Kulturarv, plats och nordliga sammanhang",
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola",
+        "Arkiv, texter och föremål"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Textilslöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        10,
+        15,
+        16,
+        21,
+        28
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "9e0daf3067ee9c5fe6e45f2859e7e6ce1c6ea6bc4e155f21ec05ba835bf2858b",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Innehåll och perspektiv i SLÖJDUNDERVISNING FÖR HÅLLBAR UTVECKLING",
+      "title_sv": "Innehåll och perspektiv i SLÖJDUNDERVISNING FÖR HÅLLBAR UTVECKLING",
+      "authors": "Frida Sewén",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger examensarbete inom lärarutbildning och omfattning men nivå framgår inte uttryckligen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Sewén jämför hur högstadieelever och deras slöjdlärare beskriver undervisning för hållbar utveckling. Med individuella lärarintervjuer och gruppintervjuer med elever undersöks både undervisningens innehåll och perspektiv. Återbruk och frågor om hur föremål tillverkas präglar de beskrivna exemplen. Funktion och hantverksmässig kvalitet får ofta stort utrymme, medan öppna diskussioner om olika handlingsalternativ framträder mer sällan. Analysen använder handlingskompetens för att skilja mellan vad elever får göra och vilka ställningstaganden de får pröva. Resultaten utgår från intervjuer i en kommun.",
+      "topic_sv": "Återbruk och handlingskompetens i slöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Halvstrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Lärare intervjuas enskilt och elever samtalar i grupper med stöd av intervjuguider."
+        },
+        {
+          "label": "Riktad kvalitativ innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 17,
+          "evidence_sv": "Utsagorna kodas efter förutbestämda kategorier för handlingskompetens och hållbarhetsundervisning."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Hållbarhet och konsumtion",
+        "Natur och ekologisk hållbarhet",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare",
+        "Grundskoleelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        15,
+        17,
+        28,
+        29
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "f31d13318740ec247ddb8435e04321bddd5f495337bcfe41f1bf918f5ab1617e",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”JAG TAR ALLT FRÅN HUVUDET”: Slöjdlärares uppfattning av summativ bedömning",
+      "title_sv": "”JAG TAR ALLT FRÅN HUVUDET”: Slöjdlärares uppfattning av summativ bedömning",
+      "authors": "Jesper Olsson Frech; Nicklas Aeschbacher",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger yrkesexamen på grundnivå. DiVA-indexet stavar det ena efternamnet French, medan PDF-titelsidans stavning Frech används här.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Genom intervjuer med högstadielärare i slöjd undersöker arbetet hur summativ bedömning förstås och genomförs i praktiken. Författarna analyserar hur lärarna samlar underlag för betyg i ämnet och hur bedömningen samspelar med återkoppling under arbetets gång. Lärare beskriver loggböcker, matriser och portfolior som olika sätt att samla underlag, med skilda motiv som tidsbesparing, spårbarhet och stöd för minnet. Sambedömning över materialinriktningarna lyfts som en viktig fråga när ämnet har ett gemensamt betyg. Underlaget bygger på ett litet bekvämlighetsurval av lärare.",
+      "topic_sv": "Betygsunderlag och dokumentation i högstadiets slöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Sju slöjdlärare inom textil samt trä och metall får beskriva sin bedömningspraktik."
+        },
+        {
+          "label": "Empiristyrd tematisk analys",
+          "kind": "analys",
+          "pdf_page": 22,
+          "evidence_sv": "Författarna färgkodar utsagor, diskuterar svårplacerade delar av materialet och utvecklar teman om bedömningspraktik."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Undervisning och lärande",
+        "Identitet och profession"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        20,
+        22,
+        33,
+        34
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "ebce077174c280f3dac8ad5c05a5206b14895777b59f33b05af0236cba6369dd",
+      "pdf_page_count": 48,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Planering och reflektion i slöjdundervisningen",
+      "title_sv": "Planering och reflektion i slöjdundervisningen",
+      "authors": "Liv Pettersson",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger examensarbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Pettersson undersöker hur slöjdlärare tolkar kraven på planering och reflektion i kursplanen och vilket utrymme dessa moment får när elever tillverkar egna föremål. Fem lärare från båda materialinriktningarna intervjuas. Deras svar visar skilda prioriteringar utifrån synen på ämnet, tiden som finns tillgänglig och uppfattningar om vad elever förväntar sig. Den muntliga dialogen med läraren kan ge underlag för bedömning. Arbetet väcker frågor om likvärdighet när elevers möjligheter att öva på planering och reflektion varierar med det utrymme som lärarna ger momenten.",
+      "topic_sv": "Elevers planering och reflektion i slöjdprocessen",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 17,
+          "evidence_sv": "Fem öppna frågor i en intervjuguide ger lärarna utrymme att beskriva sina prioriteringar."
+        },
+        {
+          "label": "Tematisk sortering",
+          "kind": "analys",
+          "pdf_page": 19,
+          "evidence_sv": "Utskrifterna läses upprepade gånger och sorteras efter likheter och skillnader i lärarnas beskrivningar."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        17,
+        18,
+        19,
+        26
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A2059557/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "2a873f08d627e04e010a244c362e8c18d87ef7ec30a2e6fc69a8487f94d17474",
+      "pdf_page_count": 39,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "SKA VI STICKA? Slöjdlärares val och tankar kring garntekniken stickning och dess förutsättningar i grundskolan",
+      "title_sv": "SKA VI STICKA? Slöjdlärares val och tankar kring garntekniken stickning och dess förutsättningar i grundskolan",
+      "authors": "Veronica Christaller; Åsa Åhlin",
+      "author_count": 2,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger examensarbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Åtta slöjdlärare intervjuas om hur de tolkar kursplanen och väljer vilka garntekniker som får plats i grundskolan. Deras svar visar att stickningens plats påverkas av bland annat gruppstorlek, lektionslängd och möjligheten att ge individuellt stöd. Lärare beskriver också värdet av att träna finmotorik och att bevara kunskaper om en kulturhistoriskt viktig teknik. När stickning ingår i undervisningen kombinerar lärarna ofta demonstration och handledning, ibland med digitalt stöd. Studien ger inblick i hur yrkeskunnande och praktiska villkor formar ämnesinnehållet genom lärarnas egna beskrivningar.",
+      "topic_sv": "Stickningens plats i skolslöjden",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 26,
+          "evidence_sv": "Samtalen ger lärarna utrymme att utveckla sina motiveringar för att undervisa i stickning eller välja bort den."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 3,
+          "evidence_sv": "Forskarna kodar intervjutranskriptionerna nära utsagorna och samlar återkommande mönster i teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning",
+        "Kulturarv, plats och nordliga sammanhang"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        26
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "b83a733e10228ea218276ffae16f6708e9f7e7c1e8c11970a8f2d675937e7c3d",
+      "pdf_page_count": 56,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "DESIGN I SLÖJD — slöjdlärare om tolkning av designbegreppet i relation till den egna slöjdundervisningen",
+      "title_sv": "DESIGN I SLÖJD — slöjdlärare om tolkning av designbegreppet i relation till den egna slöjdundervisningen",
+      "authors": "Viktoria Romanova",
+      "author_count": 1,
+      "year": 2025,
+      "year_basis": "title_page",
+      "year_note_sv": "",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger examensarbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien ställer frågan vad design betyder för slöjdlärare och hur tolkningarna avspeglar sig i undervisning och bedömning. Författaren kombinerar en digital enkät med två intervjuer och läser svaren i ljuset av kursplanen och tidigare forskning. Deltagarna förknippar design med bland annat skiss, idéutveckling, uttryck och funktion. De beskriver design som en närvarande del av undervisningen. Ändamålsenlig funktion får ändå begränsad vikt i flera lärares bedömning av enskilda alster. Det lilla bekvämlighetsurvalet ger underlag för att jämföra sätt att förstå design i grundskolans slöjd.",
+      "topic_sv": "Designbegreppet i slöjdens undervisning och bedömning",
+      "primary_method": "Blandad metod",
+      "methods": [
+        {
+          "label": "Kvantitativ enkät",
+          "kind": "insamling",
+          "pdf_page": 13,
+          "evidence_sv": "Den digitala enkäten ger svar från åtta lärare, med både fasta och öppna svarsalternativ."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Två lärare intervjuas i videosamtal med en guide och följdfrågor."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 16,
+          "evidence_sv": "Författaren kombinerar teman från frågeställningen med sådana som formuleras under genomgången av materialet."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "2ad0e5ef061d8f7c2810507d207a536afd3841754abfa006d9015d7fc405a072",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
       "original_title": "Minkälaiseen demokratiaan kollektiivi kasvattaa? - Taideperustainen toimintatutkimus kollektiivin demokratiakokeilusta",
       "title_sv": "Vilken sorts demokrati fostrar kollektivet till? - Konstbaserad aktionsforskning om ett kollektivs demokratiförsök",
       "authors": "Ekholm, Matias",
@@ -20715,6 +21942,1765 @@
       ],
       "year_conflict": false,
       "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”Måste man vara liksom Picasso för att det här ska gå bra?” En studie om bedömning i gymnasieskolans bildkurser",
+      "title_sv": "”Måste man vara liksom Picasso för att det här ska gå bra?” En studie om bedömning i gymnasieskolans bildkurser",
+      "authors": "Agnes Löfgren; Maja Morén",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger VT 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp. Den indexerade bibliografiska posten anger avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 30,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Bedömning i gymnasiets bildkurser undersöks från både elev- och lärarhåll. Intervjuer med lärare och nuvarande eller tidigare elever visar att grupperna betonar olika erfarenheter av bedömning, samtidigt som även deltagare med samma roll beskriver den på olika sätt. Det gör kommunikation om kriterier och förväntningar till en central fråga när arbete som pågår och färdiga bilder ska bedömas. Det sociokulturella perspektivet riktar uppmärksamheten mot hur förståelsen av bedömning formas i undervisningen. Underlaget visar deltagarnas egna erfarenheter och bygger på deras beskrivningar av hur bedömningen går till.",
+      "topic_sv": "Lärares och elevers perspektiv på bedömning i gymnasiets bildkurser",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 20,
+          "evidence_sv": "Deltagarnas egna beskrivningar ligger till grund för jämförelsen."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Lärare och elever intervjuas individuellt för att jämföra deras erfarenheter."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 21,
+          "evidence_sv": "Författarna sorterar transkriptionerna i kategorier och sammanför dem i teman."
+        },
+        {
+          "label": "Sociokulturellt perspektiv",
+          "kind": "perspektiv",
+          "pdf_page": 2,
+          "evidence_sv": "Utgångspunkten är att förstå lärande och bedömning som situerade i ett socialt sammanhang."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Konstnärlig praktik"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Nuvarande och tidigare gymnasieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        20,
+        21
+      ],
+      "source_url": "https://www.diva-portal.org/smash/get/diva2%3A1860634/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "51b001b2401f50de6b7c62fe4ff27d85e6e8d3bb5b6d30fc9cfa91efba3bf935",
+      "pdf_page_count": 65,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Genus i bildämnet: Praktiska exempel och metoder för årskurs 7–9 i grundskolan",
+      "title_sv": "Genus i bildämnet: Praktiska exempel och metoder för årskurs 7–9 i grundskolan",
+      "authors": "Charlotte Åberg",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger VT 2024.",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Titelsidan anger ett KPU-arbete. Den indexerade bibliografiska posten klassificerar det som ett arbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Genusmedveten undervisning studeras genom samtal med högstadiets bildlärare och genom observation av en lektion. Lärarna beskriver hur uppgifter, bildexempel och egna förhållningssätt kan få elever att uppmärksamma föreställningar om kön. Under den observerade lektionen tog eleverna sig delvis an uppgiften på andra sätt än de avsedda. Kombinationen av datakällor synliggör därför hur lärarnas intentioner och elevernas sätt att delta kan skilja sig. En lektion ger ett konkret exempel på den skillnaden, medan lärarintervjuerna står för större delen av studiens underlag.",
+      "topic_sv": "Jämställdhet och genus i högstadiets bildundervisning",
+      "primary_method": "Annan kvalitativ studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 2,
+          "evidence_sv": "Intervjuer och deltagande observation kombineras för att undersöka bildlärares genusarbete."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 14,
+          "evidence_sv": "Bildlärare får beskriva undervisning och tolkning av läroplanen."
+        },
+        {
+          "label": "Deltagande observation",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Författaren observerar hur elever tar sig an ett genusinriktat lektionsmoment."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 17,
+          "evidence_sv": "Intervjuer och fältanteckningar kodas för återkommande innehåll och skillnader."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Makt, delaktighet och rättvisa",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Högstadieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        14,
+        15,
+        17,
+        18
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "de86aee26cae3799e866af88f99c5d3053ae50322abd78f612e48ac485a03dc4",
+      "pdf_page_count": 31,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Samtal om bilder – en undersökning av hur bildanalys och bildsamtal används i bildundervisningen på gymnasiet",
+      "title_sv": "Samtal om bilder – en undersökning av hur bildanalys och bildsamtal används i bildundervisningen på gymnasiet",
+      "authors": "Emma-Christina Landqvist; Klara Brydewall Sandquist",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Författarna undersöker hur gymnasiets bildlärare arbetar med bildanalys och vad som får utrymme när elever talar om egna bilder. Lärarintervjuer kombineras med observation av en muntlig presentation. Det undersökta materialet tyder enligt författarna på ett behov av att utveckla lärarnas repertoar av analytiska metoder. Studien riktar därmed uppmärksamheten mot hur undervisning om tolkning och samtal kan kopplas till själva bildskapandet. Observationen ger ett exempel på samtalet i praktiken. Eftersom observationen genomfördes hos en annan lärare belyser den ett annat undervisningstillfälle än de som intervjupersonerna beskriver.",
+      "topic_sv": "Bildanalys och samtal om elevers bilder på gymnasiet",
+      "primary_method": "Fenomenologisk/hermeneutisk studie",
+      "methods": [
+        {
+          "label": "Kvalitativ undersökning",
+          "kind": "design",
+          "pdf_page": 18,
+          "evidence_sv": "Forskarna använder intervjuer och observation för att tolka utsagor och praktik."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 18,
+          "evidence_sv": "Bildlärare berättar om sina sätt att undervisa i bildanalys."
+        },
+        {
+          "label": "Klassrumsobservation",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "En bildpresentation observeras efter intervjuerna."
+        },
+        {
+          "label": "Fenomenologiskt förhållningssätt",
+          "kind": "perspektiv",
+          "pdf_page": 20,
+          "evidence_sv": "Författarna anger att insamling och analys inriktas på erfarenheter och utsagor."
+        },
+        {
+          "label": "Gruppering efter frågeställningarnas teman",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Svaren ordnas utifrån studiens frågor för att jämföra vad lärarna beskriver att de gör."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Metodavsnittet skiljer mellan observationstillfällen och den observerade lärare som sammanfattningen avser.",
+      "themes": [
+        "Undervisning och lärande",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Gymnasieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        18,
+        20
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A1841135",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "547f8270668003bc05e724c78ccd3792152db85790ea520937d683589af83004",
+      "pdf_page_count": 41,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”Nu har vi bild på riktigt!” Om skillnader i bildundervisningen på mellanstadiet och högstadiet",
+      "title_sv": "”Nu har vi bild på riktigt!” Om skillnader i bildundervisningen på mellanstadiet och högstadiet",
+      "authors": "Fredrik Toreblad",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Bildlärare med erfarenhet av både årskurs sex och sju intervjuas om förändringar i bildundervisningen när eleverna går över till högstadiet. Lärarna beskriver ökade krav och en förändrad relation till eleverna, samt hur elever ibland motsätter sig undervisningens upplägg. Arbetet lyfter hur tydliga ramar och en fungerande lärarrelation kan skapa utrymme för kreativitet i övergången. Materialet består av lärarnas beskrivningar. Det ger exempel för nyblivna bildlärare och lämnar öppet hur eleverna själva upplever samma förändringar.",
+      "topic_sv": "Övergången mellan mellanstadiets och högstadiets bildämne",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 18,
+          "evidence_sv": "Författaren undersöker lärarnas erfarenheter av övergången mellan skolstadier."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 18,
+          "evidence_sv": "Lärare med erfarenhet av båda årskurserna intervjuas om övergången."
+        },
+        {
+          "label": "Tematisk gruppering av intervjusvar",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Sammanfattningar av transkriptionerna jämförs och ordnas i återkommande teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Identitet och profession"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        18,
+        19,
+        20
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1841446/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "2d6cac2d1606dc0c7a8c86113abb9b80c8bd73ed68348617cc306698956b3e43",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Graffiti i gymnasieskolans bildundervisning: Samtidskonsten som inte ges utrymme",
+      "title_sv": "Graffiti i gymnasieskolans bildundervisning: Samtidskonsten som inte ges utrymme",
+      "authors": "Karl Palleschitz",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Gymnasiets bildlärare och graffitimålare får beskriva vad som räknas som graffiti och vilken plats uttrycket kan ha i skolans bildundervisning. Genom att lägga deras perspektiv sida vid sida visar studien hur synen på konstformen påverkas av skolans traditioner och av erfarenheter från graffitikulturen. Författaren diskuterar hur ett tillfälligt och samtida bilduttryck kan öppna samtal om visuell kultur, samtidigt som lärares förkunskaper, kursinnehåll och skolans profil påverkar möjligheten att undervisa om det. Fokusgrupperna bidrar med kunskap från personer som själva arbetar med uttrycket.",
+      "topic_sv": "Graffiti som visuell kultur och undervisningsinnehåll",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 20,
+          "evidence_sv": "Enskilda intervjuer och fokusgrupper ger olika perspektiv på graffiti i undervisningen."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Enskilda intervjuer används för att undersöka bildlärares perspektiv."
+        },
+        {
+          "label": "Fokusgruppsintervjuer",
+          "kind": "insamling",
+          "pdf_page": 23,
+          "evidence_sv": "Graffitimålare samtalar om sina erfarenheter och avgränsningar av uttrycket."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 24,
+          "evidence_sv": "Återkommande uttryck och relevanta utsagor kodas till teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Estetik och visuell kultur",
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Gymnasium",
+        "Fritid och hobby"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Graffitimålare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        20,
+        22,
+        23,
+        24
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1841188/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "7a6b07f21055aea87aeb3532e160f5752227a3dd0824f0036b670696cb54668c",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Nyttja mobiltelefonen i bildundervisning: Ett demokratiskt verktyg som främjar motivation.",
+      "title_sv": "Nyttja mobiltelefonen i bildundervisning: Ett demokratiskt verktyg som främjar motivation.",
+      "authors": "Kerry Owens-Öije",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger VT 2024.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Arbetet jämför hur högstadieelever beskriver mobiltelefonen som kreativt redskap utanför skolan med hur den används i bildämnet. Bildlärare och elever svarar på enkäter som är anpassade till respektive grupp. Deltagarna beskriver användningsmöjligheter för bildskapande, men lyfter fram olika funktioner och användningssätt. Författaren kopplar resultaten till motivation, digital kompetens och elevernas möjlighet att delta i skapande aktiviteter. Många av de tillfrågade deltog inte. Svaren visar vilka möjligheter deltagarna ser och ger ett begränsat underlag för slutsatser om högstadiet i stort.",
+      "topic_sv": "Mobiltelefonen som digitalt bildverktyg i högstadiet",
+      "primary_method": "Blandad metod",
+      "methods": [
+        {
+          "label": "Kvalitativ och kvantitativ ansats",
+          "kind": "design",
+          "pdf_page": 15,
+          "evidence_sv": "Författaren kombinerar kvalitativa och kvantitativa svar i enkätundersökningen."
+        },
+        {
+          "label": "Enkäter med öppna och slutna frågor",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Elevsvaren ger kvalitativa och kvantitativa uppgifter. Lärarenkäten är kvalitativ."
+        },
+        {
+          "label": "Innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 16,
+          "evidence_sv": "Svar kodas i kategorier och relevanta förekomster räknas."
+        },
+        {
+          "label": "Självbestämmandeteori",
+          "kind": "perspektiv",
+          "pdf_page": 2,
+          "evidence_sv": "Teorin används för att diskutera motivation och användning av telefonen."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Författaren beskriver en kombination av kvalitativ och kvantitativ metod inom enkätdesignen.",
+      "themes": [
+        "Digital kultur och medier",
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Högstadieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        15,
+        16
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "065fc94e8e036c680337d7f29d2555f7f52521c29992270d5bbb5402d6110a47",
+      "pdf_page_count": 41,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "En debatterad bild – en undersökning om bildämnets status",
+      "title_sv": "En debatterad bild – en undersökning om bildämnets status",
+      "authors": "Madeléne Cotz",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Lärare, lärarstudenter, lärarutbildare och högstadieelever får beskriva vilken ställning bildämnet har och vilka prioriteringar de möter. I intervjuerna återkommer en upplevelse av låg status. Flera lärare beskriver att ämnet ofta får mindre utrymme än andra ämnen. Lärarutbildningen framträder samtidigt som en miljö där både uppskattning och nedvärdering av ämnet kan förmedlas. De olika deltagargrupperna belyser hur ämnets ställning upplevs på flera nivåer. Undersökningen handlar om upplevda prioriteringar och ger inget direkt mått på resurser eller undervisningstid.",
+      "topic_sv": "Bildämnets status och prioritering i skola och lärarutbildning",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 16,
+          "evidence_sv": "Intervjuer används för att fånga erfarenheter och uppfattningar om bildämnets ställning."
+        },
+        {
+          "label": "Strukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 16,
+          "evidence_sv": "Samma förberedda frågor används för att undersöka flera gruppers syn på ämnet."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 18,
+          "evidence_sv": "Intervjusvaren färgkodas och ordnas i teman efter genomläsning."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Identitet och profession",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola",
+        "Lärarutbildning"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Högstadieelever",
+        "Bildlärarstudenter",
+        "Bildlärarutbildare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        16,
+        18
+      ],
+      "source_url": "https://www.diva-portal.org/smash/get/diva2%3A1841991/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "7958f94364b8977985baab942dc835a9f8a8c3b2a82ea3727a5f1ff9c6314c87",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Obligatoriskt betygsunderlag eller kreativt redskap? Lärares och elevers erfarenheter av och syn på arbetsprocessdokumentation i bild och form i gymnasieskolan",
+      "title_sv": "Obligatoriskt betygsunderlag eller kreativt redskap? Lärares och elevers erfarenheter av och syn på arbetsprocessdokumentation i bild och form i gymnasieskolan",
+      "authors": "Mats Eriksson; Elise Léonin",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien undersöker vilken funktion elevernas processdokumentation har i gymnasiets bildkurser. Gymnasielärare intervjuas och elever besvarar en enkät. I båda grupperna beskrivs dokumentationen som ett sätt att synliggöra arbetsprocessen och som ett underlag för betyg. Samtidigt kan den bli tidskrävande och behandlas som en uppgift att bocka av. Elevernas svar synliggör skillnaden mellan att producera dokumentation och att använda den för att reflektera över sitt lärande. Arbetet pekar på betydelsen av avsatt tid och av tydlig kommunikation om varför och hur dokumentationen ska användas.",
+      "topic_sv": "Dokumentation av skapandeprocessen i gymnasiets bildkurser",
+      "primary_method": "Blandad metod",
+      "methods": [
+        {
+          "label": "Kvalitativ och kvantitativ ansats",
+          "kind": "design",
+          "pdf_page": 3,
+          "evidence_sv": "Studien kombinerar kvalitativa lärarintervjuer med en kvantitativ elevenkät."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 18,
+          "evidence_sv": "Bildlärare intervjuas om hur de använder arbetsprocessdokumentation."
+        },
+        {
+          "label": "Kvantitativ elevenkät",
+          "kind": "insamling",
+          "pdf_page": 20,
+          "evidence_sv": "Gymnasieelever svarar på en enkät om erfarenheter av processdokumentation."
+        },
+        {
+          "label": "Induktiv tematisk analys",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Författarna utgår från återkommande innehåll i både intervjuer och enkäter."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Konstnärlig praktik"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Gymnasieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        18,
+        20
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1842021/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "ff290857a78f8acbe89884a7072900f5d7202cb728750e20e076d109956805e6",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Läxor i bild? Bildlärares erfarenheter av läxor i bild på högstadiet",
+      "title_sv": "Läxor i bild? Bildlärares erfarenheter av läxor i bild på högstadiet",
+      "authors": "Rebecka Stone",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Titelsidan anger HT 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Högstadiets bildlärare intervjuas om när de använder hemuppgifter och hur dessa uppgifter kan påverka lärande och likvärdighet. Hemuppgifter förekommer sparsamt i det undersökta materialet och fyller olika funktioner. En uppgift kan ge tid för förberedelse eller fortsatt arbete, samtidigt som tillgången till stöd och resurser utanför skolan påverkar elevernas möjligheter. Studien lyfter därför utformningen av läxan och de villkor den kräver. De intervjuade lärarnas erfarenheter ger konkreta exempel, medan elevernas egna erfarenheter ligger utanför arbetets underlag.",
+      "topic_sv": "Bildläxor, lärande och tillgång till stöd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 3,
+          "evidence_sv": "Frågan om läxors roll undersöks genom bildlärares erfarenheter."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Bildlärare beskriver när de använder läxor och vilka följder de ser."
+        },
+        {
+          "label": "Meningsfokuserad analys",
+          "kind": "analys",
+          "pdf_page": 16,
+          "evidence_sv": "Kodning och hermeneutiskt inspirerad meningstolkning används för att läsa intervjusvaren."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        15,
+        16,
+        18
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946237/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "b511ff584e3bbfef9a027d4038af9f0f0facfc368ad52a8dadbed060a0923554",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Med kunskapen i händerna: En intervjustudie om digitala och analoga arbetssätt i samverkan inom bild på gymnasiet",
+      "title_sv": "Med kunskapen i händerna: En intervjustudie om digitala och analoga arbetssätt i samverkan inom bild på gymnasiet",
+      "authors": "Therése Granholm",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Bildlärare och elever vid ett gymnasium berättar om hur digitala verktyg och analoga tekniker används sida vid sida. Intervjuerna visar hur digitalt skapande kan bredda ämnets sätt att arbeta med visuell kommunikation, medan lärarna också framhåller värdet av praktisk kunskap om redskap och material. Perspektiven belyser skillnader mellan lärarnas erfarenhet av en förändrad undervisning och elevernas vardagliga bruk av digitala verktyg. Den undersökta skolans utrustning och arbetssätt ger ett lokalt sammanhang för resultaten. Studiens deltagare ger exempel på möjligheter och avvägningar i just den verksamheten.",
+      "topic_sv": "Samspel mellan analoga och digitala arbetssätt i gymnasiets bildämne",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Kvalitativ intervjustudie",
+          "kind": "design",
+          "pdf_page": 13,
+          "evidence_sv": "Analoga och digitala arbetssätt undersöks genom intervjupersonernas beskrivningar."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 14,
+          "evidence_sv": "Lärare och elever får utveckla sina erfarenheter av analoga och digitala arbetssätt."
+        },
+        {
+          "label": "Kodning inspirerad av grundad teori",
+          "kind": "analys",
+          "pdf_page": 15,
+          "evidence_sv": "Transkript jämförs och ordnas i återkommande kategorier enligt den beskrivna analysen."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+      "themes": [
+        "Digital kultur och medier",
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning"
+      ],
+      "research_settings": [
+        "Gymnasium"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Bildlärare",
+        "Gymnasieelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        4,
+        13,
+        14,
+        15,
+        26
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "8817e84c492bc9b00ccd7544f74d86b387762babf69a5060fe9d2b187cadc177",
+      "pdf_page_count": 32,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Grupparbete som undervisningsmetod i slöjden: Slöjdlärares syn på och erfarenheter av kooperativt lärande i textilslöjd",
+      "title_sv": "Grupparbete som undervisningsmetod i slöjden: Slöjdlärares syn på och erfarenheter av kooperativt lärande i textilslöjd",
+      "authors": "Alexandra Boman",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "archive_metadata",
+      "year_note_sv": "Den indexerade DiVA-posten har det bibliografiska året 2024. Försättsbladet anger höstterminen 2023.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Grupparbeten kan göra elever till resurser för varandras lärande, men vad får dem att ta plats i den vanliga textilslöjden? I intervjuer skiljer lärarna mellan ordinarie slöjdlektioner med individuella arbeten och andra undervisningstillfällen där gemensamma uppgifter får större utrymme. De berättar om positiva erfarenheter av samarbete och om hinder som osäkerhet kring bedömning och vana att planera för individuella prestationer. Studien lyfter spänningen mellan viljan att skapa fler gemensamma lärsituationer och praktiken att bedöma individuella prestationer. Underlaget består av lärarutsagor från ett lokalt urval.",
+      "topic_sv": "Kooperativt lärande i textilslöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 13,
+          "evidence_sv": "En intervjuguide med öppna följdfrågor användes för att undersöka lärarnas erfarenheter av grupparbete."
+        },
+        {
+          "label": "Tematisk kategorisering",
+          "kind": "analys",
+          "pdf_page": 14,
+          "evidence_sv": "Meningsbärande avsnitt sorterades till kategorier som jämfördes mellan intervjuerna."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Samarbete och gemenskap"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Textilslöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        13,
+        14
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1842005/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "0a4b1fb3029579f5d4a7d321aa11bffc99f41490b02a7bb4ba86095d62b9e612",
+      "pdf_page_count": 32,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Slöjdundervisning för handlingsberedskap – Om att utveckla elevers problemlösningsförmåga och självständighet i grundskolan",
+      "title_sv": "Slöjdundervisning för handlingsberedskap – Om att utveckla elevers problemlösningsförmåga och självständighet i grundskolan",
+      "authors": "Anna Forsman; Anna Martinsson",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "När ett slöjdarbete kör fast behöver eleven kunna bedöma situationen och prova en lösning. Författarna undersöker hur grundskolans slöjdlärare förstår den handlingsberedskapen och hur de försöker utveckla den. Lärares beskrivningar pekar mot tydliga lärandemål, loggböcker, utmanande frågor och en kombination av muntliga, praktiska och visuella sätt att kommunicera. Loggboken kan hjälpa eleven att formulera vad som hände och hur arbetet kan fortsätta, vilket också ger underlag för återkoppling. Intervjuerna ger en bild av lärarnas mål och arbetssätt. Elevernas faktiska problemlösning har inte observerats.",
+      "topic_sv": "Problemlösning, slöjdloggböcker och återkoppling",
+      "primary_method": "Fenomenografi",
+      "methods": [
+        {
+          "label": "Fenomenografisk ansats",
+          "kind": "design",
+          "pdf_page": 17,
+          "evidence_sv": "Författarna anger en fenomenografisk ansats för att undersöka lärarnas uppfattningar om handlingsberedskap och undervisning."
+        },
+        {
+          "label": "Kvalitativa intervjuer",
+          "kind": "insamling",
+          "pdf_page": 19,
+          "evidence_sv": "Slöjdlärares beskrivningar samlades in vid intervjuer i flera format och transkriberades."
+        },
+        {
+          "label": "Doxatisk intervjuanalys",
+          "kind": "analys",
+          "pdf_page": 19,
+          "evidence_sv": "Lärarnas utsagor sorterades induktivt och svarskategoriernas frekvens sammanställdes."
+        }
+      ],
+      "method_note_sv": "Författarna namnger en fenomenografisk ansats. Intervjuinsamlingen och den doxatiska analysen har egna metodkoder. Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Kunskap och vetenskap"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        17,
+        19
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946219/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "ccbbc64c475ccb40753d1e7d3800ee1f7f54260ebb04565c86b27a36d7159393",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Att lära genom händerna – Kunskapsöverföring i slöjdundervisningen",
+      "title_sv": "Att lära genom händerna – Kunskapsöverföring i slöjdundervisningen",
+      "authors": "Anthon Hernvall",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Kurskoden 6KP016 i PDF-dokumentets titelmetadata motsvarar grundnivå enligt Umeå universitets kursplan. Den indexerade DiVA-posten använder en separat klassificering för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Hur lär man ut handgrepp och omdömen som är svåra att förklara i ord? Med intervjuer som underlag beskriver studien hur slöjdlärare på högstadiet kombinerar visning, övning och återkoppling för att hjälpa elever att utveckla praktiskt kunnande. Lärarna lyfter lektionsstruktur, uppgiftens utformning och hur salen gör det möjligt att observera en handling eller prova själv. Tryggheten att få göra fel är också en del av den miljön. Studien ger exempel på hur lärare stödjer erfarenhetsbaserat lärande. Hur kunskapen uppstår och förändras för eleverna undersöks inte direkt.",
+      "topic_sv": "Tyst kunskap och praktisk demonstration",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 12,
+          "evidence_sv": "Slöjdlärare intervjuades om hur de stödjer överföringen av kunskap som är svår att verbalisera."
+        },
+        {
+          "label": "Kvalitativ innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 12,
+          "evidence_sv": "Utskrifterna bearbetades genom kvalitativ kategorisering av lärarnas beskrivningar."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Kropp, sinnen och materialitet",
+        "Undervisning och lärande",
+        "Kunskap och vetenskap"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        12,
+        14,
+        15
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946204/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "c83fae8f2ec9cd94cff8bd8ac4b91583c8b8c424d66ba8f637151fa82bae16d2",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Inspiration i slöjdundervisning. En studie om inspirationsmaterial inverkan på elevernas arbete",
+      "title_sv": "Inspiration i slöjdundervisning. En studie om inspirationsmaterial inverkan på elevernas arbete",
+      "authors": "Elin Hamberg Bernerstedt",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Arbetet handlar om hur slöjdlärare väljer och använder exempel som elever kan ta avstamp i när de ska formulera egna idéer. Lärare från textilslöjd och trä- och metallslöjd berättar i intervjuer om värdet av att visa tillräckligt mycket för att göra uppgiften begriplig, samtidigt som utrymmet för självständiga lösningar behöver finnas kvar. Författaren synliggör därmed hur inspirationsmaterial kan fungera som didaktiskt stöd och hur mängden kan spela roll. Undersökningen belyser lärarnas uppfattningar. Effekterna på elevernas idéer eller arbeten har inte mätts.",
+      "topic_sv": "Inspirationsmaterial och elevers idéarbete",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 13,
+          "evidence_sv": "Aktiva slöjdlärare fick svara på gemensamma frågor och individuella följdfrågor om inspirationsmaterial."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 15,
+          "evidence_sv": "Intervjuerna närlästes och kodades för att hitta likheter och skillnader i lärarnas svar."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        13,
+        14,
+        15
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946207/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "c01f163024bad51d08330530f423a852bfb82ff8847ee43ac8bedb2cd62c2fb9",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Skolslöjd i Sverige och Indien – En jämförande studie utifrån ett geografiskt, kulturellt och hållbarhetsperspektiv",
+      "title_sv": "Skolslöjd i Sverige och Indien – En jämförande studie utifrån ett geografiskt, kulturellt och hållbarhetsperspektiv",
+      "authors": "Elizabeth Kuruvilla",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien jämför hur lärare beskriver skolslöjd i Sverige och hantverksrelaterade skolämnen i Indien. Intervjuerna visar gemensamma pedagogiska frågor, exempelvis hur lärare engagerar elever och anpassar undervisningen till de material som finns. Författaren visar också att läroplaner, lokaler och resurser ger lärarna olika handlingsutrymme. I de undersökta miljöerna betonar vissa lärare elevers välmående och andra möjligheter till framtida självförsörjning. Jämförelsen hjälper till att synliggöra vilka mål som får plats under skilda villkor. Den bygger på ett litet urval lärares erfarenheter och bör läsas som en jämförelse av de undersökta sammanhangen.",
+      "topic_sv": "Skolslöjdens kulturella och materiella villkor i Sverige och Indien",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Jämförande kvalitativ studie",
+          "kind": "design",
+          "pdf_page": 16,
+          "evidence_sv": "Studien jämför lärares uppfattningar om slöjd och hantverksundervisning i två nationella sammanhang."
+        },
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 16,
+          "evidence_sv": "Lärare intervjuades digitalt med en gemensam uppsättning öppna frågor på svenska eller engelska."
+        },
+        {
+          "label": "Systematisk tematisk analys",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Relevanta delar av intervjuerna bearbetades genom en stegvis tematisk analys."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Kulturarv, plats och nordliga sammanhang",
+        "Undervisning och lärande",
+        "Hållbarhet och konsumtion",
+        "Material, teknik och tillverkning"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Lärare i slöjd och hantverksrelaterade skolämnen"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        16,
+        19,
+        20,
+        34
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946243/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "84fdfc5edf92a4f9b7e6e712c36c760e2f882220486364fc18daf72d20e7a5c8",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "AI som verktyg i textil slöjd – En studie om användningen av AI i idéprocessen för årskurs 7-9",
+      "title_sv": "AI som verktyg i textil slöjd – En studie om användningen av AI i idéprocessen för årskurs 7-9",
+      "authors": "Eva von Bonsdorff; Isabelle Hall",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Författarna prövar hur ett bildgenererande AI-verktyg kan påverka högstadieelevers idéarbete i textilslöjd. Efter ett eget utforskande av verktyget följer de två undervisningssituationer och analyserar elevernas intervjusvar och reflektioner. Eleverna kunde få oväntade visuella förslag, samtidigt som arbetet med att formulera instruktioner och tolka resultatet krävde stöd. De etiska frågor som uppstod gav också material för samtal om teknikens roll i skapandet. Studien visar vad som kan bli synligt i två lokala undervisningssituationer. Den säger mindre om hur verktyget påverkar elevernas självständiga slöjdarbete efter prövningen.",
+      "topic_sv": "Generativ AI i textilslöjdens idéprocess",
+      "primary_method": "Fallstudie",
+      "methods": [
+        {
+          "label": "Etnografisk förstudie",
+          "kind": "design",
+          "pdf_page": 23,
+          "evidence_sv": "Författarna beskriver sitt eget utforskande av bildgeneratorn som en etnografisk förstudie."
+        },
+        {
+          "label": "Fallstudie",
+          "kind": "design",
+          "pdf_page": 23,
+          "evidence_sv": "Undervisningssituationen följdes i två avgränsade fall i textilslöjden."
+        },
+        {
+          "label": "Fokusgruppsintervju",
+          "kind": "insamling",
+          "pdf_page": 22,
+          "evidence_sv": "Elever i det första fallet intervjuades gemensamt om erfarenheter och etiska frågor."
+        },
+        {
+          "label": "Semistrukturerad intervju",
+          "kind": "insamling",
+          "pdf_page": 22,
+          "evidence_sv": "Det andra fallet använde individuella intervjuer för motsvarande frågor."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 29,
+          "evidence_sv": "Intervjusvar och reflektioner kategoriserades efter återkommande innehåll."
+        }
+      ],
+      "method_note_sv": "Fallstudie är huvudkoden för prövningen i två klassrum. Etnografisk förstudie och intervjuer är egna delar i författarnas upplägg. Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Digital kultur och medier",
+        "Undervisning och lärande",
+        "Estetik och visuell kultur"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Grundskoleelever"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        21,
+        22,
+        23,
+        29
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946252/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "d14fad19ae7935d50d32433a0d3f4a4b5f6b3473693e8a4a5255874288c218ec",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”Man måste ju överleva också” – En kvalitativ studie om slöjdlärares upplevelser av slöjdvalets borttagande",
+      "title_sv": "”Man måste ju överleva också” – En kvalitativ studie om slöjdlärares upplevelser av slöjdvalets borttagande",
+      "authors": "Kajsa Bockholt; Marie Sjöberg",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "archive_metadata",
+      "year_note_sv": "Den indexerade DiVA-posten har det bibliografiska året 2024. Försättsbladet anger höstterminen 2023.",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Kurskoden 6KP016 i PDF-dokumentets titelmetadata motsvarar grundnivå enligt Umeå universitets kursplan. Den indexerade DiVA-posten använder en separat klassificering för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Vad händer med undervisningen när högstadieelever i stället för att välja slöjdinriktning arbetar växelvis med textil respektive trä och metall? Intervjuer med lärare som varit med om förändringen visar hur gruppstorlek, arbetsbelastning, lokaler och tillgänglig undervisningstid formar valet av organisation. Lärarna beskriver flera fördelar med att elever får prova båda materialområdena. De ser också mindre utrymme för fördjupning inom varje område. Studien synliggör en avvägning mellan bredd och fördjupning. Den bygger på lärarnas erfarenheter av omställningen och följer inte hur elevernas färdigheter förändras.",
+      "topic_sv": "Slöjdval, gruppstorlek och lärarnas arbetsvillkor",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 14,
+          "evidence_sv": "Lärarna intervjuades med gemensamma huvudfrågor och individuellt anpassade följdfrågor."
+        },
+        {
+          "label": "Kvalitativ innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 14,
+          "evidence_sv": "Utskrifterna kodades och återkommande teman sorterades efter grupp, lokal och tid."
+        },
+        {
+          "label": "Ramfaktorteori",
+          "kind": "perspektiv",
+          "pdf_page": 14,
+          "evidence_sv": "Grupp, lokal och tid fungerar som analytiska kategorier för undervisningens villkor."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Identitet och profession",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        13,
+        14
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1840964/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "65c32d4ea30a4ce43a910b2f56689cc90c9a173ee8ac52aa38c2528ebdd97df7",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”Alla ska med på tåget”: En studie om slöjdlärares syn på inkludering",
+      "title_sv": "”Alla ska med på tåget”: En studie om slöjdlärares syn på inkludering",
+      "authors": "Kristina Forsbacka",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan och arkivets index anger 2024. Leveransmappen anger 2025.",
+      "language": "sv",
+      "degree_level": "bachelor",
+      "degree_evidence_sv": "Titelsidan anger ämneslärarexamen. Den bibliografiska indexposten anger examensarbete för yrkesexamen på grundnivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Fem slöjdlärare berättar hur de anpassar undervisningen och lärmiljön för att elever med olika förutsättningar ska kunna delta. Intervjuerna omfattar lärare i både textilslöjd och trä- och metallslöjd. Lärarnas exempel handlar om tydliga rutiner, hur rummet ordnas och hur instruktioner kan ges på flera sätt. Slöjdsalen framstår både som en krävande miljö och som en plats där elever kan få stöd genom att arbeta praktiskt och möta flera former av kommunikation. Studien visar lärarnas perspektiv på inkludering och lämnar elevernas egna erfarenheter öppna för vidare undersökning.",
+      "topic_sv": "Tillgänglig undervisning och lärmiljö i slöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 17,
+          "evidence_sv": "Lärare inom de två materialinriktningarna berättar om hur de arbetar med inkludering."
+        },
+        {
+          "label": "Tematisk kodning",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Ord och fraser sorteras till underteman inom tre huvudteman som följer studiens frågor."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Makt, delaktighet och rättvisa",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        17,
+        20,
+        33
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "3fe8ea755013f08fe43bea8a0f51269594f48a2bf77d152d4341f1453ad41113",
+      "pdf_page_count": 44,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": true,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”De kan ju ingenting” – En enkätundersökning om övergången mellan årskurs sex och sju och önskvärda förkunskaper i slöjdämnet",
+      "title_sv": "”De kan ju ingenting” – En enkätundersökning om övergången mellan årskurs sex och sju och önskvärda förkunskaper i slöjdämnet",
+      "authors": "Lina Jägrup",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Försättsbladet anger vårterminen 2024. Bibliografiskt år har inte kontrollerats i en separat arkivpost.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Försättsbladet anger ett examensarbete inom KPU. Nivån framgår av filnamnet i leveransen men har inte kunnat bekräftas i arbetet eller en oberoende bibliografisk källa.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "I en webbenkät får slöjdlärare i årskurs sju beskriva vilka redskap, maskiner och tekniker de vill att eleverna ska kunna använda när de kommer från mellanstadiet. Svaren lyfter bland annat sågning, sax, symaskin och pelarborr. Lärarna rapporterar också ett glapp mellan den information de skulle behöva om elevernas tidigare slöjdundervisning och den information som faktiskt lämnas över. Undersökningen sätter fokus på kontinuiteten mellan skolstadierna och på vilka kunskaper som tas för givna. Självrekryterade enkätsvar visar lärarnas förväntningar och erfarenheter, utan att ge ett direkt mått på vad eleverna kan.",
+      "topic_sv": "Förkunskaper och övergången till högstadiets slöjd",
+      "primary_method": "Enkätstudie",
+      "methods": [
+        {
+          "label": "Webbenkät",
+          "kind": "insamling",
+          "pdf_page": 16,
+          "evidence_sv": "Slöjdlärare i årskurs sju besvarade fasta och öppna frågor om undervisningens övergång och förkunskaper."
+        },
+        {
+          "label": "Tematisk kodning av fritext",
+          "kind": "analys",
+          "pdf_page": 17,
+          "evidence_sv": "Fritextsvar grupperades efter innehåll så att förekomsten av olika svar kunde sammanställas."
+        },
+        {
+          "label": "Deskriptiv sammanställning",
+          "kind": "analys",
+          "pdf_page": 17,
+          "evidence_sv": "Antalet svar per kategori beräknades för att kunna jämföra svarsmönster."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning",
+        "Samarbete och gemenskap"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        16,
+        17
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "b07c02b9693de6d8b2b821f62fadd00098e3bf6a16606156d87499b8d72854c8",
+      "pdf_page_count": 35,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Slöjdlärare och deras slöjdsalar – En kvalitativ studie om funktionalitet, undervisning och arbetsmiljö",
+      "title_sv": "Slöjdlärare och deras slöjdsalar – En kvalitativ studie om funktionalitet, undervisning och arbetsmiljö",
+      "authors": "Rasmus Viklund",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Höstterminen 2024 anges på försättsbladet och den indexerade DiVA-posten har det bibliografiska året 2024.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Slöjdsalens rumsliga förutsättningar påverkar vilka moment som kan undervisas och på vilket sätt. I intervjuer berättar lärare att lokalerna ofta fungerar för vardagsarbetet, samtidigt som utrymme och utrustning kan begränsa moment som vävning och metallarbete. Lärarna beskriver också arbetsmiljöproblem och hur de själva anpassar lokalerna för att få undervisningen att fungera. Studien flyttar blicken från valet av enskilda uppgifter till de materiella och organisatoriska villkor som omger arbetet. Den bygger på lärares erfarenheter från olika slags salar. Den innehåller ingen teknisk bedömning av arbetsmiljön.",
+      "topic_sv": "Slöjdsalens utrustning, lärmiljö och arbetsmiljö",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 15,
+          "evidence_sv": "Lärarna intervjuades med öppna frågor om undervisning, arbetsmiljö och salarnas egenskaper."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 18,
+          "evidence_sv": "Intervjutexterna kodades och teman utvecklades huvudsakligen induktivt."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning",
+        "Välbefinnande och omsorg",
+        "Identitet och profession"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        15,
+        16,
+        18
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946233/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "afbd0d6e1a914631824a7e22b6bc0eccb443e3cc08288800ee526b39682b571c",
+      "pdf_page_count": 44,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "”Finmotoriska förmågor kan öppna många lås” – En kvalitativ intervjustudie om elevers finmotoriska förmågor i trä- och metallslöjden",
+      "title_sv": "”Finmotoriska förmågor kan öppna många lås” – En kvalitativ intervjustudie om elevers finmotoriska förmågor i trä- och metallslöjden",
+      "authors": "Sebastian Hansson; Rami Farajallah",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "title_page",
+      "year_note_sv": "Försättsbladet anger vårterminen 2024. Årtalet 2025 i filnamnet har inte kunnat bekräftas som bibliografiskt år.",
+      "language": "sv",
+      "degree_level": "unknown",
+      "degree_evidence_sv": "Försättsbladet anger ett examensarbete inom KPU. Nivån framgår av filnamnet i leveransen men har inte kunnat bekräftas i arbetet eller en oberoende bibliografisk källa.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Arbetet tar upp vilka praktiska förmågor som behövs för att elever ska kunna använda redskap och utföra moment i trä- och metallslöjden. Erfarna lärare intervjuas om finmotorikens betydelse och hur de upplever att elevernas färdigheter har förändrats under deras yrkesliv. I lärarnas berättelser återkommer en oro över att vissa grundläggande förmågor har försvagats och behöver uppmärksammas i undervisningen. Resultaten ger insyn i vilka förändringar lärarna har lagt märke till och hur de värderar dem. Studien mäter inte elevers motorik över tid, så utsagorna kan inte fastställa en generell försämring.",
+      "topic_sv": "Finmotoriskt kunnande i trä- och metallslöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 17,
+          "evidence_sv": "Erfarna lärare intervjuades om finmotoriska färdigheter och vilka förändringar de märkt över tid."
+        },
+        {
+          "label": "Tematisk innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Likheter och skillnader i intervjusvaren jämfördes för att utveckla teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Kropp, sinnen och materialitet",
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Lärare i trä- och metallslöjd"
+      ],
+      "source_pdf_pages": [
+        1,
+        2,
+        9,
+        17,
+        18,
+        20
+      ],
+      "source_url": null,
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "22daabc142ac45f5605021799f0fdf58ab740cd39408a459a5b374fa98cdc99c",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Språka på slöjdiska – Kvalitativ studie om multimodal språkutveckling inom slöjdämnet",
+      "title_sv": "Språka på slöjdiska – Kvalitativ studie om multimodal språkutveckling inom slöjdämnet",
+      "authors": "Soondely de Jesus Wang; Sanna Haverinen",
+      "author_count": 2,
+      "year": 2024,
+      "year_basis": "archive_metadata",
+      "year_note_sv": "Den indexerade DiVA-posten har det bibliografiska året 2024. Försättsbladet anger höstterminen 2023.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Hur gör lärare slöjdens fackspråk tillgängligt för elever samtidigt som de lär ut praktiska moment? Studien bygger på intervjuer med slöjdlärare som arbetar aktivt med språkutveckling. De beskriver hur demonstrationer, bilder, filmer och skriftliga instruktioner kan samspela med samtal om redskap och tekniker. Ett praktiskt moment kan på så vis ge elever flera sätt att tolka och använda ämnesspråket. Författarna lyfter potentialen i ett språkmedvetet arbetssätt inom slöjd. Intervjumaterialet visar hur lärarna resonerar och vilka strategier de beskriver. Det innehåller inga direkta uppföljningar av elevernas språkutveckling.",
+      "topic_sv": "Fackspråk och multimodalt stöd i slöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 17,
+          "evidence_sv": "Lärare intervjuades digitalt om erfarenheter av språkutvecklande arbete i slöjd."
+        },
+        {
+          "label": "Tematisk innehållsanalys",
+          "kind": "analys",
+          "pdf_page": 18,
+          "evidence_sv": "Intervjusvar kodades och organiserades i huvudteman och underteman för att kunna jämföras."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Undervisning och lärande",
+        "Makt, delaktighet och rättvisa"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        16,
+        17,
+        18,
+        21
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1843568/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "e945eaab3e14716dbba25c0911f270e0cef515234ef660ab855885a7d52ae172",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Slöjdmaterialens miljöpåverkan: Trä- och metallslöjdlärares beskrivningar av undervisning och bedömning",
+      "title_sv": "Slöjdmaterialens miljöpåverkan: Trä- och metallslöjdlärares beskrivningar av undervisning och bedömning",
+      "authors": "Staffan Berglöf",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "conflict",
+      "year_note_sv": "Titelsidan anger HT 2023 och leveransmappen 2025. Arkivets index anger 2024, vilket används som bibliografiskt år.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Den bibliografiska indexposten anger examensarbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": null,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Studien undersöker hur lärare i trä- och metallslöjd gör materialens miljöpåverkan till undervisningsinnehåll och vilka underlag de använder för att bedöma elevernas kunnande. Författaren intervjuar fem lärare i grundskolans högstadium och tolkar utsagorna med stöd av ramfaktorteori. Lärarna beskriver jämförelser som tar avstamp i de material som redan finns i elevernas projekt, såsom furu och återbrukat material. Elevens skriftliga reflektion blir ett viktigt underlag för bedömning. Resultaten ger exempel på hur miljöfrågan kan få utrymme i slöjden utifrån ett begränsat lärarurval.",
+      "topic_sv": "Materialjämförelser och miljöbedömning i trä- och metallslöjd",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 18,
+          "evidence_sv": "Författaren intervjuar lärare digitalt med stöd av en guide som ger utrymme för följdfrågor."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 20,
+          "evidence_sv": "Intervjusvaren jämförs och ordnas i teman med stöd av studiens frågor och teorin."
+        },
+        {
+          "label": "Ramfaktorteori",
+          "kind": "perspektiv",
+          "pdf_page": 20,
+          "evidence_sv": "De villkor som formar lärarnas möjligheter att undervisa och bedöma används som tolkningsram."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda avsnitt i arbetet.",
+      "themes": [
+        "Natur och ekologisk hållbarhet",
+        "Material, teknik och tillverkning",
+        "Undervisning och lärande"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Slöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        18,
+        19,
+        20
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1841140/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, abstrakt och utvalda metodavsnitt.",
+      "id": "91fbbe8e55dea4f6f8f2f2dce4bb44f0f352e7bf6615ee3cd1edd056f9e8d805",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2025
+      ],
+      "year_conflict": true,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
+    },
+    {
+      "original_title": "Att bevara det förflutna för att tjäna framtiden – En studie om kulturarv i textilslöjdundervisningen i grundskolan",
+      "title_sv": "Att bevara det förflutna för att tjäna framtiden – En studie om kulturarv i textilslöjdundervisningen i grundskolan",
+      "authors": "Ulrika Karlsson Malik",
+      "author_count": 1,
+      "year": 2024,
+      "year_basis": "archive_metadata",
+      "year_note_sv": "Den indexerade DiVA-posten har det bibliografiska året 2024. Försättsbladet anger höstterminen 2023.",
+      "language": "sv",
+      "degree_level": "advanced_professional",
+      "degree_evidence_sv": "Försättsbladet anger kompletterande pedagogisk utbildning. Den indexerade DiVA-posten klassificerar arbetet som självständigt arbete för yrkesexamen på avancerad nivå.",
+      "degree_pdf_page": 1,
+      "credits": 15,
+      "credit_scope": "thesis",
+      "credits_pdf_page": 1,
+      "summary_sv": "Vad väljer lärare att föra vidare när de arbetar med textilt kulturarv på högstadiet? Intervjuer med textilslöjdlärare från olika delar av Sverige används för att undersöka hur de väljer hantverkstekniker, resurser och exempel. Arbetet problematiserar en undervisning som främst visar nordiska traditioner och diskuterar hur fler kulturella perspektiv kan ta plats. Det väcker också frågan om vilka erfarenheter elever kan bidra med när de möter nya textila praktiker. Studien belyser lärarnas strategier och villkor. Den innehåller inte elevers egna bedömningar av vilka berättelser och uttryck de känner igen i undervisningen.",
+      "topic_sv": "Textilt kulturarv och vilka traditioner som synliggörs",
+      "primary_method": "Intervjustudie",
+      "methods": [
+        {
+          "label": "Semistrukturerade intervjuer",
+          "kind": "insamling",
+          "pdf_page": 12,
+          "evidence_sv": "Textilslöjdlärare intervjuades om sätt att förmedla kulturarv och textila tekniker på högstadiet."
+        },
+        {
+          "label": "Tematisk analys",
+          "kind": "analys",
+          "pdf_page": 13,
+          "evidence_sv": "Utvalda delar av intervjuerna transkriberades och färgkodades för att utveckla och granska teman."
+        }
+      ],
+      "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt.",
+      "themes": [
+        "Kulturarv, plats och nordliga sammanhang",
+        "Makt, delaktighet och rättvisa",
+        "Undervisning och lärande",
+        "Material, teknik och tillverkning"
+      ],
+      "research_settings": [
+        "Grundskola"
+      ],
+      "artistic_component": false,
+      "participant_groups_sv": [
+        "Textilslöjdlärare"
+      ],
+      "source_pdf_pages": [
+        1,
+        3,
+        11,
+        12,
+        13
+      ],
+      "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1844165/FULLTEXT01.pdf",
+      "coding_confidence": "source_supported",
+      "coding_basis": "AI-assisterad läsning av försättsblad, sammanfattning och utvalda metodavsnitt.",
+      "id": "2cf0302e3a93ae728f7174739cb1e6f953b0d313926ffaa1b8cf581440f343aa",
+      "pdf_page_count": 42,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "country": "Sverige",
+      "year_folder_values": [
+        2024
+      ],
+      "year_conflict": false,
+      "analysis_summary_label": "Analysreferat · AI-assisterat, inte författarens abstrakt"
     }
   ],
   "audit": {
@@ -20837,6 +23823,15 @@
         "note_sv": "Katalogen anger slöjd, men titelsidan anger självständigt arbete i bild och ämneslärarprogrammet 7–9."
       },
       {
+        "id": "fa1cf78347c31965d0e5249da12c6854a83c075ee50e5cbf999b0a185c2bae60",
+        "title": "ELEVERS MOTIVATION I BILDÄMNET.",
+        "from_track_ids": [
+          "umea-slojd"
+        ],
+        "to_track_id": "umea-bild",
+        "note_sv": "Arbetet låg i leveransens slöjdmapp. Syfte, undervisningskontext och författarens ämnesinriktning i texten avser bild."
+      },
+      {
         "id": "fd7cf5f03c5e20dc2d482a3637d0208c0c94ecbfc6659f477ddb7058d7710202",
         "title": "Bioplast – ett slöjdmaterial? Tekniska, etiska och estetiska överväganden",
         "from_track_ids": [
@@ -20848,6 +23843,6 @@
     ],
     "duplicate_file_count": 1,
     "multi_pdf_work_count": 2,
-    "year_conflict_count": 3
+    "year_conflict_count": 5
   }
 }

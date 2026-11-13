@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "2026-11-09-editorial-1",
+    "version": "2026-11-13-editorial-1",
     "source": "docs/data/newsroom.json",
-    "scope_sv": "Frågestyrda redaktionella läsningar av det levererade urvalet 2024–2026. Befintliga AI-assisterade referat och metodparafraser har lästs. Ingen ny PDF-granskning eller oberoende dubbelkodning påstås.",
+    "scope_sv": "Frågestyrda redaktionella läsningar av det levererade urvalet 2024–2026. Exemplen bygger på AI-assisterade analysreferat och metodparafraser. Kodningen har inte dubbelgranskats oberoende.",
     "numbers_sv": "Inga fasta jämförelsetal anges i introduktionerna. Nämnare och exempel behöver avgränsas dynamiskt efter år och ämnesval.",
     "rarity_sv": "Smala titelord används som transparenta ämnesingångar. En liten sökträffmängd är inte ett belägg för nationell eller internationell sällsynthet."
   },
@@ -35,6 +35,15 @@
           "limitation_sv": "Arbetet beskriver en specifik reparationsprocess och mäter inte plaggets faktiska miljöeffekt."
         },
         {
+          "record_id": "f31d13318740ec247ddb8435e04321bddd5f495337bcfe41f1bf918f5ab1617e",
+          "original_title": "Innehåll och perspektiv i SLÖJDUNDERVISNING FÖR HÅLLBAR UTVECKLING",
+          "title_sv": "Innehåll och perspektiv i SLÖJDUNDERVISNING FÖR HÅLLBAR UTVECKLING",
+          "year": 2025,
+          "role": "example",
+          "commentary_sv": "I Umeåarbetet får både lärare och högstadieelever beskriva hållbarhetsundervisningen i slöjd. Återbruk är ett konkret innehåll; studien undersöker också vilka val och ställningstaganden eleverna får pröva.",
+          "limitation_sv": "Intervjuerna gäller en kommun och återger deltagarnas beskrivningar av undervisningen."
+        },
+        {
           "record_id": "6c3c7bbae64a11523f8cb2bf790847cc9313efd9fc3e5bcd2b749c1b8454bc83",
           "original_title": "Käsityönopettajaopiskelijoiden käsityksiä kestävän kehityksen opettamisesta käsityön oppiaineessa",
           "title_sv": "Slöjdlärarstuderandes uppfattningar om undervisning i hållbar utveckling i slöjdämnet",
@@ -42,6 +51,15 @@
           "role": "example",
           "commentary_sv": "Slöjdlärarstudenters essäer lyfter särskilt ekologiska och ekonomiska perspektiv, återbruk och ansvarsfull konsumtion. Texten öppnar samtidigt för sociala och kulturella dimensioner.",
           "limitation_sv": "Studenternas uttryckta uppfattningar är inte en prövning av deras genomförda undervisning."
+        },
+        {
+          "record_id": "91fbbe8e55dea4f6f8f2f2dce4bb44f0f352e7bf6615ee3cd1edd056f9e8d805",
+          "original_title": "Slöjdmaterialens miljöpåverkan: Trä- och metallslöjdlärares beskrivningar av undervisning och bedömning",
+          "title_sv": "Slöjdmaterialens miljöpåverkan: Trä- och metallslöjdlärares beskrivningar av undervisning och bedömning",
+          "year": 2024,
+          "role": "example",
+          "commentary_sv": "Fem lärare i trä- och metallslöjd beskriver hur de tar upp materialens miljöpåverkan med exempel från elevernas pågående projekt. Elevernas skriftliga reflektioner kan ge underlag för bedömning.",
+          "limitation_sv": "Intervjuerna visar lärarnas beskrivningar. Studien mäter varken elevernas kunskaper eller materialens miljöpåverkan."
         },
         {
           "record_id": "54a4cb16d4b87d21301c20eb44dc9c95289328f139271bf64991036018484b01",
@@ -173,6 +191,15 @@
       ],
       "stat_plan_sv": "Redovisa uttryckligt kodade forskningsmiljöer separat, särskilt Fritid och hobby och Yrkesliv. Annat får inte räknas som säkert utanför skolan. Grundskola + Annat kan avse ett skolbesök i en annan miljö. Skilj faktisk forskningskontext från programmets behörighetsinriktning.",
       "evidence": [
+        {
+          "record_id": "5e9cdabb793d706291d76d0a17b4b010261c0701d0fd34768aa725b9bf52bf70",
+          "original_title": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+          "title_sv": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+          "year": 2025,
+          "role": "counterexample",
+          "commentary_sv": "Två lektioner i fotografisk bild, en inomhus och en utomhus, ger olika villkor för elevernas skapande. Undervisningen kan lämna klassrummet och fortfarande vara en del av skolans formella verksamhet.",
+          "limitation_sv": "Jämförelsen gäller två observerade lektioner. Även instruktioner och praktiska villkor påverkar hur eleverna arbetar."
+        },
         {
           "record_id": "f10b68a67ab2dbc343be580605302705a6409dc8875cb94e10dcb56f7d8863ee",
           "original_title": "Veneenveistokurssi kulttuuriperinnön ylläpitäjänä Pohjois-Pohjanmaalla",

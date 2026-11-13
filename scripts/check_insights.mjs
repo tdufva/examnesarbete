@@ -24,9 +24,9 @@ for(const discipline of ['all','bild','slojd']){
  const annual=annualInsights(records,tracks,discipline);
  assert.equal(annual.reduce((n,c)=>n+c.total,0),describeInsight(records,tracks,discipline).total);
 }
-assert.equal(describeInsight(records,tracks).total,270);
+assert.equal(describeInsight(records,tracks).total,309);
 assert.equal(describeInsight(records,tracks,'bild','2026').total,0);
 assert.equal(describeInsight(records,tracks,'slojd','2026').total,44);
 assert.equal(themeShift(records,tracks,'bild','2026'),null);
-assert.equal(describeInsight(records,tracks,'bild').total+describeInsight(records,tracks,'slojd').total,270);
+assert.equal(describeInsight(records,tracks,'bild').total+describeInsight(records,tracks,'slojd').total,309);
 console.log('Newsroom insights passed: subject/year scopes, separate subjects, annual totals, missing 2026 art data, change denominators and programme profiles.');

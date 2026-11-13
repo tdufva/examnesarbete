@@ -7,7 +7,7 @@ Required fields:
 - `id`: `sha256` from the supplied packet (unmodified).
 - `original_title`, `title_sv`: full title, original before a faithful Swedish translation; native Swedish stays unchanged. Preserve artistic ambiguity. An English title does not establish the language of the whole thesis.
 - `authors`: public author names only; `author_count`: integer when named, otherwise null. Count one coauthored paper once.
-- `year`: actual publication/examination year 2024–2026 if established. `year_basis`: `title_page`, `abstract_page`, `folder_only`, or `conflict`; `year_note_sv`: state discrepancies. Do not take a year mentioned in references as publication year.
+- `year`: actual publication/examination year 2024–2026 if established. `year_basis`: `archive_metadata`, `title_page`, `abstract_page`, `folder_only`, or `conflict`. Use a verified repository publication year when available; otherwise use the documented term or examination year. In `year_note_sv`, name the basis and distinguish the cover term, archive year and folder year when they differ. Do not take a year mentioned in references as publication year.
 - `language`: `fi`, `sv`, `en`, `mixed`, or `und` based on source prose.
 - `degree_level`: `advanced_professional`, `master`, `bachelor`, or `unknown`. `degree_evidence_sv` and `degree_pdf_page`: verified source basis; no university-wide assumptions.
 - `credits`: numeric ECTS/hp explicitly stated for THIS thesis or null; `credit_scope`: `thesis`, `thesis_and_seminar`, or `unknown`. `credits_pdf_page`: actual page or null. Do not assign credits by university, filename, thesis length or graduation year.

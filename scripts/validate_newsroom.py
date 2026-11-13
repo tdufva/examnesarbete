@@ -18,11 +18,18 @@ themes = {'Undervisning och lärande','Natur och ekologisk hållbarhet','Hållba
 settings = {'Grundskola','Gymnasium','Förskola','Lärarutbildning','Högskola','Fritid och hobby','Yrkesliv','Arkiv, texter och föremål','Annat','Inte fastställbart'}
 
 assert meta['complete'] and meta['missing_coding'] == 0
-assert len(tracks) == 9 and len({t['university'] for t in tracks.values()}) == 7
-assert len(records) == meta['in_scope_count'] == 270
-assert meta['file_count'] == 277 and meta['unique_pdf_count'] == 276
-assert meta['unique_work_candidates'] == 274
+universities = {t['university'] for t in tracks.values()}
+assert len(tracks) == 11 and len(universities) == 8
+assert len(records) == meta['in_scope_count'] == 309
+assert meta['file_count'] == manifest['file_count'] == 316
+assert meta['unique_pdf_count'] == manifest['unique_pdf_count'] == 315
+assert meta['unique_work_candidates'] == len(manifest['works']) == 313
 assert len(audit['outside_period']) == 3 and len(audit['other_programmes']) == 1
+umea_tracks = {t['id'] for t in tracks.values() if t['university'] == 'umea'}
+assert umea_tracks == {'umea-bild', 'umea-slojd'}
+assert all(tracks[t]['country'] == 'Sverige' for t in umea_tracks)
+assert sum(c['files'] for c in data['coverage'] if c['track_id'] in umea_tracks) == 39
+assert all(not (c['files'] or c['works']) for c in data['coverage'] if c['track_id'] in umea_tracks and c['year'] == 2026)
 assert meta['unique_work_candidates'] == len(records) + len(audit['outside_period']) + len(audit['other_programmes'])
 assert meta['file_count'] - meta['unique_pdf_count'] == audit['duplicate_file_count'] == 1
 assert meta['unique_pdf_count'] - len(manifest['works']) == audit['multi_pdf_work_count'] == 2
@@ -39,6 +46,8 @@ for r in records:
     assert r['track_ids'] and set(r['track_ids']) <= tracks.keys(), name
     assert r['country'] == tracks[r['track_ids'][0]]['country'], name
     assert r['title_sv'] and r['summary_sv'] and r['authors'], name
+    if umea_tracks.intersection(r['track_ids']):
+        assert isinstance(r['authors'],str), name
     assert r['primary_method'] in designs, (name,r['primary_method'])
     assert 1 <= len(r['themes']) <= 4 and set(r['themes']) <= themes, name
     assert set(r['research_settings']) <= settings, name
@@ -58,4 +67,4 @@ for path in ['docs/data/newsroom.json','data/newsroom_manifest.json']:
     assert not any(k in text for k in ['"first_pages"','"method_excerpts"','"relative_path"','"pdf_metadata"','"pages":','/Users/','/private/','mailto:']), path
     assert not re.search(r'[\w.+-]+@[\w.-]+\.[a-z]{2,}',text), path
 assert not any((ROOT/'docs').rglob('*.pdf')), 'A PDF entered the published directory'
-print(f'Newsroom validated: {len(records)} works, 9 tracks, 7 universities; evidence and public-data boundaries checked.')
+print(f'Newsroom validated: {len(records)} works, {len(tracks)} tracks, {len(universities)} universities; evidence and public-data boundaries checked.')

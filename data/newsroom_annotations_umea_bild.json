@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "de86aee26cae3799e866af88f99c5d3053ae50322abd78f612e48ac485a03dc4",
+    "original_title": "Genus i bildämnet: Praktiska exempel och metoder för årskurs 7–9 i grundskolan",
+    "title_sv": "Genus i bildämnet: Praktiska exempel och metoder för årskurs 7–9 i grundskolan",
+    "authors": "Charlotte Åberg",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger VT 2024.",
+    "language": "sv",
+    "degree_level": "bachelor",
+    "degree_evidence_sv": "Titelsidan anger ett KPU-arbete. Den indexerade bibliografiska posten klassificerar det som ett arbete för yrkesexamen på grundnivå.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Genusmedveten undervisning studeras genom samtal med högstadiets bildlärare och genom observation av en lektion. Lärarna beskriver hur uppgifter, bildexempel och egna förhållningssätt kan få elever att uppmärksamma föreställningar om kön. Under den observerade lektionen tog eleverna sig delvis an uppgiften på andra sätt än de avsedda. Kombinationen av datakällor synliggör därför hur lärarnas intentioner och elevernas sätt att delta kan skilja sig. En lektion ger ett konkret exempel på den skillnaden, medan lärarintervjuerna står för större delen av studiens underlag.",
+    "topic_sv": "Jämställdhet och genus i högstadiets bildundervisning",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 2,
+        "evidence_sv": "Intervjuer och deltagande observation kombineras för att undersöka bildlärares genusarbete."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 14,
+        "evidence_sv": "Bildlärare får beskriva undervisning och tolkning av läroplanen."
+      },
+      {
+        "label": "Deltagande observation",
+        "kind": "insamling",
+        "pdf_page": 15,
+        "evidence_sv": "Författaren observerar hur elever tar sig an ett genusinriktat lektionsmoment."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 17,
+        "evidence_sv": "Intervjuer och fältanteckningar kodas för återkommande innehåll och skillnader."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Makt, delaktighet och rättvisa",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Högstadieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      14,
+      15,
+      17,
+      18
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "7958f94364b8977985baab942dc835a9f8a8c3b2a82ea3727a5f1ff9c6314c87",
+    "original_title": "En debatterad bild – en undersökning om bildämnets status",
+    "title_sv": "En debatterad bild – en undersökning om bildämnets status",
+    "authors": "Madeléne Cotz",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Lärare, lärarstudenter, lärarutbildare och högstadieelever får beskriva vilken ställning bildämnet har och vilka prioriteringar de möter. I intervjuerna återkommer en upplevelse av låg status. Flera lärare beskriver att ämnet ofta får mindre utrymme än andra ämnen. Lärarutbildningen framträder samtidigt som en miljö där både uppskattning och nedvärdering av ämnet kan förmedlas. De olika deltagargrupperna belyser hur ämnets ställning upplevs på flera nivåer. Undersökningen handlar om upplevda prioriteringar och ger inget direkt mått på resurser eller undervisningstid.",
+    "topic_sv": "Bildämnets status och prioritering i skola och lärarutbildning",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 16,
+        "evidence_sv": "Intervjuer används för att fånga erfarenheter och uppfattningar om bildämnets ställning."
+      },
+      {
+        "label": "Strukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 16,
+        "evidence_sv": "Samma förberedda frågor används för att undersöka flera gruppers syn på ämnet."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 18,
+        "evidence_sv": "Intervjusvaren färgkodas och ordnas i teman efter genomläsning."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Identitet och profession",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Grundskola",
+      "Lärarutbildning"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Högstadieelever",
+      "Bildlärarstudenter",
+      "Bildlärarutbildare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      16,
+      18
+    ],
+    "source_url": "https://www.diva-portal.org/smash/get/diva2%3A1841991/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "ff290857a78f8acbe89884a7072900f5d7202cb728750e20e076d109956805e6",
+    "original_title": "Obligatoriskt betygsunderlag eller kreativt redskap? Lärares och elevers erfarenheter av och syn på arbetsprocessdokumentation i bild och form i gymnasieskolan",
+    "title_sv": "Obligatoriskt betygsunderlag eller kreativt redskap? Lärares och elevers erfarenheter av och syn på arbetsprocessdokumentation i bild och form i gymnasieskolan",
+    "authors": "Mats Eriksson; Elise Léonin",
+    "author_count": 2,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Studien undersöker vilken funktion elevernas processdokumentation har i gymnasiets bildkurser. Gymnasielärare intervjuas och elever besvarar en enkät. I båda grupperna beskrivs dokumentationen som ett sätt att synliggöra arbetsprocessen och som ett underlag för betyg. Samtidigt kan den bli tidskrävande och behandlas som en uppgift att bocka av. Elevernas svar synliggör skillnaden mellan att producera dokumentation och att använda den för att reflektera över sitt lärande. Arbetet pekar på betydelsen av avsatt tid och av tydlig kommunikation om varför och hur dokumentationen ska användas.",
+    "topic_sv": "Dokumentation av skapandeprocessen i gymnasiets bildkurser",
+    "primary_method": "Blandad metod",
+    "methods": [
+      {
+        "label": "Kvalitativ och kvantitativ ansats",
+        "kind": "design",
+        "pdf_page": 3,
+        "evidence_sv": "Studien kombinerar kvalitativa lärarintervjuer med en kvantitativ elevenkät."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 18,
+        "evidence_sv": "Bildlärare intervjuas om hur de använder arbetsprocessdokumentation."
+      },
+      {
+        "label": "Kvantitativ elevenkät",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "Gymnasieelever svarar på en enkät om erfarenheter av processdokumentation."
+      },
+      {
+        "label": "Induktiv tematisk analys",
+        "kind": "analys",
+        "pdf_page": 20,
+        "evidence_sv": "Författarna utgår från återkommande innehåll i både intervjuer och enkäter."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Konstnärlig praktik"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Gymnasieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      18,
+      20
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1842021/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "8817e84c492bc9b00ccd7544f74d86b387762babf69a5060fe9d2b187cadc177",
+    "original_title": "Med kunskapen i händerna: En intervjustudie om digitala och analoga arbetssätt i samverkan inom bild på gymnasiet",
+    "title_sv": "Med kunskapen i händerna: En intervjustudie om digitala och analoga arbetssätt i samverkan inom bild på gymnasiet",
+    "authors": "Therése Granholm",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Bildlärare och elever vid ett gymnasium berättar om hur digitala verktyg och analoga tekniker används sida vid sida. Intervjuerna visar hur digitalt skapande kan bredda ämnets sätt att arbeta med visuell kommunikation, medan lärarna också framhåller värdet av praktisk kunskap om redskap och material. Perspektiven belyser skillnader mellan lärarnas erfarenhet av en förändrad undervisning och elevernas vardagliga bruk av digitala verktyg. Den undersökta skolans utrustning och arbetssätt ger ett lokalt sammanhang för resultaten. Studiens deltagare ger exempel på möjligheter och avvägningar i just den verksamheten.",
+    "topic_sv": "Samspel mellan analoga och digitala arbetssätt i gymnasiets bildämne",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 13,
+        "evidence_sv": "Analoga och digitala arbetssätt undersöks genom intervjupersonernas beskrivningar."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 14,
+        "evidence_sv": "Lärare och elever får utveckla sina erfarenheter av analoga och digitala arbetssätt."
+      },
+      {
+        "label": "Kodning inspirerad av grundad teori",
+        "kind": "analys",
+        "pdf_page": 15,
+        "evidence_sv": "Transkript jämförs och ordnas i återkommande kategorier enligt den beskrivna analysen."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Material, teknik och tillverkning"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Gymnasieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      4,
+      13,
+      14,
+      15,
+      26
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "547f8270668003bc05e724c78ccd3792152db85790ea520937d683589af83004",
+    "original_title": "Samtal om bilder – en undersökning av hur bildanalys och bildsamtal används i bildundervisningen på gymnasiet",
+    "title_sv": "Samtal om bilder – en undersökning av hur bildanalys och bildsamtal används i bildundervisningen på gymnasiet",
+    "authors": "Emma-Christina Landqvist; Klara Brydewall Sandquist",
+    "author_count": 2,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Författarna undersöker hur gymnasiets bildlärare arbetar med bildanalys och vad som får utrymme när elever talar om egna bilder. Lärarintervjuer kombineras med observation av en muntlig presentation. Det undersökta materialet tyder enligt författarna på ett behov av att utveckla lärarnas repertoar av analytiska metoder. Studien riktar därmed uppmärksamheten mot hur undervisning om tolkning och samtal kan kopplas till själva bildskapandet. Observationen ger ett exempel på samtalet i praktiken. Eftersom observationen genomfördes hos en annan lärare belyser den ett annat undervisningstillfälle än de som intervjupersonerna beskriver.",
+    "topic_sv": "Bildanalys och samtal om elevers bilder på gymnasiet",
+    "primary_method": "Fenomenologisk/hermeneutisk studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 18,
+        "evidence_sv": "Forskarna använder intervjuer och observation för att tolka utsagor och praktik."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 18,
+        "evidence_sv": "Bildlärare berättar om sina sätt att undervisa i bildanalys."
+      },
+      {
+        "label": "Klassrumsobservation",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "En bildpresentation observeras efter intervjuerna."
+      },
+      {
+        "label": "Fenomenologiskt förhållningssätt",
+        "kind": "perspektiv",
+        "pdf_page": 20,
+        "evidence_sv": "Författarna anger att insamling och analys inriktas på erfarenheter och utsagor."
+      },
+      {
+        "label": "Gruppering efter frågeställningarnas teman",
+        "kind": "analys",
+        "pdf_page": 20,
+        "evidence_sv": "Svaren ordnas utifrån studiens frågor för att jämföra vad lärarna beskriver att de gör."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Metodavsnittet skiljer mellan observationstillfällen och den observerade lärare som sammanfattningen avser.",
+    "themes": [
+      "Undervisning och lärande",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Gymnasieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      4,
+      18,
+      20
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A1841135",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "51b001b2401f50de6b7c62fe4ff27d85e6e8d3bb5b6d30fc9cfa91efba3bf935",
+    "original_title": "”Måste man vara liksom Picasso för att det här ska gå bra?” En studie om bedömning i gymnasieskolans bildkurser",
+    "title_sv": "”Måste man vara liksom Picasso för att det här ska gå bra?” En studie om bedömning i gymnasieskolans bildkurser",
+    "authors": "Agnes Löfgren; Maja Morén",
+    "author_count": 2,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger VT 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp. Den indexerade bibliografiska posten anger avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Bedömning i gymnasiets bildkurser undersöks från både elev- och lärarhåll. Intervjuer med lärare och nuvarande eller tidigare elever visar att grupperna betonar olika erfarenheter av bedömning, samtidigt som även deltagare med samma roll beskriver den på olika sätt. Det gör kommunikation om kriterier och förväntningar till en central fråga när arbete som pågår och färdiga bilder ska bedömas. Det sociokulturella perspektivet riktar uppmärksamheten mot hur förståelsen av bedömning formas i undervisningen. Underlaget visar deltagarnas egna erfarenheter och bygger på deras beskrivningar av hur bedömningen går till.",
+    "topic_sv": "Lärares och elevers perspektiv på bedömning i gymnasiets bildkurser",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 20,
+        "evidence_sv": "Deltagarnas egna beskrivningar ligger till grund för jämförelsen."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "Lärare och elever intervjuas individuellt för att jämföra deras erfarenheter."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 21,
+        "evidence_sv": "Författarna sorterar transkriptionerna i kategorier och sammanför dem i teman."
+      },
+      {
+        "label": "Sociokulturellt perspektiv",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Utgångspunkten är att förstå lärande och bedömning som situerade i ett socialt sammanhang."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Konstnärlig praktik"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Nuvarande och tidigare gymnasieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      20,
+      21
+    ],
+    "source_url": "https://www.diva-portal.org/smash/get/diva2%3A1860634/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "065fc94e8e036c680337d7f29d2555f7f52521c29992270d5bbb5402d6110a47",
+    "original_title": "Nyttja mobiltelefonen i bildundervisning: Ett demokratiskt verktyg som främjar motivation.",
+    "title_sv": "Nyttja mobiltelefonen i bildundervisning: Ett demokratiskt verktyg som främjar motivation.",
+    "authors": "Kerry Owens-Öije",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger VT 2024.",
+    "language": "sv",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Arbetet jämför hur högstadieelever beskriver mobiltelefonen som kreativt redskap utanför skolan med hur den används i bildämnet. Bildlärare och elever svarar på enkäter som är anpassade till respektive grupp. Deltagarna beskriver användningsmöjligheter för bildskapande, men lyfter fram olika funktioner och användningssätt. Författaren kopplar resultaten till motivation, digital kompetens och elevernas möjlighet att delta i skapande aktiviteter. Många av de tillfrågade deltog inte. Svaren visar vilka möjligheter deltagarna ser och ger ett begränsat underlag för slutsatser om högstadiet i stort.",
+    "topic_sv": "Mobiltelefonen som digitalt bildverktyg i högstadiet",
+    "primary_method": "Blandad metod",
+    "methods": [
+      {
+        "label": "Kvalitativ och kvantitativ ansats",
+        "kind": "design",
+        "pdf_page": 15,
+        "evidence_sv": "Författaren kombinerar kvalitativa och kvantitativa svar i enkätundersökningen."
+      },
+      {
+        "label": "Enkäter med öppna och slutna frågor",
+        "kind": "insamling",
+        "pdf_page": 15,
+        "evidence_sv": "Elevsvaren ger kvalitativa och kvantitativa uppgifter. Lärarenkäten är kvalitativ."
+      },
+      {
+        "label": "Innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 16,
+        "evidence_sv": "Svar kodas i kategorier och relevanta förekomster räknas."
+      },
+      {
+        "label": "Självbestämmandeteori",
+        "kind": "perspektiv",
+        "pdf_page": 2,
+        "evidence_sv": "Teorin används för att diskutera motivation och användning av telefonen."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Författaren beskriver en kombination av kvalitativ och kvantitativ metod inom enkätdesignen.",
+    "themes": [
+      "Digital kultur och medier",
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Högstadieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      2,
+      15,
+      16
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "7a6b07f21055aea87aeb3532e160f5752227a3dd0824f0036b670696cb54668c",
+    "original_title": "Graffiti i gymnasieskolans bildundervisning: Samtidskonsten som inte ges utrymme",
+    "title_sv": "Graffiti i gymnasieskolans bildundervisning: Samtidskonsten som inte ges utrymme",
+    "authors": "Karl Palleschitz",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Gymnasiets bildlärare och graffitimålare får beskriva vad som räknas som graffiti och vilken plats uttrycket kan ha i skolans bildundervisning. Genom att lägga deras perspektiv sida vid sida visar studien hur synen på konstformen påverkas av skolans traditioner och av erfarenheter från graffitikulturen. Författaren diskuterar hur ett tillfälligt och samtida bilduttryck kan öppna samtal om visuell kultur, samtidigt som lärares förkunskaper, kursinnehåll och skolans profil påverkar möjligheten att undervisa om det. Fokusgrupperna bidrar med kunskap från personer som själva arbetar med uttrycket.",
+    "topic_sv": "Graffiti som visuell kultur och undervisningsinnehåll",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 20,
+        "evidence_sv": "Enskilda intervjuer och fokusgrupper ger olika perspektiv på graffiti i undervisningen."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "Enskilda intervjuer används för att undersöka bildlärares perspektiv."
+      },
+      {
+        "label": "Fokusgruppsintervjuer",
+        "kind": "insamling",
+        "pdf_page": 23,
+        "evidence_sv": "Graffitimålare samtalar om sina erfarenheter och avgränsningar av uttrycket."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 24,
+        "evidence_sv": "Återkommande uttryck och relevanta utsagor kodas till teman."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Estetik och visuell kultur",
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Gymnasium",
+      "Fritid och hobby"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Graffitimålare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      20,
+      22,
+      23,
+      24
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1841188/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "b511ff584e3bbfef9a027d4038af9f0f0facfc368ad52a8dadbed060a0923554",
+    "original_title": "Läxor i bild? Bildlärares erfarenheter av läxor i bild på högstadiet",
+    "title_sv": "Läxor i bild? Bildlärares erfarenheter av läxor i bild på högstadiet",
+    "authors": "Rebecka Stone",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger HT 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Högstadiets bildlärare intervjuas om när de använder hemuppgifter och hur dessa uppgifter kan påverka lärande och likvärdighet. Hemuppgifter förekommer sparsamt i det undersökta materialet och fyller olika funktioner. En uppgift kan ge tid för förberedelse eller fortsatt arbete, samtidigt som tillgången till stöd och resurser utanför skolan påverkar elevernas möjligheter. Studien lyfter därför utformningen av läxan och de villkor den kräver. De intervjuade lärarnas erfarenheter ger konkreta exempel, medan elevernas egna erfarenheter ligger utanför arbetets underlag.",
+    "topic_sv": "Bildläxor, lärande och tillgång till stöd",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 3,
+        "evidence_sv": "Frågan om läxors roll undersöks genom bildlärares erfarenheter."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 15,
+        "evidence_sv": "Bildlärare beskriver när de använder läxor och vilka följder de ser."
+      },
+      {
+        "label": "Meningsfokuserad analys",
+        "kind": "analys",
+        "pdf_page": 16,
+        "evidence_sv": "Kodning och hermeneutiskt inspirerad meningstolkning används för att läsa intervjusvaren."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      15,
+      16,
+      18
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1946237/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "2d6cac2d1606dc0c7a8c86113abb9b80c8bd73ed68348617cc306698956b3e43",
+    "original_title": "”Nu har vi bild på riktigt!” Om skillnader i bildundervisningen på mellanstadiet och högstadiet",
+    "title_sv": "”Nu har vi bild på riktigt!” Om skillnader i bildundervisningen på mellanstadiet och högstadiet",
+    "authors": "Fredrik Toreblad",
+    "author_count": 1,
+    "year": 2024,
+    "year_basis": "conflict",
+    "year_note_sv": "Titelsidan anger HT 2023. Arkivets bibliografiska uppgifter anger år 2024.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger ämnesdidaktiskt examensarbete inom KPU. Den indexerade bibliografiska posten klassificerar arbetet på avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Bildlärare med erfarenhet av både årskurs sex och sju intervjuas om förändringar i bildundervisningen när eleverna går över till högstadiet. Lärarna beskriver ökade krav och en förändrad relation till eleverna, samt hur elever ibland motsätter sig undervisningens upplägg. Arbetet lyfter hur tydliga ramar och en fungerande lärarrelation kan skapa utrymme för kreativitet i övergången. Materialet består av lärarnas beskrivningar. Det ger exempel för nyblivna bildlärare och lämnar öppet hur eleverna själva upplever samma förändringar.",
+    "topic_sv": "Övergången mellan mellanstadiets och högstadiets bildämne",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 18,
+        "evidence_sv": "Författaren undersöker lärarnas erfarenheter av övergången mellan skolstadier."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 18,
+        "evidence_sv": "Lärare med erfarenhet av båda årskurserna intervjuas om övergången."
+      },
+      {
+        "label": "Tematisk gruppering av intervjusvar",
+        "kind": "analys",
+        "pdf_page": 20,
+        "evidence_sv": "Sammanfattningar av transkriptionerna jämförs och ordnas i återkommande teman."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      18,
+      19,
+      20
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A1841446/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "2c76d5506947872c19bd70ccaa223a405ede1aa3b250c1b66876b4d107883c6e",
+    "original_title": "Bildlärares autonomi: Handlingsutrymme kontra läroplan i gymnasieskolan",
+    "title_sv": "Bildlärares autonomi: Handlingsutrymme kontra läroplan i gymnasieskolan",
+    "authors": "Thomas Costa Freté",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger HT 2025.",
+    "language": "sv",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Fyra gymnasielärare intervjuas om hur skolans styrdokument påverkar deras möjligheter att planera och genomföra bildundervisning. Samtalen analyseras med stöd i självbestämmandeteorin. Lärarna beskriver ett stort handlingsutrymme och är i stort nöjda med det. Förändringen till Gy25 väcker frågor om framtida utrymme, men deltagarna har ännu begränsad erfarenhet av den nya läroplanen. Arbetet visar hur professionell autonomi kan upplevas inom ramen för gemensamma styrdokument. Resultaten gäller lärarnas erfarenheter vid studiens tidpunkt och kan följas upp när de nya styrdokumenten hunnit användas längre.",
+    "topic_sv": "Gymnasiets bildlärares handlingsutrymme i förhållande till läroplanen",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 11,
+        "evidence_sv": "Intervjuformen ger utrymme för olika erfarenheter av professionell autonomi."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 11,
+        "evidence_sv": "Intervjuer med gymnasiets bildlärare fångar individuella erfarenheter av handlingsutrymme."
+      },
+      {
+        "label": "Abduktiv tematisk analys",
+        "kind": "analys",
+        "pdf_page": 12,
+        "evidence_sv": "Kodningen växlar mellan återkommande innehåll i intervjuerna och teori."
+      },
+      {
+        "label": "Självbestämmandeteori",
+        "kind": "perspektiv",
+        "pdf_page": 3,
+        "evidence_sv": "Teorin används för att tolka autonomi och motivation."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Identitet och profession",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      11,
+      12
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "c28279e1289516ff3bc7da355bfac4b464c4f2bced4409fa92152766afffda41",
+    "original_title": "Extra anpassningar: Det är bra pedagogik, helt enkelt. En studie om bildlärares strategier för extra anpassningar i gymnasieskolans bildundervisning",
+    "title_sv": "Extra anpassningar: Det är bra pedagogik, helt enkelt. En studie om bildlärares strategier för extra anpassningar i gymnasieskolans bildundervisning",
+    "authors": "Emelie Käck",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger VT 2025.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp. Den indexerade bibliografiska posten anger avancerad nivå för yrkesexamen.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Studien följer hur gymnasiets bildlärare översätter riktlinjer om extra anpassningar till vardaglig undervisning. Intervjuerna belyser lärarnas tolkningar, medan observationer och material som används i undervisningen ger exempel på hur stödet ordnas. Författaren beskriver hur flera krav på individuellt stöd kan mötas med en kombination av återkommande undervisningsstrukturer och riktade strategier. Skillnaden mellan policy och praktik blir synlig när riktlinjerna behöver fungera i en konkret bildsal. Arbetets huvudsakliga perspektiv är lärarnas och materialet belyser vilka former av stöd som går att ordna.",
+    "topic_sv": "Hur gymnasiets bildlärare omsätter policy om extra anpassningar",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 22,
+        "evidence_sv": "Flera typer av kvalitativt material belyser hur riktlinjer omsätts i undervisningen."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 22,
+        "evidence_sv": "Bildlärare får beskriva hur de tolkar och genomför extra anpassningar."
+      },
+      {
+        "label": "Lektionsobservationer",
+        "kind": "insamling",
+        "pdf_page": 22,
+        "evidence_sv": "Undervisningen observeras för att synliggöra anpassningar i praktiken."
+      },
+      {
+        "label": "Insamling av artefakter",
+        "kind": "insamling",
+        "pdf_page": 24,
+        "evidence_sv": "Fotografier och exempel på stödmaterial ingår i det insamlade underlaget."
+      },
+      {
+        "label": "Deduktiv kodning",
+        "kind": "analys",
+        "pdf_page": 24,
+        "evidence_sv": "Intervju-, observations- och artefaktmaterial ordnas med hjälp av teoretiska begrepp."
+      },
+      {
+        "label": "Policy enactment",
+        "kind": "perspektiv",
+        "pdf_page": 24,
+        "evidence_sv": "Begreppen används för att förstå hur lärare omsätter riktlinjer lokalt."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Makt, delaktighet och rättvisa",
+      "Undervisning och lärande",
+      "Välbefinnande och omsorg",
+      "Identitet och profession"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      22,
+      23,
+      24
+    ],
+    "source_url": "https://umu.diva-portal.org/smash/get/diva2%3A2034957/FULLTEXT01.pdf",
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "57a64152805b1021226816b85462675b2df1c3988acb7200d7d87f8f4ea61928",
+    "original_title": "En kulturkanon för bildlärarna: Hur gymnasiebildlärare använder inspirerande förebilder i sin undervisning och hur de förhåller sig till en kulturkanon",
+    "title_sv": "En kulturkanon för bildlärarna: Hur gymnasiebildlärare använder inspirerande förebilder i sin undervisning och hur de förhåller sig till en kulturkanon",
+    "authors": "Jonna Lindahl",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger HT 2025.",
+    "language": "sv",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Gymnasiets bildlärare intervjuas om hur de väljer visuella och kulturella förebilder och hur de ser på en nationell kulturkanon. Lärarnas exempel visar att referenser kan fylla olika funktioner, från att inspirera eget arbete till att ge historiska och teoretiska sammanhang. Flera undervisningsstrategier knyter ihop praktiskt skapande med kunskap om bilder och konst. Studien väcker frågan om vilket handlingsutrymme lärare behöver för att anpassa förebilder till undervisningens syfte och elevgrupp. Intervjuerna belyser lärarnas överväganden under en pågående diskussion om kanonens plats.",
+    "topic_sv": "Bildlärares val av förebilder och syn på en nationell kulturkanon",
+    "primary_method": "Intervjustudie",
+    "methods": [
+      {
+        "label": "Kvalitativ intervjustudie",
+        "kind": "design",
+        "pdf_page": 20,
+        "evidence_sv": "Lärares egna överväganden om förebilder och kulturkanon undersöks genom intervjuer."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "Bildlärare intervjuas om arbetssätt och om sina val av kulturella referenser."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 21,
+        "evidence_sv": "Det transkriberade materialet granskas efter mönster och teman."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Estetik och visuell kultur",
+      "Kulturarv, plats och nordliga sammanhang",
+      "Identitet och profession",
+      "Undervisning och lärande"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      20,
+      21
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "909ab267742195084d11933c14b53def211712f45d31ed23c93b591d42d6a8a1",
+    "original_title": "Visuellt buller i bildsalen: En studie om hur bildlärare påverkas av policy i praktiken",
+    "title_sv": "Visuellt buller i bildsalen: En studie om hur bildlärare påverkas av policy i praktiken",
+    "authors": "Agnes Nordquist; Anna Norlén",
+    "author_count": 2,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger HT 2025.",
+    "language": "sv",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Studien undersöker hur grundskolans bildlärare tolkar riktlinjer om att minska visuella störningar i undervisningsmiljön. Intervjuerna sätts i relation till observationer av bildsalar. Resultaten visar lokala skillnader i hur riktlinjerna omsätts och vad som får synas i rummet. Författarna diskuterar särskilt hur en lugn miljö kan förenas med undervisningens behov av synliga elevbilder och visuella referenser. Studien ger en bild av de avvägningar lärarna gör och av hur beslut på olika nivåer kan forma deras handlingsutrymme i bildsalen.",
+    "topic_sv": "Riktlinjer om visuella intryck och bildsalens funktion",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 22,
+        "evidence_sv": "Intervjuer och observationer belyser hur riktlinjer om visuella intryck används."
+      },
+      {
+        "label": "Semistrukturerade intervjuer",
+        "kind": "insamling",
+        "pdf_page": 20,
+        "evidence_sv": "Grundskolans bildlärare intervjuas om hur policy påverkar deras undervisningsmiljö."
+      },
+      {
+        "label": "Strukturerade rumsobservationer",
+        "kind": "insamling",
+        "pdf_page": 22,
+        "evidence_sv": "Bildsalar observeras med stöd av en checklista för att belysa visuella villkor."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 23,
+        "evidence_sv": "Materialet ordnas i återkommande teman utifrån frågeställningarna."
+      },
+      {
+        "label": "Policy enactment",
+        "kind": "perspektiv",
+        "pdf_page": 3,
+        "evidence_sv": "Analysen använder teorin för att förstå den lokala tolkningen av policy."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen. Illustrationerna återger delar av de observerade bildsalarna.",
+    "themes": [
+      "Undervisning och lärande",
+      "Makt, delaktighet och rättvisa",
+      "Identitet och profession",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Grundskola"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      3,
+      20,
+      22,
+      23
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "5e9cdabb793d706291d76d0a17b4b010261c0701d0fd34768aa725b9bf52bf70",
+    "original_title": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+    "title_sv": "Naturvistelsens påverkan på det kreativa skapandet inom bildundervisning",
+    "authors": "Gabriella Petersson",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger HT 2025.",
+    "language": "sv",
+    "degree_level": "unknown",
+    "degree_evidence_sv": "Titelsidan anger ett ämnesdidaktiskt examensarbete inom KPU. Arbetets nivå framgår inte av de verifierade uppgifterna.",
+    "degree_pdf_page": 1,
+    "credits": 15,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "En undervisningssituation i fotografisk bild jämförs med en lektion utomhus för att undersöka hur miljön påverkar gymnasieelevers skapande. Observationer kombineras med ett lärarsamtal och elevernas gemensamma reflektioner. Författaren beskriver hur naturmiljön erbjuder fler sinnesintryck som kan ge upphov till idéer och nya sätt att ta sig an uppgiften. Tydliga instruktioner och lämpliga praktiska villkor spelar också roll för vad eleverna kan göra. Jämförelsen ger ett konkret exempel på hur miljö och didaktik samverkar under de två observerade lektionerna.",
+    "topic_sv": "Naturmiljö och kreativa processer i gymnasiets fotografiundervisning",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 16,
+        "evidence_sv": "Observationer och intervjuer används för att förstå deltagarnas kreativa processer och erfarenheter."
+      },
+      {
+        "label": "Deltagande observation",
+        "kind": "insamling",
+        "pdf_page": 16,
+        "evidence_sv": "Fotografielektioner inomhus och utomhus observeras för att studera elevernas kreativa processer."
+      },
+      {
+        "label": "Lärarintervju",
+        "kind": "insamling",
+        "pdf_page": 17,
+        "evidence_sv": "Läraren intervjuas efter lektionerna om undervisningsmiljö och skapande."
+      },
+      {
+        "label": "Fokusgruppsintervju",
+        "kind": "insamling",
+        "pdf_page": 18,
+        "evidence_sv": "Eleverna jämför sina erfarenheter av undervisningen i de två miljöerna."
+      },
+      {
+        "label": "Tematisk analys",
+        "kind": "analys",
+        "pdf_page": 19,
+        "evidence_sv": "Observationer och intervjuer kodas och sammanställs i teman."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Natur och ekologisk hållbarhet",
+      "Kropp, sinnen och materialitet",
+      "Konstnärlig praktik"
+    ],
+    "research_settings": [
+      "Gymnasium"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare",
+      "Gymnasieelever"
+    ],
+    "source_pdf_pages": [
+      1,
+      4,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  },
+  {
+    "id": "29e1db18ae527893f43eca729fb54c606574c2a6bc3a97ab9ed8daff8371f60f",
+    "original_title": "Bedömning av elevers konstnärliga verk: En studie om process och produkt i gymnasieskolans bildundervisning",
+    "title_sv": "Bedömning av elevers konstnärliga verk: En studie om process och produkt i gymnasieskolans bildundervisning",
+    "authors": "Mandi Stålnacke",
+    "author_count": 1,
+    "year": 2025,
+    "year_basis": "title_page",
+    "year_note_sv": "Titelsidan anger VT 2025.",
+    "language": "sv",
+    "degree_level": "advanced_professional",
+    "degree_evidence_sv": "Titelsidan anger 30 hp för arbetet inom ämneslärarprogrammet på 300 hp.",
+    "degree_pdf_page": 1,
+    "credits": 30,
+    "credit_scope": "thesis",
+    "credits_pdf_page": 1,
+    "summary_sv": "Studien jämför hur process och produkt behandlas i gymnasiets ämnesplaner med hur bildlärare beskriver sin bedömning. Utvalda styrdokument granskas och lärare intervjuas om vad som får betydelse när ett färdigt elevarbete bedöms. Både i dokumenten och i lärarnas utsagor får arbetsprocessen stor vikt. Samtidigt tolkar lärarna konstnärlig kvalitet på olika sätt, vilket påverkar hur de värderar egenskaper hos den färdiga bilden. Kombinationen av källor synliggör förhållandet mellan formella kriterier, professionellt omdöme och det skapande som föregår resultatet.",
+    "topic_sv": "Process och produkt vid bedömning av gymnasieelevers bildarbeten",
+    "primary_method": "Annan kvalitativ studie",
+    "methods": [
+      {
+        "label": "Kvalitativ undersökning",
+        "kind": "design",
+        "pdf_page": 23,
+        "evidence_sv": "Intervjuer med bildlärare kombineras med en kvalitativ granskning av ämnesplaner."
+      },
+      {
+        "label": "Kvalitativa intervjuer",
+        "kind": "insamling",
+        "pdf_page": 23,
+        "evidence_sv": "Gymnasiets bildlärare får beskriva hur de bedömer skapandeprocess och produkt."
+      },
+      {
+        "label": "Kvalitativ innehållsanalys",
+        "kind": "analys",
+        "pdf_page": 24,
+        "evidence_sv": "Ämnesplaner från Gy11 och Gy25 kodas med avseende på process- och produktkriterier."
+      },
+      {
+        "label": "Läroplansteori och portföljvärdering",
+        "kind": "perspektiv",
+        "pdf_page": 4,
+        "evidence_sv": "Perspektiven knyter ihop styrdokument och bedömning av skapande arbete."
+      }
+    ],
+    "method_note_sv": "Kodningen bygger på sammanfattningen och utvalda metodavsnitt i PDF-filen.",
+    "themes": [
+      "Undervisning och lärande",
+      "Konstnärlig praktik",
+      "Estetik och visuell kultur"
+    ],
+    "research_settings": [
+      "Gymnasium",
+      "Arkiv, texter och föremål"
+    ],
+    "artistic_component": false,
+    "participant_groups_sv": [
+      "Bildlärare"
+    ],
+    "source_pdf_pages": [
+      1,
+      4,
+      23,
+      24
+    ],
+    "source_url": null,
+    "coding_confidence": "source_supported"
+  }
+]

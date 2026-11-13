@@ -1,7 +1,7 @@
 {
-  "checked": "2026-11-09",
+  "checked": "2026-11-13",
   "language": "sv",
-  "scope": "Jämförelsekontekst för nio beställda utbildningslinjer 2024–2026. Institutionsregler ersätter inte individuell dokumentverifikation.",
+  "scope": "Jämförelsekontekst för elva utbildningslinjer 2024–2026. Institutionsregler ersätter inte individuell dokumentverifikation.",
   "sources": [
     {
       "id": "konstfack-examensordning-2026",
@@ -46,6 +46,20 @@
       "url": "https://www.konstfack.se/PageFiles/4623/Kursplan%20LYB507%20Sj%C3%A4lvst%C3%A4ndigt%20arbete%20i%20bild.pdf",
       "limits": "Två kursdelar är inte i sig två olika examensarbeten. Varken enbart konstnärlig gestaltning eller tvångskodning till en enda metod bör härledas från kursplanen.",
       "verified": true
+    },
+    {
+      "id": "umea-amneslararprogrammet-7-9",
+      "institution": "Umeå universitet",
+      "track": [
+        "umea-bild",
+        "umea-slojd"
+      ],
+      "period": "Utbildningsplan för ämneslärarprogrammet årskurs 7–9, HT18 och tills vidare",
+      "claim_sv": "Programplanen anger ett examensarbete om minst 30 hp eller två arbeten om vardera minst 15 hp. Arbetena kan höra till ett eller två av utbildningens ämnen.",
+      "url": "https://www.umu.se/utbildning/kurs-och-utbildningsplan/lyagr/",
+      "limits": "Umeåmapparna omfattar flera utbildningsvägar. Kontrollera det enskilda arbetet, kursplanen eller arkivposten för nivå, poäng och publiceringsår.",
+      "verified": true,
+      "individual_credit_assignment_allowed": false
     },
     {
       "id": "aalto-curriculum-2024-26",
@@ -206,7 +220,7 @@
     {
       "id": "country_scope",
       "heading_sv": "Ett land är inte en skola",
-      "guideline_sv": "Sveriges del består här av Konstfack. En skillnad mellan Sverige och Finland kan därför bero på enskild skolprofil eller utbildningsmix. Skriv ”i detta material”, inte ”svenska studenter gör”.",
+      "guideline_sv": "Sveriges del omfattar Konstfack och Umeå universitet. En skillnad mellan landsurvalen kan bero på lärosäte, utbildningsnivå, ämnesmix eller årstäckning. Skriv ”i detta material”, inte ”svenska studenter gör”.",
       "basis": "Analytisk konsekvens av beställningens institutionsurval",
       "source_ids": []
     },
@@ -328,7 +342,7 @@
     },
     {
       "heading_sv": "Landsskillnaden kan vara en skolskillnad",
-      "summary_sv": "Svenska observationer från Konstfack ger inte ett representativt nationellt tvärsnitt. Jämför samma ämne och nivå och visa vilka linjer som faktiskt bär varje mönster.",
+      "summary_sv": "Konstfack och Umeå universitet beskriver två lärosäten i den svenska delen av urvalet. Jämför samma ämne och nivå och visa vilka linjer som faktiskt bär varje mönster.",
       "source_ids": []
     },
     {

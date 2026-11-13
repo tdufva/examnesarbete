@@ -6,7 +6,7 @@ import {articleMetrics,matchingEvidence,rareSpotlights} from '../docs/assets/edi
 import {csvText,correctionUrl} from '../docs/assets/analysis-export.mjs';
 const {records,tracks}=JSON.parse(fs.readFileSync(new URL('../docs/data/newsroom.json',import.meta.url)));
 const editorial=JSON.parse(fs.readFileSync(new URL('../docs/data/editorial.json',import.meta.url)));
-assert.equal(selectWorks(records,tracks,{balance:'common',period:'2024-2025'}).length,226);
+assert.equal(selectWorks(records,tracks,{balance:'common',period:'2024-2025'}).length,265);
 assert.equal(selectWorks(records,tracks,{balance:'common',period:'2025-2026'}).length,86);
 assert.equal(selectWorks(records,tracks,{balance:'common',period:'2024-2026'}).length,116);
 assert.equal(selectWorks(records,tracks,{balance:'common',period:'2025-2026',discipline:'bild'}).length,0);

@@ -1,6 +1,6 @@
 {
-  "file_count": 277,
-  "unique_pdf_count": 276,
+  "file_count": 316,
+  "unique_pdf_count": 315,
   "multi_pdf_work_count": 2,
   "coverage_files": [
     {
@@ -45,6 +45,36 @@
     },
     {
       "track_id": "konstfack-bild-gymnasium",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2024,
+      "files": 10
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2025,
+      "files": 6
+    },
+    {
+      "track_id": "umea-bild",
+      "year": 2026,
+      "files": 0
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2024,
+      "files": 12
+    },
+    {
+      "track_id": "umea-slojd",
+      "year": 2025,
+      "files": 11
+    },
+    {
+      "track_id": "umea-slojd",
       "year": 2026,
       "files": 0
     },
@@ -221,10 +251,30 @@
       ]
     },
     {
+      "id": "065fc94e8e036c680337d7f29d2555f7f52521c29992270d5bbb5402d6110a47",
+      "pdf_page_count": 41,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "074d12ee10be5103632ce727bbf6d8b6c589769e8ab1efa7a0a52b4097987bb0",
       "pdf_page_count": 72,
       "track_ids": [
         "uef-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "0a4b1fb3029579f5d4a7d321aa11bffc99f41490b02a7bb4ba86095d62b9e612",
+      "pdf_page_count": 32,
+      "track_ids": [
+        "umea-slojd"
       ],
       "folder_years": [
         2024
@@ -481,6 +531,16 @@
       ]
     },
     {
+      "id": "22daabc142ac45f5605021799f0fdf58ab740cd39408a459a5b374fa98cdc99c",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "2326452733e454da66ba7362a7bf79c0a022ea6a40c6d69e5545e4b8d198bd6b",
       "pdf_page_count": 40,
       "track_ids": [
@@ -581,6 +641,36 @@
       ]
     },
     {
+      "id": "29e1db18ae527893f43eca729fb54c606574c2a6bc3a97ab9ed8daff8371f60f",
+      "pdf_page_count": 59,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2a873f08d627e04e010a244c362e8c18d87ef7ec30a2e6fc69a8487f94d17474",
+      "pdf_page_count": 39,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "2ad0e5ef061d8f7c2810507d207a536afd3841754abfa006d9015d7fc405a072",
+      "pdf_page_count": 50,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "2baa6c55c0d785bd11ac3556e18a044cd0f9e5c6ca66d5f28c3ed01796deae0a",
       "pdf_page_count": 60,
       "track_ids": [
@@ -611,6 +701,16 @@
       ]
     },
     {
+      "id": "2c76d5506947872c19bd70ccaa223a405ede1aa3b250c1b66876b4d107883c6e",
+      "pdf_page_count": 27,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "2ca212c0b76a139cbaf7cda20aa61f9732b8c5602ed7c087ed043f8bbde39cf6",
       "pdf_page_count": 51,
       "track_ids": [
@@ -631,10 +731,30 @@
       ]
     },
     {
+      "id": "2cf0302e3a93ae728f7174739cb1e6f953b0d313926ffaa1b8cf581440f343aa",
+      "pdf_page_count": 42,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "2d16edeab7ed116faf9cfab65e2c3d44cf2a46d9c7b3fd7a7625bdd4bddf7a43",
       "pdf_page_count": 34,
       "track_ids": [
         "konstfack-slojd-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "2d6cac2d1606dc0c7a8c86113abb9b80c8bd73ed68348617cc306698956b3e43",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-bild"
       ],
       "folder_years": [
         2024
@@ -828,6 +948,16 @@
       ],
       "folder_years": [
         2024
+      ]
+    },
+    {
+      "id": "3fe8ea755013f08fe43bea8a0f51269594f48a2bf77d152d4341f1453ad41113",
+      "pdf_page_count": 44,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
       ]
     },
     {
@@ -1031,6 +1161,16 @@
       ]
     },
     {
+      "id": "51b001b2401f50de6b7c62fe4ff27d85e6e8d3bb5b6d30fc9cfa91efba3bf935",
+      "pdf_page_count": 65,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "5391e4238da2c6b51ba80e8f687feb2eb1a968fbbd7b38446f9e9e05d3205b5f",
       "pdf_page_count": 59,
       "track_ids": [
@@ -1048,6 +1188,16 @@
       ],
       "folder_years": [
         2025
+      ]
+    },
+    {
+      "id": "547f8270668003bc05e724c78ccd3792152db85790ea520937d683589af83004",
+      "pdf_page_count": 41,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
       ]
     },
     {
@@ -1088,6 +1238,16 @@
       ],
       "folder_years": [
         2026
+      ]
+    },
+    {
+      "id": "57a64152805b1021226816b85462675b2df1c3988acb7200d7d87f8f4ea61928",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2025
       ]
     },
     {
@@ -1181,6 +1341,16 @@
       ]
     },
     {
+      "id": "5e9cdabb793d706291d76d0a17b4b010261c0701d0fd34768aa725b9bf52bf70",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "5f0846a28315bcab554f739e51f81d99a2fe7f10c67a4a636f536c41146c34d9",
       "pdf_page_count": 79,
       "track_ids": [
@@ -1268,6 +1438,16 @@
       ],
       "folder_years": [
         2025
+      ]
+    },
+    {
+      "id": "65c32d4ea30a4ce43a910b2f56689cc90c9a173ee8ac52aa38c2528ebdd97df7",
+      "pdf_page_count": 38,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
       ]
     },
     {
@@ -1441,6 +1621,16 @@
       ]
     },
     {
+      "id": "7958f94364b8977985baab942dc835a9f8a8c3b2a82ea3727a5f1ff9c6314c87",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "799209ff9aca1d0770ca5d60d042b188362fd95a053faa551ce5c944f7fe4bbc",
       "pdf_page_count": 50,
       "track_ids": [
@@ -1448,6 +1638,16 @@
       ],
       "folder_years": [
         2026
+      ]
+    },
+    {
+      "id": "7a6b07f21055aea87aeb3532e160f5752227a3dd0824f0036b670696cb54668c",
+      "pdf_page_count": 49,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
       ]
     },
     {
@@ -1561,10 +1761,30 @@
       ]
     },
     {
+      "id": "84fdfc5edf92a4f9b7e6e712c36c760e2f882220486364fc18daf72d20e7a5c8",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "8547e56542b858ef0056481c5a064cbc681f2eaed3b1b89df1e730c0da84addc",
       "pdf_page_count": 80,
       "track_ids": [
         "lappland-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "8817e84c492bc9b00ccd7544f74d86b387762babf69a5060fe9d2b187cadc177",
+      "pdf_page_count": 32,
+      "track_ids": [
+        "umea-bild"
       ],
       "folder_years": [
         2024
@@ -1651,6 +1871,16 @@
       ]
     },
     {
+      "id": "909ab267742195084d11933c14b53def211712f45d31ed23c93b591d42d6a8a1",
+      "pdf_page_count": 57,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "90c69d6dcaee1977152c615dbfb24f4392d311686434844495e14458919b9b68",
       "pdf_page_count": 95,
       "track_ids": [
@@ -1668,6 +1898,16 @@
       ],
       "folder_years": [
         2024
+      ]
+    },
+    {
+      "id": "91fbbe8e55dea4f6f8f2f2dce4bb44f0f352e7bf6615ee3cd1edd056f9e8d805",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
       ]
     },
     {
@@ -1785,6 +2025,16 @@
       "pdf_page_count": 42,
       "track_ids": [
         "konstfack-bild-gymnasium"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "9e0daf3067ee9c5fe6e45f2859e7e6ce1c6ea6bc4e155f21ec05ba835bf2858b",
+      "pdf_page_count": 34,
+      "track_ids": [
+        "umea-slojd"
       ],
       "folder_years": [
         2025
@@ -1991,6 +2241,26 @@
       ]
     },
     {
+      "id": "afbd0d6e1a914631824a7e22b6bc0eccb443e3cc08288800ee526b39682b571c",
+      "pdf_page_count": 44,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "b07c02b9693de6d8b2b821f62fadd00098e3bf6a16606156d87499b8d72854c8",
+      "pdf_page_count": 35,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "b0a3fd5988f3790a90c2ba56b9c9f1fa44ee0b5206d39e8220b51058f44cfeb5",
       "pdf_page_count": 36,
       "track_ids": [
@@ -2051,10 +2321,30 @@
       ]
     },
     {
+      "id": "b511ff584e3bbfef9a027d4038af9f0f0facfc368ad52a8dadbed060a0923554",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "b71139b893ed0abffa84bd497d38b9cbd10230fe19e0584a75bf9c5c1bd86d07",
       "pdf_page_count": 44,
       "track_ids": [
         "aalto-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "b83a733e10228ea218276ffae16f6708e9f7e7c1e8c11970a8f2d675937e7c3d",
+      "pdf_page_count": 56,
+      "track_ids": [
+        "umea-slojd"
       ],
       "folder_years": [
         2025
@@ -2201,6 +2491,26 @@
       ]
     },
     {
+      "id": "c01f163024bad51d08330530f423a852bfb82ff8847ee43ac8bedb2cd62c2fb9",
+      "pdf_page_count": 36,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c06cd7d923038dbf4494f3105f396ed481875b8b1aebaa8ede9b0f1a9c3d0955",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "c0926887d12418df36a3d80d1bc96186145a2baaa252ba8876757531eaf2da50",
       "pdf_page_count": 43,
       "track_ids": [
@@ -2235,6 +2545,16 @@
       "pdf_page_count": 81,
       "track_ids": [
         "lappland-bild"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
+      "id": "c28279e1289516ff3bc7da355bfac4b464c4f2bced4409fa92152766afffda41",
+      "pdf_page_count": 60,
+      "track_ids": [
+        "umea-bild"
       ],
       "folder_years": [
         2025
@@ -2295,6 +2615,16 @@
       "pdf_page_count": 77,
       "track_ids": [
         "helsingfors-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "c83fae8f2ec9cd94cff8bd8ac4b91583c8b8c424d66ba8f637151fa82bae16d2",
+      "pdf_page_count": 33,
+      "track_ids": [
+        "umea-slojd"
       ],
       "folder_years": [
         2024
@@ -2371,6 +2701,16 @@
       ]
     },
     {
+      "id": "ccbbc64c475ccb40753d1e7d3800ee1f7f54260ebb04565c86b27a36d7159393",
+      "pdf_page_count": 47,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "cd155e9ba4a1c212f92a18e0594b4b8971967dbe30d7167b0215fec488c27dc4",
       "pdf_page_count": 76,
       "track_ids": [
@@ -2419,6 +2759,16 @@
       ],
       "folder_years": [
         2025
+      ]
+    },
+    {
+      "id": "d14fad19ae7935d50d32433a0d3f4a4b5f6b3473693e8a4a5255874288c218ec",
+      "pdf_page_count": 53,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
       ]
     },
     {
@@ -2572,6 +2922,16 @@
       ]
     },
     {
+      "id": "de86aee26cae3799e866af88f99c5d3053ae50322abd78f612e48ac485a03dc4",
+      "pdf_page_count": 31,
+      "track_ids": [
+        "umea-bild"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "dec5187849ab09991a058440507c9b512c304c7316a65fc6ef971621f4fd9226",
       "pdf_page_count": 65,
       "track_ids": [
@@ -2712,6 +3072,16 @@
       ]
     },
     {
+      "id": "e945eaab3e14716dbba25c0911f270e0cef515234ef660ab855885a7d52ae172",
+      "pdf_page_count": 46,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
       "id": "e946cfa92a202c173bd96ee18748a3fffe141d7d79400f2746a1229a88687abe",
       "pdf_page_count": 47,
       "track_ids": [
@@ -2742,6 +3112,16 @@
       ]
     },
     {
+      "id": "eab827736644f4e9595c39b488cd42c4387370cd081468fcb5581220f02ce1de",
+      "pdf_page_count": 43,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "ebb718974d0d8165de20dcfdc21b48602946ff0fa9b362e904a3a5310dda4ec6",
       "pdf_page_count": 92,
       "track_ids": [
@@ -2749,6 +3129,16 @@
       ],
       "folder_years": [
         2024
+      ]
+    },
+    {
+      "id": "ebce077174c280f3dac8ad5c05a5206b14895777b59f33b05af0236cba6369dd",
+      "pdf_page_count": 48,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
       ]
     },
     {
@@ -2802,6 +3192,16 @@
       ]
     },
     {
+      "id": "f31d13318740ec247ddb8435e04321bddd5f495337bcfe41f1bf918f5ab1617e",
+      "pdf_page_count": 40,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "f39f31c6e81c3130cee15f2ca2bd847dc1405a7021b357460747e0cac9da9350",
       "pdf_page_count": 54,
       "track_ids": [
@@ -2842,6 +3242,16 @@
       ]
     },
     {
+      "id": "fa1cf78347c31965d0e5249da12c6854a83c075ee50e5cbf999b0a185c2bae60",
+      "pdf_page_count": 39,
+      "track_ids": [
+        "umea-slojd"
+      ],
+      "folder_years": [
+        2025
+      ]
+    },
+    {
       "id": "fafc447077ef59c0ada483053b3699fcf9a55a2b8b10b928b544927af1c32fc9",
       "pdf_page_count": 64,
       "track_ids": [
@@ -2876,6 +3286,16 @@
       "pdf_page_count": 28,
       "track_ids": [
         "konstfack-bild-grundskola"
+      ],
+      "folder_years": [
+        2024
+      ]
+    },
+    {
+      "id": "ff290857a78f8acbe89884a7072900f5d7202cb728750e20e076d109956805e6",
+      "pdf_page_count": 61,
+      "track_ids": [
+        "umea-bild"
       ],
       "folder_years": [
         2024
